@@ -1,0 +1,744 @@
+﻿source_id,source_sha256,page,table,row,column,value_original,reference,verification_status
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,1,1,S. No.,PDF page 8; detected table 1; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,1,2,MMLP,PDF page 8; detected table 1; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,1,3,State,PDF page 8; detected table 1; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,1,4,Location,PDF page 8; detected table 1; row 1; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,1,5,"Land
+(Area)",PDF page 8; detected table 1; row 1; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,1,6,"Investment
+(Rs. Cr.)",PDF page 8; detected table 1; row 1; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,1,7,Mode,PDF page 8; detected table 1; row 1; column 7,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,2,1,1,PDF page 8; detected table 1; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,2,2,Jogighopa,PDF page 8; detected table 1; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,2,3,Assam,PDF page 8; detected table 1; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,2,4,Jogighopa,PDF page 8; detected table 1; row 2; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,2,5,190,PDF page 8; detected table 1; row 2; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,2,6,694,PDF page 8; detected table 1; row 2; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,2,7,EPC,PDF page 8; detected table 1; row 2; column 7,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,3,1,2,PDF page 8; detected table 1; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,3,2,Chennai,PDF page 8; detected table 1; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,3,3,Tamil Nadu,PDF page 8; detected table 1; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,3,4,Mappedu,PDF page 8; detected table 1; row 3; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,3,5,181,PDF page 8; detected table 1; row 3; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,3,6,1423,PDF page 8; detected table 1; row 3; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,3,7,PPP,PDF page 8; detected table 1; row 3; column 7,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,4,1,3,PDF page 8; detected table 1; row 4; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,4,2,Indore,PDF page 8; detected table 1; row 4; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,4,3,"Madhya
+Pradesh",PDF page 8; detected table 1; row 4; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,4,4,Pithampur,PDF page 8; detected table 1; row 4; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,4,5,255,PDF page 8; detected table 1; row 4; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,4,6,1111,PDF page 8; detected table 1; row 4; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,4,7,PPP,PDF page 8; detected table 1; row 4; column 7,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,5,1,4,PDF page 8; detected table 1; row 5; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,5,2,Bangalore,PDF page 8; detected table 1; row 5; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,5,3,Karnataka,PDF page 8; detected table 1; row 5; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,5,4,Dabbaspete,PDF page 8; detected table 1; row 5; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,5,5,400,PDF page 8; detected table 1; row 5; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,5,6,1770,PDF page 8; detected table 1; row 5; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,5,7,PPP,PDF page 8; detected table 1; row 5; column 7,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,6,1,5,PDF page 8; detected table 1; row 6; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,6,2,Nagpur,PDF page 8; detected table 1; row 6; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,6,3,Maharashtra,PDF page 8; detected table 1; row 6; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,6,4,Sindi,PDF page 8; detected table 1; row 6; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,6,5,150,PDF page 8; detected table 1; row 6; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,6,6,673,PDF page 8; detected table 1; row 6; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,6,7,PPP,PDF page 8; detected table 1; row 6; column 7,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,7,1,6,PDF page 8; detected table 1; row 7; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,7,2,Jalna,PDF page 8; detected table 1; row 7; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,7,3,Maharashtra,PDF page 8; detected table 1; row 7; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,7,4,Jalna,PDF page 8; detected table 1; row 7; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,7,5,63,PDF page 8; detected table 1; row 7; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,7,6,66,PDF page 8; detected table 1; row 7; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,8,1,7,7,EPC,PDF page 8; detected table 1; row 7; column 7,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,16,1,1,1,Particulars,PDF page 16; detected table 1; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,16,1,1,2,Kms,PDF page 16; detected table 1; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,16,1,2,1,National Highways/ Expressway,PDF page 16; detected table 1; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,16,1,2,2,"1,46,145",PDF page 16; detected table 1; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,16,1,3,1,State Highways,PDF page 16; detected table 1; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,16,1,3,2,"1,79,535",PDF page 16; detected table 1; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,16,1,4,1,Other Roads,PDF page 16; detected table 1; row 4; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,16,1,4,2,"60,19,723",PDF page 16; detected table 1; row 4; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,16,1,5,1,Total,PDF page 16; detected table 1; row 5; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,16,1,5,2,"63,45,403",PDF page 16; detected table 1; row 5; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,1,1,Corridor,PDF page 21; detected table 1; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,1,2,"Lane
+Status",PDF page 21; detected table 1; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,1,3,"Total
+Length
+(Km)",PDF page 21; detected table 1; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,1,4,"Length
+Constructed
+(Km) till 31st
+March 2024",PDF page 21; detected table 1; row 1; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,1,5,"Total
+Capital
+Cost (Rs
+Cr)",PDF page 21; detected table 1; row 1; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,1,6,Tentative Date of Completion,PDF page 21; detected table 1; row 1; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,2,1,10. UER II,PDF page 21; detected table 1; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,2,2,6L,PDF page 21; detected table 1; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,2,3,75,PDF page 21; detected table 1; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,2,4,67,PDF page 21; detected table 1; row 2; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,2,5,"7,234",PDF page 21; detected table 1; row 2; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,2,6,"To be completed by FY 24-25.
+Currently operational sections
+include:
+• Package III (9 km)",PDF page 21; detected table 1; row 2; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,3,1,11. Chennai - Salem,PDF page 21; detected table 1; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,3,2,6L,PDF page 21; detected table 1; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,3,3,277,PDF page 21; detected table 1; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,3,4,0,PDF page 21; detected table 1; row 3; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,3,5,"7,549",PDF page 21; detected table 1; row 3; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,3,6,Balance for Award,PDF page 21; detected table 1; row 3; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,4,1,12. Chittor Thatchur,PDF page 21; detected table 1; row 4; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,4,2,6L,PDF page 21; detected table 1; row 4; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,4,3,116,PDF page 21; detected table 1; row 4; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,4,4,52,PDF page 21; detected table 1; row 4; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,4,5,"4,966",PDF page 21; detected table 1; row 4; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,4,6,To be completed in FY 25-26,PDF page 21; detected table 1; row 4; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,5,1,13. Bangalore Ring Road,PDF page 21; detected table 1; row 5; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,5,2,6L,PDF page 21; detected table 1; row 5; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,5,3,280,PDF page 21; detected table 1; row 5; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,5,4,94,PDF page 21; detected table 1; row 5; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,5,5,"11,367",PDF page 21; detected table 1; row 5; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,5,6,"Partially under implementation,
+Partial length balance for award",PDF page 21; detected table 1; row 5; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,6,1,"14. Delhi - Saharanpur -
+Dehradun",PDF page 21; detected table 1; row 6; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,6,2,6L,PDF page 21; detected table 1; row 6; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,6,3,239,PDF page 21; detected table 1; row 6; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,6,4,137,PDF page 21; detected table 1; row 6; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,6,5,"13,101",PDF page 21; detected table 1; row 6; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,6,6,"To be completed in FY 24-
+25 (except for 51 km Spur to
+Haridwar - to be completed in
+25-26)",PDF page 21; detected table 1; row 6; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,7,1,15. Durg Raipur Arang,PDF page 21; detected table 1; row 7; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,7,2,4L,PDF page 21; detected table 1; row 7; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,7,3,92,PDF page 21; detected table 1; row 7; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,7,4,0,PDF page 21; detected table 1; row 7; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,7,5,"3,454",PDF page 21; detected table 1; row 7; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,7,6,To be completed in FY 25-26,PDF page 21; detected table 1; row 7; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,8,1,"16. Surat - Nashik -
+Ahmednagar - Solapur",PDF page 21; detected table 1; row 8; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,8,2,4L,PDF page 21; detected table 1; row 8; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,8,3,730,PDF page 21; detected table 1; row 8; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,8,4,120,PDF page 21; detected table 1; row 8; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,8,5,"24,812",PDF page 21; detected table 1; row 8; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,8,6,"Partially under implementation,
+Partial length balance for award",PDF page 21; detected table 1; row 8; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,9,1,"17. Solapur - Kurnool -
+Chennai",PDF page 21; detected table 1; row 9; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,9,2,4L,PDF page 21; detected table 1; row 9; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,9,3,329,PDF page 21; detected table 1; row 9; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,9,4,127,PDF page 21; detected table 1; row 9; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,9,5,"11,237",PDF page 21; detected table 1; row 9; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,9,6,To be completed in FY 25-26,PDF page 21; detected table 1; row 9; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,10,1,18. Indore - Hyderabad,PDF page 21; detected table 1; row 10; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,10,2,4L,PDF page 21; detected table 1; row 10; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,10,3,525,PDF page 21; detected table 1; row 10; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,10,4,420,PDF page 21; detected table 1; row 10; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,10,5,"14,007",PDF page 21; detected table 1; row 10; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,10,6,To be completed in FY 25-26,PDF page 21; detected table 1; row 10; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,11,1,19. Kharagpur - Siliguri,PDF page 21; detected table 1; row 11; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,11,2,4L,PDF page 21; detected table 1; row 11; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,11,3,235,PDF page 21; detected table 1; row 11; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,11,4,0,PDF page 21; detected table 1; row 11; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,11,5,"8,950",PDF page 21; detected table 1; row 11; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,11,6,Balance for Award,PDF page 21; detected table 1; row 11; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,12,1,"20. Kota Indore (Garoth to
+Ujjain)",PDF page 21; detected table 1; row 12; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,12,2,4L,PDF page 21; detected table 1; row 12; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,12,3,135,PDF page 21; detected table 1; row 12; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,12,4,92,PDF page 21; detected table 1; row 12; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,12,5,"2,695",PDF page 21; detected table 1; row 12; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,12,6,To be completed in FY 24-25,PDF page 21; detected table 1; row 12; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,13,1,"21. Sanchore - Deesa -
+Mehsana - Ahmedabad",PDF page 21; detected table 1; row 13; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,13,2,6L,PDF page 21; detected table 1; row 13; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,13,3,212,PDF page 21; detected table 1; row 13; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,13,4,0,PDF page 21; detected table 1; row 13; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,13,5,"8,110",PDF page 21; detected table 1; row 13; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,13,6,Balance for Award,PDF page 21; detected table 1; row 13; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,14,1,"22. Bengaluru - Kadappa -
+Vijayawada EXP",PDF page 21; detected table 1; row 14; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,14,2,6L,PDF page 21; detected table 1; row 14; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,14,3,342,PDF page 21; detected table 1; row 14; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,14,4,0,PDF page 21; detected table 1; row 14; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,14,5,"14,195",PDF page 21; detected table 1; row 14; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,14,6,To be completed in FY 26-27,PDF page 21; detected table 1; row 14; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,15,1,"23. Varanasi - Ranchi -
+Kolkata",PDF page 21; detected table 1; row 15; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,15,2,6L,PDF page 21; detected table 1; row 15; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,15,3,612,PDF page 21; detected table 1; row 15; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,15,4,0,PDF page 21; detected table 1; row 15; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,15,5,"23,200",PDF page 21; detected table 1; row 15; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,15,6,"Partially under implementation,
+Partial length balance for award",PDF page 21; detected table 1; row 15; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,16,1,"24. Atal Progressway (Kota
+- Etawah)",PDF page 21; detected table 1; row 16; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,16,2,4L,PDF page 21; detected table 1; row 16; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,16,3,412,PDF page 21; detected table 1; row 16; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,16,4,0,PDF page 21; detected table 1; row 16; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,16,5,"12,733",PDF page 21; detected table 1; row 16; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,16,6,Balance for Award,PDF page 21; detected table 1; row 16; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,17,1,"25. Mohali - Sirhind
+- Khanna Bypass -
+Malerkotla - Barnala",PDF page 21; detected table 1; row 17; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,17,2,4L,PDF page 21; detected table 1; row 17; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,17,3,108,PDF page 21; detected table 1; row 17; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,17,4,0,PDF page 21; detected table 1; row 17; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,17,5,"2,214",PDF page 21; detected table 1; row 17; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,17,6,Balance for Award,PDF page 21; detected table 1; row 17; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,18,1,26. Nagpur - Vijayawada,PDF page 21; detected table 1; row 18; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,18,2,4L,PDF page 21; detected table 1; row 18; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,18,3,401,PDF page 21; detected table 1; row 18; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,18,4,95,PDF page 21; detected table 1; row 18; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,18,5,"12,745",PDF page 21; detected table 1; row 18; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,18,6,To be completed in FY 26-27,PDF page 21; detected table 1; row 18; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,19,1,27. Hyderabad - Raipur,PDF page 21; detected table 1; row 19; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,19,2,4L,PDF page 21; detected table 1; row 19; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,19,3,335,PDF page 21; detected table 1; row 19; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,19,4,0,PDF page 21; detected table 1; row 19; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,19,5,"10,118",PDF page 21; detected table 1; row 19; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,19,6,Balance for Award,PDF page 21; detected table 1; row 19; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,20,1,"Sub-Total Access
+Controlled",PDF page 21; detected table 1; row 20; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,20,2,,PDF page 21; detected table 1; row 20; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,20,3,"7,371",PDF page 21; detected table 1; row 20; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,20,4,"2,716",PDF page 21; detected table 1; row 20; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,20,5,"250,642",PDF page 21; detected table 1; row 20; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,20,6,,PDF page 21; detected table 1; row 20; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,21,1,TOTAL,PDF page 21; detected table 1; row 21; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,21,2,,PDF page 21; detected table 1; row 21; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,21,3,"9,860",PDF page 21; detected table 1; row 21; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,21,4,"4,289",PDF page 21; detected table 1; row 21; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,21,5,"419,130",PDF page 21; detected table 1; row 21; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,21,1,21,6,,PDF page 21; detected table 1; row 21; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,1,1,Financial Year,PDF page 27; detected table 1; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,1,2,"Length Constructed
+(Km.)",PDF page 27; detected table 1; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,1,3,"Length Awarded
+(Km.)",PDF page 27; detected table 1; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,2,1,2006-07,PDF page 27; detected table 1; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,2,2,636,PDF page 27; detected table 1; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,2,3,1730,PDF page 27; detected table 1; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,3,1,2007-08,PDF page 27; detected table 1; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,3,2,1684,PDF page 27; detected table 1; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,3,3,1234,PDF page 27; detected table 1; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,4,1,2008-09,PDF page 27; detected table 1; row 4; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,4,2,2205,PDF page 27; detected table 1; row 4; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,4,3,643,PDF page 27; detected table 1; row 4; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,5,1,2009-10,PDF page 27; detected table 1; row 5; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,5,2,2693,PDF page 27; detected table 1; row 5; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,5,3,3359,PDF page 27; detected table 1; row 5; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,6,1,2010-11,PDF page 27; detected table 1; row 6; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,6,2,1783,PDF page 27; detected table 1; row 6; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,6,3,5058,PDF page 27; detected table 1; row 6; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,7,1,2011-12,PDF page 27; detected table 1; row 7; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,7,2,2248,PDF page 27; detected table 1; row 7; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,7,3,6491,PDF page 27; detected table 1; row 7; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,8,1,2012-13,PDF page 27; detected table 1; row 8; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,8,2,2844,PDF page 27; detected table 1; row 8; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,8,3,1116,PDF page 27; detected table 1; row 8; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,9,1,2013-14,PDF page 27; detected table 1; row 9; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,9,2,1901,PDF page 27; detected table 1; row 9; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,9,3,1435,PDF page 27; detected table 1; row 9; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,10,1,2014-15,PDF page 27; detected table 1; row 10; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,10,2,1510,PDF page 27; detected table 1; row 10; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,10,3,3103,PDF page 27; detected table 1; row 10; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,11,1,2015-16,PDF page 27; detected table 1; row 11; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,11,2,1937,PDF page 27; detected table 1; row 11; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,11,3,4658,PDF page 27; detected table 1; row 11; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,12,1,2016-17,PDF page 27; detected table 1; row 12; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,12,2,2588,PDF page 27; detected table 1; row 12; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,12,3,4366,PDF page 27; detected table 1; row 12; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,13,1,2017-18,PDF page 27; detected table 1; row 13; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,13,2,2993,PDF page 27; detected table 1; row 13; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,13,3,7396,PDF page 27; detected table 1; row 13; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,14,1,2018-19,PDF page 27; detected table 1; row 14; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,14,2,3264,PDF page 27; detected table 1; row 14; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,14,3,2228,PDF page 27; detected table 1; row 14; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,15,1,2019-20,PDF page 27; detected table 1; row 15; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,15,2,3979,PDF page 27; detected table 1; row 15; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,15,3,3211,PDF page 27; detected table 1; row 15; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,16,1,2020-21,PDF page 27; detected table 1; row 16; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,16,2,4218,PDF page 27; detected table 1; row 16; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,16,3,4898,PDF page 27; detected table 1; row 16; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,17,1,2021-22,PDF page 27; detected table 1; row 17; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,17,2,4331,PDF page 27; detected table 1; row 17; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,17,3,6306,PDF page 27; detected table 1; row 17; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,18,1,2022-23,PDF page 27; detected table 1; row 18; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,18,2,5544,PDF page 27; detected table 1; row 18; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,18,3,6003,PDF page 27; detected table 1; row 18; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,19,1,2023-24,PDF page 27; detected table 1; row 19; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,19,2,6644,PDF page 27; detected table 1; row 19; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,1,19,3,3339,PDF page 27; detected table 1; row 19; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,1,1,Achievements,PDF page 27; detected table 2; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,1,2,2015-16,PDF page 27; detected table 2; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,1,3,16-17,PDF page 27; detected table 2; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,1,4,17-18,PDF page 27; detected table 2; row 1; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,1,5,18-19,PDF page 27; detected table 2; row 1; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,1,6,19-20,PDF page 27; detected table 2; row 1; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,1,7,20-21,PDF page 27; detected table 2; row 1; column 7,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,1,8,21-22,PDF page 27; detected table 2; row 1; column 8,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,1,9,22-23,PDF page 27; detected table 2; row 1; column 9,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,1,10,23-24,PDF page 27; detected table 2; row 1; column 10,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,2,1,"Land Notified u/s
+3D (Ha.)",PDF page 27; detected table 2; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,2,2,6432,PDF page 27; detected table 2; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,2,3,8303,PDF page 27; detected table 2; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,2,4,10275,PDF page 27; detected table 2; row 2; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,2,5,25980,PDF page 27; detected table 2; row 2; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,2,6,33430,PDF page 27; detected table 2; row 2; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,2,7,23805,PDF page 27; detected table 2; row 2; column 7,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,2,8,16691,PDF page 27; detected table 2; row 2; column 8,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,2,9,25751,PDF page 27; detected table 2; row 2; column 9,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,2,10,11527,PDF page 27; detected table 2; row 2; column 10,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,3,1,Possession (Ha.),PDF page 27; detected table 2; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,3,2,9285,PDF page 27; detected table 2; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,3,3,7491,PDF page 27; detected table 2; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,3,4,9494,PDF page 27; detected table 2; row 3; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,3,5,18850,PDF page 27; detected table 2; row 3; column 5,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,3,6,12092,PDF page 27; detected table 2; row 3; column 6,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,3,7,20038,PDF page 27; detected table 2; row 3; column 7,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,3,8,14844,PDF page 27; detected table 2; row 3; column 8,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,3,9,17568,PDF page 27; detected table 2; row 3; column 9,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,27,2,3,10,12150,PDF page 27; detected table 2; row 3; column 10,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,1,1,Sources of Funds,PDF page 30; detected table 1; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,1,2,2023-24,PDF page 30; detected table 1; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,1,3,2022-23,PDF page 30; detected table 1; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,2,1,Receipts of Cess,PDF page 30; detected table 1; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,2,2,"1,27,727.42",PDF page 30; detected table 1; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,2,3,"1,10,673.92",PDF page 30; detected table 1; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,3,1,Plough Back of Toll Revenue,PDF page 30; detected table 1; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,3,2,"25,000.00",PDF page 30; detected table 1; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,3,3,"18,005.62",PDF page 30; detected table 1; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,4,1,Plough Back TOT Remittance,PDF page 30; detected table 1; row 4; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,4,2,"10,000.00",PDF page 30; detected table 1; row 4; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,4,3,"10,000.00",PDF page 30; detected table 1; row 4; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,5,1,Additional Budgetary Support,PDF page 30; detected table 1; row 5; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,5,2,"40,535.87",PDF page 30; detected table 1; row 5; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,5,3,"19,785.83",PDF page 30; detected table 1; row 5; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,6,1,Capital Grant (JICA & WB),PDF page 30; detected table 1; row 6; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,6,2,625.28,PDF page 30; detected table 1; row 6; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,6,3,200.00,PDF page 30; detected table 1; row 6; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,7,1,Capital Gains Tax Exemption Bonds,PDF page 30; detected table 1; row 7; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,7,2,-,PDF page 30; detected table 1; row 7; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,7,3,797.58,PDF page 30; detected table 1; row 7; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,8,1,InvIT (Projects),PDF page 30; detected table 1; row 8; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,8,2,"15,699.88",PDF page 30; detected table 1; row 8; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,8,3,"2,849.67",PDF page 30; detected table 1; row 8; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,9,1,Taxable Bonds,PDF page 30; detected table 1; row 9; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,9,2,-,PDF page 30; detected table 1; row 9; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,9,3,-,PDF page 30; detected table 1; row 9; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,10,1,Term Loan,PDF page 30; detected table 1; row 10; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,10,2,-,PDF page 30; detected table 1; row 10; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,10,3,-,PDF page 30; detected table 1; row 10; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,11,1,"Other Sources (DME, Interest, Capital Receipts, Maintenance)",PDF page 30; detected table 1; row 11; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,11,2,"11,554.63",PDF page 30; detected table 1; row 11; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,11,3,"10,904.66",PDF page 30; detected table 1; row 11; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,12,1,Utilization of opening balance,PDF page 30; detected table 1; row 12; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,12,2,-,PDF page 30; detected table 1; row 12; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,12,3,214.22,PDF page 30; detected table 1; row 12; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,13,1,Total,PDF page 30; detected table 1; row 13; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,13,2,"2,31,143.08",PDF page 30; detected table 1; row 13; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,1,13,3,"1,73,431.50",PDF page 30; detected table 1; row 13; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,1,1,Application of Funds,PDF page 30; detected table 2; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,1,2,2023-24,PDF page 30; detected table 2; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,1,3,2022-23,PDF page 30; detected table 2; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,2,1,Land Acquisition,PDF page 30; detected table 2; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,2,2,"28,175.35",PDF page 30; detected table 2; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,2,3,"39,836.17",PDF page 30; detected table 2; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,3,1,Project Expenditure,PDF page 30; detected table 2; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,3,2,"1,18,751.80",PDF page 30; detected table 2; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,3,3,"1,00,674.96",PDF page 30; detected table 2; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,4,1,Repayment of Loans and Interest thereon,PDF page 30; detected table 2; row 4; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,4,2,"33,812.35",PDF page 30; detected table 2; row 4; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,4,3,"32,476.92",PDF page 30; detected table 2; row 4; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,5,1,Other Outflow,PDF page 30; detected table 2; row 5; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,5,2,"18,822.98",PDF page 30; detected table 2; row 5; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,5,3,443.45,PDF page 30; detected table 2; row 5; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,6,1,Increase in Cash and Bank balance,PDF page 30; detected table 2; row 6; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,6,2,"31,580.60",PDF page 30; detected table 2; row 6; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,6,3,-,PDF page 30; detected table 2; row 6; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,7,1,Total,PDF page 30; detected table 2; row 7; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,7,2,"2,31,143.08",PDF page 30; detected table 2; row 7; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,30,2,7,3,"1,73,431.50",PDF page 30; detected table 2; row 7; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,1,1,"S.
+No.",PDF page 42; detected table 1; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,1,2,Date,PDF page 42; detected table 1; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,1,3,Subject,PDF page 42; detected table 1; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,1,4,Tentative Date of Completion,PDF page 42; detected table 1; row 1; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,2,1,1.,PDF page 42; detected table 1; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,2,2,"25th
+January,
+2024",PDF page 42; detected table 1; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,2,3,"FC-
+11/118/
+2021-FC",PDF page 42; detected table 1; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,2,4,"Migration of proposals from PARIVESH 1.0 to PARIVESH
+2.0 – Procedure for processing of proposals",PDF page 42; detected table 1; row 2; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,3,1,2.,PDF page 42; detected table 1; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,3,2,"18th March,
+2024",PDF page 42; detected table 1; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,3,3,"F.No. WL-
+/14/2023 WL",PDF page 42; detected table 1; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,3,4,"Standing Committee’s decision on sequential
+consideration of Project Proposals involving Forest and
+Wildlife Clearance.",PDF page 42; detected table 1; row 3; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,4,1,3.,PDF page 42; detected table 1; row 4; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,4,2,"13th June,
+2023",PDF page 42; detected table 1; row 4; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,4,3,FC-11/118/2021-FC,PDF page 42; detected table 1; row 4; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,4,4,"Clarification on the provisions of raising compensatory
+afforestation",PDF page 42; detected table 1; row 4; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,5,1,4.,PDF page 42; detected table 1; row 5; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,5,2,"7th July,
+2023",PDF page 42; detected table 1; row 5; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,5,3,FC-11/43/2021-FC,PDF page 42; detected table 1; row 5; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,5,4,"Clarification on deposition of monies realized from
+the user agencies towards the cost of implementation
+of Wild-life Management Plan in to the account of
+State CAMPA in respect of proposals located in the
+Protected Areas",PDF page 42; detected table 1; row 5; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,6,1,5.,PDF page 42; detected table 1; row 6; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,6,2,"13th June,
+2023",PDF page 42; detected table 1; row 6; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,6,3,FC-11/118/ 2021-FC,PDF page 42; detected table 1; row 6; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,6,4,"Clarification on the provisions of raising compensatory
+afforestation",PDF page 42; detected table 1; row 6; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,7,1,6.,PDF page 42; detected table 1; row 7; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,7,2,"21st
+August,
+2023",PDF page 42; detected table 1; row 7; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,7,3,Circular,PDF page 42; detected table 1; row 7; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,7,4,Provisions and guidelines on compensatory afforestation,PDF page 42; detected table 1; row 7; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,8,1,7.,PDF page 42; detected table 1; row 8; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,8,2,"6th
+December,
+2023",PDF page 42; detected table 1; row 8; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,8,3,FC-11/61/ 2021-FC,PDF page 42; detected table 1; row 8; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,8,4,"Exception of the Forest (Conservation) Amendment
+Act, 2023, rules and guidelines issued thereunder –
+reg 100Km from LWE.",PDF page 42; detected table 1; row 8; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,9,1,8.,PDF page 42; detected table 1; row 9; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,9,2,"27th
+December,
+2023",PDF page 42; detected table 1; row 9; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,9,3,FC-11/118/ 2021-FC,PDF page 42; detected table 1; row 9; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,9,4,"Processing of the ongoing proposals on PARIVESH
+2.0 in light of the provisions of the Van (Sanrakshan
+Evam Samvardhan) Adhiniyam Rules, 2023",PDF page 42; detected table 1; row 9; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,10,1,9.,PDF page 42; detected table 1; row 10; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,10,2,"30th
+August,
+2023",PDF page 42; detected table 1; row 10; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,10,3,"MoEF&CC
+Notification dated
+29.11.2023, S.O.
+3840(E)",PDF page 42; detected table 1; row 10; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,42,1,10,4,"Ministry of Environment and Forests, under sub-section
+(1) and clause (v) of sub-section (2) of section (3) of the
+Environment (Protection) Act, 1986 issued a notification
+vide number S.O.1533 (E), dated the 14th September,
+2006 (hereinafter referred to as the EIA Notification) for
+mandating prior environmental clearance for certain
+categories of projects, subsequently draft notification
+published to exempt certain activities from the
+requirement of prior environmental clearance in respect
+of Borrowing of Ordinary Earth for road projects.",PDF page 42; detected table 1; row 10; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,1,1,"S.
+No.",PDF page 43; detected table 1; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,1,2,Date,PDF page 43; detected table 1; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,1,3,Subject,PDF page 43; detected table 1; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,1,4,Tentative Date of Completion,PDF page 43; detected table 1; row 1; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,2,1,10.,PDF page 43; detected table 1; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,2,2,"29th
+November,
+2023",PDF page 43; detected table 1; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,2,3,"MoEF&CC
+Notification
+dated
+29.11.2023,
+S.O.
+5074(E)",PDF page 43; detected table 1; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,2,4,"In exercise of the powers conferred by sub-section
+(3) of section 1A read with section 3 (C) of the Van
+(Sankashan Evam Samvardhan) Adhiniyam, 1980 (69
+of 1980) (hereinafter referred to as Adhiniyam), the
+Central Government hereby notifies the guidelines
+specifying the terms and conditions to be abided
+by the State Government or Un-ion territory, while
+considering exemptions provided un-der sub-section (2)
+of section 1A of the said Adhiniyam, namely:- Exemption
+for strategic linear projects of nation-al importance
+and concerning national security that are located
+within hundred kilometres of aerial distance from the
+international borders, Line of Control or Line of Actual
+Control shall be considered only for such projects which
+have been notified as strategic and concerning national
+security by the Central Government in consultation with
+the respective State Governments or the Union territory
+Administration.",PDF page 43; detected table 1; row 2; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,3,1,11.,PDF page 43; detected table 1; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,3,2,"29th
+November,
+2023",PDF page 43; detected table 1; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,3,3,"MoEF&CC
+Notification
+dated
+29.11.2023,
+G.S.R.
+869(E)",PDF page 43; detected table 1; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,43,1,3,4,"In exercise of the powers conferred by sub-section (1)
+of section 4 of the Van (Sanrakshan Evam Samvardhan)
+Ad-hiniyam, 1980 (69 of 1980) and in supersession
+of the Forest (Conservation) Rules, 2022, except as
+respects things done or omitted to be done before
+such superses-sion, the Central Government hereby
+makes the following rules for Conservation of Forest.",PDF page 43; detected table 1; row 3; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,1,1,Year,PDF page 45; detected table 1; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,1,2,Nos. of cases settled,PDF page 45; detected table 1; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,1,3,"Amount claimed
+(Rs. in Crores)",PDF page 45; detected table 1; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,1,4,"Amount of Settlement
+(Rs. in Crores)",PDF page 45; detected table 1; row 1; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,2,1,2018-19,PDF page 45; detected table 1; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,2,2,8,PDF page 45; detected table 1; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,2,3,3019,PDF page 45; detected table 1; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,2,4,1245,PDF page 45; detected table 1; row 2; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,3,1,2019-20,PDF page 45; detected table 1; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,3,2,27,PDF page 45; detected table 1; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,3,3,6931,PDF page 45; detected table 1; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,3,4,2433,PDF page 45; detected table 1; row 3; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,4,1,2020-21,PDF page 45; detected table 1; row 4; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,4,2,60,PDF page 45; detected table 1; row 4; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,4,3,14207,PDF page 45; detected table 1; row 4; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,4,4,5313,PDF page 45; detected table 1; row 4; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,5,1,2021-22,PDF page 45; detected table 1; row 5; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,5,2,61,PDF page 45; detected table 1; row 5; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,5,3,14590,PDF page 45; detected table 1; row 5; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,5,4,4076,PDF page 45; detected table 1; row 5; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,6,1,2022-23,PDF page 45; detected table 1; row 6; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,6,2,33,PDF page 45; detected table 1; row 6; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,6,3,9427,PDF page 45; detected table 1; row 6; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,6,4,3456,PDF page 45; detected table 1; row 6; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,7,1,2023-24,PDF page 45; detected table 1; row 7; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,7,2,22,PDF page 45; detected table 1; row 7; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,7,3,11598,PDF page 45; detected table 1; row 7; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,45,1,7,4,1804,PDF page 45; detected table 1; row 7; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,1,1,"Sr
+No.",PDF page 58; detected table 1; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,1,2,Item,PDF page 58; detected table 1; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,1,3,Particulars,PDF page 58; detected table 1; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,2,1,1.,PDF page 58; detected table 1; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,2,2,"Implementation of
+Official Language Policy",PDF page 58; detected table 1; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,2,3,"Guidelines were issued in tune with the Government’s Official Language
+Policy and regular monitoring is conducted to ensure their compliance.",PDF page 58; detected table 1; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,3,1,2.,PDF page 58; detected table 1; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,3,2,Translation Efforts,PDF page 58; detected table 1; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,3,3,"Translated approximately 5,400 pages, including speeches of the Prime
+Minister and the Minister of Road Transport and Highways (RTH), contracts,
+agreements, toll notifications, policies, general orders, and miscellaneous
+documents received from various divisions.",PDF page 58; detected table 1; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,4,1,3.,PDF page 58; detected table 1; row 4; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,4,2,"Annual Programme
+Compliance",PDF page 58; detected table 1; row 4; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,4,3,"Targets set in the Annual
+Programme 2023-24
+‘A’ Region - 100%
+‘B’ Region - 100%
+‘C’ Region - 65%
+noting on files - 75%",PDF page 58; detected table 1; row 4; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,4,4,"Targets achieved
+90.3%
+89.3%
+86.6%
+74.6%",PDF page 58; detected table 1; row 4; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,5,1,4.,PDF page 58; detected table 1; row 5; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,5,2,"Hindi Pakhwada and
+Hindi Diwas",PDF page 58; detected table 1; row 5; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,5,3,"Hindi Pakhwada (from 1st to 15th September 2023) and Hindi Diwas (on
+14 September 2023) were organized. 07 Hindi competitions were organized
+and there were 05 prizes in each competition.",PDF page 58; detected table 1; row 5; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,6,1,5.,PDF page 58; detected table 1; row 6; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,6,2,Hindi Workshops,PDF page 58; detected table 1; row 6; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,6,3,"Four (04) Hindi Workshops were held on 16th June 2023 (13 personnel),
+22nd September 2023 (44 personnel), 22nd December 2023 (12 personnel)
+and 15th March, 2024 (13 personnel).",PDF page 58; detected table 1; row 6; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,7,1,6.,PDF page 58; detected table 1; row 7; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,7,2,"Meetings of
+Official Language
+Implementation
+Committee",PDF page 58; detected table 1; row 7; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,7,3,"Four (04) meetings were held under the Chairmanship of the Chairman,
+NHAI on 26th June 2023, 26th September 2023, 26th December 2023 and
+05th April 2024.",PDF page 58; detected table 1; row 7; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,8,1,7.,PDF page 58; detected table 1; row 8; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,8,2,Hindi Progress Report,PDF page 58; detected table 1; row 8; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,8,3,"Quarterly reports received from various divisions in NHAI (HQ) are
+compiled, reviewed and submitted to the Department of Official
+Language and the Ministry of Road Transport and Highways (MoRTH) in
+every quarter. The quarterly reports received from ROs and PIUs are also
+reviewed and deficiencies, if any, are communicated.",PDF page 58; detected table 1; row 8; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,9,1,8.,PDF page 58; detected table 1; row 9; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,9,2,Hindi incentive schemes,PDF page 58; detected table 1; row 9; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,9,3,"• Quarterly incentive for original Hindi correspondence and dictation i
+n Hindi.
+• Cash award scheme for children of employees on securing minimum
+75% marks in 10th and 12th class.",PDF page 58; detected table 1; row 9; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,10,1,9.,PDF page 58; detected table 1; row 10; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,10,2,"Official Language
+Inspection by
+Parliamentary
+Committee",PDF page 58; detected table 1; row 10; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,1,10,3,"1 Regional Office, Kolkata 27.04.2023
+2 Regional Office, Dehradun 09.05.2023
+3 Regional Office, Vijayawada 11.07.2023
+4 Regional Office, Bhopal 24.08.2023
+5 Regional Office, Bengaluru 19.10.2023
+6 Regional Office, Raipur 19.02.2024
+7 Regional Office, Chandigarh 07.03.2024",PDF page 58; detected table 1; row 10; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,1,1,1,PDF page 58; detected table 2; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,1,2,"Regional Office, Kolkata",PDF page 58; detected table 2; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,1,3,27.04.2023,PDF page 58; detected table 2; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,2,1,2,PDF page 58; detected table 2; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,2,2,"Regional Office, Dehradun",PDF page 58; detected table 2; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,2,3,09.05.2023,PDF page 58; detected table 2; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,3,1,3,PDF page 58; detected table 2; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,3,2,"Regional Office, Vijayawada",PDF page 58; detected table 2; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,3,3,11.07.2023,PDF page 58; detected table 2; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,4,1,4,PDF page 58; detected table 2; row 4; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,4,2,"Regional Office, Bhopal",PDF page 58; detected table 2; row 4; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,4,3,24.08.2023,PDF page 58; detected table 2; row 4; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,5,1,5,PDF page 58; detected table 2; row 5; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,5,2,"Regional Office, Bengaluru",PDF page 58; detected table 2; row 5; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,5,3,19.10.2023,PDF page 58; detected table 2; row 5; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,6,1,6,PDF page 58; detected table 2; row 6; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,6,2,"Regional Office, Raipur",PDF page 58; detected table 2; row 6; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,6,3,19.02.2024,PDF page 58; detected table 2; row 6; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,7,1,7,PDF page 58; detected table 2; row 7; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,7,2,"Regional Office, Chandigarh",PDF page 58; detected table 2; row 7; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,58,2,7,3,07.03.2024,PDF page 58; detected table 2; row 7; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,1,1,Sl. No.,PDF page 68; detected table 1; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,1,2,Name of Regional Office,PDF page 68; detected table 1; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,1,3,Name of PIUs/CMUs/ Site Offices,PDF page 68; detected table 1; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,2,1,4.,PDF page 68; detected table 1; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,2,2,"Madhya Pradesh (West) at BHOPAL
+(08 PIUs)",PDF page 68; detected table 1; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,2,3,32,PDF page 68; detected table 1; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,2,4,RATLAM,PDF page 68; detected table 1; row 2; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,3,3,33,PDF page 68; detected table 1; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,3,4,SHEOPUR,PDF page 68; detected table 1; row 3; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,4,3,34,PDF page 68; detected table 1; row 4; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,4,4,UJJAIN,PDF page 68; detected table 1; row 4; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,5,3,35,PDF page 68; detected table 1; row 5; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,5,4,VIDISHA,PDF page 68; detected table 1; row 5; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,6,3,36,PDF page 68; detected table 1; row 6; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,6,4,HARDA,PDF page 68; detected table 1; row 6; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,7,3,37,PDF page 68; detected table 1; row 7; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,7,4,INDORE BOT,PDF page 68; detected table 1; row 7; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,8,3,38,PDF page 68; detected table 1; row 8; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,8,4,KHANDWA,PDF page 68; detected table 1; row 8; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,9,3,39,PDF page 68; detected table 1; row 9; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,9,4,BHOPAL,PDF page 68; detected table 1; row 9; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,10,1,5.,PDF page 68; detected table 1; row 10; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,10,2,"Tamil Nadu at CHENNNAI
+(10 PIUs)",PDF page 68; detected table 1; row 10; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,10,3,40,PDF page 68; detected table 1; row 10; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,10,4,CHENGALPATTU,PDF page 68; detected table 1; row 10; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,11,3,41,PDF page 68; detected table 1; row 11; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,11,4,CHENNAI-GQ,PDF page 68; detected table 1; row 11; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,12,3,42,PDF page 68; detected table 1; row 12; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,12,4,CHENNAI-2,PDF page 68; detected table 1; row 12; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,13,3,43,PDF page 68; detected table 1; row 13; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,13,4,COIMBATORE,PDF page 68; detected table 1; row 13; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,14,3,44,PDF page 68; detected table 1; row 14; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,14,4,KANCHEEPURAM,PDF page 68; detected table 1; row 14; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,15,3,45,PDF page 68; detected table 1; row 15; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,15,4,KARUR BOT,PDF page 68; detected table 1; row 15; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,16,3,46,PDF page 68; detected table 1; row 16; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,16,4,KRISHNAGIRI,PDF page 68; detected table 1; row 16; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,17,3,47,PDF page 68; detected table 1; row 17; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,17,4,PUDUCHERRY,PDF page 68; detected table 1; row 17; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,18,3,48,PDF page 68; detected table 1; row 18; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,18,4,VILLUPURAM,PDF page 68; detected table 1; row 18; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,19,3,49,PDF page 68; detected table 1; row 19; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,19,4,SALEM-NSEW,PDF page 68; detected table 1; row 19; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,20,1,6.,PDF page 68; detected table 1; row 20; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,20,2,"Haryana & Punjab at
+CHANDIGARH (11 PIUs)",PDF page 68; detected table 1; row 20; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,20,3,50,PDF page 68; detected table 1; row 20; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,20,4,SONIPAT (RO-CHANDIGARH),PDF page 68; detected table 1; row 20; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,21,3,51,PDF page 68; detected table 1; row 21; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,21,4,PATIALA,PDF page 68; detected table 1; row 21; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,22,3,52,PDF page 68; detected table 1; row 22; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,22,4,LUDHIANA,PDF page 68; detected table 1; row 22; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,23,3,53,PDF page 68; detected table 1; row 23; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,23,4,LUDHIANA(EXPRESSWAY),PDF page 68; detected table 1; row 23; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,24,3,54,PDF page 68; detected table 1; row 24; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,24,4,JALLANDHAR-NSEW,PDF page 68; detected table 1; row 24; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,25,3,55,PDF page 68; detected table 1; row 25; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,25,4,HISAR,PDF page 68; detected table 1; row 25; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,26,3,56,PDF page 68; detected table 1; row 26; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,26,4,CHANDIGARH BOT,PDF page 68; detected table 1; row 26; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,27,3,57,PDF page 68; detected table 1; row 27; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,27,4,BATHINDA,PDF page 68; detected table 1; row 27; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,28,3,58,PDF page 68; detected table 1; row 28; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,28,4,BHIWANI (RO-CHANDIGARH),PDF page 68; detected table 1; row 28; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,29,3,59,PDF page 68; detected table 1; row 29; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,29,4,AMBALA,PDF page 68; detected table 1; row 29; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,30,3,60,PDF page 68; detected table 1; row 30; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,30,4,AMRITSAR,PDF page 68; detected table 1; row 30; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,31,1,7.,PDF page 68; detected table 1; row 31; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,31,2,Delhi & NCR at RO DELHI (10 PIUs),PDF page 68; detected table 1; row 31; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,31,3,61,PDF page 68; detected table 1; row 31; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,31,4,BAGHPAT,PDF page 68; detected table 1; row 31; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,32,3,62,PDF page 68; detected table 1; row 32; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,32,4,BHIWANI (RO-DELHI),PDF page 68; detected table 1; row 32; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,33,3,63,PDF page 68; detected table 1; row 33; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,33,4,DWARKA,PDF page 68; detected table 1; row 33; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,34,3,64,PDF page 68; detected table 1; row 34; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,34,4,GURUGRAM,PDF page 68; detected table 1; row 34; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,35,3,65,PDF page 68; detected table 1; row 35; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,35,4,GHAZIABAD JBIC,PDF page 68; detected table 1; row 35; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,36,3,66,PDF page 68; detected table 1; row 36; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,36,4,MEERUT,PDF page 68; detected table 1; row 36; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,37,3,67,PDF page 68; detected table 1; row 37; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,37,4,MATHURA,PDF page 68; detected table 1; row 37; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,38,3,68,PDF page 68; detected table 1; row 38; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,38,4,SONIPAT (RO-DELHI),PDF page 68; detected table 1; row 38; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,39,3,69,PDF page 68; detected table 1; row 39; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,39,4,REWARI (2018),PDF page 68; detected table 1; row 39; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,40,3,70,PDF page 68; detected table 1; row 40; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,68,1,40,4,SOHNA,PDF page 68; detected table 1; row 40; column 4,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,1,1,Sr. No.,PDF page 79; detected table 1; row 1; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,1,2,Particulars,PDF page 79; detected table 1; row 1; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,1,3,₹ in crore,PDF page 79; detected table 1; row 1; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,2,1,1,PDF page 79; detected table 1; row 2; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,2,2,"Compensation payable for acquisition of land despite issue of 3D Notification/
+Award by CALA/Compensation payable to land losers as per Arbitration award",PDF page 79; detected table 1; row 2; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,2,3,426.28,PDF page 79; detected table 1; row 2; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,3,1,2,PDF page 79; detected table 1; row 3; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,3,2,"Amount payable to Contractors/concessionaire in respect of Construction
+work done",PDF page 79; detected table 1; row 3; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,3,3,337.62,PDF page 79; detected table 1; row 3; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,4,1,3,PDF page 79; detected table 1; row 4; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,4,2,"Amount payable to the contractor/Concessionaire/Utility Department for
+utility shifting/tree cutting/fly Ash/plantation work",PDF page 79; detected table 1; row 4; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,4,3,7.67,PDF page 79; detected table 1; row 4; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,5,1,4,PDF page 79; detected table 1; row 5; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,5,2,Amount payable for supervision consultancy,PDF page 79; detected table 1; row 5; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,5,3,2.84,PDF page 79; detected table 1; row 5; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,6,1,5,PDF page 79; detected table 1; row 6; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,6,2,Amount payable on account of CWIP GST-Change in Law,PDF page 79; detected table 1; row 6; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,6,3,9.16,PDF page 79; detected table 1; row 6; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,7,1,6,PDF page 79; detected table 1; row 7; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,7,2,Amount payable to contractor/concessionaire on account of Annuity payment,PDF page 79; detected table 1; row 7; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,7,3,71.15,PDF page 79; detected table 1; row 7; column 3,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,8,1,Total,PDF page 79; detected table 1; row 8; column 1,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,8,2,,PDF page 79; detected table 1; row 8; column 2,review_required
+S031,75eb02573bb4b7927c88b495432e820baa7e6f603f78e3b09afd3d6395a429e1,79,1,8,3,854.72,PDF page 79; detected table 1; row 8; column 3,review_required

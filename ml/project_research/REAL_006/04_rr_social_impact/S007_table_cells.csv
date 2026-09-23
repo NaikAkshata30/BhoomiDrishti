@@ -1,0 +1,1429 @@
+﻿source_id,source_sha256,page,table,row,column,value_original,reference,verification_status
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,1,1,Chapter,PDF page 1; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,1,2,Title,PDF page 1; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,1,3,Page Ref,PDF page 1; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,2,1,Content,PDF page 1; detected table 1; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,2,3,i - ii,PDF page 1; detected table 1; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,3,1,Executive Summary,PDF page 1; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,3,3,1-3,PDF page 1; detected table 1; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,4,1,I,PDF page 1; detected table 1; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,4,2,Introduction,PDF page 1; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,4,3,,PDF page 1; detected table 1; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,5,2,A. Background,PDF page 1; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,5,3,4,PDF page 1; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,6,2,B. Project description,PDF page 1; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,6,3,4,PDF page 1; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,7,2,C. General Profile of Chennai City,PDF page 1; detected table 1; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,7,3,6,PDF page 1; detected table 1; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,8,2,D. Profile of the Proposed Corridor-4,PDF page 1; detected table 1; row 8; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,8,3,6,PDF page 1; detected table 1; row 8; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,9,2,E. Project impacts,PDF page 1; detected table 1; row 9; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,9,3,6,PDF page 1; detected table 1; row 9; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,10,2,F. Minimizing Involuntary Resettlement,PDF page 1; detected table 1; row 10; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,10,3,8,PDF page 1; detected table 1; row 10; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,11,2,G. Impact to Indigenous People,PDF page 1; detected table 1; row 11; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,11,3,8,PDF page 1; detected table 1; row 11; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,12,2,H. Scope and Objective of Resettlement Plan,PDF page 1; detected table 1; row 12; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,12,3,8,PDF page 1; detected table 1; row 12; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,13,1,II,PDF page 1; detected table 1; row 13; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,13,2,Scope of Land Acquisition and Resettlement,PDF page 1; detected table 1; row 13; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,13,3,,PDF page 1; detected table 1; row 13; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,14,2,A. Land acquisition,PDF page 1; detected table 1; row 14; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,14,3,9,PDF page 1; detected table 1; row 14; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,15,2,B. Alienation of Government Land,PDF page 1; detected table 1; row 15; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,15,3,9,PDF page 1; detected table 1; row 15; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,16,2,C. Impact to Structures,PDF page 1; detected table 1; row 16; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,16,3,9,PDF page 1; detected table 1; row 16; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,17,2,D. Impact on Families,PDF page 1; detected table 1; row 17; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,17,3,10,PDF page 1; detected table 1; row 17; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,18,2,E. Loss of Livelihood,PDF page 1; detected table 1; row 18; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,18,3,11,PDF page 1; detected table 1; row 18; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,19,2,F. Loss of Trees,PDF page 1; detected table 1; row 19; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,19,3,11,PDF page 1; detected table 1; row 19; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,20,2,G. Loss of Common Property Resources,PDF page 1; detected table 1; row 20; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,20,3,11,PDF page 1; detected table 1; row 20; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,21,1,III,PDF page 1; detected table 1; row 21; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,21,2,"Demographic and Socio-Economic Profile
+of Project Affected People",PDF page 1; detected table 1; row 21; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,21,3,,PDF page 1; detected table 1; row 21; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,22,2,A. Methodology adopted,PDF page 1; detected table 1; row 22; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,22,3,13,PDF page 1; detected table 1; row 22; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,23,2,B. Demographic Profile,PDF page 1; detected table 1; row 23; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,23,3,13,PDF page 1; detected table 1; row 23; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,24,2,C. Socio Economic Profile,PDF page 1; detected table 1; row 24; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,24,3,14,PDF page 1; detected table 1; row 24; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,25,2,D. Resettlement Preferences,PDF page 1; detected table 1; row 25; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,25,3,17,PDF page 1; detected table 1; row 25; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,26,1,IV,PDF page 1; detected table 1; row 26; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,26,2,"Consultation, Participation and Disclosure",PDF page 1; detected table 1; row 26; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,26,3,,PDF page 1; detected table 1; row 26; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,27,2,A. Public Consultation 2016-2018,PDF page 1; detected table 1; row 27; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,27,3,18,PDF page 1; detected table 1; row 27; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,28,2,"B. Public Consultation December 2018, 2019 and January
+2020",PDF page 1; detected table 1; row 28; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,28,3,20,PDF page 1; detected table 1; row 28; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,29,2,C. Outcome of Public Consultation,PDF page 1; detected table 1; row 29; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,29,3,22,PDF page 1; detected table 1; row 29; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,30,2,D. Plan for further consultation in the project,PDF page 1; detected table 1; row 30; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,30,3,23,PDF page 1; detected table 1; row 30; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,31,2,E. Public Consultation and Disclosure Plan,PDF page 1; detected table 1; row 31; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,31,3,24,PDF page 1; detected table 1; row 31; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,32,1,V,PDF page 1; detected table 1; row 32; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,32,2,Resettlement Policy Framework,PDF page 1; detected table 1; row 32; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,32,3,,PDF page 1; detected table 1; row 32; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,33,2,A. Introduction,PDF page 1; detected table 1; row 33; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,33,3,25,PDF page 1; detected table 1; row 33; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,34,2,B. Resettlement Policy framework,PDF page 1; detected table 1; row 34; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,34,3,25,PDF page 1; detected table 1; row 34; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,35,2,C. Guidelines and applicable Act,PDF page 1; detected table 1; row 35; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,35,3,26,PDF page 1; detected table 1; row 35; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,36,2,D. Involuntary Resettlement Safeguard Principles for the Project,PDF page 1; detected table 1; row 36; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,36,3,30,PDF page 1; detected table 1; row 36; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,37,2,E. Eligibility Status of Displaced Persons,PDF page 1; detected table 1; row 37; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,37,3,31,PDF page 1; detected table 1; row 37; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,38,1,VI,PDF page 1; detected table 1; row 38; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,38,2,"Entitlements, Assistance and Benefits",PDF page 1; detected table 1; row 38; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,38,3,,PDF page 1; detected table 1; row 38; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,39,2,A. Introduction,PDF page 1; detected table 1; row 39; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,39,3,33,PDF page 1; detected table 1; row 39; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,40,2,B. Valuation of Land and Assets,PDF page 1; detected table 1; row 40; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,40,3,33,PDF page 1; detected table 1; row 40; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,41,2,C. Compensation Amounts for Land and assets,PDF page 1; detected table 1; row 41; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,41,3,33,PDF page 1; detected table 1; row 41; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,42,2,D. Compensation for Structures,PDF page 1; detected table 1; row 42; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,42,3,34,PDF page 1; detected table 1; row 42; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,43,2,E. Compensation for Trees,PDF page 1; detected table 1; row 43; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,43,3,34,PDF page 1; detected table 1; row 43; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,44,2,F. Compensation for Common Property Resources:,PDF page 1; detected table 1; row 44; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,44,3,34,PDF page 1; detected table 1; row 44; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,45,2,G. Eligibility,PDF page 1; detected table 1; row 45; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,45,3,35,PDF page 1; detected table 1; row 45; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,46,2,H. Entitlement Matrix,PDF page 1; detected table 1; row 46; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,46,3,35,PDF page 1; detected table 1; row 46; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,47,2,I. Disclosure of RPF and Resettlement Plan,PDF page 1; detected table 1; row 47; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,1,1,47,3,35,PDF page 1; detected table 1; row 47; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,1,1,VII,PDF page 2; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,1,2,"Income Restoration, Relocation and Rehabilitation",PDF page 2; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,1,3,,PDF page 2; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,2,2,A. Loss of Livelihood,PDF page 2; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,2,3,44,PDF page 2; detected table 1; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,3,2,B. Income Restoration,PDF page 2; detected table 1; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,3,3,45,PDF page 2; detected table 1; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,4,2,C. Temporary Relocation due to temporary acquisition,PDF page 2; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,4,3,45,PDF page 2; detected table 1; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,5,2,D. Livelihood Rehabilitation of Vulnerable,PDF page 2; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,5,3,45,PDF page 2; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,6,2,E. Common Property Resources:,PDF page 2; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,6,3,45,PDF page 2; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,7,2,F. Gender Action Plan (GAP),PDF page 2; detected table 1; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,7,3,46,PDF page 2; detected table 1; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,8,1,VIII,PDF page 2; detected table 1; row 8; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,8,2,Institutional Arrangement,PDF page 2; detected table 1; row 8; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,8,3,,PDF page 2; detected table 1; row 8; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,9,2,A. Executing Agency,PDF page 2; detected table 1; row 9; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,9,3,48,PDF page 2; detected table 1; row 9; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,10,2,B. Implementing Agency,PDF page 2; detected table 1; row 10; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,10,3,48,PDF page 2; detected table 1; row 10; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,11,2,"C. Project Implementation Unit (PIU), CMRL",PDF page 2; detected table 1; row 11; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,11,3,48,PDF page 2; detected table 1; row 11; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,12,2,"D. Social and Environmental Management Unit (SEMU)
+supported by Social Management Consultant",PDF page 2; detected table 1; row 12; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,12,3,48,PDF page 2; detected table 1; row 12; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,13,2,E. Non-Government Organisation (NGO),PDF page 2; detected table 1; row 13; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,13,3,49,PDF page 2; detected table 1; row 13; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,14,2,F. Implementation Support Consultant (R&R),PDF page 2; detected table 1; row 14; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,14,3,49,PDF page 2; detected table 1; row 14; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,15,2,G. Management Information System (MIS),PDF page 2; detected table 1; row 15; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,15,3,49,PDF page 2; detected table 1; row 15; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,16,2,H. Capacity Building in CMRL,PDF page 2; detected table 1; row 16; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,16,3,49,PDF page 2; detected table 1; row 16; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,17,2,I. Competent Authorities:,PDF page 2; detected table 1; row 17; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,17,3,50,PDF page 2; detected table 1; row 17; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,18,2,J. Grievance Redressal Mechanism (GRM),PDF page 2; detected table 1; row 18; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,18,3,51,PDF page 2; detected table 1; row 18; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,19,2,K. Interface,PDF page 2; detected table 1; row 19; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,19,3,51,PDF page 2; detected table 1; row 19; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,20,2,L. Grievance Redressal Committee (GRC),PDF page 2; detected table 1; row 20; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,20,3,52,PDF page 2; detected table 1; row 20; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,21,1,IX,PDF page 2; detected table 1; row 21; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,21,2,Resettlement Plan Implementation,PDF page 2; detected table 1; row 21; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,21,3,,PDF page 2; detected table 1; row 21; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,22,2,A. Disbursement of Compensation and Entitlements,PDF page 2; detected table 1; row 22; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,22,3,55,PDF page 2; detected table 1; row 22; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,23,2,"B. Responsibilities for land acquisition and implementation of
+Resettlement Plan",PDF page 2; detected table 1; row 23; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,23,3,55,PDF page 2; detected table 1; row 23; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,24,2,C. Role of Non-Government Organization (NGO),PDF page 2; detected table 1; row 24; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,24,3,56,PDF page 2; detected table 1; row 24; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,25,2,D. Micro Plan,PDF page 2; detected table 1; row 25; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,25,3,57,PDF page 2; detected table 1; row 25; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,26,2,E. Implementation Schedule of Resettlement plan,PDF page 2; detected table 1; row 26; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,26,3,57,PDF page 2; detected table 1; row 26; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,27,2,F. Stages of Implementation Schedule,PDF page 2; detected table 1; row 27; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,27,3,57,PDF page 2; detected table 1; row 27; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,28,2,G. RP Implementation Schedule,PDF page 2; detected table 1; row 28; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,28,3,58,PDF page 2; detected table 1; row 28; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,29,2,H. Budget Estimate for RP implementation,PDF page 2; detected table 1; row 29; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,29,3,60,PDF page 2; detected table 1; row 29; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,30,1,X,PDF page 2; detected table 1; row 30; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,30,2,"Monitoring, Evaluation and Reporting",PDF page 2; detected table 1; row 30; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,30,3,,PDF page 2; detected table 1; row 30; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,31,2,A. Monitoring,PDF page 2; detected table 1; row 31; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,31,3,63,PDF page 2; detected table 1; row 31; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,32,2,B. Evaluation,PDF page 2; detected table 1; row 32; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,32,3,63,PDF page 2; detected table 1; row 32; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,33,2,C. Reporting,PDF page 2; detected table 1; row 33; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,2,1,33,3,64,PDF page 2; detected table 1; row 33; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,1,1,Length (KM),PDF page 7; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,1,5,Depot,PDF page 7; detected table 1; row 1; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,1,6,Number of Stations,PDF page 7; detected table 1; row 1; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,2,1,,PDF page 7; detected table 1; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,2,6,,PDF page 7; detected table 1; row 2; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,3,1,Corridor,PDF page 7; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,3,2,Under,PDF page 7; detected table 1; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,3,3,Elevated,PDF page 7; detected table 1; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,3,4,Total,PDF page 7; detected table 1; row 3; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,3,5,Entry,PDF page 7; detected table 1; row 3; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,3,6,Under,PDF page 7; detected table 1; row 3; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,3,7,Elevated/,PDF page 7; detected table 1; row 3; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,3,8,Total,PDF page 7; detected table 1; row 3; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,4,2,Ground,PDF page 7; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,4,5,,PDF page 7; detected table 1; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,4,6,Ground,PDF page 7; detected table 1; row 4; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,4,7,At Grade,PDF page 7; detected table 1; row 4; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,5,1,,PDF page 7; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,5,3,,PDF page 7; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,5,4,,PDF page 7; detected table 1; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,5,8,,PDF page 7; detected table 1; row 5; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,6,1,Corridor-4,PDF page 7; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,6,2,10.071,PDF page 7; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,6,3,16.014,PDF page 7; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,6,4,26.085,PDF page 7; detected table 1; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,6,5,1.0,PDF page 7; detected table 1; row 6; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,6,6,12,PDF page 7; detected table 1; row 6; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,6,7,18,PDF page 7; detected table 1; row 6; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,1,6,8,30,PDF page 7; detected table 1; row 6; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,1,1,"S
+N",PDF page 7; detected table 2; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,1,2,Station Name,PDF page 7; detected table 2; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,1,3,"Chainage
+(m)",PDF page 7; detected table 2; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,1,4,"Inter-
+station
+Distance
+(m)",PDF page 7; detected table 2; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,1,5,"Elevated/
+Underground",PDF page 7; detected table 2; row 1; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,2,1,1,PDF page 7; detected table 2; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,2,2,Lighthouse,PDF page 7; detected table 2; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,2,3,20,PDF page 7; detected table 2; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,2,4,-,PDF page 7; detected table 2; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,2,5,UG (190x21.80) 2L,PDF page 7; detected table 2; row 2; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,3,1,2,PDF page 7; detected table 2; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,3,2,Foreshore Estate Road,PDF page 7; detected table 2; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,3,3,806,PDF page 7; detected table 2; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,3,4,786,PDF page 7; detected table 2; row 3; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,3,5,UG (190x21.80) 2L,PDF page 7; detected table 2; row 3; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,4,1,3,PDF page 7; detected table 2; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,4,2,Kutchery Road,PDF page 7; detected table 2; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,4,3,1764,PDF page 7; detected table 2; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,4,4,958,PDF page 7; detected table 2; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,4,5,UG (190x21.80) 2L,PDF page 7; detected table 2; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,5,1,4,PDF page 7; detected table 2; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,5,2,Thirumayilai Metro,PDF page 7; detected table 2; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,5,3,2564,PDF page 7; detected table 2; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,5,4,800,PDF page 7; detected table 2; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,5,5,UG (190x21.80) 2L,PDF page 7; detected table 2; row 5; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,6,1,5,PDF page 7; detected table 2; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,6,2,Alwarpet,PDF page 7; detected table 2; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,6,3,3302,PDF page 7; detected table 2; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,6,4,738,PDF page 7; detected table 2; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,6,5,UG (190x21.80) 2L,PDF page 7; detected table 2; row 6; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,7,1,6,PDF page 7; detected table 2; row 7; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,7,2,Bharathidasan Road,PDF page 7; detected table 2; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,7,3,4141,PDF page 7; detected table 2; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,7,4,839,PDF page 7; detected table 2; row 7; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,7,5,UG (190x21.80) 2L,PDF page 7; detected table 2; row 7; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,8,1,7,PDF page 7; detected table 2; row 8; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,8,2,Adyar Gate Junction,PDF page 7; detected table 2; row 8; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,8,3,5177,PDF page 7; detected table 2; row 8; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,8,4,1036,PDF page 7; detected table 2; row 8; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,8,5,UG (150x21.40) 3L,PDF page 7; detected table 2; row 8; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,9,1,8,PDF page 7; detected table 2; row 9; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,9,2,Nandanam,PDF page 7; detected table 2; row 9; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,9,3,6188,PDF page 7; detected table 2; row 9; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,9,4,1011,PDF page 7; detected table 2; row 9; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,9,5,UG (150x21.40) ML,PDF page 7; detected table 2; row 9; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,10,1,9,PDF page 7; detected table 2; row 10; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,10,2,Natesan Park,PDF page 7; detected table 2; row 10; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,10,3,6813,PDF page 7; detected table 2; row 10; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,10,4,625,PDF page 7; detected table 2; row 10; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,10,5,UG (150x21.40) 3L,PDF page 7; detected table 2; row 10; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,11,1,10,PDF page 7; detected table 2; row 11; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,11,2,Panagal Park,PDF page 7; detected table 2; row 11; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,11,3,7436,PDF page 7; detected table 2; row 11; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,11,4,623,PDF page 7; detected table 2; row 11; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,11,5,"UG (150x21.40) 2L
+with ext. concourse",PDF page 7; detected table 2; row 11; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,12,1,11,PDF page 7; detected table 2; row 12; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,12,2,Kodambakkam Metro,PDF page 7; detected table 2; row 12; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,12,3,8453,PDF page 7; detected table 2; row 12; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,12,4,1017,PDF page 7; detected table 2; row 12; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,12,5,UG (150x21.40) ML,PDF page 7; detected table 2; row 12; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,13,1,12,PDF page 7; detected table 2; row 13; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,13,2,Meenakshi College,PDF page 7; detected table 2; row 13; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,13,3,9275,PDF page 7; detected table 2; row 13; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,13,4,822,PDF page 7; detected table 2; row 13; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,13,5,UG (190x21.80) 2L,PDF page 7; detected table 2; row 13; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,14,1,13,PDF page 7; detected table 2; row 14; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,14,2,Power House,PDF page 7; detected table 2; row 14; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,14,3,10315,PDF page 7; detected table 2; row 14; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,14,4,1040,PDF page 7; detected table 2; row 14; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,14,5,Elevated (140x21.95),PDF page 7; detected table 2; row 14; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,15,1,14,PDF page 7; detected table 2; row 15; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,15,2,Vadapalani,PDF page 7; detected table 2; row 15; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,15,3,11078,PDF page 7; detected table 2; row 15; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,15,4,763,PDF page 7; detected table 2; row 15; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,15,5,Elevated (140x21.95),PDF page 7; detected table 2; row 15; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,16,1,15,PDF page 7; detected table 2; row 16; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,16,2,Saligramam,PDF page 7; detected table 2; row 16; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,16,3,11743,PDF page 7; detected table 2; row 16; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,16,4,665,PDF page 7; detected table 2; row 16; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,16,5,Elevated (140x21.95),PDF page 7; detected table 2; row 16; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,17,1,16,PDF page 7; detected table 2; row 17; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,17,2,Avichi School,PDF page 7; detected table 2; row 17; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,17,3,12691,PDF page 7; detected table 2; row 17; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,17,4,948,PDF page 7; detected table 2; row 17; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,17,5,Elevated (140x21.95),PDF page 7; detected table 2; row 17; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,18,1,17,PDF page 7; detected table 2; row 18; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,18,2,Alwarthiru Nagar,PDF page 7; detected table 2; row 18; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,18,3,13607,PDF page 7; detected table 2; row 18; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,18,4,916,PDF page 7; detected table 2; row 18; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,18,5,Elevated (140x21.95),PDF page 7; detected table 2; row 18; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,19,1,18,PDF page 7; detected table 2; row 19; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,19,2,Valasaravakkam,PDF page 7; detected table 2; row 19; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,19,3,14541,PDF page 7; detected table 2; row 19; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,19,4,934,PDF page 7; detected table 2; row 19; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,19,5,Elevated (140x21.95),PDF page 7; detected table 2; row 19; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,20,1,19,PDF page 7; detected table 2; row 20; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,20,2,Karabakkam,PDF page 7; detected table 2; row 20; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,20,3,15665,PDF page 7; detected table 2; row 20; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,20,4,1124,PDF page 7; detected table 2; row 20; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,20,5,Elevated (140x21.95),PDF page 7; detected table 2; row 20; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,21,1,20,PDF page 7; detected table 2; row 21; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,21,2,Alapakkam Junction,PDF page 7; detected table 2; row 21; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,21,3,16426,PDF page 7; detected table 2; row 21; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,21,4,761,PDF page 7; detected table 2; row 21; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,21,5,Elevated (140x21.95),PDF page 7; detected table 2; row 21; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,22,1,21,PDF page 7; detected table 2; row 22; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,22,2,Porur Junction,PDF page 7; detected table 2; row 22; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,22,3,17244,PDF page 7; detected table 2; row 22; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,22,4,818,PDF page 7; detected table 2; row 22; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,22,5,Elevated (140x21.95),PDF page 7; detected table 2; row 22; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,23,1,22,PDF page 7; detected table 2; row 23; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,23,2,Chennai Bypass Crossing,PDF page 7; detected table 2; row 23; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,23,3,18054,PDF page 7; detected table 2; row 23; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,23,4,810,PDF page 7; detected table 2; row 23; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,23,5,Elevated (140x21.95),PDF page 7; detected table 2; row 23; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,24,1,23,PDF page 7; detected table 2; row 24; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,24,2,Ramchandra Hospital,PDF page 7; detected table 2; row 24; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,24,3,18977,PDF page 7; detected table 2; row 24; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,24,4,923,PDF page 7; detected table 2; row 24; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,24,5,Elevated (140x21.95),PDF page 7; detected table 2; row 24; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,25,1,24,PDF page 7; detected table 2; row 25; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,25,2,"Iyappanthangal Bus
+Depot.,",PDF page 7; detected table 2; row 25; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,25,3,19751,PDF page 7; detected table 2; row 25; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,25,4,774,PDF page 7; detected table 2; row 25; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,25,5,Elevated (140x21.95),PDF page 7; detected table 2; row 25; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,26,1,25,PDF page 7; detected table 2; row 26; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,26,2,Kattupakkam,PDF page 7; detected table 2; row 26; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,26,3,20860,PDF page 7; detected table 2; row 26; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,26,4,1109,PDF page 7; detected table 2; row 26; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,26,5,Elevated (140x21.95),PDF page 7; detected table 2; row 26; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,27,1,26,PDF page 7; detected table 2; row 27; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,27,2,Kumanan Chavadi,PDF page 7; detected table 2; row 27; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,27,3,21670,PDF page 7; detected table 2; row 27; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,27,4,810,PDF page 7; detected table 2; row 27; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,27,5,Elevated (140x21.95),PDF page 7; detected table 2; row 27; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,28,1,27,PDF page 7; detected table 2; row 28; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,28,2,Karyan Chavadi,PDF page 7; detected table 2; row 28; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,28,3,22550,PDF page 7; detected table 2; row 28; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,28,4,880,PDF page 7; detected table 2; row 28; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,28,5,Elevated (140x21.95),PDF page 7; detected table 2; row 28; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,29,1,28,PDF page 7; detected table 2; row 29; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,29,2,Mullaithottam,PDF page 7; detected table 2; row 29; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,29,3,23497,PDF page 7; detected table 2; row 29; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,29,4,947,PDF page 7; detected table 2; row 29; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,29,5,Elevated (140x21.95),PDF page 7; detected table 2; row 29; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,30,1,29,PDF page 7; detected table 2; row 30; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,30,2,Poonamallee BuTerminus,PDF page 7; detected table 2; row 30; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,30,3,24370,PDF page 7; detected table 2; row 30; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,30,4,873,PDF page 7; detected table 2; row 30; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,30,5,Elevated (140x21.95),PDF page 7; detected table 2; row 30; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,31,1,30,PDF page 7; detected table 2; row 31; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,31,2,Poonamallee Bypass,PDF page 7; detected table 2; row 31; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,31,3,25440,PDF page 7; detected table 2; row 31; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,31,4,1070,PDF page 7; detected table 2; row 31; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,7,2,31,5,Elevated (140x21.95),PDF page 7; detected table 2; row 31; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,1,1,Impacts,PDF page 9; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,1,2,Extent/Numbers,PDF page 9; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,2,1,Private land acquisition in Corridor-4,PDF page 9; detected table 1; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,2,2,5.04 ha,PDF page 9; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,3,1,Govt. land acquisition in Corridor-4,PDF page 9; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,3,2,5.70 ha,PDF page 9; detected table 1; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,4,1,Private land acquisition for depot in Corridor-4,PDF page 9; detected table 1; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,4,2,Nil,PDF page 9; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,5,1,Govt. land acquisition for depot in Corridor-4,PDF page 9; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,5,2,17.40 ha,PDF page 9; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,6,1,Total affected structures,PDF page 9; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,6,2,429,PDF page 9; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,7,1,Total fully affected structures,PDF page 9; detected table 1; row 7; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,7,2,124,PDF page 9; detected table 1; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,8,1,Total partially affected structures,PDF page 9; detected table 1; row 8; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,8,2,305,PDF page 9; detected table 1; row 8; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,9,1,Total Project Affected Persons (PAPs),PDF page 9; detected table 1; row 9; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,9,2,4755,PDF page 9; detected table 1; row 9; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,10,1,Total Project Affected Families (PAFs),PDF page 9; detected table 1; row 10; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,10,2,1031,PDF page 9; detected table 1; row 10; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,11,1,Residentially affected families,PDF page 9; detected table 1; row 11; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,11,2,297,PDF page 9; detected table 1; row 11; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,12,1,Economically affected families,PDF page 9; detected table 1; row 12; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,12,2,734,PDF page 9; detected table 1; row 12; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,13,1,Titled PAFs,PDF page 9; detected table 1; row 13; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,13,2,450,PDF page 9; detected table 1; row 13; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,14,1,Non-Titled PAFs,PDF page 9; detected table 1; row 14; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,14,2,581,PDF page 9; detected table 1; row 14; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,15,1,Affected Common Property Resources,PDF page 9; detected table 1; row 15; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,1,15,2,31,PDF page 9; detected table 1; row 15; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,1,1,Vulnerable Category,PDF page 9; detected table 2; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,1,2,Numbers,PDF page 9; detected table 2; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,2,1,Women Headed Households,PDF page 9; detected table 2; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,2,2,26,PDF page 9; detected table 2; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,3,1,Scheduled Tribe (ST) headed households,PDF page 9; detected table 2; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,3,2,04,PDF page 9; detected table 2; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,4,1,Scheduled Caste (SC) headed households,PDF page 9; detected table 2; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,4,2,109,PDF page 9; detected table 2; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,5,1,BPL Households,PDF page 9; detected table 2; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,5,2,59,PDF page 9; detected table 2; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,6,1,Total,PDF page 9; detected table 2; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,9,2,6,2,198,PDF page 9; detected table 2; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,1,1,Details of requirement,PDF page 11; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,1,2,Government,PDF page 11; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,1,3,Private land,PDF page 11; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,2,2,land (ha),PDF page 11; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,2,3,(ha),PDF page 11; detected table 1; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,3,1,,PDF page 11; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,4,1,"Line, stations, parking, PD *",PDF page 11; detected table 1; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,4,2,5.04,PDF page 11; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,4,3,5.70,PDF page 11; detected table 1; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,5,1,Depot,PDF page 11; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,5,2,17.40,PDF page 11; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,5,3,Nil,PDF page 11; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,6,1,Total,PDF page 11; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,6,2,22.44,PDF page 11; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,11,1,6,3,5.70,PDF page 11; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,1,1,,PDF page 12; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,1,2,Residential,PDF page 12; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,1,4,Commercial,PDF page 12; detected table 1; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,1,6,Others,PDF page 12; detected table 1; row 1; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,1,8,Total No. of,PDF page 12; detected table 1; row 1; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,2,1,Tenure,PDF page 12; detected table 1; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,2,8,structures,PDF page 12; detected table 1; row 2; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,3,2,,PDF page 12; detected table 1; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,3,4,,PDF page 12; detected table 1; row 3; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,3,6,,PDF page 12; detected table 1; row 3; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,4,1,,PDF page 12; detected table 1; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,4,2,Affected,PDF page 12; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,4,3,Displaced,PDF page 12; detected table 1; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,4,4,Affected,PDF page 12; detected table 1; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,4,5,Displaced,PDF page 12; detected table 1; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,4,6,Affected,PDF page 12; detected table 1; row 4; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,4,7,Displaced,PDF page 12; detected table 1; row 4; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,4,8,Affected,PDF page 12; detected table 1; row 4; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,4,9,Displaced,PDF page 12; detected table 1; row 4; column 9,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,5,1,Owners,PDF page 12; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,5,2,23,PDF page 12; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,5,3,18,PDF page 12; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,5,4,134,PDF page 12; detected table 1; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,5,5,51,PDF page 12; detected table 1; row 5; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,5,6,19,PDF page 12; detected table 1; row 5; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,5,7,6,PDF page 12; detected table 1; row 5; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,5,8,176,PDF page 12; detected table 1; row 5; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,5,9,75,PDF page 12; detected table 1; row 5; column 9,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,6,1,Encroacher,PDF page 12; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,6,2,13,PDF page 12; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,6,3,0,PDF page 12; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,6,4,111,PDF page 12; detected table 1; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,6,5,0,PDF page 12; detected table 1; row 6; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,6,6,5,PDF page 12; detected table 1; row 6; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,6,7,0,PDF page 12; detected table 1; row 6; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,6,8,129,PDF page 12; detected table 1; row 6; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,6,9,0,PDF page 12; detected table 1; row 6; column 9,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,7,1,Squatters,PDF page 12; detected table 1; row 7; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,7,2,0,PDF page 12; detected table 1; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,7,3,12,PDF page 12; detected table 1; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,7,4,0,PDF page 12; detected table 1; row 7; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,7,5,37,PDF page 12; detected table 1; row 7; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,7,6,0,PDF page 12; detected table 1; row 7; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,7,7,0,PDF page 12; detected table 1; row 7; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,7,8,0,PDF page 12; detected table 1; row 7; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,7,9,49,PDF page 12; detected table 1; row 7; column 9,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,8,1,Total,PDF page 12; detected table 1; row 8; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,8,2,36,PDF page 12; detected table 1; row 8; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,8,3,30,PDF page 12; detected table 1; row 8; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,8,4,245,PDF page 12; detected table 1; row 8; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,8,5,88,PDF page 12; detected table 1; row 8; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,8,6,24,PDF page 12; detected table 1; row 8; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,8,7,6,PDF page 12; detected table 1; row 8; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,8,8,305,PDF page 12; detected table 1; row 8; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,8,9,124,PDF page 12; detected table 1; row 8; column 9,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,9,1,"Grand
+Total",PDF page 12; detected table 1; row 9; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,9,2,66,PDF page 12; detected table 1; row 9; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,9,4,333,PDF page 12; detected table 1; row 9; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,9,6,30,PDF page 12; detected table 1; row 9; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,1,9,8,429,PDF page 12; detected table 1; row 9; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,1,1,Name of the,PDF page 12; detected table 2; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,1,2,Residencial,PDF page 12; detected table 2; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,1,3,Commercial,PDF page 12; detected table 2; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,1,4,Other,PDF page 12; detected table 2; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,1,5,Total,PDF page 12; detected table 2; row 1; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,2,1,Corridor,PDF page 12; detected table 2; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,2,4,structures,PDF page 12; detected table 2; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,3,2,,PDF page 12; detected table 2; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,3,3,,PDF page 12; detected table 2; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,4,1,,PDF page 12; detected table 2; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,4,2,36,PDF page 12; detected table 2; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,4,3,245,PDF page 12; detected table 2; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,4,4,24,PDF page 12; detected table 2; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,4,5,305,PDF page 12; detected table 2; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,5,2,11.84%,PDF page 12; detected table 2; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,5,3,80.59%,PDF page 12; detected table 2; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,5,4,7.57%,PDF page 12; detected table 2; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,2,5,5,100%,PDF page 12; detected table 2; row 5; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,1,1,Name of the,PDF page 12; detected table 3; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,1,2,Residencial,PDF page 12; detected table 3; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,1,3,Commercial,PDF page 12; detected table 3; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,1,4,Other,PDF page 12; detected table 3; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,1,5,Total,PDF page 12; detected table 3; row 1; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,2,1,Corridor,PDF page 12; detected table 3; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,2,2,,PDF page 12; detected table 3; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,2,3,,PDF page 12; detected table 3; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,2,4,structures,PDF page 12; detected table 3; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,2,5,,PDF page 12; detected table 3; row 2; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,3,1,,PDF page 12; detected table 3; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,3,2,30,PDF page 12; detected table 3; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,3,3,88,PDF page 12; detected table 3; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,3,4,6,PDF page 12; detected table 3; row 3; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,3,5,124,PDF page 12; detected table 3; row 3; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,4,2,24.0%,PDF page 12; detected table 3; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,4,3,70.4%,PDF page 12; detected table 3; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,4,4,5.6%,PDF page 12; detected table 3; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,12,3,4,5,100%,PDF page 12; detected table 3; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,1,1,,PDF page 13; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,1,2,Residential,PDF page 13; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,1,4,Commercial,PDF page 13; detected table 1; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,1,6,Total AF*,PDF page 13; detected table 1; row 1; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,1,7,Grand Total,PDF page 13; detected table 1; row 1; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,2,1,,PDF page 13; detected table 1; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,2,2,Affected,PDF page 13; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,2,3,,PDF page 13; detected table 1; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,2,4,Affected,PDF page 13; detected table 1; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,2,5,,PDF page 13; detected table 1; row 2; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,2,6,Affected,PDF page 13; detected table 1; row 2; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,2,7,,PDF page 13; detected table 1; row 2; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,3,1,Tenure,PDF page 13; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,3,2,not-,PDF page 13; detected table 1; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,3,3,Displace,PDF page 13; detected table 1; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,3,4,not,PDF page 13; detected table 1; row 3; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,3,5,Displace,PDF page 13; detected table 1; row 3; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,3,6,not,PDF page 13; detected table 1; row 3; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,4,7,Displaced,PDF page 13; detected table 1; row 4; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,5,1,,PDF page 13; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,5,2,displace,PDF page 13; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,5,3,d,PDF page 13; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,5,4,displace,PDF page 13; detected table 1; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,5,5,d,PDF page 13; detected table 1; row 5; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,5,6,displace,PDF page 13; detected table 1; row 5; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,6,7,,PDF page 13; detected table 1; row 6; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,7,2,d,PDF page 13; detected table 1; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,7,3,,PDF page 13; detected table 1; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,7,4,d,PDF page 13; detected table 1; row 7; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,7,5,,PDF page 13; detected table 1; row 7; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,7,6,d,PDF page 13; detected table 1; row 7; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,8,1,Owners,PDF page 13; detected table 1; row 8; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,8,2,115,PDF page 13; detected table 1; row 8; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,8,3,121,PDF page 13; detected table 1; row 8; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,8,4,199,PDF page 13; detected table 1; row 8; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,8,5,15,PDF page 13; detected table 1; row 8; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,8,6,314,PDF page 13; detected table 1; row 8; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,8,7,136,PDF page 13; detected table 1; row 8; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,8,8,450,PDF page 13; detected table 1; row 8; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,9,1,Encroacher,PDF page 13; detected table 1; row 9; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,9,2,6,PDF page 13; detected table 1; row 9; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,9,3,0,PDF page 13; detected table 1; row 9; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,9,4,85,PDF page 13; detected table 1; row 9; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,9,5,0,PDF page 13; detected table 1; row 9; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,9,6,91,PDF page 13; detected table 1; row 9; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,9,7,0,PDF page 13; detected table 1; row 9; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,9,8,91,PDF page 13; detected table 1; row 9; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,10,1,Squatters,PDF page 13; detected table 1; row 10; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,10,2,0,PDF page 13; detected table 1; row 10; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,10,3,12,PDF page 13; detected table 1; row 10; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,10,4,0,PDF page 13; detected table 1; row 10; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,10,5,48,PDF page 13; detected table 1; row 10; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,10,6,0,PDF page 13; detected table 1; row 10; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,10,7,60,PDF page 13; detected table 1; row 10; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,10,8,60,PDF page 13; detected table 1; row 10; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,11,1,Kiosk,PDF page 13; detected table 1; row 11; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,11,2,0,PDF page 13; detected table 1; row 11; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,11,3,0,PDF page 13; detected table 1; row 11; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,11,4,0,PDF page 13; detected table 1; row 11; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,11,5,1,PDF page 13; detected table 1; row 11; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,11,6,0,PDF page 13; detected table 1; row 11; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,11,7,1,PDF page 13; detected table 1; row 11; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,11,8,1,PDF page 13; detected table 1; row 11; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,12,1,Tenants,PDF page 13; detected table 1; row 12; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,12,2,20,PDF page 13; detected table 1; row 12; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,12,3,23,PDF page 13; detected table 1; row 12; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,12,4,330,PDF page 13; detected table 1; row 12; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,12,5,56,PDF page 13; detected table 1; row 12; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,12,6,350,PDF page 13; detected table 1; row 12; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,12,7,79,PDF page 13; detected table 1; row 12; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,12,8,429,PDF page 13; detected table 1; row 12; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,13,1,Total,PDF page 13; detected table 1; row 13; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,13,2,141,PDF page 13; detected table 1; row 13; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,13,3,156,PDF page 13; detected table 1; row 13; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,13,4,614,PDF page 13; detected table 1; row 13; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,13,5,120,PDF page 13; detected table 1; row 13; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,13,6,755,PDF page 13; detected table 1; row 13; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,13,7,276,PDF page 13; detected table 1; row 13; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,1,13,8,1031,PDF page 13; detected table 1; row 13; column 8,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,1,1,Name of the,PDF page 13; detected table 2; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,1,2,Commerci,PDF page 13; detected table 2; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,1,3,Residential,PDF page 13; detected table 2; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,1,4,Total,PDF page 13; detected table 2; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,2,1,Corridor,PDF page 13; detected table 2; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,2,2,al,PDF page 13; detected table 2; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,3,3,,PDF page 13; detected table 2; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,3,4,,PDF page 13; detected table 2; row 3; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,4,1,,PDF page 13; detected table 2; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,4,2,,PDF page 13; detected table 2; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,5,1,Corridor 4,PDF page 13; detected table 2; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,5,2,734,PDF page 13; detected table 2; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,5,3,297,PDF page 13; detected table 2; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,5,4,1031,PDF page 13; detected table 2; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,6,1,Percentage (%),PDF page 13; detected table 2; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,6,2,71.19,PDF page 13; detected table 2; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,6,3,28.814,PDF page 13; detected table 2; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,13,2,6,4,100,PDF page 13; detected table 2; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,1,1,Religious,PDF page 14; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,1,2,Public,PDF page 14; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,1,3,,PDF page 14; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,1,4,,PDF page 14; detected table 1; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,1,5,,PDF page 14; detected table 1; row 1; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,1,6,,PDF page 14; detected table 1; row 1; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,1,7,,PDF page 14; detected table 1; row 1; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,2,3,Playground,PDF page 14; detected table 1; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,2,4,School,PDF page 14; detected table 1; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,2,5,Park,PDF page 14; detected table 1; row 2; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,2,6,Others,PDF page 14; detected table 1; row 2; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,2,7,Total,PDF page 14; detected table 1; row 2; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,3,1,Structures,PDF page 14; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,3,2,Toilet,PDF page 14; detected table 1; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,4,3,,PDF page 14; detected table 1; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,4,4,,PDF page 14; detected table 1; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,4,5,,PDF page 14; detected table 1; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,4,6,,PDF page 14; detected table 1; row 4; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,4,7,,PDF page 14; detected table 1; row 4; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,5,1,,PDF page 14; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,5,2,,PDF page 14; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,6,1,9,PDF page 14; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,6,2,1,PDF page 14; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,6,3,2,PDF page 14; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,6,4,3,PDF page 14; detected table 1; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,6,5,2,PDF page 14; detected table 1; row 6; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,6,6,14,PDF page 14; detected table 1; row 6; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,14,1,6,7,31,PDF page 14; detected table 1; row 6; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,1,1,Gender of Head of,PDF page 15; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,1,2,Number of,PDF page 15; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,1,3,Percentage,PDF page 15; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,2,1,PAF,PDF page 15; detected table 1; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,2,2,PAFs,PDF page 15; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,2,3,,PDF page 15; detected table 1; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,3,1,Male,PDF page 15; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,3,2,762,PDF page 15; detected table 1; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,3,3,73.91 %,PDF page 15; detected table 1; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,4,1,Female,PDF page 15; detected table 1; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,4,2,269,PDF page 15; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,4,3,26.09 %,PDF page 15; detected table 1; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,5,1,Total,PDF page 15; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,5,2,1031,PDF page 15; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,15,1,5,3,100 %,PDF page 15; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,1,1,Religion,PDF page 16; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,1,2,Number of,PDF page 16; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,1,3,Percentage,PDF page 16; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,2,2,PAFs,PDF page 16; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,3,1,,PDF page 16; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,3,3,,PDF page 16; detected table 1; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,4,1,Hindu,PDF page 16; detected table 1; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,4,2,453,PDF page 16; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,4,3,43.9,PDF page 16; detected table 1; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,5,1,Muslim,PDF page 16; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,5,2,231,PDF page 16; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,5,3,22.4,PDF page 16; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,6,1,Christian,PDF page 16; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,6,2,242,PDF page 16; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,6,3,23.5,PDF page 16; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,7,1,Others,PDF page 16; detected table 1; row 7; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,7,2,105,PDF page 16; detected table 1; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,7,3,10.2,PDF page 16; detected table 1; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,8,1,Total,PDF page 16; detected table 1; row 8; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,8,2,1031,PDF page 16; detected table 1; row 8; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,1,8,3,100.0,PDF page 16; detected table 1; row 8; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,1,1,Social Group,PDF page 16; detected table 2; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,1,2,Number of PAFs,PDF page 16; detected table 2; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,1,3,Percentage,PDF page 16; detected table 2; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,2,1,Scheduled Castes,PDF page 16; detected table 2; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,2,2,109,PDF page 16; detected table 2; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,2,3,10.6,PDF page 16; detected table 2; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,3,1,Scheduled Tribes,PDF page 16; detected table 2; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,3,2,4,PDF page 16; detected table 2; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,3,3,0.4,PDF page 16; detected table 2; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,4,1,Other Backward Castes,PDF page 16; detected table 2; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,4,2,288,PDF page 16; detected table 2; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,4,3,27.9,PDF page 16; detected table 2; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,5,1,General,PDF page 16; detected table 2; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,5,2,630,PDF page 16; detected table 2; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,5,3,61.1,PDF page 16; detected table 2; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,6,1,Total,PDF page 16; detected table 2; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,6,2,1031,PDF page 16; detected table 2; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,2,6,3,100.0,PDF page 16; detected table 2; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,1,1,Size of PAF,PDF page 16; detected table 3; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,1,2,Number of,PDF page 16; detected table 3; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,1,3,Percentage,PDF page 16; detected table 3; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,2,1,,PDF page 16; detected table 3; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,2,2,PAFs,PDF page 16; detected table 3; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,2,3,,PDF page 16; detected table 3; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,3,1,Less than 2,PDF page 16; detected table 3; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,3,2,14,PDF page 16; detected table 3; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,3,3,4.7,PDF page 16; detected table 3; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,4,1,Small ( 2-4),PDF page 16; detected table 3; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,4,2,137,PDF page 16; detected table 3; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,4,3,46.1,PDF page 16; detected table 3; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,5,1,Medium (5-7),PDF page 16; detected table 3; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,5,2,77,PDF page 16; detected table 3; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,5,3,25.9,PDF page 16; detected table 3; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,6,1,Large (Above 7),PDF page 16; detected table 3; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,6,2,69,PDF page 16; detected table 3; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,6,3,23.3,PDF page 16; detected table 3; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,7,1,Total,PDF page 16; detected table 3; row 7; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,7,2,297,PDF page 16; detected table 3; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,16,3,7,3,100.0,PDF page 16; detected table 3; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,1,1,"Level of
+Education of
+Head of PAF",PDF page 17; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,1,2,Male,PDF page 17; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,1,4,Female,PDF page 17; detected table 1; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,1,6,Total,PDF page 17; detected table 1; row 1; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,2,2,Number,PDF page 17; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,2,3,%,PDF page 17; detected table 1; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,2,4,Number,PDF page 17; detected table 1; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,2,5,%,PDF page 17; detected table 1; row 2; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,2,6,Number,PDF page 17; detected table 1; row 2; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,2,7,%,PDF page 17; detected table 1; row 2; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,3,1,Illiterates,PDF page 17; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,3,2,190,PDF page 17; detected table 1; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,3,3,24.9,PDF page 17; detected table 1; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,3,4,81,PDF page 17; detected table 1; row 3; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,3,5,30.1,PDF page 17; detected table 1; row 3; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,3,6,271,PDF page 17; detected table 1; row 3; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,3,7,26.3,PDF page 17; detected table 1; row 3; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,4,1,Primary,PDF page 17; detected table 1; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,4,2,107,PDF page 17; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,4,3,14.0,PDF page 17; detected table 1; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,4,4,35,PDF page 17; detected table 1; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,4,5,13.0,PDF page 17; detected table 1; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,4,6,142,PDF page 17; detected table 1; row 4; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,4,7,13.7,PDF page 17; detected table 1; row 4; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,5,1,Upper Primary,PDF page 17; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,5,2,164,PDF page 17; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,5,3,21.5,PDF page 17; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,5,4,46,PDF page 17; detected table 1; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,5,5,17.1,PDF page 17; detected table 1; row 5; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,5,6,210,PDF page 17; detected table 1; row 5; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,5,7,20.4,PDF page 17; detected table 1; row 5; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,6,1,High School,PDF page 17; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,6,2,211,PDF page 17; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,6,3,27.7,PDF page 17; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,6,4,60,PDF page 17; detected table 1; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,6,5,22.3,PDF page 17; detected table 1; row 6; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,6,6,271,PDF page 17; detected table 1; row 6; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,6,7,26.3,PDF page 17; detected table 1; row 6; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,7,1,Higher Secondary,PDF page 17; detected table 1; row 7; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,7,2,23,PDF page 17; detected table 1; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,7,3,3.1,PDF page 17; detected table 1; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,7,4,15,PDF page 17; detected table 1; row 7; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,7,5,5.6,PDF page 17; detected table 1; row 7; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,7,6,38,PDF page 17; detected table 1; row 7; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,7,7,3.7,PDF page 17; detected table 1; row 7; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,8,1,Degree & Above,PDF page 17; detected table 1; row 8; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,8,2,67,PDF page 17; detected table 1; row 8; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,8,3,8.8,PDF page 17; detected table 1; row 8; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,8,4,32,PDF page 17; detected table 1; row 8; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,8,5,11.9,PDF page 17; detected table 1; row 8; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,8,6,99,PDF page 17; detected table 1; row 8; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,8,7,9.6,PDF page 17; detected table 1; row 8; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,9,1,Total,PDF page 17; detected table 1; row 9; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,9,2,762,PDF page 17; detected table 1; row 9; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,9,3,100,PDF page 17; detected table 1; row 9; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,9,4,269,PDF page 17; detected table 1; row 9; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,9,5,100,PDF page 17; detected table 1; row 9; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,9,6,1031,PDF page 17; detected table 1; row 9; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,1,9,7,100,PDF page 17; detected table 1; row 9; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,1,1,Occupation,PDF page 17; detected table 2; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,1,2,Male,PDF page 17; detected table 2; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,1,4,Female,PDF page 17; detected table 2; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,1,6,Total,PDF page 17; detected table 2; row 1; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,2,2,Number,PDF page 17; detected table 2; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,2,3,%,PDF page 17; detected table 2; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,2,4,Number,PDF page 17; detected table 2; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,2,5,%,PDF page 17; detected table 2; row 2; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,2,6,Number,PDF page 17; detected table 2; row 2; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,2,7,%,PDF page 17; detected table 2; row 2; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,3,1,,PDF page 17; detected table 2; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,4,1,Business,PDF page 17; detected table 2; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,4,2,324,PDF page 17; detected table 2; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,4,3,42.5,PDF page 17; detected table 2; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,4,4,78,PDF page 17; detected table 2; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,4,5,29.0,PDF page 17; detected table 2; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,4,6,402,PDF page 17; detected table 2; row 4; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,4,7,39.0,PDF page 17; detected table 2; row 4; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,5,1,Service (private),PDF page 17; detected table 2; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,5,2,83,PDF page 17; detected table 2; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,5,3,10.9,PDF page 17; detected table 2; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,5,4,52,PDF page 17; detected table 2; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,5,5,19.3,PDF page 17; detected table 2; row 5; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,5,6,135,PDF page 17; detected table 2; row 5; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,5,7,13.1,PDF page 17; detected table 2; row 5; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,6,1,"Service
+(government)",PDF page 17; detected table 2; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,6,2,37,PDF page 17; detected table 2; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,6,3,4.8,PDF page 17; detected table 2; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,6,4,36,PDF page 17; detected table 2; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,6,5,13.4,PDF page 17; detected table 2; row 6; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,6,6,73,PDF page 17; detected table 2; row 6; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,6,7,7.1,PDF page 17; detected table 2; row 6; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,7,1,Labour,PDF page 17; detected table 2; row 7; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,7,2,255,PDF page 17; detected table 2; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,7,3,33.5,PDF page 17; detected table 2; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,7,4,51,PDF page 17; detected table 2; row 7; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,7,5,18.9,PDF page 17; detected table 2; row 7; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,7,6,306,PDF page 17; detected table 2; row 7; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,7,7,29.7,PDF page 17; detected table 2; row 7; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,8,1,Unemployed,PDF page 17; detected table 2; row 8; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,8,2,63,PDF page 17; detected table 2; row 8; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,8,3,8.3,PDF page 17; detected table 2; row 8; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,8,4,52,PDF page 17; detected table 2; row 8; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,8,5,19.4,PDF page 17; detected table 2; row 8; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,8,6,115,PDF page 17; detected table 2; row 8; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,8,7,11.1,PDF page 17; detected table 2; row 8; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,9,1,Total,PDF page 17; detected table 2; row 9; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,9,2,762,PDF page 17; detected table 2; row 9; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,9,3,100.0,PDF page 17; detected table 2; row 9; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,9,4,269,PDF page 17; detected table 2; row 9; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,9,5,100.0,PDF page 17; detected table 2; row 9; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,9,6,1031,PDF page 17; detected table 2; row 9; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,2,9,7,100..0,PDF page 17; detected table 2; row 9; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,1,1,Age Group,PDF page 17; detected table 3; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,1,2,Male,PDF page 17; detected table 3; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,1,3,%,PDF page 17; detected table 3; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,1,4,Female,PDF page 17; detected table 3; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,1,5,,PDF page 17; detected table 3; row 1; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,1,6,Total,PDF page 17; detected table 3; row 1; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,1,7,%,PDF page 17; detected table 3; row 1; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,2,1,,PDF page 17; detected table 3; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,2,2,,PDF page 17; detected table 3; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,2,3,,PDF page 17; detected table 3; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,2,4,,PDF page 17; detected table 3; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,2,5,,PDF page 17; detected table 3; row 2; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,2,6,,PDF page 17; detected table 3; row 2; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,2,7,,PDF page 17; detected table 3; row 2; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,3,1,21-35,PDF page 17; detected table 3; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,3,2,262,PDF page 17; detected table 3; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,3,3,25.4,PDF page 17; detected table 3; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,3,4,69,PDF page 17; detected table 3; row 3; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,3,5,6.7,PDF page 17; detected table 3; row 3; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,3,6,331,PDF page 17; detected table 3; row 3; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,3,7,32.10,PDF page 17; detected table 3; row 3; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,4,1,36-60,PDF page 17; detected table 3; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,4,2,398,PDF page 17; detected table 3; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,4,3,38.7,PDF page 17; detected table 3; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,4,4,158,PDF page 17; detected table 3; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,4,5,15.3,PDF page 17; detected table 3; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,4,6,556,PDF page 17; detected table 3; row 4; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,4,7,53.93,PDF page 17; detected table 3; row 4; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,5,1,Above 60,PDF page 17; detected table 3; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,5,2,102,PDF page 17; detected table 3; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,5,3,9.9,PDF page 17; detected table 3; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,5,4,42,PDF page 17; detected table 3; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,5,5,4.0,PDF page 17; detected table 3; row 5; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,5,6,144,PDF page 17; detected table 3; row 5; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,5,7,13.97,PDF page 17; detected table 3; row 5; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,6,1,Total,PDF page 17; detected table 3; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,6,2,762,PDF page 17; detected table 3; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,6,3,73.91,PDF page 17; detected table 3; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,6,4,269,PDF page 17; detected table 3; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,6,5,26.09,PDF page 17; detected table 3; row 6; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,6,6,1031,PDF page 17; detected table 3; row 6; column 6,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,17,3,6,7,100,PDF page 17; detected table 3; row 6; column 7,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,1,1,Commercial Activity,PDF page 18; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,1,2,Number of PAFs,PDF page 18; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,1,3,Percentage,PDF page 18; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,2,1,Hotel,PDF page 18; detected table 1; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,2,2,57,PDF page 18; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,2,3,7.8,PDF page 18; detected table 1; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,3,1,Tea Shop,PDF page 18; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,3,2,68,PDF page 18; detected table 1; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,3,3,9.3,PDF page 18; detected table 1; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,4,1,Repair & work shop,PDF page 18; detected table 1; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,4,2,554,PDF page 18; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,4,3,75.3,PDF page 18; detected table 1; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,5,1,Other Enterprise,PDF page 18; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,5,2,54,PDF page 18; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,5,3,7.6,PDF page 18; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,6,1,Total,PDF page 18; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,6,2,733,PDF page 18; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,1,6,3,100.0,PDF page 18; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,1,1,Size of Establishment,PDF page 18; detected table 2; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,1,2,Number of,PDF page 18; detected table 2; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,1,3,Percentage,PDF page 18; detected table 2; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,2,1,,PDF page 18; detected table 2; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,2,2,Establishment,PDF page 18; detected table 2; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,2,3,,PDF page 18; detected table 2; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,3,1,"One person only (Owner
+/Operator)",PDF page 18; detected table 2; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,3,2,356,PDF page 18; detected table 2; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,3,3,48.4,PDF page 18; detected table 2; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,4,1,Employed 1 to 5 persons,PDF page 18; detected table 2; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,4,2,180,PDF page 18; detected table 2; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,4,3,24.5,PDF page 18; detected table 2; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,5,1,"Employed more than 5
+persons",PDF page 18; detected table 2; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,5,2,197,PDF page 18; detected table 2; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,5,3,27.1,PDF page 18; detected table 2; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,6,1,Total,PDF page 18; detected table 2; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,6,2,733,PDF page 18; detected table 2; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,2,6,3,100.0,PDF page 18; detected table 2; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,1,1,Annual Family Income (Rs),PDF page 18; detected table 3; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,1,2,Number of PAFs,PDF page 18; detected table 3; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,1,3,Percentage,PDF page 18; detected table 3; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,2,1,,PDF page 18; detected table 3; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,2,2,,PDF page 18; detected table 3; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,2,3,,PDF page 18; detected table 3; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,3,1,<70000,PDF page 18; detected table 3; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,3,2,59,PDF page 18; detected table 3; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,3,3,8.63,PDF page 18; detected table 3; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,4,1,70001-150000,PDF page 18; detected table 3; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,4,2,164,PDF page 18; detected table 3; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,4,3,23.97,PDF page 18; detected table 3; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,5,1,150001-350000,PDF page 18; detected table 3; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,5,2,126,PDF page 18; detected table 3; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,5,3,18.42,PDF page 18; detected table 3; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,6,1,>350001,PDF page 18; detected table 3; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,6,2,335,PDF page 18; detected table 3; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,6,3,48.98,PDF page 18; detected table 3; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,7,1,Total,PDF page 18; detected table 3; row 7; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,7,2,684,PDF page 18; detected table 3; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,18,3,7,3,100.0,PDF page 18; detected table 3; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,1,1,Vulnerable Type,PDF page 19; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,1,2,Number of,PDF page 19; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,1,3,Percentage,PDF page 19; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,2,1,,PDF page 19; detected table 1; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,2,2,PAFs,PDF page 19; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,2,3,,PDF page 19; detected table 1; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,3,1,"Women Headed
+Households",PDF page 19; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,3,2,26,PDF page 19; detected table 1; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,3,3,13.1,PDF page 19; detected table 1; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,4,1,"Scheduled Tribe
+households",PDF page 19; detected table 1; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,4,2,4,PDF page 19; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,4,3,2.0,PDF page 19; detected table 1; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,5,1,"Scheduled Caste
+households",PDF page 19; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,5,2,109,PDF page 19; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,5,3,55.1,PDF page 19; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,6,1,BPL ** Households,PDF page 19; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,6,2,59,PDF page 19; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,6,3,29.8,PDF page 19; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,7,1,Total,PDF page 19; detected table 1; row 7; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,7,2,198,PDF page 19; detected table 1; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,1,7,3,100.0,PDF page 19; detected table 1; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,1,1,SL.No,PDF page 19; detected table 2; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,1,2,Preference,PDF page 19; detected table 2; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,1,3,Percentage,PDF page 19; detected table 2; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,2,1,,PDF page 19; detected table 2; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,2,2,,PDF page 19; detected table 2; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,2,3,,PDF page 19; detected table 2; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,3,1,1,PDF page 19; detected table 2; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,3,2,Preferred within the area,PDF page 19; detected table 2; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,3,3,55,PDF page 19; detected table 2; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,4,1,2,PDF page 19; detected table 2; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,4,2,Outside the area,PDF page 19; detected table 2; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,4,3,45,PDF page 19; detected table 2; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,5,1,,PDF page 19; detected table 2; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,5,2,Total,PDF page 19; detected table 2; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,2,5,3,100,PDF page 19; detected table 2; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,1,1,SL.No,PDF page 19; detected table 3; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,1,2,Preference,PDF page 19; detected table 3; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,1,3,Percentage,PDF page 19; detected table 3; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,2,1,,PDF page 19; detected table 3; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,2,2,,PDF page 19; detected table 3; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,2,3,,PDF page 19; detected table 3; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,3,1,1,PDF page 19; detected table 3; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,3,2,Land for land,PDF page 19; detected table 3; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,3,3,Zero,PDF page 19; detected table 3; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,4,1,2,PDF page 19; detected table 3; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,4,2,Cash assistance,PDF page 19; detected table 3; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,4,3,40,PDF page 19; detected table 3; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,5,1,3,PDF page 19; detected table 3; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,5,2,House in resettlement site,PDF page 19; detected table 3; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,5,3,23,PDF page 19; detected table 3; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,6,1,4,PDF page 19; detected table 3; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,6,2,Shop in resettlement site,PDF page 19; detected table 3; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,6,3,37,PDF page 19; detected table 3; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,7,1,,PDF page 19; detected table 3; row 7; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,7,2,Total,PDF page 19; detected table 3; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,19,3,7,3,100,PDF page 19; detected table 3; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,1,1,,PDF page 20; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,1,2,,PDF page 20; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,1,3,Number,PDF page 20; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,1,4,,PDF page 20; detected table 1; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,1,5,,PDF page 20; detected table 1; row 1; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,2,1,,PDF page 20; detected table 1; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,2,2,,PDF page 20; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,2,4,,PDF page 20; detected table 1; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,2,5,,PDF page 20; detected table 1; row 2; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,3,3,of,PDF page 20; detected table 1; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,4,1,Place,PDF page 20; detected table 1; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,4,2,Date,PDF page 20; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,4,4,Issue,PDF page 20; detected table 1; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,4,5,Suggestion/opinion,PDF page 20; detected table 1; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,5,3,particip,PDF page 20; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,6,1,,PDF page 20; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,6,2,,PDF page 20; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,6,4,,PDF page 20; detected table 1; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,6,5,,PDF page 20; detected table 1; row 6; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,7,3,ants,PDF page 20; detected table 1; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,8,3,,PDF page 20; detected table 1; row 8; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,9,1,Alwarpet,PDF page 20; detected table 1; row 9; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,9,2,03.11.2016,PDF page 20; detected table 1; row 9; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,9,3,6,PDF page 20; detected table 1; row 9; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,9,4,Compensation,PDF page 20; detected table 1; row 9; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,9,5,"Adequate compensation for
+structures should be paid to help re-
+start life",PDF page 20; detected table 1; row 9; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,10,4,Fare,PDF page 20; detected table 1; row 10; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,10,5,"Fare should be comparable with
+other modes of travel",PDF page 20; detected table 1; row 10; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,11,4,Bore wells,PDF page 20; detected table 1; row 11; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,11,5,"Bore wells in station areas will be
+affected",PDF page 20; detected table 1; row 11; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,12,4,Building damage,PDF page 20; detected table 1; row 12; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,12,5,Should be taken care,PDF page 20; detected table 1; row 12; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,13,4,Tenancy,PDF page 20; detected table 1; row 13; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,13,5,"After construction we want tenancy
+at this place a same rate",PDF page 20; detected table 1; row 13; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,14,4,Livelihood,PDF page 20; detected table 1; row 14; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,14,5,Livelihood will get affected,PDF page 20; detected table 1; row 14; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,15,1,"Luz,
+Thirumayilai",PDF page 20; detected table 1; row 15; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,15,2,29.05.2017,PDF page 20; detected table 1; row 15; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,15,3,7,PDF page 20; detected table 1; row 15; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,15,4,"Solve traffic issues
+and increase
+connectivity",PDF page 20; detected table 1; row 15; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,15,5,"Metro will reduce the traffic jam.
+The long-distance travel will be
+easy and metro will increase the
+connectivity.",PDF page 20; detected table 1; row 15; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,16,4,"Old area; building may
+collapse due to
+tunnelling work",PDF page 20; detected table 1; row 16; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,16,5,"Underground track may not be
+suitable for Mylapore as it is a very
+old area with heritage buildings-
+temples, church etc. Many
+buildings/ residents are century old;
+therefore, there is a great risk of
+collapse.",PDF page 20; detected table 1; row 16; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,17,4,"Business loss due to
+construction activity",PDF page 20; detected table 1; row 17; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,17,5,"If construction activities go long
+more than expected, then it incurred
+loss to commercial/ shops.",PDF page 20; detected table 1; row 17; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,18,4,Fare,PDF page 20; detected table 1; row 18; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,20,1,18,5,Fare should be less.,PDF page 20; detected table 1; row 18; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,1,1,"Poonamallee
+Depot",PDF page 21; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,1,2,20.11.2018,PDF page 21; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,1,3,8,PDF page 21; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,1,4,Time Saving,PDF page 21; detected table 1; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,1,5,"Time will be saved in comparison
+with other means of transport.",PDF page 21; detected table 1; row 1; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,2,4,Loss of livelihood,PDF page 21; detected table 1; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,2,5,"The loss of livelihood for small
+enterprises is a major issue for
+employees or working class",PDF page 21; detected table 1; row 2; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,3,4,"Traffic and pollution
+during construction of
+the project",PDF page 21; detected table 1; row 3; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,3,5,"There is a possibility of pollution
+and traffic problem during
+construction of the metro project.",PDF page 21; detected table 1; row 3; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,4,4,"Reduction of road
+pollution",PDF page 21; detected table 1; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,4,5,"Metro train will reduce the existing
+high level of pollution both noise
+and air.",PDF page 21; detected table 1; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,5,4,Safety and Security,PDF page 21; detected table 1; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,5,5,"The lady respondents said that the
+proposed metro project will be
+helpful for her because metro offers
+special a special compartment for
+ladies only.",PDF page 21; detected table 1; row 5; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,6,4,"Loss of Trees and
+land",PDF page 21; detected table 1; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,6,5,"Loss of trees is another major
+concern according to the
+respondents. Tree plantation shall
+be taken care of.",PDF page 21; detected table 1; row 6; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,7,4,High ticket cost,PDF page 21; detected table 1; row 7; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,7,5,"The minimum metro ticket price in
+Chennai metro is Rs.50. The poor
+and middle class citizens will not be
+able to afford that money on a
+regular basis.
+So, they are using the bus services
+mostly.",PDF page 21; detected table 1; row 7; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,8,1,Vadapalani,PDF page 21; detected table 1; row 8; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,8,2,11.11.2016,PDF page 21; detected table 1; row 8; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,8,3,10,PDF page 21; detected table 1; row 8; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,8,4,Road congestion,PDF page 21; detected table 1; row 8; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,8,5,"Operation of metro to reduce
+congestion on road",PDF page 21; detected table 1; row 8; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,9,4,Fare,PDF page 21; detected table 1; row 9; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,9,5,Metro should be less expensive,PDF page 21; detected table 1; row 9; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,10,4,Loss of livelihood,PDF page 21; detected table 1; row 10; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,10,5,"Being a small shop owner, our
+livelihoods will totally loss. There
+has to be adequate provision of
+compensation.",PDF page 21; detected table 1; row 10; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,11,4,Reduction in pollution,PDF page 21; detected table 1; row 11; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,11,5,"Metro will reduce the existing traffic
+load and reduce the level of
+pollution.",PDF page 21; detected table 1; row 11; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,12,4,"Metro reduce road
+side accidents",PDF page 21; detected table 1; row 12; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,12,5,"Metro will reduce the traffic and
+reduced in road accidents.",PDF page 21; detected table 1; row 12; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,13,1,Vadapalani,PDF page 21; detected table 1; row 13; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,13,2,26.05.2017,PDF page 21; detected table 1; row 13; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,13,3,7,PDF page 21; detected table 1; row 13; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,13,4,Travel time,PDF page 21; detected table 1; row 13; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,13,5,Travel time by metro will be lesser,PDF page 21; detected table 1; row 13; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,14,4,"Congestion and
+Pollution",PDF page 21; detected table 1; row 14; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,14,5,"Congestion and Pollution due to
+road traffic will reduce",PDF page 21; detected table 1; row 14; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,15,1,"Poonamalee
+Bus Terminus",PDF page 21; detected table 1; row 15; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,15,2,03.07.2018,PDF page 21; detected table 1; row 15; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,15,3,12,PDF page 21; detected table 1; row 15; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,15,4,Compensation,PDF page 21; detected table 1; row 15; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,21,1,15,5,"Due to metro train, other facilities
+and infrastructure will develop, but
+affected structures/people should
+get adequate compensation in order
+to re-instate their life.",PDF page 21; detected table 1; row 15; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,1,1,"Poonamalee
+Bus Terminus",PDF page 22; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,1,2,03.07.2018,PDF page 22; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,1,3,12,PDF page 22; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,1,4,Loss of livelihood,PDF page 22; detected table 1; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,1,5,"Being a small shop owner, our
+livelihoods will totally loss. There
+has to be adequate provision of
+compensation.",PDF page 22; detected table 1; row 1; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,2,4,Reduction in Pollution,PDF page 22; detected table 1; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,2,5,"Metro will reduce the traffic and
+road accidents.",PDF page 22; detected table 1; row 2; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,3,4,"Construction
+resulting Traffic Jam",PDF page 22; detected table 1; row 3; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,3,5,"Construction activity will result
+traffic jam. As this place is fully
+commercial, metro construction
+may disrupt the traffic flow",PDF page 22; detected table 1; row 3; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,4,4,Green Cover,PDF page 22; detected table 1; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,4,5,"The metro train might reduce the
+green cover and it needs to be
+taken care of.",PDF page 22; detected table 1; row 4; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,5,4,Area development,PDF page 22; detected table 1; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,5,5,"Due to metro train, other facilities
+will come such as infrastructure
+development. Local economy will
+boost up.",PDF page 22; detected table 1; row 5; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,6,1,"Iyappanthang
+al Bus depot",PDF page 22; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,6,2,03.07.2018,PDF page 22; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,6,3,12,PDF page 22; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,6,4,Time Save,PDF page 22; detected table 1; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,6,5,"The metro train facility in Chennai
+will save time to reach the
+destinations in comparison with
+other means.",PDF page 22; detected table 1; row 6; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,7,4,Comfortable Travel,PDF page 22; detected table 1; row 7; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,7,5,"It would be easy to reach to the
+destinations due to the proposed
+metro project.",PDF page 22; detected table 1; row 7; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,8,4,Better connectivity,PDF page 22; detected table 1; row 8; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,8,5,"Metro may improve connectivity
+with speedy travelling.",PDF page 22; detected table 1; row 8; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,9,4,"Reduction in pollution
+and accidents on road
+and overall",PDF page 22; detected table 1; row 9; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,9,5,"There would be reduced pollution
+and no accidents while travelling in
+metro train",PDF page 22; detected table 1; row 9; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,10,4,Loss of livelihood,PDF page 22; detected table 1; row 10; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,10,5,"Local vendors located very close to
+the project site will be affected
+badly",PDF page 22; detected table 1; row 10; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,11,4,Fare,PDF page 22; detected table 1; row 11; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,11,5,"The metro fare should
+be as less as possible considering
+paying power of the people",PDF page 22; detected table 1; row 11; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,12,4,Employment,PDF page 22; detected table 1; row 12; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,22,1,12,5,"Metro will increase jobs especially
+for engineers",PDF page 22; detected table 1; row 12; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,1,1,S.No,PDF page 24; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,1,2,Issues,PDF page 24; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,1,3,Important opinions,PDF page 24; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,1,4,CMRL reply,PDF page 24; detected table 1; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,2,2,Discussed,PDF page 24; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,2,3,and views,PDF page 24; detected table 1; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,3,1,,PDF page 24; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,3,4,,PDF page 24; detected table 1; row 3; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,4,1,1,PDF page 24; detected table 1; row 4; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,4,2,Overall Project,PDF page 24; detected table 1; row 4; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,4,3,"What are the
+advantages &
+disadvantages of this
+project",PDF page 24; detected table 1; row 4; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,4,4," Associated Environmental (positive &
+adverse) impacts with this project were
+explained in detail.
+ R&R plan and the possibility of new
+Employment opportunity for the aspirant
+PAPs was explained in detail.",PDF page 24; detected table 1; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,5,1,2,PDF page 24; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,5,2,Land,PDF page 24; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,5,3,"What is the basis of
+compensation of
+land?",PDF page 24; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,5,4,"Compensation for land is calculated on the
+basis of circle rate. In addition to the circle
+rate, 100% solatium will also be paid.",PDF page 24; detected table 1; row 5; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,6,1,3,PDF page 24; detected table 1; row 6; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,6,2,"Land
+Acquisition",PDF page 24; detected table 1; row 6; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,6,3,"Why few lands were
+shifted even though",PDF page 24; detected table 1; row 6; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,24,1,6,4," CMRL assured that the land is being
+acquired only temporarily. The land is",PDF page 24; detected table 1; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,25,1,1,1,,PDF page 25; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,25,1,1,2,,PDF page 25; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,25,1,1,3,"stations were not at
+that particular area?",PDF page 25; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,25,1,1,4,"being temporarily acquired for safety
+reasons.
+ They are not permanently shifted
+because it is an old and large
+settlement and only 18 affected families.
+Permanent shifting would result in
+separation from their land and
+neighbours.
+ Sufficient time will be given for vacating
+the premises.
+ CMRL will provide rent to the affected
+families for the acquisition period. The
+amount is being worked out and will be
+informed shortly.",PDF page 25; detected table 1; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,25,1,2,1,4,PDF page 25; detected table 1; row 2; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,25,1,2,2,Compensation,PDF page 25; detected table 1; row 2; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,25,1,2,3,"What will be the
+compensation for
+acquisition of
+buildings?",PDF page 25; detected table 1; row 2; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,25,1,2,4,"Cost of Building is based on valuation by
+adopting current PWD schedule of rate
+without depreciation. In addition, 100%
+solatium will also be paid.",PDF page 25; detected table 1; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,1,1,,PDF page 26; detected table 1; row 1; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,1,2,,PDF page 26; detected table 1; row 1; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,1,3,,PDF page 26; detected table 1; row 1; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,1,4,Respon,PDF page 26; detected table 1; row 1; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,1,5,,PDF page 26; detected table 1; row 1; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,2,4,sible,PDF page 26; detected table 1; row 2; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,3,1,Activity,PDF page 26; detected table 1; row 3; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,3,2,Task,PDF page 26; detected table 1; row 3; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,3,3,Period,PDF page 26; detected table 1; row 3; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,3,5,Remarks,PDF page 26; detected table 1; row 3; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,4,4,Agenci,PDF page 26; detected table 1; row 4; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,5,1,,PDF page 26; detected table 1; row 5; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,5,2,,PDF page 26; detected table 1; row 5; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,5,3,,PDF page 26; detected table 1; row 5; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,5,5,,PDF page 26; detected table 1; row 5; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,6,4,es,PDF page 26; detected table 1; row 6; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,7,1,"Screening of project and
+stakeholder Identification",PDF page 26; detected table 1; row 7; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,7,2,"Identifying alignment and
+assessment of likely impact",PDF page 26; detected table 1; row 7; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,7,3,2018,PDF page 26; detected table 1; row 7; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,7,4,"DPR
+Consult
+ant",PDF page 26; detected table 1; row 7; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,7,5,Completed,PDF page 26; detected table 1; row 7; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,8,1,"Census and Socio-
+economic survey",PDF page 26; detected table 1; row 8; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,8,2,"Identifying affected persons and
+collected socio economic
+Information on affected person’s.
+Carrying out consultation’s
+meetings with PAP",PDF page 26; detected table 1; row 8; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,8,3,2018-2021,PDF page 26; detected table 1; row 8; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,8,4,"SIA
+Consult
+ant",PDF page 26; detected table 1; row 8; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,8,5,"Survey under
+Progress",PDF page 26; detected table 1; row 8; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,9,1,Public Notification for LA,PDF page 26; detected table 1; row 9; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,9,2,"Publish list of affected lands/sites
+in a local Newspaper",PDF page 26; detected table 1; row 9; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,9,3,2018 – till date,PDF page 26; detected table 1; row 9; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,9,4,CMRL,PDF page 26; detected table 1; row 9; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,9,5,"Newspaper
+advertisements
+and issue of
+individual notice",PDF page 26; detected table 1; row 9; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,10,1,"Web disclosure of the
+Draft Resettlement
+Framework and Draft
+Resettlement Plan",PDF page 26; detected table 1; row 10; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,10,2,"Resettlement Framework and
+Resettlement Plan posted on
+CMRL website",PDF page 26; detected table 1; row 10; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,10,3,2020,PDF page 26; detected table 1; row 10; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,10,4,CMRL,PDF page 26; detected table 1; row 10; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,10,5,Website of CMRL,PDF page 26; detected table 1; row 10; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,11,1,"Resettlement Framework
+and Resettlement Plan
+disclosure meetings",PDF page 26; detected table 1; row 11; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,11,2,"Carryout consultations with
+affected persons on significance
+of impact, entitlement,
+implementation arrangement and
+GRC",PDF page 26; detected table 1; row 11; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,11,3,2020-22,PDF page 26; detected table 1; row 11; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,11,4,"Implem
+enting
+NGO,
+CMRL",PDF page 26; detected table 1; row 11; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,11,5,"FGDs and public
+consultation
+meetings. (After
+resettlement
+framework
+approval)",PDF page 26; detected table 1; row 11; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,12,1,"Hearing of objections on
+LA",PDF page 26; detected table 1; row 12; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,12,2,"Hearing of landowner’s objections
+/concerns of acquisition,
+ownership, apportionment,
+valuation, etc., pertaining to LA
+and",PDF page 26; detected table 1; row 12; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,12,3,2020-21,PDF page 26; detected table 1; row 12; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,12,4,"CMRL
+LAO",PDF page 26; detected table 1; row 12; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,12,5,,PDF page 26; detected table 1; row 12; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,13,1,"Consultative meetings on
+resettlement mitigation
+measures outline in the
+RF/RP",PDF page 26; detected table 1; row 13; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,13,2,"Discuss entitlements,
+compensation rates, and
+grievance redress mechanisms.",PDF page 26; detected table 1; row 13; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,13,3,"Throughout
+resettlement
+plan
+implementation",PDF page 26; detected table 1; row 13; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,13,4,"Implem
+enting
+NGO,
+CMRL
+LAO
+GRC",PDF page 26; detected table 1; row 13; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,13,5,"FGDs and public
+consultation
+meetings",PDF page 26; detected table 1; row 13; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,14,1,"RF/RP information
+Dissemination",PDF page 26; detected table 1; row 14; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,14,2,"Distribution of information leaflets
+containing gist of the RF and RP
+in Tamil language to affected
+persons",PDF page 26; detected table 1; row 14; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,14,3,"Award Meetings,
+Public
+Consultation",PDF page 26; detected table 1; row 14; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,14,4,"Implem
+enting
+NGO,
+CMRL",PDF page 26; detected table 1; row 14; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,14,5,"After resettlement
+framework
+approval",PDF page 26; detected table 1; row 14; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,15,1,"Project information
+dissemination",PDF page 26; detected table 1; row 15; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,15,2,"Project commencement details
+and scheduling of civil works",PDF page 26; detected table 1; row 15; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,15,3,"Throughout the
+project",PDF page 26; detected table 1; row 15; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,15,4,CMRL,PDF page 26; detected table 1; row 15; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,15,5,"Project Hand-outs
+and meetings",PDF page 26; detected table 1; row 15; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,16,1,"Dissemination of
+monitoring reports",PDF page 26; detected table 1; row 16; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,16,2,"Internal monitoring reports will be
+uploaded on the website of CMRL
+along with corrective actions
+taken, if any.",PDF page 26; detected table 1; row 16; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,16,3,"Throughout
+resettlement
+plan
+implementation",PDF page 26; detected table 1; row 16; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,16,4,"CMRL,",PDF page 26; detected table 1; row 16; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,16,5,Website of CMRL,PDF page 26; detected table 1; row 16; column 5,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,17,1,"Dissemination of GRC
+actions",PDF page 26; detected table 1; row 17; column 1,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,17,2,"Summary of complaints received
+and action taken will be uploaded
+on the website of CMRL",PDF page 26; detected table 1; row 17; column 2,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,17,3,"Throughout
+resettlement
+plan
+implementation",PDF page 26; detected table 1; row 17; column 3,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,17,4,"CMRL ,
+GRC",PDF page 26; detected table 1; row 17; column 4,review_required
+S007,ee1b1887f257bde081ef1a8fc3e8d65c066725615e529ebafec60791cdcaf64c,26,1,17,5,Website of CMRL,PDF page 26; detected table 1; row 17; column 5,review_required

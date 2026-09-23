@@ -1,0 +1,1093 @@
+﻿source_id,source_sha256,page,table,row,column,value_original,reference,verification_status
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,2,1,1,1,,PDF page 2; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,2,1,1,2,a,PDF page 2; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,2,1,1,3,,PDF page 2; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,3,1,1,1,,PDF page 3; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,3,1,1,2,b,PDF page 3; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,3,1,1,3,,PDF page 3; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,5,1,1,1,,PDF page 5; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,5,1,1,2,d,PDF page 5; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,5,1,1,3,,PDF page 5; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,6,1,1,1,,PDF page 6; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,6,1,1,2,e,PDF page 6; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,6,1,1,3,,PDF page 6; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,7,1,1,1,,PDF page 7; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,7,1,1,2,f,PDF page 7; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,7,1,1,3,,PDF page 7; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,8,1,1,1,,PDF page 8; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,8,1,1,2,g,PDF page 8; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,8,1,1,3,,PDF page 8; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,10,1,1,1,,PDF page 10; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,10,1,1,2,i,PDF page 10; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,10,1,1,3,,PDF page 10; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,11,1,1,1,,PDF page 11; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,11,1,1,2,1,PDF page 11; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,11,1,1,3,,PDF page 11; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,12,1,1,1,,PDF page 12; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,12,1,1,2,2,PDF page 12; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,12,1,1,3,,PDF page 12; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,13,1,1,1,,PDF page 13; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,13,1,1,2,3,PDF page 13; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,13,1,1,3,,PDF page 13; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,14,1,1,1,,PDF page 14; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,14,1,1,2,4,PDF page 14; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,14,1,1,3,,PDF page 14; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,15,1,1,1,,PDF page 15; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,15,1,1,2,5,PDF page 15; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,15,1,1,3,,PDF page 15; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,16,1,1,1,,PDF page 16; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,16,1,1,2,6,PDF page 16; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,16,1,1,3,,PDF page 16; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,18,1,1,1,,PDF page 18; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,18,1,1,2,8,PDF page 18; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,18,1,1,3,,PDF page 18; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,1,1,S. No.,PDF page 19; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,1,2,DMRC Metro Lines,PDF page 19; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,1,3,Length (Km),PDF page 19; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,1,4,Stations (no.),PDF page 19; detected table 1; row 1; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,2,1,1,PDF page 19; detected table 1; row 2; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,2,2,Line 1 – Red Line,PDF page 19; detected table 1; row 2; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,2,3,34.549,PDF page 19; detected table 1; row 2; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,2,4,29,PDF page 19; detected table 1; row 2; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,3,2,Rithala to Shaheed Sthal (New bus Stand),PDF page 19; detected table 1; row 3; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,4,1,2,PDF page 19; detected table 1; row 4; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,4,2,Line 2 – Yellow Line,PDF page 19; detected table 1; row 4; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,4,3,49.019,PDF page 19; detected table 1; row 4; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,4,4,37,PDF page 19; detected table 1; row 4; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,5,2,Samaypur Badli to Millennium City Centre Gurugram,PDF page 19; detected table 1; row 5; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,6,1,3,PDF page 19; detected table 1; row 6; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,6,2,Line 3 – Blue Line,PDF page 19; detected table 1; row 6; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,6,3,56.114,PDF page 19; detected table 1; row 6; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,6,4,50,PDF page 19; detected table 1; row 6; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,7,2,Dwarka Sec 21 to Noida Electronic City,PDF page 19; detected table 1; row 7; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,8,1,4,PDF page 19; detected table 1; row 8; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,8,2,Line 4 – Blue Line,PDF page 19; detected table 1; row 8; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,8,3,8.511,PDF page 19; detected table 1; row 8; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,8,4,8,PDF page 19; detected table 1; row 8; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,9,2,Yamuna Bank to Vaishali,PDF page 19; detected table 1; row 9; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,10,1,5,PDF page 19; detected table 1; row 10; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,10,2,Line 5 – Green Line,PDF page 19; detected table 1; row 10; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,10,3,28.781,PDF page 19; detected table 1; row 10; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,10,4,24,PDF page 19; detected table 1; row 10; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,11,2,Kirti Nagar/ Inderlok to Brig. Hoshiar Singh,PDF page 19; detected table 1; row 11; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,12,1,6,PDF page 19; detected table 1; row 12; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,12,2,Line 6 – Violet Line,PDF page 19; detected table 1; row 12; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,12,3,46.341,PDF page 19; detected table 1; row 12; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,12,4,34,PDF page 19; detected table 1; row 12; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,1,13,2,Kashmere Fate to Raja Nahar Singh (Ballabhgarh),PDF page 19; detected table 1; row 13; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,2,1,1,,PDF page 19; detected table 2; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,2,1,2,9,PDF page 19; detected table 2; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,19,2,1,3,,PDF page 19; detected table 2; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,23,1,1,1,,PDF page 23; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,23,1,1,2,13,PDF page 23; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,23,1,1,3,,PDF page 23; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,1,1,,PDF page 26; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,1,2,Pollution,PDF page 26; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,1,3,,PDF page 26; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,1,4,,PDF page 26; detected table 1; row 1; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,1,5,Natural Environment,PDF page 26; detected table 1; row 1; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,1,6,,PDF page 26; detected table 1; row 1; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,1,7,,PDF page 26; detected table 1; row 1; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,1,8,Social Environment,PDF page 26; detected table 1; row 1; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,1,9,,PDF page 26; detected table 1; row 1; column 9,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,2,1," Air quality
+ Water
+quality
+(surface
+and ground
+water)
+ Soil quality
+ Waste and
+hazardous
+materials
+ Noise and
+Vibration
+ Others",PDF page 26; detected table 1; row 2; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,2,4," Protected area
+ Ecosystem including
+Flora, Fauna, and
+aquatic species and
+Biodiversity including
+Rare, endangered and
+endemic species
+(IUCCN and National
+definitions) along the
+prioritized corridor and
+its vicinity
+ General topography
+and geology
+ Hydrological situation
+ Others",PDF page 26; detected table 1; row 2; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,1,2,7," Socio-economic profile in the project area
+ Involuntary Resettlement
+ Vulnerable groups
+ Ethnic minorities and indigenous peoples
+ Local economy and livelihood
+ Land use and Utilization of local resources
+ Water usage, including fishing rights, if any
+ Availability of the existing social infrastructures, utilities
+and services
+ Social institutions such as local decision-making
+institutions
+ Unequal distribution of benefit and damage and local
+conflict of interest
+ Cultural and historical heritage, religious facilities, other
+sensitive facilities
+ Landscape Character, Visual Impacts
+ Public Health (sanitation and infectious disease such as
+HIV/AIDs)
+ Occupational Health and Safety
+ Traffic Accidents
+ Flood and other natural disaster risk
+ Gender
+ Children rights
+ Public access/ Community division",PDF page 26; detected table 1; row 2; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,2,1,1,,PDF page 26; detected table 2; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,2,1,2,16,PDF page 26; detected table 2; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,26,2,1,3,,PDF page 26; detected table 2; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,28,1,1,1,,PDF page 28; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,28,1,1,2,18,PDF page 28; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,28,1,1,3,,PDF page 28; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,1,1,S.,PDF page 30; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,1,2,,PDF page 30; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,1,3,,PDF page 30; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,1,4,,PDF page 30; detected table 1; row 1; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,1,5,,PDF page 30; detected table 1; row 1; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,2,2,Corridor,PDF page 30; detected table 1; row 2; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,2,3,Type,PDF page 30; detected table 1; row 2; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,2,4,Length (km),PDF page 30; detected table 1; row 2; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,2,5,Stations,PDF page 30; detected table 1; row 2; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,3,1,No,PDF page 30; detected table 1; row 3; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,4,2,,PDF page 30; detected table 1; row 4; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,4,3,,PDF page 30; detected table 1; row 4; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,4,4,,PDF page 30; detected table 1; row 4; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,4,5,,PDF page 30; detected table 1; row 4; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,5,1,1.,PDF page 30; detected table 1; row 5; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,5,2,"Corridor 1
+(Inderlok to Indraprastha)",PDF page 30; detected table 1; row 5; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,5,3,Underground,PDF page 30; detected table 1; row 5; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,5,4,11.349,PDF page 30; detected table 1; row 5; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,5,5,8,PDF page 30; detected table 1; row 5; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,6,3,Elevated,PDF page 30; detected table 1; row 6; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,6,4,1.028,PDF page 30; detected table 1; row 6; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,6,5,1,PDF page 30; detected table 1; row 6; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,7,3,Sub Total,PDF page 30; detected table 1; row 7; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,7,4,12.377,PDF page 30; detected table 1; row 7; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,7,5,9,PDF page 30; detected table 1; row 7; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,8,1,2.,PDF page 30; detected table 1; row 8; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,8,2,"Corridor 2
+(Lajpat Nagar to Saket G block",PDF page 30; detected table 1; row 8; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,8,3,Underground,PDF page 30; detected table 1; row 8; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,8,4,0,PDF page 30; detected table 1; row 8; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,8,5,0,PDF page 30; detected table 1; row 8; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,9,3,Elevated,PDF page 30; detected table 1; row 9; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,9,4,8.385,PDF page 30; detected table 1; row 9; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,9,5,7,PDF page 30; detected table 1; row 9; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,10,3,Sub Total,PDF page 30; detected table 1; row 10; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,10,4,8.385,PDF page 30; detected table 1; row 10; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,10,5,7,PDF page 30; detected table 1; row 10; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,11,1,3.,PDF page 30; detected table 1; row 11; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,11,2,"Corridor 3
+(Rithala – Narela – Nathupur)",PDF page 30; detected table 1; row 11; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,11,3,Underground,PDF page 30; detected table 1; row 11; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,11,4,0,PDF page 30; detected table 1; row 11; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,11,5,0,PDF page 30; detected table 1; row 11; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,12,3,Elevated,PDF page 30; detected table 1; row 12; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,12,4,25.483,PDF page 30; detected table 1; row 12; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,12,5,20,PDF page 30; detected table 1; row 12; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,13,3,At Grade,PDF page 30; detected table 1; row 13; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,13,4,0.980,PDF page 30; detected table 1; row 13; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,13,5,1,PDF page 30; detected table 1; row 13; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,14,3,Sub Total,PDF page 30; detected table 1; row 14; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,14,4,26.463,PDF page 30; detected table 1; row 14; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,14,5,21,PDF page 30; detected table 1; row 14; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,15,1,Total,PDF page 30; detected table 1; row 15; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,15,4,47.225,PDF page 30; detected table 1; row 15; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,15,5,37,PDF page 30; detected table 1; row 15; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,16,1,"Source: Detailed Project Report for DMRC Phase IV priority Corridors (November 2019, updated in August 2022)*The",PDF page 30; detected table 1; row 16; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,1,17,1,data has been revised by DMRC under consideration of affecting structure and private land acquisition.,PDF page 30; detected table 1; row 17; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,1,1,Facility,PDF page 30; detected table 2; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,1,2,"Corridor 1
+Inderlok to Indraprastha",PDF page 30; detected table 2; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,1,3,,PDF page 30; detected table 2; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,1,4,Corridor 2,PDF page 30; detected table 2; row 1; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,1,5,,PDF page 30; detected table 2; row 1; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,1,6,,PDF page 30; detected table 2; row 1; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,1,7,Corridor 3,PDF page 30; detected table 2; row 1; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,1,8,,PDF page 30; detected table 2; row 1; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,2,4,Lajpat Nagar to Saket G,PDF page 30; detected table 2; row 2; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,2,7,Rithala Narela Nathupur,PDF page 30; detected table 2; row 2; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,3,4,Block,PDF page 30; detected table 2; row 3; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,3,7,Corridor,PDF page 30; detected table 2; row 3; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,4,1,Depot,PDF page 30; detected table 2; row 4; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,4,2,"Existing depot
+( Bahadurgath Depot)",PDF page 30; detected table 2; row 4; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,4,3,"Existing depot
+(Sarita Vihar)",PDF page 30; detected table 2; row 4; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,4,6,New depot (Sanoth Depot),PDF page 30; detected table 2; row 4; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,5,1,"Operations
+Control Centre
+(OCC)",PDF page 30; detected table 2; row 5; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,5,2,"Existing Operations Control
+Centre (OCC) at DMRC
+Metro Bhawan",PDF page 30; detected table 2; row 5; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,5,3,"Existing Operations Control
+Centre (OCC) at DMRC
+Metro Bhawan",PDF page 30; detected table 2; row 5; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,5,6,"Existing Operations Control
+Centre (OCC) at DMRC
+Metro Bhawan",PDF page 30; detected table 2; row 5; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,6,1,Power supply,PDF page 30; detected table 2; row 6; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,6,2,"A new Indraprastha RSS
+will be installed",PDF page 30; detected table 2; row 6; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,6,3,"The Khanpur RSS on Line
+10 (under construction) will
+be upgraded to supply
+power",PDF page 30; detected table 2; row 6; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,2,6,6,"Existing Rithala RSS power
+supply will cover from
+Rithala to Rohini Sector 34.
+The Sanoth Depot RSS
+power supply will cover
+from Rohini Sector 34 to
+Nathupur",PDF page 30; detected table 2; row 6; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,3,1,1,Corridor 1,PDF page 30; detected table 3; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,3,2,1,Inderlok to Indraprastha,PDF page 30; detected table 3; row 2; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,4,1,1,,PDF page 30; detected table 4; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,4,1,2,20,PDF page 30; detected table 4; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,30,4,1,3,,PDF page 30; detected table 4; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,1,1,S. No.,PDF page 31; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,1,2,Station,PDF page 31; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,1,3,Remarks,PDF page 31; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,2,1,1.,PDF page 31; detected table 1; row 2; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,2,2,Inderlok,PDF page 31; detected table 1; row 2; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,2,3,"Integration with existing Dilshad Garden to Rithala line and
+Inderlok-Mundka Line",PDF page 31; detected table 1; row 2; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,3,1,2.,PDF page 31; detected table 1; row 3; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,3,2,Nabi Karim,PDF page 31; detected table 1; row 3; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,3,3,"Integration with RK Ashram Marg – Janakpuri West Line
+(Ph-IV Corridor)",PDF page 31; detected table 1; row 3; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,4,1,3.,PDF page 31; detected table 1; row 4; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,4,2,New Delhi,PDF page 31; detected table 1; row 4; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,4,3,"Integration with existing Jahangirpuri – HUDA City Centre and Airport Express
+metro line. And also, with Indian Railways",PDF page 31; detected table 1; row 4; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,5,1,4.,PDF page 31; detected table 1; row 5; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,5,2,Delhi Gate,PDF page 31; detected table 1; row 5; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,5,3,Integration with Central Secretariats to Kashmere Gate line.,PDF page 31; detected table 1; row 5; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,6,1,5,PDF page 31; detected table 1; row 6; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,6,2,Indraprastha,PDF page 31; detected table 1; row 6; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,6,3,Integrating with Line-3 and Line-4,PDF page 31; detected table 1; row 6; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,1,7,1,"Source: Detailed Project Report for DMRC Phase IV priority Corridors (November 2019, updated in August 2022)",PDF page 31; detected table 1; row 7; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,2,1,1,,PDF page 31; detected table 2; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,2,1,2,21,PDF page 31; detected table 2; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,31,2,1,3,,PDF page 31; detected table 2; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,34,1,1,1,,PDF page 34; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,34,1,1,2,24,PDF page 34; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,34,1,1,3,,PDF page 34; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,1,1,,PDF page 38; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,1,2,,PDF page 38; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,1,3,Chainage,PDF page 38; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,1,4,Inter Station,PDF page 38; detected table 1; row 1; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,1,5,Rail Level,PDF page 38; detected table 1; row 1; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,1,6,,PDF page 38; detected table 1; row 1; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,1,7,,PDF page 38; detected table 1; row 1; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,1,8,,PDF page 38; detected table 1; row 1; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,2,1,S. No.,PDF page 38; detected table 1; row 2; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,2,2,Station,PDF page 38; detected table 1; row 2; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,2,6,Station type,PDF page 38; detected table 1; row 2; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,2,7,Location,PDF page 38; detected table 1; row 2; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,2,8,Catchment Area,PDF page 38; detected table 1; row 2; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,3,3,(m),PDF page 38; detected table 1; row 3; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,3,4,Distance,PDF page 38; detected table 1; row 3; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,3,5,amsl (m),PDF page 38; detected table 1; row 3; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,4,1,,PDF page 38; detected table 1; row 4; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,4,2,,PDF page 38; detected table 1; row 4; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,4,6,,PDF page 38; detected table 1; row 4; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,4,7,,PDF page 38; detected table 1; row 4; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,4,8,,PDF page 38; detected table 1; row 4; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,5,1,Corridor 1,PDF page 38; detected table 1; row 5; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,6,1,1,PDF page 38; detected table 1; row 6; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,6,2,Inderlok,PDF page 38; detected table 1; row 6; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,6,3,355.901,PDF page 38; detected table 1; row 6; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,6,4,-,PDF page 38; detected table 1; row 6; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,6,5,-,PDF page 38; detected table 1; row 6; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,6,6,Elevated,PDF page 38; detected table 1; row 6; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,6,7,Located on Off the Road Sahzada Park,PDF page 38; detected table 1; row 6; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,6,8,"Inderlok, Shastri Nagar, Shivaji Nagar",PDF page 38; detected table 1; row 6; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,7,1,2,PDF page 38; detected table 1; row 7; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,7,2,Daya Basti,PDF page 38; detected table 1; row 7; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,7,3,"1,700",PDF page 38; detected table 1; row 7; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,7,4,"1,700",PDF page 38; detected table 1; row 7; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,7,5,202.80,PDF page 38; detected table 1; row 7; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,7,6,Underground,PDF page 38; detected table 1; row 7; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,7,7,Located on the Road near RPF Colony,PDF page 38; detected table 1; row 7; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,7,8,"Dyabasti, Shashtri Ngar, Railway
+Colony, RPF Colony",PDF page 38; detected table 1; row 7; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,8,1,3,PDF page 38; detected table 1; row 8; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,8,2,Sarai Rohilla,PDF page 38; detected table 1; row 8; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,8,3,"2,786",PDF page 38; detected table 1; row 8; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,8,4,"1,086",PDF page 38; detected table 1; row 8; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,8,5,206.70,PDF page 38; detected table 1; row 8; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,8,6,Underground,PDF page 38; detected table 1; row 8; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,8,7,"Located on Off the Road by the side of New
+Rohtak Road",PDF page 38; detected table 1; row 8; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,8,8,"SARAI ROHILLA, Anand Parvat, Than
+Singh Nagar, Dev Nagar, Punjab Basti",PDF page 38; detected table 1; row 8; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,9,1,4,PDF page 38; detected table 1; row 9; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,9,2,Ajmal Khan Park,PDF page 38; detected table 1; row 9; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,9,3,"4,218.888",PDF page 38; detected table 1; row 9; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,9,4,"1,432.888",PDF page 38; detected table 1; row 9; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,9,5,206.800,PDF page 38; detected table 1; row 9; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,9,6,Underground,PDF page 38; detected table 1; row 9; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,9,7,"Located on Off the Road under Ajmal Khan
+Park",PDF page 38; detected table 1; row 9; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,9,8,"SARAI ROHILLA, Anand Parvat, Than
+Singh Nagar, Dev Nagar, Punjab Basti",PDF page 38; detected table 1; row 9; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,10,1,5,PDF page 38; detected table 1; row 10; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,10,2,Jhandewalan,PDF page 38; detected table 1; row 10; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,10,3,"5,008.888",PDF page 38; detected table 1; row 10; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,10,4,790,PDF page 38; detected table 1; row 10; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,10,5,,PDF page 38; detected table 1; row 10; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,10,6,Underground,PDF page 38; detected table 1; row 10; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,10,7,"Located on DDA park near Jhandewala
+temple",PDF page 38; detected table 1; row 10; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,10,8,-,PDF page 38; detected table 1; row 10; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,11,5,-,PDF page 38; detected table 1; row 11; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,12,8,,PDF page 38; detected table 1; row 12; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,13,5,,PDF page 38; detected table 1; row 13; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,14,1,*,PDF page 38; detected table 1; row 14; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,14,2,Nabi Karim,PDF page 38; detected table 1; row 14; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,14,3,"5,928.888",PDF page 38; detected table 1; row 14; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,14,4,920,PDF page 38; detected table 1; row 14; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,14,5,203.0,PDF page 38; detected table 1; row 14; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,14,6,Underground,PDF page 38; detected table 1; row 14; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,14,7,"Located on Off the Road under MCD
+Parking Area",PDF page 38; detected table 1; row 14; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,14,8,"Nabi Karim, Shahi Idgah Colony",PDF page 38; detected table 1; row 14; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,15,1,6,PDF page 38; detected table 1; row 15; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,15,2,New Delhi,PDF page 38; detected table 1; row 15; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,15,3,"7,778.888",PDF page 38; detected table 1; row 15; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,15,4,"1,850",PDF page 38; detected table 1; row 15; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,15,5,188.13,PDF page 38; detected table 1; row 15; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,15,6,Underground,PDF page 38; detected table 1; row 15; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,15,7,Located on the Jawaharlal Nehru Marg,PDF page 38; detected table 1; row 15; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,15,8,"New Delhi Railway Station, Ajmeri
+Gate, Ramlila Ground",PDF page 38; detected table 1; row 15; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,16,1,7,PDF page 38; detected table 1; row 16; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,16,2,Delhi Gate,PDF page 38; detected table 1; row 16; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,16,3,"9,458.888",PDF page 38; detected table 1; row 16; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,16,4,"1,680",PDF page 38; detected table 1; row 16; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,16,5,179.500,PDF page 38; detected table 1; row 16; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,16,6,Underground,PDF page 38; detected table 1; row 16; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,16,7,"Located on the Jawaharlal Nehru Marg
+near Exiting Delhi Gate Metro Station",PDF page 38; detected table 1; row 16; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,16,8,"Delhi Gate, Feroze Shah Kotla Stadium,
+Darayaganj, LNJP Colony, Raj Ghat",PDF page 38; detected table 1; row 16; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,17,1,8,PDF page 38; detected table 1; row 17; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,17,2,Delhi Sachivalya,PDF page 38; detected table 1; row 17; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,17,3,"11,259.608",PDF page 38; detected table 1; row 17; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,17,4,1800.72,PDF page 38; detected table 1; row 17; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,17,5,190.50,PDF page 38; detected table 1; row 17; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,17,6,Underground,PDF page 38; detected table 1; row 17; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,17,7,Located near I.T.O,PDF page 38; detected table 1; row 17; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,17,8,"I.T.O, IG Stadium, Delhi Sachivalya",PDF page 38; detected table 1; row 17; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,18,1,9,PDF page 38; detected table 1; row 18; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,18,2,Indraprastha,PDF page 38; detected table 1; row 18; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,18,3,"12,288.989",PDF page 38; detected table 1; row 18; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,18,4,"1,029.381",PDF page 38; detected table 1; row 18; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,18,5,214.50,PDF page 38; detected table 1; row 18; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,18,6,Underground,PDF page 38; detected table 1; row 18; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,18,7,"Located in Open land Adjacent to Exiting
+Indraprastha Metro Station",PDF page 38; detected table 1; row 18; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,18,8,"Delhi Sachivalaya, IG Stadium",PDF page 38; detected table 1; row 18; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,19,1,Corridor 2,PDF page 38; detected table 1; row 19; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,20,1,1,PDF page 38; detected table 1; row 20; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,20,2,Lajpat Nagar,PDF page 38; detected table 1; row 20; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,20,3,0.000,PDF page 38; detected table 1; row 20; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,20,4,"135
+(Distance from
+dead end)",PDF page 38; detected table 1; row 20; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,20,5,225.40,PDF page 38; detected table 1; row 20; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,20,6,Elevated,PDF page 38; detected table 1; row 20; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,20,7,"Located on Road near Existing Lajpat
+Nagar Metro Station. (Violet Line)",PDF page 38; detected table 1; row 20; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,20,8,"Defence Colony, Lajpat Nagar",PDF page 38; detected table 1; row 20; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,21,1,2,PDF page 38; detected table 1; row 21; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,21,2,Andrews Ganj,PDF page 38; detected table 1; row 21; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,21,3,"1,035",PDF page 38; detected table 1; row 21; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,21,4,"1,035",PDF page 38; detected table 1; row 21; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,21,5,227.50,PDF page 38; detected table 1; row 21; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,21,6,Elevated,PDF page 38; detected table 1; row 21; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,21,7,"Located on the Footpath Opposite Raj
+Kumari Amrit Kaur College of Nursing.",PDF page 38; detected table 1; row 21; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,21,8,"Andrews Ganj, Andrews Ganj
+Extension, Jamrudpu",PDF page 38; detected table 1; row 21; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,22,1,3,PDF page 38; detected table 1; row 22; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,22,2,Greater Kailash-I,PDF page 38; detected table 1; row 22; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,22,3,"2,683",PDF page 38; detected table 1; row 22; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,22,4,"1,648",PDF page 38; detected table 1; row 22; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,22,5,230.50,PDF page 38; detected table 1; row 22; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,22,6,Elevated,PDF page 38; detected table 1; row 22; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,22,7,Located on Off Road near Greater Kailash-I,PDF page 38; detected table 1; row 22; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,22,8,"Greater Kailash, Jamrudpur, Sadiq
+Nagar",PDF page 38; detected table 1; row 22; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,23,1,4,PDF page 38; detected table 1; row 23; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,23,2,Chirag Delhi,PDF page 38; detected table 1; row 23; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,23,3,"3,803",PDF page 38; detected table 1; row 23; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,23,4,"1,120",PDF page 38; detected table 1; row 23; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,23,5,241.60,PDF page 38; detected table 1; row 23; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,23,6,Elevated,PDF page 38; detected table 1; row 23; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,23,7,Located on Dr.BR Ambedkar Marg,PDF page 38; detected table 1; row 23; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,23,8,"Chirag Delhi, Soami Nagar, Savitri
+Nagar",PDF page 38; detected table 1; row 23; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,24,1,5,PDF page 38; detected table 1; row 24; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,24,2,Pushpa Bhawan,PDF page 38; detected table 1; row 24; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,24,3,"4,886.2",PDF page 38; detected table 1; row 24; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,24,4,"1,083.200",PDF page 38; detected table 1; row 24; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,24,5,241.60,PDF page 38; detected table 1; row 24; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,24,6,Elevated,PDF page 38; detected table 1; row 24; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,24,7,"Located on Dr.BR Ambedkar Marg
+opposite to Sector 7 Pushp Vihar and forest
+area.",PDF page 38; detected table 1; row 24; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,24,8,Pushp Vihar Sector 7.,PDF page 38; detected table 1; row 24; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,25,1,6,PDF page 38; detected table 1; row 25; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,25,2,"Saket District
+Centre",PDF page 38; detected table 1; row 25; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,25,3,"5,576.2",PDF page 38; detected table 1; row 25; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,25,4,690,PDF page 38; detected table 1; row 25; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,25,5,239.200,PDF page 38; detected table 1; row 25; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,25,6,Elevated,PDF page 38; detected table 1; row 25; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,25,7,"Located on Off the road near Saket District
+Centre",PDF page 38; detected table 1; row 25; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,1,25,8,"Saket, Pushp Vihar, Khidaki Village",PDF page 38; detected table 1; row 25; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,2,1,1,,PDF page 38; detected table 2; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,2,1,2,28,PDF page 38; detected table 2; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,38,2,1,3,,PDF page 38; detected table 2; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,1,1,,PDF page 51; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,1,2,Delhi Transco Ltd Source,PDF page 51; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,1,3,DMRC Receiving,PDF page 51; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,2,1,Corridor,PDF page 51; detected table 1; row 2; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,3,2,(GSS),PDF page 51; detected table 1; row 3; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,3,3,Substation (RSS),PDF page 51; detected table 1; row 3; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,4,1,,PDF page 51; detected table 1; row 4; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,5,1,Rithala (existing) –Nathupur Corrido,PDF page 51; detected table 1; row 5; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,5,2,DSIIDC Bawana 220kV GSS,PDF page 51; detected table 1; row 5; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,5,3,Sanoth Depot RSS,PDF page 51; detected table 1; row 5; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,6,2,"r
+Rohini Sector - 11",PDF page 51; detected table 1; row 6; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,1,6,3,Rithala 66 kV RSS (Existing),PDF page 51; detected table 1; row 6; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,2,1,1,,PDF page 51; detected table 2; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,2,1,2,41,PDF page 51; detected table 2; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,51,2,1,3,,PDF page 51; detected table 2; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,1,1,,PDF page 59; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,1,2,S.,PDF page 59; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,1,3,.,PDF page 59; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,1,4,Corridor,PDF page 59; detected table 1; row 1; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,1,5,,PDF page 59; detected table 1; row 1; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,1,6,Permanent Area,PDF page 59; detected table 1; row 1; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,1,10,,PDF page 59; detected table 1; row 1; column 10,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,1,11,,PDF page 59; detected table 1; row 1; column 11,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,1,12,Temporary Area,PDF page 59; detected table 1; row 1; column 12,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,1,16,,PDF page 59; detected table 1; row 1; column 16,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,1,17,Total,PDF page 59; detected table 1; row 1; column 17,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,2,No,PDF page 59; detected table 1; row 2; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,5,,PDF page 59; detected table 1; row 2; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,6,Governmen,PDF page 59; detected table 1; row 2; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,7,t,PDF page 59; detected table 1; row 2; column 7,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,8,,PDF page 59; detected table 1; row 2; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,9,Privat,PDF page 59; detected table 1; row 2; column 9,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,10,e,PDF page 59; detected table 1; row 2; column 10,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,11,,PDF page 59; detected table 1; row 2; column 11,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,12,Governmen,PDF page 59; detected table 1; row 2; column 12,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,13,t,PDF page 59; detected table 1; row 2; column 13,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,14,,PDF page 59; detected table 1; row 2; column 14,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,15,Privat,PDF page 59; detected table 1; row 2; column 15,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,2,16,e,PDF page 59; detected table 1; row 2; column 16,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,3,1,1,PDF page 59; detected table 1; row 3; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,3,4,Inderlok -Indraprastha,PDF page 59; detected table 1; row 3; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,3,5,"107,550",PDF page 59; detected table 1; row 3; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,3,8,0,PDF page 59; detected table 1; row 3; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,3,11,"55,491.29",PDF page 59; detected table 1; row 3; column 11,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,3,14,0,PDF page 59; detected table 1; row 3; column 14,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,3,17,"163,041.29",PDF page 59; detected table 1; row 3; column 17,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,4,1,2,PDF page 59; detected table 1; row 4; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,4,4,"Lajpat Nagar – Saket G
+Block",PDF page 59; detected table 1; row 4; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,4,5,"67,700",PDF page 59; detected table 1; row 4; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,4,8,0,PDF page 59; detected table 1; row 4; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,4,11,"22,662",PDF page 59; detected table 1; row 4; column 11,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,4,14,0,PDF page 59; detected table 1; row 4; column 14,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,4,17,"90,362",PDF page 59; detected table 1; row 4; column 17,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,5,1,3,PDF page 59; detected table 1; row 5; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,5,4,Rithala – Narela Nathupur,PDF page 59; detected table 1; row 5; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,5,5,"299,861",PDF page 59; detected table 1; row 5; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,5,8,0,PDF page 59; detected table 1; row 5; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,5,11,"110,508",PDF page 59; detected table 1; row 5; column 11,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,5,14,0,PDF page 59; detected table 1; row 5; column 14,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,5,17,"410,369",PDF page 59; detected table 1; row 5; column 17,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,6,1,,PDF page 59; detected table 1; row 6; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,6,4,Total,PDF page 59; detected table 1; row 6; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,6,5,"475,111",PDF page 59; detected table 1; row 6; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,6,8,0,PDF page 59; detected table 1; row 6; column 8,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,6,11,"188,661.29",PDF page 59; detected table 1; row 6; column 11,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,6,14,0,PDF page 59; detected table 1; row 6; column 14,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,6,17,"663,772.29",PDF page 59; detected table 1; row 6; column 17,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,1,7,4,Source: Site survey by Vardan,PDF page 59; detected table 1; row 7; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,2,1,1,,PDF page 59; detected table 2; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,2,1,2,49,PDF page 59; detected table 2; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,59,2,1,3,,PDF page 59; detected table 2; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,61,1,1,1,,PDF page 61; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,61,1,1,2,51,PDF page 61; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,61,1,1,3,,PDF page 61; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,62,1,1,1,,PDF page 62; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,62,1,1,2,52,PDF page 62; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,62,1,1,3,,PDF page 62; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,1,1,,PDF page 63; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,1,2,,PDF page 63; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,1,3,,PDF page 63; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,1,4,,PDF page 63; detected table 1; row 1; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,1,5,Regulating,PDF page 63; detected table 1; row 1; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,1,6,,PDF page 63; detected table 1; row 1; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,2,1,S. No,PDF page 63; detected table 1; row 2; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,2,2,Act / Law,PDF page 63; detected table 1; row 2; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,2,3,Description,PDF page 63; detected table 1; row 2; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,2,4,Applicability to Project,PDF page 63; detected table 1; row 2; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,2,6,Phase,PDF page 63; detected table 1; row 2; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,3,5,Authority,PDF page 63; detected table 1; row 3; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,4,1,,PDF page 63; detected table 1; row 4; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,4,2,,PDF page 63; detected table 1; row 4; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,4,3,,PDF page 63; detected table 1; row 4; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,4,4,,PDF page 63; detected table 1; row 4; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,4,6,,PDF page 63; detected table 1; row 4; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,5,1,1.,PDF page 63; detected table 1; row 5; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,5,2,"National
+Environmental Policy
+(NEP) 2006",PDF page 63; detected table 1; row 5; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,5,3,"NEP is a comprehensive guiding document in India
+for all environmental conservation programs and
+legislations by central, state and local government.
+This policy advocates collaboration method of
+different stakeholders to harness potential resources
+and strengthen environmental management.",PDF page 63; detected table 1; row 5; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,5,4,"NOT APPLICABLE
+Project shall adhere to the NEP principle, for
+conservation of environmental resources
+and abatement of pollution",PDF page 63; detected table 1; row 5; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,5,5,MOEF&CC,PDF page 63; detected table 1; row 5; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,5,6,"Construction
+and Operation
+phases",PDF page 63; detected table 1; row 5; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,6,1,2.,PDF page 63; detected table 1; row 6; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,6,2,"Environment
+Protection Act, 1986
+and its subsequent
+amendments",PDF page 63; detected table 1; row 6; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,6,3,"The Environment (Protection) Act is an umbrella
+legislation seeking to supplement the existing laws
+on the control of pollution (the Water Act and the Air
+Act) by enacting a general legislation for
+environment protection and to fill the gaps in
+regulation of major environmental. hazards.",PDF page 63; detected table 1; row 6; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,6,4,"APPLICABLE
+Establishment of Batching Plant also needs
+Consent to Establish (CTE) from State
+Pollution Control Board (SPCB)/ State
+Pollution Control Committee (SPCC). In
+addition to this Consent to Operate (CTO)
+needs to be obtained before the start of
+operation under the relevant Air and Water
+act.",PDF page 63; detected table 1; row 6; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,6,5,"Delhi Pollution
+Control Committee
+(DPCC)",PDF page 63; detected table 1; row 6; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,6,6,"Construction
+and Operation
+phases",PDF page 63; detected table 1; row 6; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,7,1,3.,PDF page 63; detected table 1; row 7; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,7,2,"Environmental Impact
+Assessment (EIA)
+Notification, 2006 and
+its subsequent
+amendment.",PDF page 63; detected table 1; row 7; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,7,3,"The EIA Notification set out the requirement for
+environmental assessment in India. The Schedule I of
+the notification defines threshold of activities which
+require to undertake an environmental assessment
+and obtain an environmental clearance from
+statutory bodies.",PDF page 63; detected table 1; row 7; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,7,4,"NOT APPLICABLE
+The Metro Projects activities are not covered
+under the ambit of EIA Notification, 2006
+dated 14.09.2006 and its amendment.",PDF page 63; detected table 1; row 7; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,7,5,"MOEF&CC/ State
+Environment
+Impact Assessment
+Authority (SEIAA)",PDF page 63; detected table 1; row 7; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,7,6,"Pre
+construction
+phase",PDF page 63; detected table 1; row 7; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,8,1,4.,PDF page 63; detected table 1; row 8; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,8,2,"Indian Forest Act 2002
+Forests (Conservation)
+Act, 1980 and its
+subsequent
+amendment 2023",PDF page 63; detected table 1; row 8; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,8,3,"Objectives of this Act are to enhancement of
+conservation of natural resources and ensuring
+ecosystem stability through conservation of forest
+biodiversity, water catchments and soil fertility.",PDF page 63; detected table 1; row 8; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,8,4,"APPLICABLE
+The Metro line passing through the Right of
+Way (RoW) of roads such as National
+Highways (NH), State Highways (SH), Major
+District Roads (MDR), canals, and railway
+tracks will necessitate tree cutting and land
+clearing. Portions of this area fall under
+designated forest land, requiring careful
+consideration and appropriate clearances.",PDF page 63; detected table 1; row 8; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,8,5,"Forest
+Department,
+MoEF&CC",PDF page 63; detected table 1; row 8; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,8,6,"Pre-
+construction
+phases",PDF page 63; detected table 1; row 8; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,9,1,5.,PDF page 63; detected table 1; row 9; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,9,2,"Biological Diversity Act,
+2002",PDF page 63; detected table 1; row 9; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,9,3,"provide for conservation of biological diversity,
+sustainable use of its components and fair and
+equitable sharing of the benefits arising out of the use
+of biological resources, knowledge and for matters
+connected therewith or incidental thereto",PDF page 63; detected table 1; row 9; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,9,4,APPLICABLE,PDF page 63; detected table 1; row 9; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,9,5,"National
+Biodiversity
+Authority",PDF page 63; detected table 1; row 9; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,1,9,6,"Pre-
+construction
+phases and
+Construction
+and Operation
+phases",PDF page 63; detected table 1; row 9; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,2,1,1,,PDF page 63; detected table 2; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,2,1,2,53,PDF page 63; detected table 2; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,63,2,1,3,,PDF page 63; detected table 2; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,1,1,,PDF page 64; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,1,2,,PDF page 64; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,1,3,,PDF page 64; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,1,4,,PDF page 64; detected table 1; row 1; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,1,5,Regulating,PDF page 64; detected table 1; row 1; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,1,6,,PDF page 64; detected table 1; row 1; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,2,1,S. No,PDF page 64; detected table 1; row 2; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,2,2,Act / Law,PDF page 64; detected table 1; row 2; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,2,3,Description,PDF page 64; detected table 1; row 2; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,2,4,Applicability to Project,PDF page 64; detected table 1; row 2; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,2,6,Phase,PDF page 64; detected table 1; row 2; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,3,5,Authority,PDF page 64; detected table 1; row 3; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,4,1,,PDF page 64; detected table 1; row 4; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,4,2,,PDF page 64; detected table 1; row 4; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,4,3,,PDF page 64; detected table 1; row 4; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,4,4,,PDF page 64; detected table 1; row 4; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,4,6,,PDF page 64; detected table 1; row 4; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,5,1,6.,PDF page 64; detected table 1; row 5; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,5,2,"The Scheduled Tribes
+and Other Traditional
+Forest Dwellers
+(Recognition of Forest
+Rights) Act 2006 & its
+subsequent
+amendment",PDF page 64; detected table 1; row 5; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,5,3,"The act vests forest rights and occupation in forest
+land to forest dwellers, including Scheduled Tribes
+and traditional forest dwellers.",PDF page 64; detected table 1; row 5; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,5,4,"NOT APPLICABLE
+As per the reconnaissance survey and
+available data; there are no Scheduled
+Tribes/traditional forest dweller in the
+project area.",PDF page 64; detected table 1; row 5; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,5,5,"Ministry of Tribal
+Affairs. Tribal
+Welfare
+Department/MOE
+F&CC",PDF page 64; detected table 1; row 5; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,5,6,-,PDF page 64; detected table 1; row 5; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,6,1,7.,PDF page 64; detected table 1; row 6; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,6,2,"Wildlife Protection Act,
+1972 and its
+amendment",PDF page 64; detected table 1; row 6; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,6,3,"The Act provides for the protection of wild animals,
+birds; and for matters connected therewith or
+ancillary or incidental there to.",PDF page 64; detected table 1; row 6; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,6,4,"APPLICABLE
+The project is not passing through any
+protect area authorized by government of
+India as per Wild life protection Act, 1972.
+However Schedule species has been
+identified during survey for which
+conservation plan has been prepared.",PDF page 64; detected table 1; row 6; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,6,5,"Chief Conservator
+Wildlife,
+NBWL/State
+Forest Department
+and MOEF&CC.",PDF page 64; detected table 1; row 6; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,6,6,-,PDF page 64; detected table 1; row 6; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,7,1,8.,PDF page 64; detected table 1; row 7; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,7,2,"Ancient Monuments
+and Archaeological
+Sites and Remains Acts,
+1958, its Rules, Ancient
+Monuments and
+Archaeological Sites
+and Remains
+(Amendment &
+Validation) Act 2010
+and its amendment",PDF page 64; detected table 1; row 7; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,7,3,"Conservation of cultural and historical remains in
+India",PDF page 64; detected table 1; row 7; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,7,4,"NOT APPLICABLE
+There are no ancient monuments and
+archaeological sites and remains within the
+50 m buffer of the project.",PDF page 64; detected table 1; row 7; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,7,5,"National
+Monument
+Authority",PDF page 64; detected table 1; row 7; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,7,6,"Construction
+and Operation
+phases",PDF page 64; detected table 1; row 7; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,8,1,9.,PDF page 64; detected table 1; row 8; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,8,2,"Hazardous and Other
+Wastes (Management
+and Trans-boundary
+Movement) Rules, 2016
+and its amendment",PDF page 64; detected table 1; row 8; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,8,3,"This rule obligates hazardous waste generators,
+transporter and recycler of the hazardous waste for
+safe handling practices and its management.",PDF page 64; detected table 1; row 8; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,8,4,APPLICABLE,PDF page 64; detected table 1; row 8; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,8,5,CPCB,PDF page 64; detected table 1; row 8; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,8,6,"Construction
+and Operation
+phases",PDF page 64; detected table 1; row 8; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,9,1,10.,PDF page 64; detected table 1; row 9; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,9,2,"The Air (Prevention and
+Control of Pollution)
+Act, 1981 and its
+amendments",PDF page 64; detected table 1; row 9; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,9,3,"This act provides the prevention and control of air
+pollution and all other related matters. The act
+through CPCB sets the standard limits for projects
+and takes care of the prescribed limits of emissions.",PDF page 64; detected table 1; row 9; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,9,4,"APPLICABLE
+Consent to establish (CTE) and Consent to
+Operate (CTO) needs to be obtained for
+batching plant/hot mix plant",PDF page 64; detected table 1; row 9; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,9,5,CPCB,PDF page 64; detected table 1; row 9; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,9,6,"Pre-
+Construction
+for CTE
+Pre- Operation
+for CTO",PDF page 64; detected table 1; row 9; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,10,1,11.,PDF page 64; detected table 1; row 10; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,10,2,"The Water (Prevention
+and Control of
+Pollution) Act, 1974
+and its amendments",PDF page 64; detected table 1; row 10; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,10,3,"This act provides the prevention and control of water
+pollution and maintaining or restoring water quality
+for any project.",PDF page 64; detected table 1; row 10; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,10,4,"APPLICABLE
+Consent to establish (CTE) and Consent to
+Operate (CTO) needs to be obtained for
+batching plant/hot mix plant .",PDF page 64; detected table 1; row 10; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,10,5,CPCB,PDF page 64; detected table 1; row 10; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,1,10,6,"Pre-
+Construction
+for CTE
+Pre- Operation
+for CTO",PDF page 64; detected table 1; row 10; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,2,1,1,,PDF page 64; detected table 2; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,2,1,2,54,PDF page 64; detected table 2; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,64,2,1,3,,PDF page 64; detected table 2; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,1,1,,PDF page 66; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,1,2,,PDF page 66; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,1,3,,PDF page 66; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,1,4,,PDF page 66; detected table 1; row 1; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,1,5,Regulating,PDF page 66; detected table 1; row 1; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,1,6,,PDF page 66; detected table 1; row 1; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,2,1,S. No,PDF page 66; detected table 1; row 2; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,2,2,Act / Law,PDF page 66; detected table 1; row 2; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,2,3,Description,PDF page 66; detected table 1; row 2; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,2,4,Applicability to Project,PDF page 66; detected table 1; row 2; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,2,6,Phase,PDF page 66; detected table 1; row 2; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,3,5,Authority,PDF page 66; detected table 1; row 3; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,4,1,,PDF page 66; detected table 1; row 4; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,4,2,,PDF page 66; detected table 1; row 4; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,4,3,,PDF page 66; detected table 1; row 4; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,4,4,,PDF page 66; detected table 1; row 4; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,4,6,,PDF page 66; detected table 1; row 4; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,5,1,,PDF page 66; detected table 1; row 5; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,5,2,,PDF page 66; detected table 1; row 5; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,5,3,"manufacturing, storage, and import of such
+substances.",PDF page 66; detected table 1; row 5; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,5,4,,PDF page 66; detected table 1; row 5; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,5,5,,PDF page 66; detected table 1; row 5; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,5,6,,PDF page 66; detected table 1; row 5; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,6,1,20.,PDF page 66; detected table 1; row 6; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,6,2,"The Delhi Preservation
+Of Trees Act, 1994 and
+as amended in 2020",PDF page 66; detected table 1; row 6; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,6,3,"The Delhi Preservation of Trees Act, 1994 and
+amended in 2020 was enacted to protect and
+preserve trees in the National Capital Territory of
+Delhi. The primary objectives of the Act include the
+prevention of unnecessary tree felling, the
+promotion of tree planting, and the maintenance of
+the ecological balance in the urban environment.",PDF page 66; detected table 1; row 6; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,6,4,"Applicable
+The Metro line passing through the Right of
+Way (RoW) of roads such as National
+Highways (NH), State Highways (SH), Major
+District Roads (MDR), canals, and railway
+tracks will necessitate tree cutting and land
+clearing.",PDF page 66; detected table 1; row 6; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,6,5,Forest department,PDF page 66; detected table 1; row 6; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,6,6,"Pre
+construction",PDF page 66; detected table 1; row 6; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,7,1,21.,PDF page 66; detected table 1; row 7; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,7,2,"The Indian Factories
+Act, 1948 and State
+Rules",PDF page 66; detected table 1; row 7; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,7,3,This act is enacted for the welfare of workers.,PDF page 66; detected table 1; row 7; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,7,4,"APPLICABLE
+Comply with all requirements of Factories
+Rules and participate in periodic inspection.",PDF page 66; detected table 1; row 7; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,7,5,"Labour
+Department.",PDF page 66; detected table 1; row 7; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,7,6,"Construction
+phases",PDF page 66; detected table 1; row 7; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,8,1,22.,PDF page 66; detected table 1; row 8; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,8,2,"The Building and Other
+Construction Workers’
+(Regulation of
+Employment and
+Conditions of Service)
+Act, 1996 and as
+amended",PDF page 66; detected table 1; row 8; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,8,3,"This Act provides for safety, health and welfare
+measures of buildings and construction workers in
+every establishment which employs or employed
+during the preceding year ten or more such workers.
+These measures include fixing hours for normal
+working day, weekly paid rest day, wages for
+overtime, provision of basic welfare amenities like
+drinking water, latrines, urinals, crèches, first aid,
+canteens and temporary living quarters within or
+near the work site.",PDF page 66; detected table 1; row 8; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,8,4,"APPLICABLE
+This condition should be the part of
+Concession agreement for construction
+workers.",PDF page 66; detected table 1; row 8; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,8,5,"Department of
+Labour &
+Employment.",PDF page 66; detected table 1; row 8; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,8,6,"The Building
+and Other
+Construction
+Workers’
+(Regulation of
+Employment
+and Conditions
+of Service) Act,
+1996",PDF page 66; detected table 1; row 8; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,9,1,23.,PDF page 66; detected table 1; row 9; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,9,2,"The Right to Fair
+Compensation and
+Transparency in Land
+Acquisition,
+Rehabilitation and
+Resettlement Act, 2013",PDF page 66; detected table 1; row 9; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,9,3,Set out rule for acquisition of land by Government.,PDF page 66; detected table 1; row 9; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,9,4,"APPLICABLE
+The land required for the metro is proposed
+on Government land, hence there will no
+acquisition under this act.",PDF page 66; detected table 1; row 9; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,9,5,"Deputy
+Commissioner
+Delhi/area",PDF page 66; detected table 1; row 9; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,9,6,"Pre
+construction",PDF page 66; detected table 1; row 9; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,10,1,24.,PDF page 66; detected table 1; row 10; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,10,2,"The Code on Wages
+2019",PDF page 66; detected table 1; row 10; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,10,3,"The Code focuses on simplifying the existing Labour
+laws dealing with payment of wages, overtime,
+bonus, minimum wages etc. by bringing uniformity in
+the definition of terms and reducing the burden of
+filing returns and maintaining the registers under
+different acts.",PDF page 66; detected table 1; row 10; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,10,4,"APPLICABLE
+This condition should be the part of
+contractor agreement for construction
+workers. DMRC shall ensure compliance, as
+per the applicability",PDF page 66; detected table 1; row 10; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,10,5,"Department of
+Labour &
+Employment.",PDF page 66; detected table 1; row 10; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,10,6,Construction,PDF page 66; detected table 1; row 10; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,11,1,25.,PDF page 66; detected table 1; row 11; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,11,2,"The Code on Social
+Security, 2020",PDF page 66; detected table 1; row 11; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,11,3,"The Code amalgamates and replaces nine existing
+social security laws, bringing them under a single
+umbrella. This includes laws related to provident
+funds, employment injury benefits, health and
+maternity benefits, social security for workers, and
+other related provisions.",PDF page 66; detected table 1; row 11; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,11,4,"APPLICABLE
+This condition should be the part of
+contractor agreement for construction
+workers. DMRC shall ensure compliance, as
+per the applicability.",PDF page 66; detected table 1; row 11; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,11,5,"Department of
+Labour &
+Employment.",PDF page 66; detected table 1; row 11; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,1,11,6,Construction,PDF page 66; detected table 1; row 11; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,2,1,1,,PDF page 66; detected table 2; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,2,1,2,56,PDF page 66; detected table 2; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,66,2,1,3,,PDF page 66; detected table 2; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,1,1,,PDF page 67; detected table 1; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,1,2,,PDF page 67; detected table 1; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,1,3,,PDF page 67; detected table 1; row 1; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,1,4,,PDF page 67; detected table 1; row 1; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,1,5,Regulating,PDF page 67; detected table 1; row 1; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,1,6,,PDF page 67; detected table 1; row 1; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,2,1,S. No,PDF page 67; detected table 1; row 2; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,2,2,Act / Law,PDF page 67; detected table 1; row 2; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,2,3,Description,PDF page 67; detected table 1; row 2; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,2,4,Applicability to Project,PDF page 67; detected table 1; row 2; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,2,6,Phase,PDF page 67; detected table 1; row 2; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,3,5,Authority,PDF page 67; detected table 1; row 3; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,4,1,,PDF page 67; detected table 1; row 4; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,4,2,,PDF page 67; detected table 1; row 4; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,4,3,,PDF page 67; detected table 1; row 4; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,4,4,,PDF page 67; detected table 1; row 4; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,4,6,,PDF page 67; detected table 1; row 4; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,5,1,26.,PDF page 67; detected table 1; row 5; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,5,2,"The Workmen’s
+Compensation Act,
+1923",PDF page 67; detected table 1; row 5; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,5,3,"The Workmen’s Compensation Act, 1923 requires if
+personal injury is caused to a workman by accident
+arising out of and in the course of his employment,
+his employer shall be liable to pay compensation in
+accordance with the provisions of this Act.",PDF page 67; detected table 1; row 5; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,5,4,"APPLICABLE
+This condition should be the part of
+contractor agreement for construction
+workers. DMRC shall ensure compliance, as
+per the applicability.",PDF page 67; detected table 1; row 5; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,5,5,"Department of
+Labour &
+Employment.",PDF page 67; detected table 1; row 5; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,5,6,Construction,PDF page 67; detected table 1; row 5; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,6,1,27.,PDF page 67; detected table 1; row 6; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,6,2,"Minimum Wages Act,
+1948 and as amended",PDF page 67; detected table 1; row 6; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,6,3,"Minimum Wages fixed by appropriate Government
+as per provisions of the Act if the employment is a
+scheduled employment. Construction of Buildings,
+Roads and Runways are scheduled employment.",PDF page 67; detected table 1; row 6; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,6,4,"APPLICABLE
+This condition should be the part of
+contractor agreement for construction
+workers. DMRC shall ensure compliance, as
+per the applicability.",PDF page 67; detected table 1; row 6; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,6,5,"Department of
+Labour &
+Employment.",PDF page 67; detected table 1; row 6; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,6,6,Construction,PDF page 67; detected table 1; row 6; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,7,1,28.,PDF page 67; detected table 1; row 7; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,7,2,"Equal Remuneration
+Act, 1979 and as
+amended",PDF page 67; detected table 1; row 7; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,7,3,"Provides for payment of equal wages for work of
+equal nature to male and female workers and not for
+making discrimination against female employees in
+the matters of transfers, training and promotions etc.",PDF page 67; detected table 1; row 7; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,7,4,"APPLICABLE
+Equal wages to male and female during
+construction and operation of the project",PDF page 67; detected table 1; row 7; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,7,5,"Department of
+Labour &
+Employment.",PDF page 67; detected table 1; row 7; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,7,6,Construction,PDF page 67; detected table 1; row 7; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,8,1,29.,PDF page 67; detected table 1; row 8; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,8,2,"The Contract Labour
+(Regulation &
+Abolition) Act, 1970
+and Rules and as
+amended",PDF page 67; detected table 1; row 8; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,8,3,"The contractors are also required to provide at
+minimum amenities like canteen, urinals, restrooms
+or alternate accommodation (if night halting labour),
+first aid, safe drinking water, etc.",PDF page 67; detected table 1; row 8; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,8,4,"APPLICABLE
+DMRC shall ensure compliance of the Act
+requirement as per agreement with
+Contractor.",PDF page 67; detected table 1; row 8; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,8,5,"Department of
+Labour &
+Employment.",PDF page 67; detected table 1; row 8; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,8,6,Construction,PDF page 67; detected table 1; row 8; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,9,1,30.,PDF page 67; detected table 1; row 9; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,9,2,"The Child Labour
+(Prohibition and
+Regulation) Act, 1986
+and as amended",PDF page 67; detected table 1; row 9; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,9,3,"The Act prohibits employment of children in certain
+occupation and processes. The Act also specifies
+conditions of work for children, if permitted to work.",PDF page 67; detected table 1; row 9; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,9,4,"APPLICABLE
+This condition should be the part of
+Concession agreement for workers. DMRC
+shall ensure compliance, as per the
+applicability.",PDF page 67; detected table 1; row 9; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,9,5,"Department of
+Social Security and
+Women & Child
+Development",PDF page 67; detected table 1; row 9; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,9,6,Construction,PDF page 67; detected table 1; row 9; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,10,1,31.,PDF page 67; detected table 1; row 10; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,10,2,"Public Liability and
+Insurance Act, 1991 and
+as amended",PDF page 67; detected table 1; row 10; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,10,3,"The main objective of the Public Liability Insurance
+Act 1991 is to provide for damages to victims of an
+accident which occurs as a result of handling any
+hazardous substance. The Act applies to all owners
+associated with the production or handling of any
+hazardous chemicals.",PDF page 67; detected table 1; row 10; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,10,4,"APPLICABLE
+PLI Act is applicable",PDF page 67; detected table 1; row 10; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,10,5,"Deputy
+Commissioner",PDF page 67; detected table 1; row 10; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,10,6,Construction,PDF page 67; detected table 1; row 10; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,11,1,32.,PDF page 67; detected table 1; row 11; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,11,2,"The Sexual Harassment
+of Women at Workplace
+(Prevention,
+Prohibition and
+Redressal) Act, 2013",PDF page 67; detected table 1; row 11; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,11,3,"It is a law in India that aims to prevent and prohibit
+sexual harassment of women at workplace.",PDF page 67; detected table 1; row 11; column 3,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,11,4,"APPLICABLE
+DMRC shall ensure compliance, as per the
+applicability.",PDF page 67; detected table 1; row 11; column 4,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,11,5,"Department of
+Social Security and
+Women & Child
+Development",PDF page 67; detected table 1; row 11; column 5,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,1,11,6,Construction,PDF page 67; detected table 1; row 11; column 6,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,2,1,1,,PDF page 67; detected table 2; row 1; column 1,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,2,1,2,57,PDF page 67; detected table 2; row 1; column 2,review_required
+S026,9710d42e31e82b0e615dc9628916beee96f48d92db8050ba691b69fd9da20ffb,67,2,1,3,,PDF page 67; detected table 2; row 1; column 3,review_required

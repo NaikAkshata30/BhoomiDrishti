@@ -1,0 +1,16 @@
+{
+  "project_id": "REAL_009",
+  "project_name": "Mumbai-Nagpur Expressway",
+  "authority": "MSRDC",
+  "study_district": "Nagpur corridor",
+  "study_state": "Maharashtra",
+  "project_type": "expressway",
+  "aliases": "Mumbai Nagpur Expressway | Mumbai-Nagpur Expressway | Samruddhi Mahamarg | Maharashtra Samruddhi Mahamarg | Nagpur-Mumbai Super Communication Expressway | Nagpur Mumbai Super Communication",
+  "folder": "REAL_009",
+  "registry_basis": "user_supplied_not_source_verified",
+  "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+  "scope_rule": "Project-wide facts must not be represented as study-district or parcel facts.",
+  "downloaded_source_count": 3,
+  "normalized_observation_count": 8,
+  "training_ready": false
+}

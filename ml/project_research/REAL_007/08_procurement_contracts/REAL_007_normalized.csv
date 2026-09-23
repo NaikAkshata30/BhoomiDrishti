@@ -1,0 +1,54 @@
+﻿observation_id,project_id,related_project_id,entity_id,parent_entity_id,record_scope,phase,corridor,package_number,state,district,tehsil,village,chainage_start,chainage_end,notification_number,proposal_number,case_number,field,value_original,unit_original,value_normalized,unit,measurement_type,land_tenure,observation_date_original,observation_date,observation_period,date_precision,source_id,source_sha256,source_url,local_file,retrieved_at,source_reference,pdf_page,anchor,normalization_method,verification_status,identity_status,confidence,confidence_basis,conflict_flag,ml_eligible,ml_exclusion_reason,notes,package_name_as_source,district_original,accuracy_level,source_cell,provenance_status
+OBS_00040,REAL_007,,REAL_007/KA/ANNEXURE_ROW_1,REAL_007,package,,,,Karnataka,,,,,,,,,barrier_description,"1. Land Acquisition
+2. Court Cases",text,"1. Land Acquisition
+2. Court Cases",text,reported_source_statement,,2026-02-05,2026-02-05,,day,S018,f6d2652357ff76ff7c9d2d04bfc8fa4a5f5dfec6e4bb50478314e3ee6d596c64,https://sansad.in/getFile/loksabhaquestions/annex/187/AU1139_7LjMPC.pdf?source=pqals,project_research/REAL_007/01_authority/REAL_007_Lok_Sabha_MoRTH_bharatmala_package_annexure_undated_f6d2652357ff.pdf,2026-09-05T10:22:33+00:00,PDF page 2,2,"1. Land Acquisition
+2. Court Cases",verbatim_category,official,matched_source_context,0.9,heuristic evidence review; not a calibrated probability,False,False,"Requires dated feature assembly, outcome labels and leakage review before training.",Official annexure row identifies package; local row ID is not an official package number. Reason for construction delay does not establish a target label.,"4L Tumkur-Shimoga (Pkg-I) o
+f NH-206",,,"{""table"": 1, ""row"": 3, ""column"": 10}",anchor_checked_against_downloaded_raw_extraction
+OBS_00041,REAL_007,,REAL_007/KA/ANNEXURE_ROW_2,REAL_007,package,,,,Karnataka,,,,,,,,,barrier_description,Land Acquisition,text,Land Acquisition,text,reported_source_statement,,2026-02-05,2026-02-05,,day,S018,f6d2652357ff76ff7c9d2d04bfc8fa4a5f5dfec6e4bb50478314e3ee6d596c64,https://sansad.in/getFile/loksabhaquestions/annex/187/AU1139_7LjMPC.pdf?source=pqals,project_research/REAL_007/01_authority/REAL_007_Lok_Sabha_MoRTH_bharatmala_package_annexure_undated_f6d2652357ff.pdf,2026-09-05T10:22:33+00:00,PDF page 2,2,Land Acquisition,verbatim_category,official,matched_source_context,0.9,heuristic evidence review; not a calibrated probability,False,False,"Requires dated feature assembly, outcome labels and leakage review before training.",Official annexure row identifies package; local row ID is not an official package number. Reason for construction delay does not establish a target label.,"4L Tumkur-Shimoga (Pkg-II)
+of NH-206",,,"{""table"": 1, ""row"": 4, ""column"": 10}",anchor_checked_against_downloaded_raw_extraction
+OBS_00042,REAL_007,,REAL_007/KA/ANNEXURE_ROW_3,REAL_007,package,,,,Karnataka,,,,,,,,,barrier_description,Land Acquisition,text,Land Acquisition,text,reported_source_statement,,2026-02-05,2026-02-05,,day,S018,f6d2652357ff76ff7c9d2d04bfc8fa4a5f5dfec6e4bb50478314e3ee6d596c64,https://sansad.in/getFile/loksabhaquestions/annex/187/AU1139_7LjMPC.pdf?source=pqals,project_research/REAL_007/01_authority/REAL_007_Lok_Sabha_MoRTH_bharatmala_package_annexure_undated_f6d2652357ff.pdf,2026-09-05T10:22:33+00:00,PDF page 2,2,Land Acquisition,verbatim_category,official,matched_source_context,0.9,heuristic evidence review; not a calibrated probability,False,False,"Requires dated feature assembly, outcome labels and leakage review before training.",Official annexure row identifies package; local row ID is not an official package number. Reason for construction delay does not establish a target label.,"4L Tumkur-Shimoga (Pkg-III)
+of NH-206",,,"{""table"": 1, ""row"": 5, ""column"": 10}",anchor_checked_against_downloaded_raw_extraction
+OBS_00043,REAL_007,,REAL_007/KA/ANNEXURE_ROW_4,REAL_007,package,,,,Karnataka,,,,,,,,,barrier_description,"1. Land acquisition a
+nd
+2. Tree (sandalwood)
+cutting permission",text,"1. Land acquisition a
+nd
+2. Tree (sandalwood)
+cutting permission",text,reported_source_statement,,2026-02-05,2026-02-05,,day,S018,f6d2652357ff76ff7c9d2d04bfc8fa4a5f5dfec6e4bb50478314e3ee6d596c64,https://sansad.in/getFile/loksabhaquestions/annex/187/AU1139_7LjMPC.pdf?source=pqals,project_research/REAL_007/01_authority/REAL_007_Lok_Sabha_MoRTH_bharatmala_package_annexure_undated_f6d2652357ff.pdf,2026-09-05T10:22:33+00:00,PDF page 2,2,"1. Land acquisition a
+nd
+2. Tree (sandalwood)
+cutting permission",verbatim_category,official,matched_source_context,0.9,heuristic evidence review; not a calibrated probability,False,False,"Requires dated feature assembly, outcome labels and leakage review before training.",Official annexure row identifies package; local row ID is not an official package number. Reason for construction delay does not establish a target label.,"4L Tumkur-Shimoga (Pkg-IV)
+of NH-206",,,"{""table"": 1, ""row"": 6, ""column"": 10}",anchor_checked_against_downloaded_raw_extraction
+OBS_00044,REAL_007,,REAL_007/KA/ANNEXURE_ROW_5,REAL_007,package,,,,Karnataka,,,,,,,,,barrier_description,"Land Acquisition & C
+ourt cases",text,"Land Acquisition & C
+ourt cases",text,reported_source_statement,,2026-02-05,2026-02-05,,day,S018,f6d2652357ff76ff7c9d2d04bfc8fa4a5f5dfec6e4bb50478314e3ee6d596c64,https://sansad.in/getFile/loksabhaquestions/annex/187/AU1139_7LjMPC.pdf?source=pqals,project_research/REAL_007/01_authority/REAL_007_Lok_Sabha_MoRTH_bharatmala_package_annexure_undated_f6d2652357ff.pdf,2026-09-05T10:22:33+00:00,PDF page 2,2,"Land Acquisition & C
+ourt cases",verbatim_category,official,matched_source_context,0.9,heuristic evidence review; not a calibrated probability,False,False,"Requires dated feature assembly, outcome labels and leakage review before training.",Official annexure row identifies package; local row ID is not an official package number. Reason for construction delay does not establish a target label.,"Belgaum - Khanapur Section
+of NH-748A",,,"{""table"": 1, ""row"": 7, ""column"": 10}",anchor_checked_against_downloaded_raw_extraction
+OBS_00045,REAL_007,,REAL_007/KA/ANNEXURE_ROW_6,REAL_007,package,,,,Karnataka,,,,,,,,,barrier_description,"Slow progress of EP
+C Contractor",text,"Slow progress of EP
+C Contractor",text,reported_source_statement,,2026-02-05,2026-02-05,,day,S018,f6d2652357ff76ff7c9d2d04bfc8fa4a5f5dfec6e4bb50478314e3ee6d596c64,https://sansad.in/getFile/loksabhaquestions/annex/187/AU1139_7LjMPC.pdf?source=pqals,project_research/REAL_007/01_authority/REAL_007_Lok_Sabha_MoRTH_bharatmala_package_annexure_undated_f6d2652357ff.pdf,2026-09-05T10:22:33+00:00,PDF page 2,2,"Slow progress of EP
+C Contractor",verbatim_category,official,matched_source_context,0.9,heuristic evidence review; not a calibrated probability,False,False,"Requires dated feature assembly, outcome labels and leakage review before training.",Official annexure row identifies package; local row ID is not an official package number. Reason for construction delay does not establish a target label.,"Balance work of 2L PS from
+Khanapur to Karnataka/Goa
+Border section of NH-748",,,"{""table"": 1, ""row"": 8, ""column"": 10}",anchor_checked_against_downloaded_raw_extraction
+OBS_00046,REAL_007,,REAL_007/KA/ANNEXURE_ROW_7,REAL_007,package,,,,Karnataka,,,,,,,,,barrier_description,"1. Land Acquisition
+2. ROB GAD appro
+val",text,"1. Land Acquisition
+2. ROB GAD appro
+val",text,reported_source_statement,,2026-02-05,2026-02-05,,day,S018,f6d2652357ff76ff7c9d2d04bfc8fa4a5f5dfec6e4bb50478314e3ee6d596c64,https://sansad.in/getFile/loksabhaquestions/annex/187/AU1139_7LjMPC.pdf?source=pqals,project_research/REAL_007/01_authority/REAL_007_Lok_Sabha_MoRTH_bharatmala_package_annexure_undated_f6d2652357ff.pdf,2026-09-05T10:22:33+00:00,PDF page 2,2,"1. Land Acquisition
+2. ROB GAD appro
+val",verbatim_category,official,matched_source_context,0.9,heuristic evidence review; not a calibrated probability,False,False,"Requires dated feature assembly, outcome labels and leakage review before training.",Official annexure row identifies package; local row ID is not an official package number. Reason for construction delay does not establish a target label.,"Tamil Nadu/Karnataka border
+to Hoskote section of NH-648",,,"{""table"": 1, ""row"": 9, ""column"": 10}",anchor_checked_against_downloaded_raw_extraction
+OBS_00047,REAL_007,,REAL_007/KA/ANNEXURE_ROW_9,REAL_007,package,,,,Karnataka,,,,,,,,,barrier_description,"Land acquisition and
+Change of scope",text,"Land acquisition and
+Change of scope",text,reported_source_statement,,2026-02-05,2026-02-05,,day,S018,f6d2652357ff76ff7c9d2d04bfc8fa4a5f5dfec6e4bb50478314e3ee6d596c64,https://sansad.in/getFile/loksabhaquestions/annex/187/AU1139_7LjMPC.pdf?source=pqals,project_research/REAL_007/01_authority/REAL_007_Lok_Sabha_MoRTH_bharatmala_package_annexure_undated_f6d2652357ff.pdf,2026-09-05T10:22:33+00:00,PDF page 2,2,"Land acquisition and
+Change of scope",verbatim_category,official,matched_source_context,0.9,heuristic evidence review; not a calibrated probability,False,False,"Requires dated feature assembly, outcome labels and leakage review before training.",Official annexure row identifies package; local row ID is not an official package number. Reason for construction delay does not establish a target label.,"Six laning Sankeshwar bypas
+s to Maharashtra /Karnataka
+Border (Pkg – 2) (NH-48)",,,"{""table"": 1, ""row"": 11, ""column"": 10}",anchor_checked_against_downloaded_raw_extraction
+OBS_00048,REAL_007,,REAL_007/KA/ANNEXURE_ROW_10,REAL_007,package,,,,Karnataka,,,,,,,,,barrier_description,"Delay in approval of
+GAD and Land acqui
+sition",text,"Delay in approval of
+GAD and Land acqui
+sition",text,reported_source_statement,,2026-02-05,2026-02-05,,day,S018,f6d2652357ff76ff7c9d2d04bfc8fa4a5f5dfec6e4bb50478314e3ee6d596c64,https://sansad.in/getFile/loksabhaquestions/annex/187/AU1139_7LjMPC.pdf?source=pqals,project_research/REAL_007/01_authority/REAL_007_Lok_Sabha_MoRTH_bharatmala_package_annexure_undated_f6d2652357ff.pdf,2026-09-05T10:22:33+00:00,PDF page 2,2,"Delay in approval of
+GAD and Land acqui
+sition",verbatim_category,official,matched_source_context,0.9,heuristic evidence review; not a calibrated probability,False,False,"Requires dated feature assembly, outcome labels and leakage review before training.",Official annexure row identifies package; local row ID is not an official package number. Reason for construction delay does not establish a target label.,"Hubli-Dharwad (6-laning) of N
+H-48",,,"{""table"": 1, ""row"": 12, ""column"": 10}",anchor_checked_against_downloaded_raw_extraction

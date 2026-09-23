@@ -1,0 +1,157 @@
+﻿source_id,source_sha256,page,table,row,column,value_original,reference,verification_status
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,1,1,In Mountainous and Steep Terrain (in Hilly Area),PDF page 42; detected table 1; row 1; column 1,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,2,1,"Highway
+Classification",PDF page 42; detected table 1; row 2; column 1,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,2,2,Type of Section,PDF page 42; detected table 1; row 2; column 2,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,2,4,Shoulder Width (m),PDF page 42; detected table 1; row 2; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,2,8,"Roadway
+Width
+(Carriageway
++ Shoulders)
+excluding
+extra width on
+horizontal
+curves, side
+parapet and
+drain &
+median (m)",PDF page 42; detected table 1; row 2; column 8,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,3,4,"Paved
+(m)",PDF page 42; detected table 1; row 3; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,3,5,"Earthen
+(m)",PDF page 42; detected table 1; row 3; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,3,6,"Total
+width of
+shoulders
+on one
+side (m)",PDF page 42; detected table 1; row 3; column 6,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,3,7,"Total
+width of
+shoulders
+on both
+sides (m)",PDF page 42; detected table 1; row 3; column 7,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,4,1,"National
+Highways and
+State
+Highways
+MDRs/ODRs
+i. Double
+Lane (7.00 m)",PDF page 42; detected table 1; row 4; column 1,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,4,2,"Open
+country with
+isolated
+built up
+area",PDF page 42; detected table 1; row 4; column 2,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,4,3,"Hill
+Side",PDF page 42; detected table 1; row 4; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,4,4,1.5 m,PDF page 42; detected table 1; row 4; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,4,5,-,PDF page 42; detected table 1; row 4; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,4,6,1.5 m,PDF page 42; detected table 1; row 4; column 6,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,4,7,4.00 m,PDF page 42; detected table 1; row 4; column 7,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,4,8,11.00,PDF page 42; detected table 1; row 4; column 8,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,5,3,"Valley
+Side",PDF page 42; detected table 1; row 5; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,5,4,1.5 m,PDF page 42; detected table 1; row 5; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,5,5,1.00 m,PDF page 42; detected table 1; row 5; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,5,6,2.50 m,PDF page 42; detected table 1; row 5; column 6,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,6,2,"Built up
+area and
+approaches
+to grade
+separated
+structures
+bridges",PDF page 42; detected table 1; row 6; column 2,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,6,3,"Hill
+Side",PDF page 42; detected table 1; row 6; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,6,4,"0.25 m +
+1.5 m
+(Raised)",PDF page 42; detected table 1; row 6; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,6,5,-,PDF page 42; detected table 1; row 6; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,6,6,1.75 m,PDF page 42; detected table 1; row 6; column 6,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,6,7,3.5 m,PDF page 42; detected table 1; row 6; column 7,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,6,8,10.50,PDF page 42; detected table 1; row 6; column 8,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,7,3,"Valley
+Side",PDF page 42; detected table 1; row 7; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,7,4,"0.25 m +
+1.5 m
+(Raised)",PDF page 42; detected table 1; row 7; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,7,5,-,PDF page 42; detected table 1; row 7; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,42,1,7,6,1.75 m,PDF page 42; detected table 1; row 7; column 6,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,1,1,"Sl.
+No.",PDF page 46; detected table 1; row 1; column 1,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,1,2,Type of Road,PDF page 46; detected table 1; row 1; column 2,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,1,3,Design service volume in PCU/day,PDF page 46; detected table 1; row 1; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,2,3,"Carriageway
+Width (CW)",PDF page 46; detected table 1; row 2; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,2,4,"For low curvature (0-
+200 degrees per km)",PDF page 46; detected table 1; row 2; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,2,5,"For high curvature
+(above 200 degrees
+per km)",PDF page 46; detected table 1; row 2; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,3,1,1,PDF page 46; detected table 1; row 3; column 1,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,3,2,Single lane,PDF page 46; detected table 1; row 3; column 2,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,3,3,3.75 m,PDF page 46; detected table 1; row 3; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,3,4,"1,600",PDF page 46; detected table 1; row 3; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,3,5,"1,400",PDF page 46; detected table 1; row 3; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,4,1,2,PDF page 46; detected table 1; row 4; column 1,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,4,2,"Intermediate
+lane",PDF page 46; detected table 1; row 4; column 2,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,4,3,5.5 m,PDF page 46; detected table 1; row 4; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,4,4,"5,200",PDF page 46; detected table 1; row 4; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,4,5,"4,500",PDF page 46; detected table 1; row 4; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,5,1,3,PDF page 46; detected table 1; row 5; column 1,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,5,2,Two lane,PDF page 46; detected table 1; row 5; column 2,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,5,3,7 m,PDF page 46; detected table 1; row 5; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,5,4,"7,000",PDF page 46; detected table 1; row 5; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,5,5,"5,000",PDF page 46; detected table 1; row 5; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,6,1,4,PDF page 46; detected table 1; row 6; column 1,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,6,2,"Two lanes with
+paved shoulder
+(NHDL with PS)",PDF page 46; detected table 1; row 6; column 2,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,6,3,7 m,PDF page 46; detected table 1; row 6; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,6,4,"9,000",PDF page 46; detected table 1; row 6; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,46,1,6,5,-,PDF page 46; detected table 1; row 6; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,1,1,"Type of
+Section",PDF page 47; detected table 1; row 1; column 1,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,1,2,"Carriageway
+(m)",PDF page 47; detected table 1; row 1; column 2,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,1,3,Paved Shoulder,PDF page 47; detected table 1; row 1; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,1,5,Earthen Shoulder,PDF page 47; detected table 1; row 1; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,1,7,"Roadway
+Width (m)",PDF page 47; detected table 1; row 1; column 7,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,2,3,"Hill Side
+(m)",PDF page 47; detected table 1; row 2; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,2,4,"Valley
+Side (m)",PDF page 47; detected table 1; row 2; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,2,5,"Hill Side
+(m)",PDF page 47; detected table 1; row 2; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,2,6,"Valley Side
+(m)",PDF page 47; detected table 1; row 2; column 6,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,3,1,"Open
+Locations",PDF page 47; detected table 1; row 3; column 1,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,3,2,7.0,PDF page 47; detected table 1; row 3; column 2,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,3,3,1.5,PDF page 47; detected table 1; row 3; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,3,4,1.5-1.9,PDF page 47; detected table 1; row 3; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,3,5,"1.0 (drain
++ utility
+duct)",PDF page 47; detected table 1; row 3; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,3,6,"0.6-1.0
+(including
+parapets)",PDF page 47; detected table 1; row 3; column 6,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,3,7,12.0,PDF page 47; detected table 1; row 3; column 7,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,4,1,Built-up Area,PDF page 47; detected table 1; row 4; column 1,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,4,2,"7.0-10.0 (with
+paved
+shoulder)",PDF page 47; detected table 1; row 4; column 2,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,4,3,"1.0–- 1.75
+(foot path
+cum drain
+raised)",PDF page 47; detected table 1; row 4; column 3,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,4,4,"1.0–-
+1.75
+(foot
+path cum
+drain
+raised)",PDF page 47; detected table 1; row 4; column 4,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,4,5,-,PDF page 47; detected table 1; row 4; column 5,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,4,6,-,PDF page 47; detected table 1; row 4; column 6,review_required
+S038,d0060a8ef4c8ab33b768f19f188771e06c63f55613b3b3dc2d03a245e95474c8,47,1,4,7,9.0-12.0,PDF page 47; detected table 1; row 4; column 7,review_required

@@ -1,0 +1,52 @@
+﻿source_id,source_sha256,page,table,row,column,value_original,reference,verification_status
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,1,1,Earth Work in,PDF page 1; detected table 1; row 1; column 1,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,1,2,C&G in Main,PDF page 1; detected table 1; row 1; column 2,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,1,3,GSB in Main,PDF page 1; detected table 1; row 1; column 3,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,1,4,WMM in Main,PDF page 1; detected table 1; row 1; column 4,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,1,5,DBM in Main,PDF page 1; detected table 1; row 1; column 5,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,1,6,Total Structures,PDF page 1; detected table 1; row 1; column 6,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,1,7,Over all,PDF page 1; detected table 1; row 1; column 7,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,2,1,Main,PDF page 1; detected table 1; row 2; column 1,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,2,2,Carriageway,PDF page 1; detected table 1; row 2; column 2,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,2,6,= 1498,PDF page 1; detected table 1; row 2; column 6,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,3,3,Carriageway,PDF page 1; detected table 1; row 3; column 3,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,3,4,Carriageway,PDF page 1; detected table 1; row 3; column 4,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,3,5,Carriageway,PDF page 1; detected table 1; row 3; column 5,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,3,7,Progress,PDF page 1; detected table 1; row 3; column 7,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,4,1,Carriageway,PDF page 1; detected table 1; row 4; column 1,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,4,2,,PDF page 1; detected table 1; row 4; column 2,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,4,6,Completed,PDF page 1; detected table 1; row 4; column 6,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,5,3,,PDF page 1; detected table 1; row 5; column 3,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,5,4,,PDF page 1; detected table 1; row 5; column 4,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,5,5,,PDF page 1; detected table 1; row 5; column 5,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,5,7,,PDF page 1; detected table 1; row 5; column 7,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,6,1,,PDF page 1; detected table 1; row 6; column 1,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,6,6,,PDF page 1; detected table 1; row 6; column 6,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,7,1,100%,PDF page 1; detected table 1; row 7; column 1,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,7,2,100%,PDF page 1; detected table 1; row 7; column 2,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,7,3,100%,PDF page 1; detected table 1; row 7; column 3,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,7,4,100%,PDF page 1; detected table 1; row 7; column 4,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,7,5,100%,PDF page 1; detected table 1; row 7; column 5,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,7,6,1498,PDF page 1; detected table 1; row 7; column 6,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,7,7,98%,PDF page 1; detected table 1; row 7; column 7,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,8,1,,PDF page 1; detected table 1; row 8; column 1,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,8,2,,PDF page 1; detected table 1; row 8; column 2,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,8,3,,PDF page 1; detected table 1; row 8; column 3,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,8,4,,PDF page 1; detected table 1; row 8; column 4,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,8,5,,PDF page 1; detected table 1; row 8; column 5,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,8,6,,PDF page 1; detected table 1; row 8; column 6,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,8,7,,PDF page 1; detected table 1; row 8; column 7,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,9,1,,PDF page 1; detected table 1; row 9; column 1,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,9,2,,PDF page 1; detected table 1; row 9; column 2,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,9,3,,PDF page 1; detected table 1; row 9; column 3,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,9,4,,PDF page 1; detected table 1; row 9; column 4,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,9,5,,PDF page 1; detected table 1; row 9; column 5,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,9,6,,PDF page 1; detected table 1; row 9; column 6,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,9,7,,PDF page 1; detected table 1; row 9; column 7,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,10,1,,PDF page 1; detected table 1; row 10; column 1,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,10,2,,PDF page 1; detected table 1; row 10; column 2,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,10,3,,PDF page 1; detected table 1; row 10; column 3,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,10,4,,PDF page 1; detected table 1; row 10; column 4,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,10,5,,PDF page 1; detected table 1; row 10; column 5,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,10,6,,PDF page 1; detected table 1; row 10; column 6,review_required
+G001,b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399,1,1,10,7,,PDF page 1; detected table 1; row 10; column 7,review_required

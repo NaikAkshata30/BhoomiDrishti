@@ -1,0 +1,16 @@
+{
+  "project_id": "REAL_001",
+  "project_name": "Delhi-Mumbai Expressway",
+  "authority": "NHAI",
+  "study_district": "Dausa",
+  "study_state": "Rajasthan",
+  "project_type": "expressway",
+  "aliases": "Delhi-Mumbai Expressway | Delhi-Vadodara Expressway | Delhi-Vadodara Greenfield Expressway | Delhi-Vadodara Access Controlled Greenfield Alignment | NH-148N | DME | NE-4",
+  "folder": "REAL_001_DELHI_MUMBAI_EXPRESSWAY",
+  "registry_basis": "user_supplied_not_source_verified",
+  "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+  "scope_rule": "Project-wide facts must not be represented as study-district or parcel facts.",
+  "downloaded_source_count": 8,
+  "normalized_observation_count": 9,
+  "training_ready": false
+}

@@ -1,0 +1,1156 @@
+[
+  {
+    "project_id": "REAL_001",
+    "url": "https://services.ecourts.gov.in/",
+    "reason": "legal_case_search_not_completed",
+    "search_parameters": {
+      "project": "Delhi-Mumbai Expressway",
+      "authority": "NHAI",
+      "state": "Rajasthan",
+      "district": "Dausa",
+      "aliases": [
+        "Delhi-Mumbai Expressway",
+        "Delhi-Vadodara Expressway",
+        "Delhi-Vadodara Greenfield Expressway",
+        "Delhi-Vadodara Access Controlled Greenfield Alignment",
+        "NH-148N",
+        "DME",
+        "NE-4"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Case number, CNR, court, case status, dated order, project relation",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_001",
+    "url": "https://parivesh.nic.in/",
+    "reason": "approval_search_not_completed",
+    "search_parameters": {
+      "project": "Delhi-Mumbai Expressway",
+      "authority": "NHAI",
+      "state": "Rajasthan",
+      "district": "Dausa",
+      "aliases": [
+        "Delhi-Mumbai Expressway",
+        "Delhi-Vadodara Expressway",
+        "Delhi-Vadodara Greenfield Expressway",
+        "Delhi-Vadodara Access Controlled Greenfield Alignment",
+        "NH-148N",
+        "DME",
+        "NE-4"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Proposal number, package, state/district, clearance stage and dated letter",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_001",
+    "url": "https://bhuvan.nrsc.gov.in/",
+    "reason": "route_geometry_hazard_search_not_completed",
+    "search_parameters": {
+      "project": "Delhi-Mumbai Expressway",
+      "authority": "NHAI",
+      "state": "Rajasthan",
+      "district": "Dausa",
+      "aliases": [
+        "Delhi-Mumbai Expressway",
+        "Delhi-Vadodara Expressway",
+        "Delhi-Vadodara Greenfield Expressway",
+        "Delhi-Vadodara Access Controlled Greenfield Alignment",
+        "NH-148N",
+        "DME",
+        "NE-4"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Public route/terrain layers, metadata, CRS, licence and spatial resolution",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_001",
+    "url": "https://eprocure.gov.in/",
+    "reason": "tender_archive_search_not_completed",
+    "search_parameters": {
+      "project": "Delhi-Mumbai Expressway",
+      "authority": "NHAI",
+      "state": "Rajasthan",
+      "district": "Dausa",
+      "aliases": [
+        "Delhi-Mumbai Expressway",
+        "Delhi-Vadodara Expressway",
+        "Delhi-Vadodara Greenfield Expressway",
+        "Delhi-Vadodara Access Controlled Greenfield Alignment",
+        "NH-148N",
+        "DME",
+        "NE-4"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Tender reference, package, award and contract PDFs",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_001",
+    "url": "https://dsp.imdpune.gov.in/data_request_form_rainfall.php",
+    "reason": "historical_weather_request_not_completed",
+    "search_parameters": {
+      "project": "Delhi-Mumbai Expressway",
+      "authority": "NHAI",
+      "state": "Rajasthan",
+      "district": "Dausa",
+      "aliases": [
+        "Delhi-Mumbai Expressway",
+        "Delhi-Vadodara Expressway",
+        "Delhi-Vadodara Greenfield Expressway",
+        "Delhi-Vadodara Access Controlled Greenfield Alignment",
+        "NH-148N",
+        "DME",
+        "NE-4"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "District daily historical rainfall for the acquisition observation period; public or authorized access only",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_001",
+    "url": "https://bhoomirashi.gov.in/auth/revamp/login1.cshtml",
+    "reason": "manual_portal_workflow",
+    "search_parameters": {
+      "project": "Delhi-Mumbai Expressway",
+      "authority": "NHAI",
+      "state": "Rajasthan",
+      "district": "Dausa",
+      "aliases": [
+        "Delhi-Mumbai Expressway",
+        "Delhi-Vadodara Expressway",
+        "Delhi-Vadodara Greenfield Expressway",
+        "Delhi-Vadodara Access Controlled Greenfield Alignment",
+        "NH-148N",
+        "DME",
+        "NE-4"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Exact project/package, NH number, state/district, 3A/3D/award and CALA records; never use dashboard totals as project facts",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_002",
+    "url": "https://services.ecourts.gov.in/",
+    "reason": "legal_case_search_not_completed",
+    "search_parameters": {
+      "project": "Ganga Expressway",
+      "authority": "UPEIDA",
+      "state": "Uttar Pradesh",
+      "district": "Meerut",
+      "aliases": [
+        "Ganga Expressway",
+        "Ganga Expressway Project",
+        "Uttar Pradesh Ganga Expressway"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Case number, CNR, court, case status, dated order, project relation",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_002",
+    "url": "https://parivesh.nic.in/",
+    "reason": "approval_search_not_completed",
+    "search_parameters": {
+      "project": "Ganga Expressway",
+      "authority": "UPEIDA",
+      "state": "Uttar Pradesh",
+      "district": "Meerut",
+      "aliases": [
+        "Ganga Expressway",
+        "Ganga Expressway Project",
+        "Uttar Pradesh Ganga Expressway"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Proposal number, package, state/district, clearance stage and dated letter",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_002",
+    "url": "https://bhuvan.nrsc.gov.in/",
+    "reason": "route_geometry_hazard_search_not_completed",
+    "search_parameters": {
+      "project": "Ganga Expressway",
+      "authority": "UPEIDA",
+      "state": "Uttar Pradesh",
+      "district": "Meerut",
+      "aliases": [
+        "Ganga Expressway",
+        "Ganga Expressway Project",
+        "Uttar Pradesh Ganga Expressway"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Public route/terrain layers, metadata, CRS, licence and spatial resolution",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_002",
+    "url": "https://eprocure.gov.in/",
+    "reason": "tender_archive_search_not_completed",
+    "search_parameters": {
+      "project": "Ganga Expressway",
+      "authority": "UPEIDA",
+      "state": "Uttar Pradesh",
+      "district": "Meerut",
+      "aliases": [
+        "Ganga Expressway",
+        "Ganga Expressway Project",
+        "Uttar Pradesh Ganga Expressway"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Tender reference, package, award and contract PDFs",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_002",
+    "url": "https://dsp.imdpune.gov.in/data_request_form_rainfall.php",
+    "reason": "historical_weather_request_not_completed",
+    "search_parameters": {
+      "project": "Ganga Expressway",
+      "authority": "UPEIDA",
+      "state": "Uttar Pradesh",
+      "district": "Meerut",
+      "aliases": [
+        "Ganga Expressway",
+        "Ganga Expressway Project",
+        "Uttar Pradesh Ganga Expressway"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "District daily historical rainfall for the acquisition observation period; public or authorized access only",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_003",
+    "url": "https://services.ecourts.gov.in/",
+    "reason": "legal_case_search_not_completed",
+    "search_parameters": {
+      "project": "Char Dham Highway Project",
+      "authority": "MoRTH",
+      "state": "Uttarakhand",
+      "district": "Rudraprayag",
+      "aliases": [
+        "Char Dham Mahamarg",
+        "Char Dham Highway",
+        "Char Dham All Weather Road",
+        "Char Dham Road Project",
+        "Chardham",
+        "Char Dham Pariyojana"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Case number, CNR, court, case status, dated order, project relation",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_003",
+    "url": "https://parivesh.nic.in/",
+    "reason": "approval_search_not_completed",
+    "search_parameters": {
+      "project": "Char Dham Highway Project",
+      "authority": "MoRTH",
+      "state": "Uttarakhand",
+      "district": "Rudraprayag",
+      "aliases": [
+        "Char Dham Mahamarg",
+        "Char Dham Highway",
+        "Char Dham All Weather Road",
+        "Char Dham Road Project",
+        "Chardham",
+        "Char Dham Pariyojana"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Proposal number, package, state/district, clearance stage and dated letter",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_003",
+    "url": "https://bhuvan.nrsc.gov.in/",
+    "reason": "route_geometry_hazard_search_not_completed",
+    "search_parameters": {
+      "project": "Char Dham Highway Project",
+      "authority": "MoRTH",
+      "state": "Uttarakhand",
+      "district": "Rudraprayag",
+      "aliases": [
+        "Char Dham Mahamarg",
+        "Char Dham Highway",
+        "Char Dham All Weather Road",
+        "Char Dham Road Project",
+        "Chardham",
+        "Char Dham Pariyojana"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Public route/terrain layers, metadata, CRS, licence and spatial resolution",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_003",
+    "url": "https://eprocure.gov.in/",
+    "reason": "tender_archive_search_not_completed",
+    "search_parameters": {
+      "project": "Char Dham Highway Project",
+      "authority": "MoRTH",
+      "state": "Uttarakhand",
+      "district": "Rudraprayag",
+      "aliases": [
+        "Char Dham Mahamarg",
+        "Char Dham Highway",
+        "Char Dham All Weather Road",
+        "Char Dham Road Project",
+        "Chardham",
+        "Char Dham Pariyojana"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Tender reference, package, award and contract PDFs",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_003",
+    "url": "https://dsp.imdpune.gov.in/data_request_form_rainfall.php",
+    "reason": "historical_weather_request_not_completed",
+    "search_parameters": {
+      "project": "Char Dham Highway Project",
+      "authority": "MoRTH",
+      "state": "Uttarakhand",
+      "district": "Rudraprayag",
+      "aliases": [
+        "Char Dham Mahamarg",
+        "Char Dham Highway",
+        "Char Dham All Weather Road",
+        "Char Dham Road Project",
+        "Chardham",
+        "Char Dham Pariyojana"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "District daily historical rainfall for the acquisition observation period; public or authorized access only",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_003",
+    "url": "https://bhoomirashi.gov.in/auth/revamp/login1.cshtml",
+    "reason": "manual_portal_workflow",
+    "search_parameters": {
+      "project": "Char Dham Highway Project",
+      "authority": "MoRTH",
+      "state": "Uttarakhand",
+      "district": "Rudraprayag",
+      "aliases": [
+        "Char Dham Mahamarg",
+        "Char Dham Highway",
+        "Char Dham All Weather Road",
+        "Char Dham Road Project",
+        "Chardham",
+        "Char Dham Pariyojana"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Exact project/package, NH number, state/district, 3A/3D/award and CALA records; never use dashboard totals as project facts",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_004",
+    "url": "https://services.ecourts.gov.in/",
+    "reason": "legal_case_search_not_completed",
+    "search_parameters": {
+      "project": "Mumbai Metro Line 3",
+      "authority": "MMRCL",
+      "state": "Maharashtra",
+      "district": "Mumbai",
+      "aliases": [
+        "Mumbai Metro Line 3",
+        "Aqua Line",
+        "Colaba-Bandra-SEEPZ Metro",
+        "Metro 3",
+        "Mumbai Metro Line-III",
+        "Colaba-Bandra-SEEPZ"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Case number, CNR, court, case status, dated order, project relation",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_004",
+    "url": "https://parivesh.nic.in/",
+    "reason": "approval_search_not_completed",
+    "search_parameters": {
+      "project": "Mumbai Metro Line 3",
+      "authority": "MMRCL",
+      "state": "Maharashtra",
+      "district": "Mumbai",
+      "aliases": [
+        "Mumbai Metro Line 3",
+        "Aqua Line",
+        "Colaba-Bandra-SEEPZ Metro",
+        "Metro 3",
+        "Mumbai Metro Line-III",
+        "Colaba-Bandra-SEEPZ"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Proposal number, package, state/district, clearance stage and dated letter",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_004",
+    "url": "https://bhuvan.nrsc.gov.in/",
+    "reason": "route_geometry_hazard_search_not_completed",
+    "search_parameters": {
+      "project": "Mumbai Metro Line 3",
+      "authority": "MMRCL",
+      "state": "Maharashtra",
+      "district": "Mumbai",
+      "aliases": [
+        "Mumbai Metro Line 3",
+        "Aqua Line",
+        "Colaba-Bandra-SEEPZ Metro",
+        "Metro 3",
+        "Mumbai Metro Line-III",
+        "Colaba-Bandra-SEEPZ"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Public route/terrain layers, metadata, CRS, licence and spatial resolution",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_004",
+    "url": "https://eprocure.gov.in/",
+    "reason": "tender_archive_search_not_completed",
+    "search_parameters": {
+      "project": "Mumbai Metro Line 3",
+      "authority": "MMRCL",
+      "state": "Maharashtra",
+      "district": "Mumbai",
+      "aliases": [
+        "Mumbai Metro Line 3",
+        "Aqua Line",
+        "Colaba-Bandra-SEEPZ Metro",
+        "Metro 3",
+        "Mumbai Metro Line-III",
+        "Colaba-Bandra-SEEPZ"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Tender reference, package, award and contract PDFs",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_004",
+    "url": "https://dsp.imdpune.gov.in/data_request_form_rainfall.php",
+    "reason": "historical_weather_request_not_completed",
+    "search_parameters": {
+      "project": "Mumbai Metro Line 3",
+      "authority": "MMRCL",
+      "state": "Maharashtra",
+      "district": "Mumbai",
+      "aliases": [
+        "Mumbai Metro Line 3",
+        "Aqua Line",
+        "Colaba-Bandra-SEEPZ Metro",
+        "Metro 3",
+        "Mumbai Metro Line-III",
+        "Colaba-Bandra-SEEPZ"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "District daily historical rainfall for the acquisition observation period; public or authorized access only",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_005",
+    "url": "https://services.ecourts.gov.in/",
+    "reason": "legal_case_search_not_completed",
+    "search_parameters": {
+      "project": "Delhi Metro Phase IV",
+      "authority": "DMRC",
+      "state": "Delhi",
+      "district": "New Delhi",
+      "aliases": [
+        "Delhi Metro Phase IV",
+        "Delhi Metro Phase 4",
+        "DMRC Phase IV",
+        "Delhi Metro Phase-IV",
+        "Delhi Metro Phase IV-2"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Case number, CNR, court, case status, dated order, project relation",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_005",
+    "url": "https://parivesh.nic.in/",
+    "reason": "approval_search_not_completed",
+    "search_parameters": {
+      "project": "Delhi Metro Phase IV",
+      "authority": "DMRC",
+      "state": "Delhi",
+      "district": "New Delhi",
+      "aliases": [
+        "Delhi Metro Phase IV",
+        "Delhi Metro Phase 4",
+        "DMRC Phase IV",
+        "Delhi Metro Phase-IV",
+        "Delhi Metro Phase IV-2"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Proposal number, package, state/district, clearance stage and dated letter",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_005",
+    "url": "https://bhuvan.nrsc.gov.in/",
+    "reason": "route_geometry_hazard_search_not_completed",
+    "search_parameters": {
+      "project": "Delhi Metro Phase IV",
+      "authority": "DMRC",
+      "state": "Delhi",
+      "district": "New Delhi",
+      "aliases": [
+        "Delhi Metro Phase IV",
+        "Delhi Metro Phase 4",
+        "DMRC Phase IV",
+        "Delhi Metro Phase-IV",
+        "Delhi Metro Phase IV-2"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Public route/terrain layers, metadata, CRS, licence and spatial resolution",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_005",
+    "url": "https://eprocure.gov.in/",
+    "reason": "tender_archive_search_not_completed",
+    "search_parameters": {
+      "project": "Delhi Metro Phase IV",
+      "authority": "DMRC",
+      "state": "Delhi",
+      "district": "New Delhi",
+      "aliases": [
+        "Delhi Metro Phase IV",
+        "Delhi Metro Phase 4",
+        "DMRC Phase IV",
+        "Delhi Metro Phase-IV",
+        "Delhi Metro Phase IV-2"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Tender reference, package, award and contract PDFs",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_005",
+    "url": "https://dsp.imdpune.gov.in/data_request_form_rainfall.php",
+    "reason": "historical_weather_request_not_completed",
+    "search_parameters": {
+      "project": "Delhi Metro Phase IV",
+      "authority": "DMRC",
+      "state": "Delhi",
+      "district": "New Delhi",
+      "aliases": [
+        "Delhi Metro Phase IV",
+        "Delhi Metro Phase 4",
+        "DMRC Phase IV",
+        "Delhi Metro Phase-IV",
+        "Delhi Metro Phase IV-2"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "District daily historical rainfall for the acquisition observation period; public or authorized access only",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_006",
+    "url": "https://services.ecourts.gov.in/",
+    "reason": "legal_case_search_not_completed",
+    "search_parameters": {
+      "project": "Chennai Metro Rail Project",
+      "authority": "CMRL",
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "aliases": [
+        "Chennai Metro",
+        "Chennai Metro Rail",
+        "Chennai Metro Rail Project",
+        "CMRL"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Case number, CNR, court, case status, dated order, project relation",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_006",
+    "url": "https://parivesh.nic.in/",
+    "reason": "approval_search_not_completed",
+    "search_parameters": {
+      "project": "Chennai Metro Rail Project",
+      "authority": "CMRL",
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "aliases": [
+        "Chennai Metro",
+        "Chennai Metro Rail",
+        "Chennai Metro Rail Project",
+        "CMRL"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Proposal number, package, state/district, clearance stage and dated letter",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_006",
+    "url": "https://bhuvan.nrsc.gov.in/",
+    "reason": "route_geometry_hazard_search_not_completed",
+    "search_parameters": {
+      "project": "Chennai Metro Rail Project",
+      "authority": "CMRL",
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "aliases": [
+        "Chennai Metro",
+        "Chennai Metro Rail",
+        "Chennai Metro Rail Project",
+        "CMRL"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Public route/terrain layers, metadata, CRS, licence and spatial resolution",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_006",
+    "url": "https://eprocure.gov.in/",
+    "reason": "tender_archive_search_not_completed",
+    "search_parameters": {
+      "project": "Chennai Metro Rail Project",
+      "authority": "CMRL",
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "aliases": [
+        "Chennai Metro",
+        "Chennai Metro Rail",
+        "Chennai Metro Rail Project",
+        "CMRL"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Tender reference, package, award and contract PDFs",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_006",
+    "url": "https://dsp.imdpune.gov.in/data_request_form_rainfall.php",
+    "reason": "historical_weather_request_not_completed",
+    "search_parameters": {
+      "project": "Chennai Metro Rail Project",
+      "authority": "CMRL",
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "aliases": [
+        "Chennai Metro",
+        "Chennai Metro Rail",
+        "Chennai Metro Rail Project",
+        "CMRL"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "District daily historical rainfall for the acquisition observation period; public or authorized access only",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_007",
+    "url": "https://services.ecourts.gov.in/",
+    "reason": "legal_case_search_not_completed",
+    "search_parameters": {
+      "project": "Bharatmala Pariyojana",
+      "authority": "NHAI / MoRTH",
+      "state": "Multi-state",
+      "district": "Multi-district",
+      "aliases": [
+        "Bharatmala Pariyojana",
+        "Bharatmala"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Case number, CNR, court, case status, dated order, project relation",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_007",
+    "url": "https://parivesh.nic.in/",
+    "reason": "approval_search_not_completed",
+    "search_parameters": {
+      "project": "Bharatmala Pariyojana",
+      "authority": "NHAI / MoRTH",
+      "state": "Multi-state",
+      "district": "Multi-district",
+      "aliases": [
+        "Bharatmala Pariyojana",
+        "Bharatmala"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Proposal number, package, state/district, clearance stage and dated letter",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_007",
+    "url": "https://bhuvan.nrsc.gov.in/",
+    "reason": "route_geometry_hazard_search_not_completed",
+    "search_parameters": {
+      "project": "Bharatmala Pariyojana",
+      "authority": "NHAI / MoRTH",
+      "state": "Multi-state",
+      "district": "Multi-district",
+      "aliases": [
+        "Bharatmala Pariyojana",
+        "Bharatmala"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Public route/terrain layers, metadata, CRS, licence and spatial resolution",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_007",
+    "url": "https://eprocure.gov.in/",
+    "reason": "tender_archive_search_not_completed",
+    "search_parameters": {
+      "project": "Bharatmala Pariyojana",
+      "authority": "NHAI / MoRTH",
+      "state": "Multi-state",
+      "district": "Multi-district",
+      "aliases": [
+        "Bharatmala Pariyojana",
+        "Bharatmala"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Tender reference, package, award and contract PDFs",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_007",
+    "url": "https://dsp.imdpune.gov.in/data_request_form_rainfall.php",
+    "reason": "historical_weather_request_not_completed",
+    "search_parameters": {
+      "project": "Bharatmala Pariyojana",
+      "authority": "NHAI / MoRTH",
+      "state": "Multi-state",
+      "district": "Multi-district",
+      "aliases": [
+        "Bharatmala Pariyojana",
+        "Bharatmala"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "District daily historical rainfall for the acquisition observation period; public or authorized access only",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_007",
+    "url": "https://bhoomirashi.gov.in/auth/revamp/login1.cshtml",
+    "reason": "manual_portal_workflow",
+    "search_parameters": {
+      "project": "Bharatmala Pariyojana",
+      "authority": "NHAI / MoRTH",
+      "state": "Multi-state",
+      "district": "Multi-district",
+      "aliases": [
+        "Bharatmala Pariyojana",
+        "Bharatmala"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Exact project/package, NH number, state/district, 3A/3D/award and CALA records; never use dashboard totals as project facts",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_008",
+    "url": "https://services.ecourts.gov.in/",
+    "reason": "legal_case_search_not_completed",
+    "search_parameters": {
+      "project": "Zojila Tunnel Project",
+      "authority": "NHIDCL",
+      "state": "Jammu & Kashmir",
+      "district": "Ganderbal",
+      "aliases": [
+        "Zojila Tunnel",
+        "Zoji La Tunnel",
+        "Zoji-la Tunnel"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Case number, CNR, court, case status, dated order, project relation",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_008",
+    "url": "https://parivesh.nic.in/",
+    "reason": "approval_search_not_completed",
+    "search_parameters": {
+      "project": "Zojila Tunnel Project",
+      "authority": "NHIDCL",
+      "state": "Jammu & Kashmir",
+      "district": "Ganderbal",
+      "aliases": [
+        "Zojila Tunnel",
+        "Zoji La Tunnel",
+        "Zoji-la Tunnel"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Proposal number, package, state/district, clearance stage and dated letter",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_008",
+    "url": "https://bhuvan.nrsc.gov.in/",
+    "reason": "route_geometry_hazard_search_not_completed",
+    "search_parameters": {
+      "project": "Zojila Tunnel Project",
+      "authority": "NHIDCL",
+      "state": "Jammu & Kashmir",
+      "district": "Ganderbal",
+      "aliases": [
+        "Zojila Tunnel",
+        "Zoji La Tunnel",
+        "Zoji-la Tunnel"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Public route/terrain layers, metadata, CRS, licence and spatial resolution",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_008",
+    "url": "https://eprocure.gov.in/",
+    "reason": "tender_archive_search_not_completed",
+    "search_parameters": {
+      "project": "Zojila Tunnel Project",
+      "authority": "NHIDCL",
+      "state": "Jammu & Kashmir",
+      "district": "Ganderbal",
+      "aliases": [
+        "Zojila Tunnel",
+        "Zoji La Tunnel",
+        "Zoji-la Tunnel"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Tender reference, package, award and contract PDFs",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_008",
+    "url": "https://dsp.imdpune.gov.in/data_request_form_rainfall.php",
+    "reason": "historical_weather_request_not_completed",
+    "search_parameters": {
+      "project": "Zojila Tunnel Project",
+      "authority": "NHIDCL",
+      "state": "Jammu & Kashmir",
+      "district": "Ganderbal",
+      "aliases": [
+        "Zojila Tunnel",
+        "Zoji La Tunnel",
+        "Zoji-la Tunnel"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "District daily historical rainfall for the acquisition observation period; public or authorized access only",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_008",
+    "url": "https://bhoomirashi.gov.in/auth/revamp/login1.cshtml",
+    "reason": "manual_portal_workflow",
+    "search_parameters": {
+      "project": "Zojila Tunnel Project",
+      "authority": "NHIDCL",
+      "state": "Jammu & Kashmir",
+      "district": "Ganderbal",
+      "aliases": [
+        "Zojila Tunnel",
+        "Zoji La Tunnel",
+        "Zoji-la Tunnel"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Exact project/package, NH number, state/district, 3A/3D/award and CALA records; never use dashboard totals as project facts",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_009",
+    "url": "https://services.ecourts.gov.in/",
+    "reason": "legal_case_search_not_completed",
+    "search_parameters": {
+      "project": "Mumbai-Nagpur Expressway",
+      "authority": "MSRDC",
+      "state": "Maharashtra",
+      "district": "Nagpur corridor",
+      "aliases": [
+        "Mumbai Nagpur Expressway",
+        "Mumbai-Nagpur Expressway",
+        "Samruddhi Mahamarg",
+        "Maharashtra Samruddhi Mahamarg",
+        "Nagpur-Mumbai Super Communication Expressway",
+        "Nagpur Mumbai Super Communication"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Case number, CNR, court, case status, dated order, project relation",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_009",
+    "url": "https://parivesh.nic.in/",
+    "reason": "approval_search_not_completed",
+    "search_parameters": {
+      "project": "Mumbai-Nagpur Expressway",
+      "authority": "MSRDC",
+      "state": "Maharashtra",
+      "district": "Nagpur corridor",
+      "aliases": [
+        "Mumbai Nagpur Expressway",
+        "Mumbai-Nagpur Expressway",
+        "Samruddhi Mahamarg",
+        "Maharashtra Samruddhi Mahamarg",
+        "Nagpur-Mumbai Super Communication Expressway",
+        "Nagpur Mumbai Super Communication"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Proposal number, package, state/district, clearance stage and dated letter",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_009",
+    "url": "https://bhuvan.nrsc.gov.in/",
+    "reason": "route_geometry_hazard_search_not_completed",
+    "search_parameters": {
+      "project": "Mumbai-Nagpur Expressway",
+      "authority": "MSRDC",
+      "state": "Maharashtra",
+      "district": "Nagpur corridor",
+      "aliases": [
+        "Mumbai Nagpur Expressway",
+        "Mumbai-Nagpur Expressway",
+        "Samruddhi Mahamarg",
+        "Maharashtra Samruddhi Mahamarg",
+        "Nagpur-Mumbai Super Communication Expressway",
+        "Nagpur Mumbai Super Communication"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Public route/terrain layers, metadata, CRS, licence and spatial resolution",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_009",
+    "url": "https://eprocure.gov.in/",
+    "reason": "tender_archive_search_not_completed",
+    "search_parameters": {
+      "project": "Mumbai-Nagpur Expressway",
+      "authority": "MSRDC",
+      "state": "Maharashtra",
+      "district": "Nagpur corridor",
+      "aliases": [
+        "Mumbai Nagpur Expressway",
+        "Mumbai-Nagpur Expressway",
+        "Samruddhi Mahamarg",
+        "Maharashtra Samruddhi Mahamarg",
+        "Nagpur-Mumbai Super Communication Expressway",
+        "Nagpur Mumbai Super Communication"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Tender reference, package, award and contract PDFs",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_009",
+    "url": "https://dsp.imdpune.gov.in/data_request_form_rainfall.php",
+    "reason": "historical_weather_request_not_completed",
+    "search_parameters": {
+      "project": "Mumbai-Nagpur Expressway",
+      "authority": "MSRDC",
+      "state": "Maharashtra",
+      "district": "Nagpur corridor",
+      "aliases": [
+        "Mumbai Nagpur Expressway",
+        "Mumbai-Nagpur Expressway",
+        "Samruddhi Mahamarg",
+        "Maharashtra Samruddhi Mahamarg",
+        "Nagpur-Mumbai Super Communication Expressway",
+        "Nagpur Mumbai Super Communication"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "District daily historical rainfall for the acquisition observation period; public or authorized access only",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_010",
+    "url": "https://services.ecourts.gov.in/",
+    "reason": "legal_case_search_not_completed",
+    "search_parameters": {
+      "project": "Eastern Dedicated Freight Corridor",
+      "authority": "DFCCIL",
+      "state": "Uttar Pradesh",
+      "district": "Prayagraj corridor",
+      "aliases": [
+        "Eastern Dedicated Freight Corridor",
+        "EDFC",
+        "Eastern DFC",
+        "DFCCIL Eastern Dedicated Freight Corridor",
+        "Eastern Dedicated Frieght Corridor"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Case number, CNR, court, case status, dated order, project relation",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_010",
+    "url": "https://parivesh.nic.in/",
+    "reason": "approval_search_not_completed",
+    "search_parameters": {
+      "project": "Eastern Dedicated Freight Corridor",
+      "authority": "DFCCIL",
+      "state": "Uttar Pradesh",
+      "district": "Prayagraj corridor",
+      "aliases": [
+        "Eastern Dedicated Freight Corridor",
+        "EDFC",
+        "Eastern DFC",
+        "DFCCIL Eastern Dedicated Freight Corridor",
+        "Eastern Dedicated Frieght Corridor"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Proposal number, package, state/district, clearance stage and dated letter",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_010",
+    "url": "https://bhuvan.nrsc.gov.in/",
+    "reason": "route_geometry_hazard_search_not_completed",
+    "search_parameters": {
+      "project": "Eastern Dedicated Freight Corridor",
+      "authority": "DFCCIL",
+      "state": "Uttar Pradesh",
+      "district": "Prayagraj corridor",
+      "aliases": [
+        "Eastern Dedicated Freight Corridor",
+        "EDFC",
+        "Eastern DFC",
+        "DFCCIL Eastern Dedicated Freight Corridor",
+        "Eastern Dedicated Frieght Corridor"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Public route/terrain layers, metadata, CRS, licence and spatial resolution",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_010",
+    "url": "https://eprocure.gov.in/",
+    "reason": "tender_archive_search_not_completed",
+    "search_parameters": {
+      "project": "Eastern Dedicated Freight Corridor",
+      "authority": "DFCCIL",
+      "state": "Uttar Pradesh",
+      "district": "Prayagraj corridor",
+      "aliases": [
+        "Eastern Dedicated Freight Corridor",
+        "EDFC",
+        "Eastern DFC",
+        "DFCCIL Eastern Dedicated Freight Corridor",
+        "Eastern Dedicated Frieght Corridor"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "Tender reference, package, award and contract PDFs",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_010",
+    "url": "https://dsp.imdpune.gov.in/data_request_form_rainfall.php",
+    "reason": "historical_weather_request_not_completed",
+    "search_parameters": {
+      "project": "Eastern Dedicated Freight Corridor",
+      "authority": "DFCCIL",
+      "state": "Uttar Pradesh",
+      "district": "Prayagraj corridor",
+      "aliases": [
+        "Eastern Dedicated Freight Corridor",
+        "EDFC",
+        "Eastern DFC",
+        "DFCCIL Eastern Dedicated Freight Corridor",
+        "Eastern Dedicated Frieght Corridor"
+      ],
+      "package_number": "must be confirmed before parcel matching"
+    },
+    "expected_data": "District daily historical rainfall for the acquisition observation period; public or authorized access only",
+    "action": "Use public search where available; if CAPTCHA/login is required use authorized manual access. No assertion is made that every portal is CAPTCHA-gated."
+  },
+  {
+    "project_id": "REAL_006",
+    "source_id": "S008",
+    "reason": "internal_corridor_header_conflict",
+    "source_reference": "Cover and pages 4/14: Corridor 5; later pages including 78: Corridor 4",
+    "action": "Retain page-specific scope. Verify appendix ownership with CMRL before using later-page figures.",
+    "expected_data": "Corrected authoritative corridor attribution"
+  },
+  {
+    "project_id": "REAL_006",
+    "source_id": "S008",
+    "reason": "conflicting_station_counts",
+    "source_reference": "PDF pages 4 and 14",
+    "action": "Review 29 versus 30 station count; both values retained and conflict-flagged."
+  },
+  {
+    "project_id": "REAL_002",
+    "reason": "compensation_units_and_payment_basis",
+    "source_reference": "Ganga district reports columns 13-16",
+    "action": "Verify currency unit and proposed-versus-paid meaning before numeric compensation normalization. Scanned rate orders G040/G041 also require review."
+  },
+  {
+    "project_id": "REAL_002",
+    "url": "https://drive.google.com/file/d/1eO-RZ9nUiSjV4NbMoMRNQqT3m-knVqNu/view?usp=sharing",
+    "reason": "official_index_external_hydrological_file_not_collected",
+    "search_parameters": "UPEIDA Ganga Expressway Hydrological Report, index date 04-06-2021",
+    "expected_data": "Hydrological report PDF",
+    "action": "Follow official UPEIDA link in a browser; download only if publicly accessible."
+  },
+  {
+    "project_id": "REAL_002",
+    "url": "https://drive.google.com/file/d/1GdsDxxkMxogd9plXhKsKgZXYS0YpBc-q/view?usp=sharing",
+    "reason": "official_index_external_coordinates_file_not_collected",
+    "search_parameters": "UPEIDA Interchange Coordinates of Ganga Expressway, index date 04-06-2021",
+    "expected_data": "Interchange coordinates with coordinate reference system",
+    "action": "Follow official UPEIDA link; verify package/coordinate system; do not invent points."
+  }
+]

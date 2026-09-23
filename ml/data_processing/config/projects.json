@@ -1,0 +1,189 @@
+[
+  {
+    "project_id": "REAL_001",
+    "project_name": "Delhi-Mumbai Expressway",
+    "authority": "NHAI",
+    "study_district": "Dausa",
+    "study_state": "Rajasthan",
+    "project_type": "expressway",
+    "aliases": [
+      "Delhi-Mumbai Expressway",
+      "Delhi-Vadodara Expressway",
+      "Delhi-Vadodara Greenfield Expressway",
+      "Delhi-Vadodara Access Controlled Greenfield Alignment",
+      "NH-148N",
+      "DME",
+      "NE-4"
+    ],
+    "folder": "REAL_001_DELHI_MUMBAI_EXPRESSWAY",
+    "registry_basis": "user_supplied_not_source_verified",
+    "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+    "scope_rule": "Project-wide facts must not be represented as study-district or parcel facts."
+  },
+  {
+    "project_id": "REAL_002",
+    "project_name": "Ganga Expressway",
+    "authority": "UPEIDA",
+    "study_district": "Meerut",
+    "study_state": "Uttar Pradesh",
+    "project_type": "expressway",
+    "aliases": [
+      "Ganga Expressway",
+      "Ganga Expressway Project",
+      "Uttar Pradesh Ganga Expressway"
+    ],
+    "folder": "REAL_002",
+    "registry_basis": "user_supplied_not_source_verified",
+    "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+    "scope_rule": "Project-wide facts must not be represented as study-district or parcel facts."
+  },
+  {
+    "project_id": "REAL_003",
+    "project_name": "Char Dham Highway Project",
+    "authority": "MoRTH",
+    "study_district": "Rudraprayag",
+    "study_state": "Uttarakhand",
+    "project_type": "road_programme",
+    "aliases": [
+      "Char Dham Mahamarg",
+      "Char Dham Highway",
+      "Char Dham All Weather Road",
+      "Char Dham Road Project",
+      "Chardham",
+      "Char Dham Pariyojana"
+    ],
+    "folder": "REAL_003",
+    "registry_basis": "user_supplied_not_source_verified",
+    "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+    "scope_rule": "Project-wide facts must not be represented as study-district or parcel facts."
+  },
+  {
+    "project_id": "REAL_004",
+    "project_name": "Mumbai Metro Line 3",
+    "authority": "MMRCL",
+    "study_district": "Mumbai",
+    "study_state": "Maharashtra",
+    "project_type": "metro",
+    "aliases": [
+      "Mumbai Metro Line 3",
+      "Aqua Line",
+      "Colaba-Bandra-SEEPZ Metro",
+      "Metro 3",
+      "Mumbai Metro Line-III",
+      "Colaba-Bandra-SEEPZ"
+    ],
+    "folder": "REAL_004",
+    "registry_basis": "user_supplied_not_source_verified",
+    "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+    "scope_rule": "Keep metro line, phase, corridor, depot and temporary/permanent land distinct; NH 3A/3D cannot be assumed applicable."
+  },
+  {
+    "project_id": "REAL_005",
+    "project_name": "Delhi Metro Phase IV",
+    "authority": "DMRC",
+    "study_district": "New Delhi",
+    "study_state": "Delhi",
+    "project_type": "metro_phase",
+    "aliases": [
+      "Delhi Metro Phase IV",
+      "Delhi Metro Phase 4",
+      "DMRC Phase IV",
+      "Delhi Metro Phase-IV",
+      "Delhi Metro Phase IV-2"
+    ],
+    "folder": "REAL_005",
+    "registry_basis": "user_supplied_not_source_verified",
+    "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+    "scope_rule": "Keep metro line, phase, corridor, depot and temporary/permanent land distinct; NH 3A/3D cannot be assumed applicable."
+  },
+  {
+    "project_id": "REAL_006",
+    "project_name": "Chennai Metro Rail Project",
+    "authority": "CMRL",
+    "study_district": "Chennai",
+    "study_state": "Tamil Nadu",
+    "project_type": "metro",
+    "aliases": [
+      "Chennai Metro",
+      "Chennai Metro Rail",
+      "Chennai Metro Rail Project",
+      "CMRL"
+    ],
+    "folder": "REAL_006",
+    "registry_basis": "user_supplied_not_source_verified",
+    "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+    "scope_rule": "Keep metro line, phase, corridor, depot and temporary/permanent land distinct; NH 3A/3D cannot be assumed applicable."
+  },
+  {
+    "project_id": "REAL_007",
+    "project_name": "Bharatmala Pariyojana",
+    "authority": "NHAI / MoRTH",
+    "study_district": "Multi-district",
+    "study_state": "Multi-state",
+    "project_type": "programme",
+    "aliases": [
+      "Bharatmala Pariyojana",
+      "Bharatmala"
+    ],
+    "folder": "REAL_007",
+    "registry_basis": "user_supplied_not_source_verified",
+    "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+    "scope_rule": "Programme totals are context only; packages/corridors need separate entity identifiers."
+  },
+  {
+    "project_id": "REAL_008",
+    "project_name": "Zojila Tunnel Project",
+    "authority": "NHIDCL",
+    "study_district": "Ganderbal",
+    "study_state": "Jammu & Kashmir",
+    "project_type": "tunnel",
+    "aliases": [
+      "Zojila Tunnel",
+      "Zoji La Tunnel",
+      "Zoji-la Tunnel"
+    ],
+    "folder": "REAL_008",
+    "registry_basis": "user_supplied_not_source_verified",
+    "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+    "scope_rule": "Z-Morh is not an alias. Only explicitly linked approaches may be related_project records."
+  },
+  {
+    "project_id": "REAL_009",
+    "project_name": "Mumbai-Nagpur Expressway",
+    "authority": "MSRDC",
+    "study_district": "Nagpur corridor",
+    "study_state": "Maharashtra",
+    "project_type": "expressway",
+    "aliases": [
+      "Mumbai Nagpur Expressway",
+      "Mumbai-Nagpur Expressway",
+      "Samruddhi Mahamarg",
+      "Maharashtra Samruddhi Mahamarg",
+      "Nagpur-Mumbai Super Communication Expressway",
+      "Nagpur Mumbai Super Communication"
+    ],
+    "folder": "REAL_009",
+    "registry_basis": "user_supplied_not_source_verified",
+    "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+    "scope_rule": "Project-wide facts must not be represented as study-district or parcel facts."
+  },
+  {
+    "project_id": "REAL_010",
+    "project_name": "Eastern Dedicated Freight Corridor",
+    "authority": "DFCCIL",
+    "study_district": "Prayagraj corridor",
+    "study_state": "Uttar Pradesh",
+    "project_type": "freight_rail",
+    "aliases": [
+      "Eastern Dedicated Freight Corridor",
+      "EDFC",
+      "Eastern DFC",
+      "DFCCIL Eastern Dedicated Freight Corridor",
+      "Eastern Dedicated Frieght Corridor"
+    ],
+    "folder": "REAL_010",
+    "registry_basis": "user_supplied_not_source_verified",
+    "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+    "scope_rule": "Keep Eastern and Western corridors distinct; preserve railway notification/award sections verbatim."
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "project_id": "REAL_004",
+  "project_name": "Mumbai Metro Line 3",
+  "authority": "MMRCL",
+  "study_district": "Mumbai",
+  "study_state": "Maharashtra",
+  "project_type": "metro",
+  "aliases": "Mumbai Metro Line 3 | Aqua Line | Colaba-Bandra-SEEPZ Metro | Metro 3 | Mumbai Metro Line-III | Colaba-Bandra-SEEPZ",
+  "folder": "REAL_004",
+  "registry_basis": "user_supplied_not_source_verified",
+  "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+  "scope_rule": "Keep metro line, phase, corridor, depot and temporary/permanent land distinct; NH 3A/3D cannot be assumed applicable.",
+  "downloaded_source_count": 2,
+  "normalized_observation_count": 15,
+  "training_ready": false
+}

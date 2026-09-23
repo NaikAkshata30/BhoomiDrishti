@@ -1,0 +1,762 @@
+﻿source_id,source_sha256,page,table,row,column,value_original,reference,verification_status
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,1,1,,PDF page 15; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,1,2,Abbreviation/,PDF page 15; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,1,3,,PDF page 15; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,1,4,Description,PDF page 15; detected table 1; row 1; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,2,2,Acronym,PDF page 15; detected table 1; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,3,1,BRO,PDF page 15; detected table 1; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,3,4,Border Roads Organisation,PDF page 15; detected table 1; row 3; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,4,1,DPR,PDF page 15; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,4,4,Detailed Project Report,PDF page 15; detected table 1; row 4; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,5,1,km,PDF page 15; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,5,4,Kilometer,PDF page 15; detected table 1; row 5; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,6,1,LA,PDF page 15; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,6,4,Land Acquisition,PDF page 15; detected table 1; row 6; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,7,1,SOI,PDF page 15; detected table 1; row 7; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,7,4,Survey of India,PDF page 15; detected table 1; row 7; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,8,1,NH,PDF page 15; detected table 1; row 8; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,8,4,National Highway,PDF page 15; detected table 1; row 8; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,9,1,NHIDCL,PDF page 15; detected table 1; row 9; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,9,4,National Highways & Infrastructure Development Corporation Limited,PDF page 15; detected table 1; row 9; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,10,1,QAP,PDF page 15; detected table 1; row 10; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,10,4,Quality Assurance Plan,PDF page 15; detected table 1; row 10; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,11,1,ROW,PDF page 15; detected table 1; row 11; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,11,4,Right of Way,PDF page 15; detected table 1; row 11; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,12,1,SASE,PDF page 15; detected table 1; row 12; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,12,4,Snow Avalanche Study Establishment,PDF page 15; detected table 1; row 12; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,13,1,TOR,PDF page 15; detected table 1; row 13; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,13,4,Terms of Reference,PDF page 15; detected table 1; row 13; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,14,1,NRSC,PDF page 15; detected table 1; row 14; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,14,4,National Remote Sensing Centre,PDF page 15; detected table 1; row 14; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,15,1,HAWS,PDF page 15; detected table 1; row 15; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,15,1,15,4,High Altitude Warfare School,PDF page 15; detected table 1; row 15; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,1,1,,PDF page 17; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,1,2,Carriageway Width (m),PDF page 17; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,1,3,,PDF page 17; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,1,4,,PDF page 17; detected table 1; row 1; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,1,5,Earthen Shoulder Width (m),PDF page 17; detected table 1; row 1; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,1,6,,PDF page 17; detected table 1; row 1; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,1,7,,PDF page 17; detected table 1; row 1; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,1,8,Embankment Height (m),PDF page 17; detected table 1; row 1; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,1,9,,PDF page 17; detected table 1; row 1; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,2,1,-,PDF page 17; detected table 1; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,2,4,-,PDF page 17; detected table 1; row 2; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,17,1,2,7,-,PDF page 17; detected table 1; row 2; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,20,1,1,1,"As per the assessment, the proposed project does not trigger EC, as EIA notification 2006 and amendment",PDF page 20; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,20,1,2,1,"thereafter. Moreover, Director (FC), MoEF&CC, vide letter dt. 19.05.2014 clarified Dte. of General Border",PDF page 20; detected table 1; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,20,1,3,1,Roads regarding the applicability of environmental clearance for similar project Z – Morh and Zozilla Tunnels,PDF page 20; detected table 1; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,20,1,4,1,in Jammu and Kashmir.,PDF page 20; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,20,2,1,1,"However, the proposed project will require clarification / consent from MoEF&CC, regrading applicability",PDF page 20; detected table 2; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,20,2,2,1,"of EC, as EIA notification 2006 and amendment thereafter.",PDF page 20; detected table 2; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,1,1,Bill No.,PDF page 21; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,1,2,Description,PDF page 21; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,1,3,Amount (Rs.),PDF page 21; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,2,1,1,PDF page 21; detected table 1; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,2,2,Site Clearance & Dismantling,PDF page 21; detected table 1; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,2,3,"674,892",PDF page 21; detected table 1; row 2; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,3,1,2,PDF page 21; detected table 1; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,3,2,Earthwork,PDF page 21; detected table 1; row 3; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,3,3,"235,669,721",PDF page 21; detected table 1; row 3; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,4,1,3,PDF page 21; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,4,2,"Sub-Base, Base Courses (Granular)",PDF page 21; detected table 1; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,4,3,"93,776,006",PDF page 21; detected table 1; row 4; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,5,1,4,PDF page 21; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,5,2,Bituminous Courses / Concrete Pavements,PDF page 21; detected table 1; row 5; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,5,3,"42,330,165",PDF page 21; detected table 1; row 5; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,6,1,4 (a),PDF page 21; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,6,2,Reinforced Earth Embankment,PDF page 21; detected table 1; row 6; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,6,3,"568,114,052",PDF page 21; detected table 1; row 6; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,7,1,5,PDF page 21; detected table 1; row 7; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,7,2,Cross Drainage Structures,PDF page 21; detected table 1; row 7; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,7,3,"68,822,455",PDF page 21; detected table 1; row 7; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,8,1,6,PDF page 21; detected table 1; row 8; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,8,2,Major Bridges & Minor Bridges,PDF page 21; detected table 1; row 8; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,8,3,"223,486,418",PDF page 21; detected table 1; row 8; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,9,1,6.1,PDF page 21; detected table 1; row 9; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,9,2,Cut And Cover,PDF page 21; detected table 1; row 9; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,9,3,"3,251,436,941",PDF page 21; detected table 1; row 9; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,10,1,6.2,PDF page 21; detected table 1; row 10; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,10,2,Snow Gallery,PDF page 21; detected table 1; row 10; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,10,3,"450,369,654",PDF page 21; detected table 1; row 10; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,11,1,7,PDF page 21; detected table 1; row 11; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,11,2,Drainage & Protection Works,PDF page 21; detected table 1; row 11; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,11,3,"296,828,139",PDF page 21; detected table 1; row 11; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,12,1,8,PDF page 21; detected table 1; row 12; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,12,2,"Traffic Signs, Road Markings & Appurtenances",PDF page 21; detected table 1; row 12; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,12,3,"36,937,037",PDF page 21; detected table 1; row 12; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,13,1,9,PDF page 21; detected table 1; row 13; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,13,2,Catch Dams and Deflection Structures,PDF page 21; detected table 1; row 13; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,13,3,"287,721,496",PDF page 21; detected table 1; row 13; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,14,1,,PDF page 21; detected table 1; row 14; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,14,2,Total Construction Cost --- (A),PDF page 21; detected table 1; row 14; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,21,1,14,3,"5,556,166,975",PDF page 21; detected table 1; row 14; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,1,1,,PDF page 22; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,1,2,GST @ 12% of (A),PDF page 22; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,1,3,"666,740,037",PDF page 22; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,2,1,,PDF page 22; detected table 1; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,2,2,Total Construction Cost --- (B),PDF page 22; detected table 1; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,2,3,"6,222,907,012",PDF page 22; detected table 1; row 2; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,3,1,10,PDF page 22; detected table 1; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,3,2,Contingencies @ 2.8% of (A),PDF page 22; detected table 1; row 3; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,3,3,"155,572,675",PDF page 22; detected table 1; row 3; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,4,1,11,PDF page 22; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,4,2,Supervision charges @ 3% of (A),PDF page 22; detected table 1; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,4,3,"166,685,009",PDF page 22; detected table 1; row 4; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,5,1,12,PDF page 22; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,5,2,Agency Charges @ 3% of (A),PDF page 22; detected table 1; row 5; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,5,3,"166,685,009",PDF page 22; detected table 1; row 5; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,6,1,13,PDF page 22; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,6,2,"Escalation @ 5% of (B) per annum for 2nd & 3rd years'
+(Construction period 3 Year)",PDF page 22; detected table 1; row 6; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,6,3,"622,290,701",PDF page 22; detected table 1; row 6; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,7,1,14,PDF page 22; detected table 1; row 7; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,7,2,Snow Clearance (For 5 Year Defect Lability Period),PDF page 22; detected table 1; row 7; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,7,3,"137,534,640",PDF page 22; detected table 1; row 7; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,8,1,,PDF page 22; detected table 1; row 8; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,8,2,Total Estimated Project Cost,PDF page 22; detected table 1; row 8; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,8,3,"7,471,675,048",PDF page 22; detected table 1; row 8; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,9,1,15,PDF page 22; detected table 1; row 9; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,9,2,"Maintenance charges @ 0.5% for 2, 3 & 4th year & 1% for 5
+years of (B)",PDF page 22; detected table 1; row 9; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,9,3,"155,572,675",PDF page 22; detected table 1; row 9; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,10,1,,PDF page 22; detected table 1; row 10; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,10,2,Total Project Cost,PDF page 22; detected table 1; row 10; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,10,3,"7,627,247,723",PDF page 22; detected table 1; row 10; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,11,1,16,PDF page 22; detected table 1; row 11; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,11,2,Pre-Construction Activities,PDF page 22; detected table 1; row 11; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,11,3,,PDF page 22; detected table 1; row 11; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,12,1,(i),PDF page 22; detected table 1; row 12; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,12,2,Shifting of utilities,PDF page 22; detected table 1; row 12; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,12,3,"136,711",PDF page 22; detected table 1; row 12; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,13,1,(ii),PDF page 22; detected table 1; row 13; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,13,2,Environment Mitigation Cost,PDF page 22; detected table 1; row 13; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,13,3,"19,155,858",PDF page 22; detected table 1; row 13; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,14,1,(iii),PDF page 22; detected table 1; row 14; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,14,2,Provision for LA and FC,PDF page 22; detected table 1; row 14; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,14,3,"64,094,921",PDF page 22; detected table 1; row 14; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,15,1,,PDF page 22; detected table 1; row 15; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,15,2,Total Capital Cost (INR),PDF page 22; detected table 1; row 15; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,22,1,15,3,"7,710,635,213",PDF page 22; detected table 1; row 15; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,1,1,1,Terrain classification Percent cross slope of the country,PDF page 29; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,1,2,1,Plain,PDF page 29; detected table 1; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,1,2,2,0-10,PDF page 29; detected table 1; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,1,3,1,Rolling,PDF page 29; detected table 1; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,1,3,2,>10-25,PDF page 29; detected table 1; row 3; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,1,4,1,Mountainous,PDF page 29; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,1,4,2,> 25-60,PDF page 29; detected table 1; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,1,5,1,Steep,PDF page 29; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,1,5,2,> 60,PDF page 29; detected table 1; row 5; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,1,1,Stretch,PDF page 29; detected table 2; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,1,2,Design Ch.,PDF page 29; detected table 2; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,1,4,Length (in m),PDF page 29; detected table 2; row 1; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,1,5,Type of Terrain,PDF page 29; detected table 2; row 1; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,2,2,From,PDF page 29; detected table 2; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,2,3,To,PDF page 29; detected table 2; row 2; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,3,1,Approach Road 1,PDF page 29; detected table 2; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,3,2,0,PDF page 29; detected table 2; row 3; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,3,3,17814,PDF page 29; detected table 2; row 3; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,3,4,17814,PDF page 29; detected table 2; row 3; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,3,5,Mountainous/Steep,PDF page 29; detected table 2; row 3; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,4,1,Approach Road 2,PDF page 29; detected table 2; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,4,2,0,PDF page 29; detected table 2; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,4,3,660,PDF page 29; detected table 2; row 4; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,4,4,660,PDF page 29; detected table 2; row 4; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,2,4,5,Mountainous/Steep,PDF page 29; detected table 2; row 4; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,1,1,"TABLE 1. NAME
+OF
+TERRAIN",PDF page 29; detected table 3; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,1,2,,PDF page 29; detected table 3; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,1,3,TABLE 2. CROSS,PDF page 29; detected table 3; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,1,4,,PDF page 29; detected table 3; row 1; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,1,5,,PDF page 29; detected table 3; row 1; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,1,6,TABLE 3. DESIGN SPEED (KM/HR),PDF page 29; detected table 3; row 1; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,1,8,,PDF page 29; detected table 3; row 1; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,2,3,SLOPE OF,PDF page 29; detected table 3; row 2; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,3,5,TABLE 4. RULING,PDF page 29; detected table 3; row 3; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,3,7,TABLE 5. MINIMUM,PDF page 29; detected table 3; row 3; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,4,3,THE,PDF page 29; detected table 3; row 4; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,5,3,COUNTRY,PDF page 29; detected table 3; row 5; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,6,3,(%),PDF page 29; detected table 3; row 6; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,7,1,Mountainous,PDF page 29; detected table 3; row 7; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,7,2,25-60,PDF page 29; detected table 3; row 7; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,7,5,50,PDF page 29; detected table 3; row 7; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,7,7,40,PDF page 29; detected table 3; row 7; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,8,1,Steep,PDF page 29; detected table 3; row 8; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,8,2,>60,PDF page 29; detected table 3; row 8; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,8,5,40,PDF page 29; detected table 3; row 8; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,3,8,7,30,PDF page 29; detected table 3; row 8; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,4,1,1,TABLE 1. NAME,PDF page 29; detected table 4; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,4,2,1,OF,PDF page 29; detected table 4; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,29,4,3,1,TERRAIN,PDF page 29; detected table 4; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,1,1,,PDF page 30; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,1,2,Speed(km/hr),PDF page 30; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,1,3,,PDF page 30; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,1,4,,PDF page 30; detected table 1; row 1; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,1,5,Stopping sight distance (m),PDF page 30; detected table 1; row 1; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,1,6,,PDF page 30; detected table 1; row 1; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,1,7,,PDF page 30; detected table 1; row 1; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,1,8,Intermediate sight distance (m),PDF page 30; detected table 1; row 1; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,1,9,,PDF page 30; detected table 1; row 1; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,2,1,20,PDF page 30; detected table 1; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,2,4,20,PDF page 30; detected table 1; row 2; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,2,7,40,PDF page 30; detected table 1; row 2; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,3,1,25,PDF page 30; detected table 1; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,3,4,25,PDF page 30; detected table 1; row 3; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,3,7,50,PDF page 30; detected table 1; row 3; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,4,1,30,PDF page 30; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,4,4,30,PDF page 30; detected table 1; row 4; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,4,7,60,PDF page 30; detected table 1; row 4; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,5,1,35,PDF page 30; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,5,4,40,PDF page 30; detected table 1; row 5; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,5,7,80,PDF page 30; detected table 1; row 5; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,6,1,40,PDF page 30; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,6,4,45,PDF page 30; detected table 1; row 6; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,6,7,90,PDF page 30; detected table 1; row 6; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,7,1,50,PDF page 30; detected table 1; row 7; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,7,4,60,PDF page 30; detected table 1; row 7; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,1,7,7,120,PDF page 30; detected table 1; row 7; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,1,1,NAME,PDF page 30; detected table 2; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,1,2,"CROSS SLOPE OF
+THE COUNTRY (%)",PDF page 30; detected table 2; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,1,3,,PDF page 30; detected table 2; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,1,4,MOUNTAINOUS AND STEEP TERRAIN,PDF page 30; detected table 2; row 1; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,1,14,,PDF page 30; detected table 2; row 1; column 14,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,2,3,,PDF page 30; detected table 2; row 2; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,2,4,OPEN AREAS,PDF page 30; detected table 2; row 2; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,2,8,,PDF page 30; detected table 2; row 2; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,2,9,,PDF page 30; detected table 2; row 2; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,2,10,BUILT-UP AREA,PDF page 30; detected table 2; row 2; column 10,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,2,14,,PDF page 30; detected table 2; row 2; column 14,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,3,,PDF page 30; detected table 2; row 3; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,4,NORMAL,PDF page 30; detected table 2; row 3; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,5,,PDF page 30; detected table 2; row 3; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,6,,PDF page 30; detected table 2; row 3; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,7,EXCEPTIONAL,PDF page 30; detected table 2; row 3; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,8,,PDF page 30; detected table 2; row 3; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,9,,PDF page 30; detected table 2; row 3; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,10,NORMAL,PDF page 30; detected table 2; row 3; column 10,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,11,,PDF page 30; detected table 2; row 3; column 11,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,12,,PDF page 30; detected table 2; row 3; column 12,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,13,EXCEPTIONAL,PDF page 30; detected table 2; row 3; column 13,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,3,14,,PDF page 30; detected table 2; row 3; column 14,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,4,1,1.,PDF page 30; detected table 2; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,4,2,"National and
+State Highways",PDF page 30; detected table 2; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,4,3,24,PDF page 30; detected table 2; row 4; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,4,6,18,PDF page 30; detected table 2; row 4; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,4,9,20,PDF page 30; detected table 2; row 4; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,2,4,12,18,PDF page 30; detected table 2; row 4; column 12,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,3,1,1,CROSS SLOPE OF,PDF page 30; detected table 3; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,30,3,2,1,THE COUNTRY (%),PDF page 30; detected table 3; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,1,1,,PDF page 31; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,1,2,RADIUS OF,PDF page 31; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,1,3,,PDF page 31; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,1,4,UPTO 20,PDF page 31; detected table 1; row 1; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,1,5,"21 to
+40",PDF page 31; detected table 1; row 1; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,1,6,41 to 60,PDF page 31; detected table 1; row 1; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,1,7,"61 to
+100",PDF page 31; detected table 1; row 1; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,1,8,101 to,PDF page 31; detected table 1; row 1; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,1,9,"Above
+300",PDF page 31; detected table 1; row 1; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,2,8,300,PDF page 31; detected table 1; row 2; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,3,2,CURVE IN M),PDF page 31; detected table 1; row 3; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,4,1,"Extra width
+(m) Two lane",PDF page 31; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,4,4,1.5,PDF page 31; detected table 1; row 4; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,4,5,1.5,PDF page 31; detected table 1; row 4; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,4,6,1.2,PDF page 31; detected table 1; row 4; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,4,7,0.9,PDF page 31; detected table 1; row 4; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,4,8,0.6,PDF page 31; detected table 1; row 4; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,1,4,9,Nil,PDF page 31; detected table 1; row 4; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,2,1,1,21 to,PDF page 31; detected table 2; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,2,2,1,40,PDF page 31; detected table 2; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,3,1,1,61 to,PDF page 31; detected table 3; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,3,2,1,100,PDF page 31; detected table 3; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,4,1,1,Above,PDF page 31; detected table 4; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,4,2,1,300,PDF page 31; detected table 4; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,1,1,TYPE OF SECTION,PDF page 31; detected table 5; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,1,2,Mountainous and Steep terrain (Hilly area),PDF page 31; detected table 5; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,2,2,,PDF page 31; detected table 5; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,2,3,Paved,PDF page 31; detected table 5; row 2; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,2,4,Earthen,PDF page 31; detected table 5; row 2; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,2,5,Total,PDF page 31; detected table 5; row 2; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,3,1,"Open Country with Isolated Built up
+area",PDF page 31; detected table 5; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,3,2,Hill Side,PDF page 31; detected table 5; row 3; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,3,3,1.5 m,PDF page 31; detected table 5; row 3; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,3,4,-,PDF page 31; detected table 5; row 3; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,3,5,1.5m,PDF page 31; detected table 5; row 3; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,4,2,"Valley
+side",PDF page 31; detected table 5; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,4,3,1.5m,PDF page 31; detected table 5; row 4; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,4,4,"1.0m
+(in mild
+terrain)",PDF page 31; detected table 5; row 4; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,4,5,2.5m,PDF page 31; detected table 5; row 4; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,5,1,"Built up area and approaches to
+grade separated structures/bridges",PDF page 31; detected table 5; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,5,2,Hill Side,PDF page 31; detected table 5; row 5; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,5,3,"1.5m
+(Raised)",PDF page 31; detected table 5; row 5; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,5,4,-,PDF page 31; detected table 5; row 5; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,5,5,1.5m,PDF page 31; detected table 5; row 5; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,6,2,"Valley
+side",PDF page 31; detected table 5; row 6; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,6,3,"1.5m
+(Raised)",PDF page 31; detected table 5; row 6; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,6,4,-,PDF page 31; detected table 5; row 6; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,31,5,6,5,1.5m,PDF page 31; detected table 5; row 6; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,1,1,"S.
+N
+o.",PDF page 32; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,1,2,,PDF page 32; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,1,3,Design Chainage,PDF page 32; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,1,6,,PDF page 32; detected table 1; row 1; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,1,7,"Length
+(m)",PDF page 32; detected table 1; row 1; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,1,8,Type of TCS,PDF page 32; detected table 1; row 1; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,1,9,Description of TCS,PDF page 32; detected table 1; row 1; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,2,2,From (km),PDF page 32; detected table 1; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,2,4,,PDF page 32; detected table 1; row 2; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,2,5,To,PDF page 32; detected table 1; row 2; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,2,6,,PDF page 32; detected table 1; row 2; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,3,5,(km),PDF page 32; detected table 1; row 3; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,4,1,Approach Road 1,PDF page 32; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,5,1,1,PDF page 32; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,5,2,976 0,PDF page 32; detected table 1; row 5; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,5,4,9796,PDF page 32; detected table 1; row 5; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,5,7,36,PDF page 32; detected table 1; row 5; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,5,8,TCS VIII,PDF page 32; detected table 1; row 5; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,5,9,Both Side Cut,PDF page 32; detected table 1; row 5; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,6,1,2,PDF page 32; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,6,2,979 6,PDF page 32; detected table 1; row 6; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,6,4,10106,PDF page 32; detected table 1; row 6; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,6,7,310,PDF page 32; detected table 1; row 6; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,6,8,TCS IX,PDF page 32; detected table 1; row 6; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,6,9,Cut & Cover,PDF page 32; detected table 1; row 6; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,7,1,3,PDF page 32; detected table 1; row 7; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,7,2,101 06,PDF page 32; detected table 1; row 7; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,7,4,10146,PDF page 32; detected table 1; row 7; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,7,7,40,PDF page 32; detected table 1; row 7; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,7,8,TCS VIII,PDF page 32; detected table 1; row 7; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,7,9,Both Side Cut,PDF page 32; detected table 1; row 7; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,8,1,4,PDF page 32; detected table 1; row 8; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,8,2,101 46,PDF page 32; detected table 1; row 8; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,8,4,10276,PDF page 32; detected table 1; row 8; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,8,7,130,PDF page 32; detected table 1; row 8; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,8,8,TCS VI,PDF page 32; detected table 1; row 8; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,8,9,High Embankment Section,PDF page 32; detected table 1; row 8; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,9,1,5,PDF page 32; detected table 1; row 9; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,9,2,102 76,PDF page 32; detected table 1; row 9; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,9,4,10506,PDF page 32; detected table 1; row 9; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,9,7,230,PDF page 32; detected table 1; row 9; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,9,8,TCS IX,PDF page 32; detected table 1; row 9; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,9,9,Cut & Cover,PDF page 32; detected table 1; row 9; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,10,1,6,PDF page 32; detected table 1; row 10; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,10,2,105 06,PDF page 32; detected table 1; row 10; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,10,4,10566,PDF page 32; detected table 1; row 10; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,10,7,60,PDF page 32; detected table 1; row 10; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,10,8,TCS VIII,PDF page 32; detected table 1; row 10; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,10,9,Both Side Cut,PDF page 32; detected table 1; row 10; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,11,1,7,PDF page 32; detected table 1; row 11; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,11,2,105 66,PDF page 32; detected table 1; row 11; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,11,4,11066,PDF page 32; detected table 1; row 11; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,11,7,500,PDF page 32; detected table 1; row 11; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,11,8,TCS VI,PDF page 32; detected table 1; row 11; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,1,11,9,High Embankment Section,PDF page 32; detected table 1; row 11; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,2,1,1,S.,PDF page 32; detected table 2; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,2,2,1,N,PDF page 32; detected table 2; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,2,3,1,o.,PDF page 32; detected table 2; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,3,1,1,Length,PDF page 32; detected table 3; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,32,3,2,1,(m),PDF page 32; detected table 3; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,1,1,"S.
+N
+o.",PDF page 33; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,1,2,,PDF page 33; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,1,3,Design Chainage,PDF page 33; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,1,6,,PDF page 33; detected table 1; row 1; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,1,7,"Length
+(m)",PDF page 33; detected table 1; row 1; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,1,8,Type of TCS,PDF page 33; detected table 1; row 1; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,1,9,Description of TCS,PDF page 33; detected table 1; row 1; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,2,2,From (km),PDF page 33; detected table 1; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,2,4,,PDF page 33; detected table 1; row 2; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,2,5,To,PDF page 33; detected table 1; row 2; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,2,6,,PDF page 33; detected table 1; row 2; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,3,5,(km),PDF page 33; detected table 1; row 3; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,4,1,8,PDF page 33; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,4,2,110 66,PDF page 33; detected table 1; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,4,4,11256,PDF page 33; detected table 1; row 4; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,4,7,190,PDF page 33; detected table 1; row 4; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,4,8,TCS VIII,PDF page 33; detected table 1; row 4; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,4,9,Both Side Cut,PDF page 33; detected table 1; row 4; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,5,1,9,PDF page 33; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,5,2,112 56,PDF page 33; detected table 1; row 5; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,5,4,11506,PDF page 33; detected table 1; row 5; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,5,7,250,PDF page 33; detected table 1; row 5; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,5,8,TCS IX,PDF page 33; detected table 1; row 5; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,5,9,Cut & Cover,PDF page 33; detected table 1; row 5; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,6,1,10,PDF page 33; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,6,2,115 06,PDF page 33; detected table 1; row 6; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,6,4,11586,PDF page 33; detected table 1; row 6; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,6,7,80,PDF page 33; detected table 1; row 6; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,6,8,TCS VIII,PDF page 33; detected table 1; row 6; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,6,9,Both Side Cut,PDF page 33; detected table 1; row 6; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,7,1,11,PDF page 33; detected table 1; row 7; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,7,2,115 86,PDF page 33; detected table 1; row 7; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,7,4,12626,PDF page 33; detected table 1; row 7; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,7,7,1040,PDF page 33; detected table 1; row 7; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,7,8,TCS VI,PDF page 33; detected table 1; row 7; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,7,9,High Embankment Section,PDF page 33; detected table 1; row 7; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,8,1,12,PDF page 33; detected table 1; row 8; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,8,2,126 26,PDF page 33; detected table 1; row 8; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,8,4,12806,PDF page 33; detected table 1; row 8; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,8,7,180,PDF page 33; detected table 1; row 8; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,8,8,TCS III,PDF page 33; detected table 1; row 8; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,8,9,Mild Slope Terrain,PDF page 33; detected table 1; row 8; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,9,1,13,PDF page 33; detected table 1; row 9; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,9,2,128 06,PDF page 33; detected table 1; row 9; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,9,4,13006,PDF page 33; detected table 1; row 9; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,9,7,200,PDF page 33; detected table 1; row 9; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,9,8,TCS VIII,PDF page 33; detected table 1; row 9; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,9,9,Both Side Cut,PDF page 33; detected table 1; row 9; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,10,1,14,PDF page 33; detected table 1; row 10; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,10,2,130 06,PDF page 33; detected table 1; row 10; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,10,4,13406,PDF page 33; detected table 1; row 10; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,10,7,400,PDF page 33; detected table 1; row 10; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,10,8,TCS IX,PDF page 33; detected table 1; row 10; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,10,9,Cut & Cover,PDF page 33; detected table 1; row 10; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,11,1,15,PDF page 33; detected table 1; row 11; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,11,2,134 06,PDF page 33; detected table 1; row 11; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,11,4,13486,PDF page 33; detected table 1; row 11; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,11,7,80,PDF page 33; detected table 1; row 11; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,11,8,TCS VIII,PDF page 33; detected table 1; row 11; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,11,9,Both Side Cut,PDF page 33; detected table 1; row 11; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,12,1,16,PDF page 33; detected table 1; row 12; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,12,2,134 86,PDF page 33; detected table 1; row 12; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,12,4,13876,PDF page 33; detected table 1; row 12; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,12,7,390,PDF page 33; detected table 1; row 12; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,12,8,TCS VI,PDF page 33; detected table 1; row 12; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,12,9,High Embankment Section,PDF page 33; detected table 1; row 12; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,13,1,17,PDF page 33; detected table 1; row 13; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,13,2,138 76,PDF page 33; detected table 1; row 13; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,13,4,13926,PDF page 33; detected table 1; row 13; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,13,7,50,PDF page 33; detected table 1; row 13; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,13,8,TCS V,PDF page 33; detected table 1; row 13; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,13,9,"Hill side gabion wall and
+valeey side Metal Beam
+Crash Barrier",PDF page 33; detected table 1; row 13; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,14,1,18,PDF page 33; detected table 1; row 14; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,14,2,139 26,PDF page 33; detected table 1; row 14; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,14,4,14006,PDF page 33; detected table 1; row 14; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,14,7,80,PDF page 33; detected table 1; row 14; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,14,8,TCS VIII,PDF page 33; detected table 1; row 14; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,14,9,Both Side Cut,PDF page 33; detected table 1; row 14; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,15,1,19,PDF page 33; detected table 1; row 15; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,15,2,140 06,PDF page 33; detected table 1; row 15; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,15,4,14356,PDF page 33; detected table 1; row 15; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,15,7,350,PDF page 33; detected table 1; row 15; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,15,8,TCS IX,PDF page 33; detected table 1; row 15; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,15,9,Cut & Cover,PDF page 33; detected table 1; row 15; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,16,1,20,PDF page 33; detected table 1; row 16; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,16,2,143 56,PDF page 33; detected table 1; row 16; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,16,4,14446,PDF page 33; detected table 1; row 16; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,16,7,90,PDF page 33; detected table 1; row 16; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,16,8,TCS VIII,PDF page 33; detected table 1; row 16; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,16,9,Both Side Cut,PDF page 33; detected table 1; row 16; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,17,1,21,PDF page 33; detected table 1; row 17; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,17,2,144 46,PDF page 33; detected table 1; row 17; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,17,4,14586,PDF page 33; detected table 1; row 17; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,17,7,140,PDF page 33; detected table 1; row 17; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,17,8,TCS V,PDF page 33; detected table 1; row 17; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,17,9,"Hill side gabion wall and
+valeey side Metal Beam
+Crash Barrier",PDF page 33; detected table 1; row 17; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,18,1,22,PDF page 33; detected table 1; row 18; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,18,2,145 86,PDF page 33; detected table 1; row 18; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,18,4,14656,PDF page 33; detected table 1; row 18; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,18,7,70,PDF page 33; detected table 1; row 18; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,18,8,TCS VIII,PDF page 33; detected table 1; row 18; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,1,18,9,Both Side Cut,PDF page 33; detected table 1; row 18; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,2,1,1,S.,PDF page 33; detected table 2; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,2,2,1,N,PDF page 33; detected table 2; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,2,3,1,o.,PDF page 33; detected table 2; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,3,1,1,Length,PDF page 33; detected table 3; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,33,3,2,1,(m),PDF page 33; detected table 3; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,1,1,"S.
+N
+o.",PDF page 34; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,1,2,,PDF page 34; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,1,3,Design Chainage,PDF page 34; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,1,6,,PDF page 34; detected table 1; row 1; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,1,7,"Length
+(m)",PDF page 34; detected table 1; row 1; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,1,8,Type of TCS,PDF page 34; detected table 1; row 1; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,1,9,Description of TCS,PDF page 34; detected table 1; row 1; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,2,2,From (km),PDF page 34; detected table 1; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,2,4,,PDF page 34; detected table 1; row 2; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,2,5,To,PDF page 34; detected table 1; row 2; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,2,6,,PDF page 34; detected table 1; row 2; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,3,5,(km),PDF page 34; detected table 1; row 3; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,4,1,23,PDF page 34; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,4,2,146 56,PDF page 34; detected table 1; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,4,4,14856,PDF page 34; detected table 1; row 4; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,4,7,200,PDF page 34; detected table 1; row 4; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,4,8,TCS IX,PDF page 34; detected table 1; row 4; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,4,9,Cut & Cover,PDF page 34; detected table 1; row 4; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,5,1,24,PDF page 34; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,5,2,148 56,PDF page 34; detected table 1; row 5; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,5,4,14946,PDF page 34; detected table 1; row 5; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,5,7,90,PDF page 34; detected table 1; row 5; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,5,8,TCS VIII,PDF page 34; detected table 1; row 5; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,5,9,Both Side Cut,PDF page 34; detected table 1; row 5; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,6,1,25,PDF page 34; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,6,2,149 46,PDF page 34; detected table 1; row 6; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,6,4,15036,PDF page 34; detected table 1; row 6; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,6,7,90,PDF page 34; detected table 1; row 6; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,6,8,TCS III,PDF page 34; detected table 1; row 6; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,6,9,Mild Slope Terrain,PDF page 34; detected table 1; row 6; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,7,1,26,PDF page 34; detected table 1; row 7; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,7,2,150 36,PDF page 34; detected table 1; row 7; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,7,4,15156,PDF page 34; detected table 1; row 7; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,7,7,120,PDF page 34; detected table 1; row 7; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,7,8,TCS VI,PDF page 34; detected table 1; row 7; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,7,9,High Embankment Section,PDF page 34; detected table 1; row 7; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,8,1,27,PDF page 34; detected table 1; row 8; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,8,2,151 56,PDF page 34; detected table 1; row 8; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,8,4,15206,PDF page 34; detected table 1; row 8; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,8,7,50,PDF page 34; detected table 1; row 8; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,8,8,TCS V,PDF page 34; detected table 1; row 8; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,8,9,"Hill side gabion wall and
+valeey side Metal Beam
+Crash Barrier",PDF page 34; detected table 1; row 8; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,9,1,28,PDF page 34; detected table 1; row 9; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,9,2,152 06,PDF page 34; detected table 1; row 9; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,9,4,15306,PDF page 34; detected table 1; row 9; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,9,7,100,PDF page 34; detected table 1; row 9; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,9,8,TCS VIII,PDF page 34; detected table 1; row 9; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,9,9,Both Side Cut,PDF page 34; detected table 1; row 9; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,10,1,29,PDF page 34; detected table 1; row 10; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,10,2,153 06,PDF page 34; detected table 1; row 10; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,10,4,15766,PDF page 34; detected table 1; row 10; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,10,7,460,PDF page 34; detected table 1; row 10; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,10,8,TCS IX,PDF page 34; detected table 1; row 10; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,10,9,Cut & Cover,PDF page 34; detected table 1; row 10; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,11,1,30,PDF page 34; detected table 1; row 11; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,11,2,157 66,PDF page 34; detected table 1; row 11; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,11,4,15906,PDF page 34; detected table 1; row 11; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,11,7,140,PDF page 34; detected table 1; row 11; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,11,8,TCS VIII,PDF page 34; detected table 1; row 11; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,11,9,Both Side Cut,PDF page 34; detected table 1; row 11; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,12,1,31,PDF page 34; detected table 1; row 12; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,12,2,159 06,PDF page 34; detected table 1; row 12; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,12,4,16226,PDF page 34; detected table 1; row 12; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,12,7,320,PDF page 34; detected table 1; row 12; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,12,8,TCS III,PDF page 34; detected table 1; row 12; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,12,9,Mild Slope Terrain,PDF page 34; detected table 1; row 12; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,13,1,32,PDF page 34; detected table 1; row 13; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,13,2,162 26,PDF page 34; detected table 1; row 13; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,13,4,16356,PDF page 34; detected table 1; row 13; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,13,7,130,PDF page 34; detected table 1; row 13; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,13,8,TCS V,PDF page 34; detected table 1; row 13; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,13,9,"Hill side gabion wall and
+valeey side Metal Beam
+Crash Barrier",PDF page 34; detected table 1; row 13; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,14,1,33,PDF page 34; detected table 1; row 14; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,14,2,163 56,PDF page 34; detected table 1; row 14; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,14,4,16656,PDF page 34; detected table 1; row 14; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,14,7,300,PDF page 34; detected table 1; row 14; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,14,8,TCS X,PDF page 34; detected table 1; row 14; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,14,9,Snow Gallery,PDF page 34; detected table 1; row 14; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,15,1,34,PDF page 34; detected table 1; row 15; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,15,2,166 56,PDF page 34; detected table 1; row 15; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,15,4,16806,PDF page 34; detected table 1; row 15; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,15,7,150,PDF page 34; detected table 1; row 15; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,15,8,TCS IX,PDF page 34; detected table 1; row 15; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,15,9,Cut & Cover,PDF page 34; detected table 1; row 15; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,16,1,35,PDF page 34; detected table 1; row 16; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,16,2,168 06,PDF page 34; detected table 1; row 16; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,16,4,16956,PDF page 34; detected table 1; row 16; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,16,7,150,PDF page 34; detected table 1; row 16; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,16,8,TCS X,PDF page 34; detected table 1; row 16; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,16,9,Snow Gallery,PDF page 34; detected table 1; row 16; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,17,1,36,PDF page 34; detected table 1; row 17; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,17,2,169 56,PDF page 34; detected table 1; row 17; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,17,4,17172.5,PDF page 34; detected table 1; row 17; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,17,7,216.5,PDF page 34; detected table 1; row 17; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,17,8,TCS VI,PDF page 34; detected table 1; row 17; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,17,9,High Embankment Section,PDF page 34; detected table 1; row 17; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,18,1,37,PDF page 34; detected table 1; row 18; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,18,2,171 72.5,PDF page 34; detected table 1; row 18; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,18,4,17307.5,PDF page 34; detected table 1; row 18; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,18,7,135,PDF page 34; detected table 1; row 18; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,18,8,TCS XI,PDF page 34; detected table 1; row 18; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,1,18,9,Bridge,PDF page 34; detected table 1; row 18; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,2,1,1,S.,PDF page 34; detected table 2; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,2,2,1,N,PDF page 34; detected table 2; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,2,3,1,o.,PDF page 34; detected table 2; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,3,1,1,Length,PDF page 34; detected table 3; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,34,3,2,1,(m),PDF page 34; detected table 3; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,1,1,,PDF page 41; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,1,2,TABLE 6. CATEGORY OF,PDF page 41; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,1,3,,PDF page 41; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,1,4,"Annual Low Rainfall (Less than
+1500 mm)",PDF page 41; detected table 1; row 1; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,1,5,"Annual High Rainfall (More
+than 1500 mm)",PDF page 41; detected table 1; row 1; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,2,2,SURFACE,PDF page 41; detected table 1; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,3,1,Bituminous,PDF page 41; detected table 1; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,3,4,2.5%,PDF page 41; detected table 1; row 3; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,3,5,2.5%,PDF page 41; detected table 1; row 3; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,4,1,Cement Concrete,PDF page 41; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,4,4,2.0%,PDF page 41; detected table 1; row 4; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,1,4,5,2.0%,PDF page 41; detected table 1; row 4; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,2,1,1,Annual Low Rainfall (Less than,PDF page 41; detected table 2; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,2,2,1,1500 mm),PDF page 41; detected table 2; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,3,1,1,Annual High Rainfall (More,PDF page 41; detected table 3; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,41,3,2,1,than 1500 mm),PDF page 41; detected table 3; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,1,1,"DESIGN SPEED
+KM/H",PDF page 42; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,1,2,,PDF page 42; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,1,3,MINIMUM RADIUS (METRE) WHEN SUPERELEVATION IS LIMITED,PDF page 42; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,1,5,,PDF page 42; detected table 1; row 1; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,2,3,TO,PDF page 42; detected table 1; row 2; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,3,2,7 Percent,PDF page 42; detected table 1; row 3; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,3,4,4 Percent,PDF page 42; detected table 1; row 3; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,4,1,30,PDF page 42; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,4,2,30,PDF page 42; detected table 1; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,4,4,40,PDF page 42; detected table 1; row 4; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,5,1,50,PDF page 42; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,5,2,90,PDF page 42; detected table 1; row 5; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,5,4,105,PDF page 42; detected table 1; row 5; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,6,1,60,PDF page 42; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,6,2,130,PDF page 42; detected table 1; row 6; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,6,4,150,PDF page 42; detected table 1; row 6; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,7,1,80,PDF page 42; detected table 1; row 7; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,7,2,230,PDF page 42; detected table 1; row 7; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,1,7,4,265,PDF page 42; detected table 1; row 7; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,2,1,1,DESIGN SPEED,PDF page 42; detected table 2; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,2,2,1,KM/H,PDF page 42; detected table 2; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,3,1,1,Nature of Terrain,PDF page 42; detected table 3; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,3,1,2,Desirable Minimum,PDF page 42; detected table 3; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,3,1,3,Absolute Minimum,PDF page 42; detected table 3; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,3,2,1,Mountainous Terrain,PDF page 42; detected table 3; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,3,2,2,80 m,PDF page 42; detected table 3; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,42,3,2,3,50 m,PDF page 42; detected table 3; row 2; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,1,1,"Design Speed
+Km/h",PDF page 44; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,1,2,Radius (metre) for camber of,PDF page 44; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,2,2,3 percent,PDF page 44; detected table 1; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,2,3,2.5 percent,PDF page 44; detected table 1; row 2; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,2,4,2 percent,PDF page 44; detected table 1; row 2; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,2,5,1.7 percent,PDF page 44; detected table 1; row 2; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,3,1,20,PDF page 44; detected table 1; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,3,2,60,PDF page 44; detected table 1; row 3; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,3,3,70,PDF page 44; detected table 1; row 3; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,3,4,90,PDF page 44; detected table 1; row 3; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,3,5,100,PDF page 44; detected table 1; row 3; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,4,1,30,PDF page 44; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,4,2,130,PDF page 44; detected table 1; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,4,3,160,PDF page 44; detected table 1; row 4; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,4,4,200,PDF page 44; detected table 1; row 4; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,4,5,240,PDF page 44; detected table 1; row 4; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,5,1,40,PDF page 44; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,5,2,240,PDF page 44; detected table 1; row 5; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,5,3,280,PDF page 44; detected table 1; row 5; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,5,4,350,PDF page 44; detected table 1; row 5; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,5,5,420,PDF page 44; detected table 1; row 5; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,6,1,50,PDF page 44; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,6,2,370,PDF page 44; detected table 1; row 6; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,6,3,450,PDF page 44; detected table 1; row 6; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,6,4,550,PDF page 44; detected table 1; row 6; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,1,6,5,650,PDF page 44; detected table 1; row 6; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,2,1,1,Design Speed,PDF page 44; detected table 2; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,44,2,2,1,Km/h,PDF page 44; detected table 2; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,1,1,Design Speed km/h,PDF page 46; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,1,2,Minimum Length of Vertical Curve (meter),PDF page 46; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,2,1,,PDF page 46; detected table 1; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,2,2,,PDF page 46; detected table 1; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,3,1,Upto 35,PDF page 46; detected table 1; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,3,2,15,PDF page 46; detected table 1; row 3; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,4,1,35 40,PDF page 46; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,4,2,20,PDF page 46; detected table 1; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,5,1,50,PDF page 46; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,5,2,30,PDF page 46; detected table 1; row 5; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,6,1,65,PDF page 46; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,6,2,40,PDF page 46; detected table 1; row 6; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,7,1,80,PDF page 46; detected table 1; row 7; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,1,7,2,50,PDF page 46; detected table 1; row 7; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,1,1,Nature of Terrain,PDF page 46; detected table 2; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,1,2,Ruling Gradient,PDF page 46; detected table 2; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,1,3,Limiting Gradient,PDF page 46; detected table 2; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,1,4,Exceptional Gradient,PDF page 46; detected table 2; row 1; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,2,1,Mountainous,PDF page 46; detected table 2; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,2,2,5.0%,PDF page 46; detected table 2; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,2,3,6.0%,PDF page 46; detected table 2; row 2; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,2,4,7.0%,PDF page 46; detected table 2; row 2; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,3,1,Steep,PDF page 46; detected table 2; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,3,2,6%,PDF page 46; detected table 2; row 3; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,3,3,7%,PDF page 46; detected table 2; row 3; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,2,3,4,8%,PDF page 46; detected table 2; row 3; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,3,1,1,Particulars,PDF page 46; detected table 3; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,3,1,2,Cross fall %,PDF page 46; detected table 3; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,3,2,1,Carriageway,PDF page 46; detected table 3; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,46,3,2,2,2.5,PDF page 46; detected table 3; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,1,1,S. No.,PDF page 49; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,1,2,,PDF page 49; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,1,3,Existing,PDF page 49; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,1,4,,PDF page 49; detected table 1; row 1; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,1,5,Proposed,PDF page 49; detected table 1; row 1; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,1,6,Type,PDF page 49; detected table 1; row 1; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,1,7,Major/Minor,PDF page 49; detected table 1; row 1; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,1,8,,PDF page 49; detected table 1; row 1; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,1,9,Cross Road,PDF page 49; detected table 1; row 1; column 9,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,1,11,,PDF page 49; detected table 1; row 1; column 11,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,2,3,Location,PDF page 49; detected table 1; row 2; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,2,5,Location,PDF page 49; detected table 1; row 2; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,2,8,LHS,PDF page 49; detected table 1; row 2; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,2,10,RHS,PDF page 49; detected table 1; row 2; column 10,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,3,3,(km),PDF page 49; detected table 1; row 3; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,3,5,(km),PDF page 49; detected table 1; row 3; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,4,1,1,PDF page 49; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,4,2,-,PDF page 49; detected table 1; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,4,5,12+520,PDF page 49; detected table 1; row 4; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,4,6,T Type,PDF page 49; detected table 1; row 4; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,4,7,Minor,PDF page 49; detected table 1; row 4; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,4,8,-,PDF page 49; detected table 1; row 4; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,4,10,"Amarnath
+Pilgrim Road",PDF page 49; detected table 1; row 4; column 10,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,5,1,Approach Road-2,PDF page 49; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,6,1,2,PDF page 49; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,6,2,118+000,PDF page 49; detected table 1; row 6; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,6,5,0+660,PDF page 49; detected table 1; row 6; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,6,6,Y Type,PDF page 49; detected table 1; row 6; column 6,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,6,7,Major,PDF page 49; detected table 1; row 6; column 7,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,6,8,NH 1,PDF page 49; detected table 1; row 6; column 8,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,49,1,6,10,-,PDF page 49; detected table 1; row 6; column 10,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,1,1,,PDF page 53; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,1,2,S.,PDF page 53; detected table 1; row 1; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,1,3,,PDF page 53; detected table 1; row 1; column 3,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,1,4,Nature of Terrain,PDF page 53; detected table 1; row 1; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,1,5,Design Service Volume in PCU / day,PDF page 53; detected table 1; row 1; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,2,2,No.,PDF page 53; detected table 1; row 2; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,3,1,1,PDF page 53; detected table 1; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,3,4,Plain,PDF page 53; detected table 1; row 3; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,3,5,"18,000",PDF page 53; detected table 1; row 3; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,4,1,2,PDF page 53; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,4,4,Rolling,PDF page 53; detected table 1; row 4; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,4,5,"13,000",PDF page 53; detected table 1; row 4; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,5,1,3,PDF page 53; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,5,4,Mountainous and Steep,PDF page 53; detected table 1; row 5; column 4,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,53,1,5,5,"9,000",PDF page 53; detected table 1; row 5; column 5,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,55,1,1,1,,PDF page 55; detected table 1; row 1; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,55,1,2,1,Particulars Cross fall (%),PDF page 55; detected table 1; row 2; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,55,1,3,1,,PDF page 55; detected table 1; row 3; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,55,1,4,1,Carriageway,PDF page 55; detected table 1; row 4; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,55,1,4,2,2.5,PDF page 55; detected table 1; row 4; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,55,1,5,1,Paved Shoulder,PDF page 55; detected table 1; row 5; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,55,1,5,2,2.5,PDF page 55; detected table 1; row 5; column 2,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,55,1,6,1,Earthen Shoulder,PDF page 55; detected table 1; row 6; column 1,review_required
+S011,16148e8d4be1711696ec1f396877fa30afa86f92c2813bb54e90c16b705b8d58,55,1,6,2,3.0,PDF page 55; detected table 1; row 6; column 2,review_required

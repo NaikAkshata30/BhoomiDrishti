@@ -1,0 +1,977 @@
+{
+  "pages": [
+    {
+      "page": null,
+      "reference": "HTML text segments (DOM order)",
+      "text": "Parliament Question: - Status of Ambitious Bharatmala Pariyojana\nPrint\nX\nClose\nPress Information Bureau\nGovernment of India\nMinistry of Road Transport & Highways\n18 DEC 2024 1:58PM by PIB Delhi\nParliament Question: - Status of Ambitious Bharatmala Pariyojana\nBharatmala Pariyojana was approved by Government of India in 2017 covering a length of 34,800 km to improve connectivity and reduce logistic cost in the country. As on 31.10.2024, projects covering a total length of 26,425 km have been awarded and 18,714 km has been constructed. The State/UT-wise details of progress of project under Phase-I of Bharatmala are Annexed.\nNo State-wise fund allocation is being made to National Highways Authority of India (NHAI) for Bharatmala Pariyojana. Further, the total expenditure incurred by NHAI under Bharatmala Pariyojana is Rs.4.72 lakh Crore upto 30.11.2024.\nSo far, 18 projects with a length of 424 km have been awarded and 189 km has been constructed under Port and Coastal Connectivity Roads Category. Various projects envisaged under Bharatmala Scheme are providing linkage/ connectivity to different major/ minor ports in various coastal States including the State of Gujarat, Maharashtra, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha and West Bengal.\nANNEXURE\nANNEXURE REFERRED TO IN REPLY TO PART (a) OF RAJYA SABHA UNSTARRED QUESTION NO. 2657 ANSWERED ON 18/12/2024 ASKED BY\nSHRI PARIMAL NATHWANI\nREGARDING STATUS OF AMBITIOUS BHARATMALA PARIYOJANA.\nState Wise Progress Details for Bharatmala Pariyojana\nState\nTotal Length\n(km)\nLength Awarded (km)\nLength Constructed till 31\nst\nOct’24\n(km)\nAndhra Pradesh\n2,525\n1,936\n994\nAssam\n433\n431\n378\nBihar\n1,572\n1,159\n641\nChhattisgarh\n571\n471\n221\nDelhi\n203\n203\n178\nGoa\n26\n26\n26\nGujarat\n1,577\n1,194\n923\nHaryana\n1,058\n1,058\n870\nHimachal Pradesh\n167\n167\n113\nJammu & Kashmir\n433\n251\n115\nJharkhand\n1,000\n801\n440\nKarnataka\n2,059\n1,603\n1,043\nKerala\n1,126\n708\n396\nMadhya Pradesh\n3,063\n2,017\n1,407\nMaharashtra\n3,029\n2,174\n1,837\nManipur\n635\n635\n394\nMeghalaya\n170\n170\n107\nMizoram\n593\n593\n451\nNagaland\n208\n208\n155\nOdisha\n1,586\n967\n871\nPunjab\n1,764\n1,553\n603\nRajasthan\n2,503\n2,360\n2,241\nTamil Nadu\n2,414\n1,476\n1,185\nTelangana\n1,719\n1,026\n746\nTripura\n94\n94\n68\nUttar Pradesh\n3,127\n2,496\n1,854\nUttarakhand\n273\n264\n146\nWest Bengal\n874\n385\n314\nTotal\n34,800\n26,425\n18,714\nThis information was given by the The Union Minister of Road Transport & Highways, Shri Nitin Gadkari in a written reply in Rajya Sabha today.\n*******\nDS/AK"
+    }
+  ],
+  "cells": [
+    {
+      "page": null,
+      "table": 1,
+      "row": 1,
+      "column": 1,
+      "value_original": "State",
+      "reference": "HTML table 1; row 1; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 1,
+      "column": 2,
+      "value_original": "Total Length (km)",
+      "reference": "HTML table 1; row 1; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 1,
+      "column": 3,
+      "value_original": "Length Awarded (km)",
+      "reference": "HTML table 1; row 1; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 1,
+      "column": 4,
+      "value_original": "Length Constructed till 31st Oct’24 (km)",
+      "reference": "HTML table 1; row 1; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 2,
+      "column": 1,
+      "value_original": "Andhra Pradesh",
+      "reference": "HTML table 1; row 2; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 2,
+      "column": 2,
+      "value_original": "2,525",
+      "reference": "HTML table 1; row 2; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 2,
+      "column": 3,
+      "value_original": "1,936",
+      "reference": "HTML table 1; row 2; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 2,
+      "column": 4,
+      "value_original": "994",
+      "reference": "HTML table 1; row 2; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 3,
+      "column": 1,
+      "value_original": "Assam",
+      "reference": "HTML table 1; row 3; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 3,
+      "column": 2,
+      "value_original": "433",
+      "reference": "HTML table 1; row 3; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 3,
+      "column": 3,
+      "value_original": "431",
+      "reference": "HTML table 1; row 3; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 3,
+      "column": 4,
+      "value_original": "378",
+      "reference": "HTML table 1; row 3; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 4,
+      "column": 1,
+      "value_original": "Bihar",
+      "reference": "HTML table 1; row 4; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 4,
+      "column": 2,
+      "value_original": "1,572",
+      "reference": "HTML table 1; row 4; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 4,
+      "column": 3,
+      "value_original": "1,159",
+      "reference": "HTML table 1; row 4; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 4,
+      "column": 4,
+      "value_original": "641",
+      "reference": "HTML table 1; row 4; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 5,
+      "column": 1,
+      "value_original": "Chhattisgarh",
+      "reference": "HTML table 1; row 5; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 5,
+      "column": 2,
+      "value_original": "571",
+      "reference": "HTML table 1; row 5; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 5,
+      "column": 3,
+      "value_original": "471",
+      "reference": "HTML table 1; row 5; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 5,
+      "column": 4,
+      "value_original": "221",
+      "reference": "HTML table 1; row 5; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 6,
+      "column": 1,
+      "value_original": "Delhi",
+      "reference": "HTML table 1; row 6; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 6,
+      "column": 2,
+      "value_original": "203",
+      "reference": "HTML table 1; row 6; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 6,
+      "column": 3,
+      "value_original": "203",
+      "reference": "HTML table 1; row 6; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 6,
+      "column": 4,
+      "value_original": "178",
+      "reference": "HTML table 1; row 6; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 7,
+      "column": 1,
+      "value_original": "Goa",
+      "reference": "HTML table 1; row 7; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 7,
+      "column": 2,
+      "value_original": "26",
+      "reference": "HTML table 1; row 7; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 7,
+      "column": 3,
+      "value_original": "26",
+      "reference": "HTML table 1; row 7; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 7,
+      "column": 4,
+      "value_original": "26",
+      "reference": "HTML table 1; row 7; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 8,
+      "column": 1,
+      "value_original": "Gujarat",
+      "reference": "HTML table 1; row 8; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 8,
+      "column": 2,
+      "value_original": "1,577",
+      "reference": "HTML table 1; row 8; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 8,
+      "column": 3,
+      "value_original": "1,194",
+      "reference": "HTML table 1; row 8; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 8,
+      "column": 4,
+      "value_original": "923",
+      "reference": "HTML table 1; row 8; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 9,
+      "column": 1,
+      "value_original": "Haryana",
+      "reference": "HTML table 1; row 9; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 9,
+      "column": 2,
+      "value_original": "1,058",
+      "reference": "HTML table 1; row 9; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 9,
+      "column": 3,
+      "value_original": "1,058",
+      "reference": "HTML table 1; row 9; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 9,
+      "column": 4,
+      "value_original": "870",
+      "reference": "HTML table 1; row 9; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 10,
+      "column": 1,
+      "value_original": "Himachal Pradesh",
+      "reference": "HTML table 1; row 10; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 10,
+      "column": 2,
+      "value_original": "167",
+      "reference": "HTML table 1; row 10; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 10,
+      "column": 3,
+      "value_original": "167",
+      "reference": "HTML table 1; row 10; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 10,
+      "column": 4,
+      "value_original": "113",
+      "reference": "HTML table 1; row 10; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 11,
+      "column": 1,
+      "value_original": "Jammu & Kashmir",
+      "reference": "HTML table 1; row 11; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 11,
+      "column": 2,
+      "value_original": "433",
+      "reference": "HTML table 1; row 11; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 11,
+      "column": 3,
+      "value_original": "251",
+      "reference": "HTML table 1; row 11; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 11,
+      "column": 4,
+      "value_original": "115",
+      "reference": "HTML table 1; row 11; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 12,
+      "column": 1,
+      "value_original": "Jharkhand",
+      "reference": "HTML table 1; row 12; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 12,
+      "column": 2,
+      "value_original": "1,000",
+      "reference": "HTML table 1; row 12; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 12,
+      "column": 3,
+      "value_original": "801",
+      "reference": "HTML table 1; row 12; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 12,
+      "column": 4,
+      "value_original": "440",
+      "reference": "HTML table 1; row 12; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 13,
+      "column": 1,
+      "value_original": "Karnataka",
+      "reference": "HTML table 1; row 13; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 13,
+      "column": 2,
+      "value_original": "2,059",
+      "reference": "HTML table 1; row 13; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 13,
+      "column": 3,
+      "value_original": "1,603",
+      "reference": "HTML table 1; row 13; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 13,
+      "column": 4,
+      "value_original": "1,043",
+      "reference": "HTML table 1; row 13; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 14,
+      "column": 1,
+      "value_original": "Kerala",
+      "reference": "HTML table 1; row 14; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 14,
+      "column": 2,
+      "value_original": "1,126",
+      "reference": "HTML table 1; row 14; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 14,
+      "column": 3,
+      "value_original": "708",
+      "reference": "HTML table 1; row 14; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 14,
+      "column": 4,
+      "value_original": "396",
+      "reference": "HTML table 1; row 14; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 15,
+      "column": 1,
+      "value_original": "Madhya Pradesh",
+      "reference": "HTML table 1; row 15; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 15,
+      "column": 2,
+      "value_original": "3,063",
+      "reference": "HTML table 1; row 15; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 15,
+      "column": 3,
+      "value_original": "2,017",
+      "reference": "HTML table 1; row 15; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 15,
+      "column": 4,
+      "value_original": "1,407",
+      "reference": "HTML table 1; row 15; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 16,
+      "column": 1,
+      "value_original": "Maharashtra",
+      "reference": "HTML table 1; row 16; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 16,
+      "column": 2,
+      "value_original": "3,029",
+      "reference": "HTML table 1; row 16; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 16,
+      "column": 3,
+      "value_original": "2,174",
+      "reference": "HTML table 1; row 16; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 16,
+      "column": 4,
+      "value_original": "1,837",
+      "reference": "HTML table 1; row 16; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 17,
+      "column": 1,
+      "value_original": "Manipur",
+      "reference": "HTML table 1; row 17; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 17,
+      "column": 2,
+      "value_original": "635",
+      "reference": "HTML table 1; row 17; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 17,
+      "column": 3,
+      "value_original": "635",
+      "reference": "HTML table 1; row 17; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 17,
+      "column": 4,
+      "value_original": "394",
+      "reference": "HTML table 1; row 17; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 18,
+      "column": 1,
+      "value_original": "Meghalaya",
+      "reference": "HTML table 1; row 18; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 18,
+      "column": 2,
+      "value_original": "170",
+      "reference": "HTML table 1; row 18; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 18,
+      "column": 3,
+      "value_original": "170",
+      "reference": "HTML table 1; row 18; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 18,
+      "column": 4,
+      "value_original": "107",
+      "reference": "HTML table 1; row 18; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 19,
+      "column": 1,
+      "value_original": "Mizoram",
+      "reference": "HTML table 1; row 19; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 19,
+      "column": 2,
+      "value_original": "593",
+      "reference": "HTML table 1; row 19; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 19,
+      "column": 3,
+      "value_original": "593",
+      "reference": "HTML table 1; row 19; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 19,
+      "column": 4,
+      "value_original": "451",
+      "reference": "HTML table 1; row 19; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 20,
+      "column": 1,
+      "value_original": "Nagaland",
+      "reference": "HTML table 1; row 20; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 20,
+      "column": 2,
+      "value_original": "208",
+      "reference": "HTML table 1; row 20; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 20,
+      "column": 3,
+      "value_original": "208",
+      "reference": "HTML table 1; row 20; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 20,
+      "column": 4,
+      "value_original": "155",
+      "reference": "HTML table 1; row 20; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 21,
+      "column": 1,
+      "value_original": "Odisha",
+      "reference": "HTML table 1; row 21; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 21,
+      "column": 2,
+      "value_original": "1,586",
+      "reference": "HTML table 1; row 21; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 21,
+      "column": 3,
+      "value_original": "967",
+      "reference": "HTML table 1; row 21; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 21,
+      "column": 4,
+      "value_original": "871",
+      "reference": "HTML table 1; row 21; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 22,
+      "column": 1,
+      "value_original": "Punjab",
+      "reference": "HTML table 1; row 22; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 22,
+      "column": 2,
+      "value_original": "1,764",
+      "reference": "HTML table 1; row 22; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 22,
+      "column": 3,
+      "value_original": "1,553",
+      "reference": "HTML table 1; row 22; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 22,
+      "column": 4,
+      "value_original": "603",
+      "reference": "HTML table 1; row 22; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 23,
+      "column": 1,
+      "value_original": "Rajasthan",
+      "reference": "HTML table 1; row 23; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 23,
+      "column": 2,
+      "value_original": "2,503",
+      "reference": "HTML table 1; row 23; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 23,
+      "column": 3,
+      "value_original": "2,360",
+      "reference": "HTML table 1; row 23; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 23,
+      "column": 4,
+      "value_original": "2,241",
+      "reference": "HTML table 1; row 23; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 24,
+      "column": 1,
+      "value_original": "Tamil Nadu",
+      "reference": "HTML table 1; row 24; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 24,
+      "column": 2,
+      "value_original": "2,414",
+      "reference": "HTML table 1; row 24; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 24,
+      "column": 3,
+      "value_original": "1,476",
+      "reference": "HTML table 1; row 24; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 24,
+      "column": 4,
+      "value_original": "1,185",
+      "reference": "HTML table 1; row 24; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 25,
+      "column": 1,
+      "value_original": "Telangana",
+      "reference": "HTML table 1; row 25; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 25,
+      "column": 2,
+      "value_original": "1,719",
+      "reference": "HTML table 1; row 25; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 25,
+      "column": 3,
+      "value_original": "1,026",
+      "reference": "HTML table 1; row 25; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 25,
+      "column": 4,
+      "value_original": "746",
+      "reference": "HTML table 1; row 25; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 26,
+      "column": 1,
+      "value_original": "Tripura",
+      "reference": "HTML table 1; row 26; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 26,
+      "column": 2,
+      "value_original": "94",
+      "reference": "HTML table 1; row 26; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 26,
+      "column": 3,
+      "value_original": "94",
+      "reference": "HTML table 1; row 26; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 26,
+      "column": 4,
+      "value_original": "68",
+      "reference": "HTML table 1; row 26; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 27,
+      "column": 1,
+      "value_original": "Uttar Pradesh",
+      "reference": "HTML table 1; row 27; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 27,
+      "column": 2,
+      "value_original": "3,127",
+      "reference": "HTML table 1; row 27; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 27,
+      "column": 3,
+      "value_original": "2,496",
+      "reference": "HTML table 1; row 27; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 27,
+      "column": 4,
+      "value_original": "1,854",
+      "reference": "HTML table 1; row 27; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 28,
+      "column": 1,
+      "value_original": "Uttarakhand",
+      "reference": "HTML table 1; row 28; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 28,
+      "column": 2,
+      "value_original": "273",
+      "reference": "HTML table 1; row 28; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 28,
+      "column": 3,
+      "value_original": "264",
+      "reference": "HTML table 1; row 28; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 28,
+      "column": 4,
+      "value_original": "146",
+      "reference": "HTML table 1; row 28; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 29,
+      "column": 1,
+      "value_original": "West Bengal",
+      "reference": "HTML table 1; row 29; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 29,
+      "column": 2,
+      "value_original": "874",
+      "reference": "HTML table 1; row 29; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 29,
+      "column": 3,
+      "value_original": "385",
+      "reference": "HTML table 1; row 29; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 29,
+      "column": 4,
+      "value_original": "314",
+      "reference": "HTML table 1; row 29; column 4"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 30,
+      "column": 1,
+      "value_original": "Total",
+      "reference": "HTML table 1; row 30; column 1"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 30,
+      "column": 2,
+      "value_original": "34,800",
+      "reference": "HTML table 1; row 30; column 2"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 30,
+      "column": 3,
+      "value_original": "26,425",
+      "reference": "HTML table 1; row 30; column 3"
+    },
+    {
+      "page": null,
+      "table": 1,
+      "row": 30,
+      "column": 4,
+      "value_original": "18,714",
+      "reference": "HTML table 1; row 30; column 4"
+    }
+  ],
+  "links": [],
+  "issues": [],
+  "source_id": "S009",
+  "sha256": "3b9aa6d5fd0ee398f57b82eecfbaf58dbcedd40f03feea0f96c21cca01a48848",
+  "extracted_at": "2026-09-05T10:23:13+00:00",
+  "status": "candidate_evidence_not_ML_features"
+}

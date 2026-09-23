@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "reference": "PDF page 1",
+      "text": ""
+    },
+    {
+      "page": 2,
+      "reference": "PDF page 2",
+      "text": ""
+    },
+    {
+      "page": 3,
+      "reference": "PDF page 3",
+      "text": ""
+    },
+    {
+      "page": 4,
+      "reference": "PDF page 4",
+      "text": ""
+    },
+    {
+      "page": 5,
+      "reference": "PDF page 5",
+      "text": ""
+    },
+    {
+      "page": 6,
+      "reference": "PDF page 6",
+      "text": ""
+    },
+    {
+      "page": 7,
+      "reference": "PDF page 7",
+      "text": ""
+    }
+  ],
+  "cells": [],
+  "links": [],
+  "issues": [
+    {
+      "page": 1,
+      "reason": "scanned_or_sparse_page_needs_visual_review"
+    },
+    {
+      "page": 2,
+      "reason": "scanned_or_sparse_page_needs_visual_review"
+    },
+    {
+      "page": 3,
+      "reason": "scanned_or_sparse_page_needs_visual_review"
+    },
+    {
+      "page": 4,
+      "reason": "scanned_or_sparse_page_needs_visual_review"
+    },
+    {
+      "page": 5,
+      "reason": "scanned_or_sparse_page_needs_visual_review"
+    },
+    {
+      "page": 6,
+      "reason": "scanned_or_sparse_page_needs_visual_review"
+    },
+    {
+      "page": 7,
+      "reason": "scanned_or_sparse_page_needs_visual_review"
+    }
+  ],
+  "source_id": "G040",
+  "sha256": "059da95c200daf1bbba39b6bb7f99d277864fdf2e04620d14a34f076e42dd60c",
+  "extracted_at": "2026-09-05T10:32:30+00:00",
+  "status": "candidate_evidence_not_ML_features"
+}

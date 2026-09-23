@@ -1,0 +1,16 @@
+{
+  "project_id": "REAL_008",
+  "project_name": "Zojila Tunnel Project",
+  "authority": "NHIDCL",
+  "study_district": "Ganderbal",
+  "study_state": "Jammu & Kashmir",
+  "project_type": "tunnel",
+  "aliases": "Zojila Tunnel | Zoji La Tunnel | Zoji-la Tunnel",
+  "folder": "REAL_008",
+  "registry_basis": "user_supplied_not_source_verified",
+  "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+  "scope_rule": "Z-Morh is not an alias. Only explicitly linked approaches may be related_project records.",
+  "downloaded_source_count": 5,
+  "normalized_observation_count": 14,
+  "training_ready": false
+}

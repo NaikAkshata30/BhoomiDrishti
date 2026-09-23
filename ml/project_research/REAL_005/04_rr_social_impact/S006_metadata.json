@@ -1,0 +1,23 @@
+{
+  "source_id": "S006",
+  "project_id": "REAL_005",
+  "topic": "04_rr_social_impact",
+  "authority": "DMRC",
+  "label": "phase_IV_priority_SIA",
+  "url": "https://delhimetrorail.com/otherdocuments/SIA_Phase-IVPriorityCorridorsDecember2020.pdf",
+  "format": "pdf",
+  "scope": "phase",
+  "match_notes": "Priority corridors as defined in report.",
+  "source_priority": 1,
+  "source_url": "https://delhimetrorail.com/otherdocuments/SIA_Phase-IVPriorityCorridorsDecember2020.pdf",
+  "discovery_method": "official_domain_web_search",
+  "publication_date": null,
+  "document_date": null,
+  "retrieved_at": "2026-09-05T10:25:40+00:00",
+  "download_status": "failed",
+  "verification_status": "review_required",
+  "sha256": null,
+  "local_file": null,
+  "fields_extracted": [],
+  "error": "RuntimeError: verified_windows_http_error: curl: (60) schannel: SEC_E_UNTRUSTED_ROOT (0x80090325) - The certificate chain was issued by an authority that is not trusted.\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above."
+}

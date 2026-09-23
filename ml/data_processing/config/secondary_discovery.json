@@ -1,0 +1,11 @@
+[
+  {
+    "project_id": "REAL_003",
+    "source_name": "Indian Kanoon judgment discovery",
+    "source_url": "https://indiankanoon.org/doc/161682615/",
+    "discovery_purpose": "Identify case and judgment date for official Supreme Court retrieval",
+    "official_trace_status": "Official Supreme Court PDF downloaded as S038",
+    "verification_status": "public_snapshot",
+    "used_in_training": false
+  }
+]

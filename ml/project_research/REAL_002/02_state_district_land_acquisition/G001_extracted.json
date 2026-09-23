@@ -1,0 +1,425 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "reference": "PDF page 1",
+      "text": "UP Expressways Industrial Development Authority \n \n \n \n \nxaxk ,Dlizsl&os fuekZ.k dh izxfr  \n \n \nEarth Work in \nMain \nCarriageway \nC&G in Main \nCarriageway GSB in Main \nCarriageway \nWMM in Main \nCarriageway \nDBM in Main \nCarriageway \nTotal Structures \n= 1498 \nCompleted \nOver all \nProgress \n100% 100% 100% 100% 100% 1498 98% \n       \n \n"
+    }
+  ],
+  "cells": [
+    {
+      "page": 1,
+      "table": 1,
+      "row": 1,
+      "column": 1,
+      "value_original": "Earth Work in",
+      "reference": "PDF page 1; detected table 1; row 1; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 1,
+      "column": 2,
+      "value_original": "C&G in Main",
+      "reference": "PDF page 1; detected table 1; row 1; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 1,
+      "column": 3,
+      "value_original": "GSB in Main",
+      "reference": "PDF page 1; detected table 1; row 1; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 1,
+      "column": 4,
+      "value_original": "WMM in Main",
+      "reference": "PDF page 1; detected table 1; row 1; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 1,
+      "column": 5,
+      "value_original": "DBM in Main",
+      "reference": "PDF page 1; detected table 1; row 1; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 1,
+      "column": 6,
+      "value_original": "Total Structures",
+      "reference": "PDF page 1; detected table 1; row 1; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 1,
+      "column": 7,
+      "value_original": "Over all",
+      "reference": "PDF page 1; detected table 1; row 1; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 2,
+      "column": 1,
+      "value_original": "Main",
+      "reference": "PDF page 1; detected table 1; row 2; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 2,
+      "column": 2,
+      "value_original": "Carriageway",
+      "reference": "PDF page 1; detected table 1; row 2; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 2,
+      "column": 6,
+      "value_original": "= 1498",
+      "reference": "PDF page 1; detected table 1; row 2; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 3,
+      "column": 3,
+      "value_original": "Carriageway",
+      "reference": "PDF page 1; detected table 1; row 3; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 3,
+      "column": 4,
+      "value_original": "Carriageway",
+      "reference": "PDF page 1; detected table 1; row 3; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 3,
+      "column": 5,
+      "value_original": "Carriageway",
+      "reference": "PDF page 1; detected table 1; row 3; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 3,
+      "column": 7,
+      "value_original": "Progress",
+      "reference": "PDF page 1; detected table 1; row 3; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 1,
+      "value_original": "Carriageway",
+      "reference": "PDF page 1; detected table 1; row 4; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 2,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 4; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 6,
+      "value_original": "Completed",
+      "reference": "PDF page 1; detected table 1; row 4; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 3,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 5; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 4,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 5; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 5,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 5; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 7,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 5; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 1,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 6; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 6,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 6; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 1,
+      "value_original": "100%",
+      "reference": "PDF page 1; detected table 1; row 7; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 2,
+      "value_original": "100%",
+      "reference": "PDF page 1; detected table 1; row 7; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 3,
+      "value_original": "100%",
+      "reference": "PDF page 1; detected table 1; row 7; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 4,
+      "value_original": "100%",
+      "reference": "PDF page 1; detected table 1; row 7; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 5,
+      "value_original": "100%",
+      "reference": "PDF page 1; detected table 1; row 7; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 6,
+      "value_original": "1498",
+      "reference": "PDF page 1; detected table 1; row 7; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 7,
+      "value_original": "98%",
+      "reference": "PDF page 1; detected table 1; row 7; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 1,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 8; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 2,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 8; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 3,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 8; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 4,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 8; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 5,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 8; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 6,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 8; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 7,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 8; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 1,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 9; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 2,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 9; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 3,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 9; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 4,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 9; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 5,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 9; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 6,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 9; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 7,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 9; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 1,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 10; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 2,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 10; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 3,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 10; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 4,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 10; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 5,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 10; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 6,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 10; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 7,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 10; column 7"
+    }
+  ],
+  "links": [],
+  "issues": [],
+  "source_id": "G001",
+  "sha256": "b387e33686b57676bdf259f5e18ba239a17789cd33f3b968e89a0ae7adc9a399",
+  "extracted_at": "2026-09-05T10:26:09+00:00",
+  "status": "candidate_evidence_not_ML_features"
+}

@@ -1,0 +1,984 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Press Release Page | Press Information Bureau
+</title><link href="css/style.css" rel="stylesheet" type="text/css" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="alternate stylesheet" href="css/change.css" media="screen" title="change" /><link rel="alternate stylesheet" href="css/green.css" media="screen" title="green" /><link rel="alternate stylesheet" href="css/yellow.css" media="screen" title="yellow" /><link rel="stylesheet" type="text/css" href="css/prtint.css" media="print" /><link rel="stylesheet" href="css/style3.1.css" type="text/css" /><link id="pibA11yCss" rel="stylesheet" href="/css/accessibility.css?v=3" type="text/css" />
+      <script type="text/javascript">
+        /* Stamps the saved theme on <html> before the page paints. The
+           switcher in js/accessibility.js settles the rest, but on inner
+           pages it does not run until the end of the body and inside the
+           release frame it is a separate download - either way the reader
+           would otherwise watch a light page turn dark in front of them. */
+        (function (d) {
+            var t = "";
+            try {
+                t = window.localStorage.getItem("pibStyle") || "";
+            } catch (e) {
+                t = "";
+            }
+            if (t === "orange") {
+                t = "yellow";
+            }
+            var c = t === "change" ? " pib-hc"
+                : t === "green" ? " pib-theme-green"
+                : t === "yellow" ? " pib-theme-yellow" : "";
+            d.documentElement.className += c + " pib-a11y-content";
+        }(document));
+      </script>
+
+
+      <script src="js/jquery.min.js" type="text/javascript"></script>
+      <script type="text/javascript" src="/js/accessibility.js?v=7"></script>
+      <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true" /><link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet" />
+
+      <script type="text/javascript">
+            $(document).ready(function () {
+                  function getParameterByName(name) {
+                        var url = window.location.href;
+                        name = name.replace(/[\[\]]/g, '\\$&');
+                        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                              results = regex.exec(url);
+                        if (!results) return null;
+                        if (!results[2]) return '';
+                        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+                  }
+                  // Get the IDs from the current page's URL
+                  let prid = parseInt(getParameterByName('PRID'), 10);
+
+                  if (!isNaN(prid) && prid > 0) {
+                        $.ajax({
+                              type: "POST",
+                              url: "AjaxMethod.aspx/UpdatePRHitCount",
+                              async: false,
+                              data: JSON.stringify({ 'PermId': prid }),
+                              contentType: "application/json; charset=utf-8",
+                              dataType: "json",
+                              success: function (response) {
+                                    console.log(response);
+                              },
+                              error: function (error) {
+                                    console.log("Error in AJAX request", error);
+                              }
+                        });
+                  } else {
+                        console.log("Invalid parameters:", prid);
+                  }
+
+            });
+      </script>
+      <style type="text/css">
+            .table-responsive {
+                  width: 100%;
+                  overflow-x: auto;
+            }
+
+            .banner {
+                  display: flex;
+                  justify-content: space-between;
+                  align-items: center;
+                  background-color: #000;
+                  color: #fff;
+                  padding: 20px;
+            }
+
+            full-width {
+                  width: 100%;
+            }
+
+            .logo-left, .logo-center, .countdown {
+                  display: flex;
+                  align-items: center;
+            }
+
+                  .logo-left img, .logo-center img {
+                        height: 70px;
+                  }
+
+            .countdown {
+                  text-align: center;
+                  background-color: #444;
+                  border-radius: 10px;
+                  padding: 10px;
+                  border: 2px solid grey;
+            }
+
+            .firstnumber {
+                  color: #000000;
+                  position: absolute;
+                  top: 50px;
+                  right: 90px;
+                  font-size: 30px;
+            }
+
+            .secondnumber {
+                  position: absolute;
+                  color: #000000;
+                  right: 45px;
+                  top: 50px;
+                  font-size: 30px;
+            }
+
+            .countdown .days {
+                  font-size: 35px;
+                  color: gold;
+            }
+
+            .countdown p {
+                  margin: 0;
+            }
+
+            .countdown .text {
+                  font-size: 16px;
+            }
+
+            a {
+                  word-break: break-all;
+            }
+
+            iframe, img {
+                  max-width: 100%;
+            }
+
+            @media(max-width:1199px) {
+                  .firstnumber {
+                        top: 40px;
+                        right: 72px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 35px;
+                        top: 40px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:990px) {
+                  .firstnumber {
+                        top: 25px;
+                        right: 54px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 25px;
+                        top: 25px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:768px) {
+                  .countdown, .days {
+                        font-size: 12px !important;
+                  }
+
+
+                  .firstnumber {
+                        top: 25%;
+                        right: 8%;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 4.5%;
+                        top: 25%;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:475px) {
+                  .countdown, .days {
+                        font-size: 10px !important;
+                        top: 20%;
+                  }
+
+                  .bannerimgdiv {
+                        padding: 0 !important;
+                  }
+
+                  .bannerimg {
+                        width: 108% !important;
+                  }
+            }
+      </style>
+      <script type="text/javascript">
+            $(function () {
+                  $("[id*=printPDF]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+            $(function () {
+                  $("[id*=printPDFEvent]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+      </script>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112591026-1"></script>
+      <script>
+
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() { dataLayer.push(arguments); }
+
+            gtag('js', new Date());
+
+
+
+            gtag('config', 'UA-112591026-1');
+
+      </script>
+
+<meta property="og:title" content="DELHI-MUMBAI EXPRESSWAY" /><meta property="og:url" content="www.pib.gov.in/Pressreleaseshare.aspx?PRID=2039504" /><meta property="og:description" content="Ministry has taken up construction of Delhi-Mumbai Expressway including spurs in 53 Nos. of packages" /><meta property="og:image" content="https:/pib.gov.in/images/indian-emblem.png" />
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="C4E7H-KSCMC-422L4-W3EM5-U36MF",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"C4E7H-KSCMC-422L4-W3EM5-U36MF";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="onysoraxia5zw2u355na-f-7fc432f03-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1825201","ak.ai":parseInt("1215205",10),"ak.ol":"0","ak.cr":6,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"5d5a2a3","ak.r":43247,"ak.a2":n,"ak.m":"dscb","ak.n":"ff","ak.cport":55136,"ak.gh":"23.64.59.109","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1788604250","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==3iTNI0KslqgDPXF3z1nK5gIMLV2Z68Ow6dxECmJwqKV86bJSzIJffgobkT0yOaOj54FsieQWuCW+OzoEfWLNOn57njn3U9ZQzW4dKP97lp4UH6wYcDxyVPvA6k/kIVH7ETr2Qy4JQaiSDiZyKb3kcgziipb3JQFuKg/yUqI33/zX4nS+F7TDZl33iwdd+66PMUaIspzjhSKZqImQ1WfQEFsGlf8qr6Exdvz/aPwBwYM7gZtqP70qBaKwdDDUhrS8xvrSdOH7gFnmcKWHgebliK7ejtdRh6gp7YwRWxv96kX9B/lhmx5JkxQ4ZjcWrWdX1dgY625XwzHSLMcV5WKO9Za7TScqd3l2t/2NJKEwF9TfYTb86CK/JSDRZj701sv/BHuveQbpJkxoz6GMdmAwaXhNqfQ7ISHP2/Jk0joI9us=","ak.pv":"9","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+      <form method="post" action="./PressReleasePage.aspx?PRID=2039504&amp;lang=2&amp;reg=3" id="form1">
+<input type="hidden" name="sc_HiddenField" id="sc_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/ScriptResource.axd?d=YwOa_0w_u3oCLFqmIIOf-XEz4GWZ1DuyQIpxIA4LVkywj39sZSps12NbK5wNl5XN9JF3m7d-ey7BFDgj6i0380qRQ5IMWCL54sYNVU1IjMmiOWpp0&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/PressReleasePage.aspx?_TSM_HiddenField_=sc_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.7.123%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a5a4df314-b4a2-4da2-a207-9284f1b1e96c%3ade1feab2%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3aa67c2700%3aab09e3fe%3a87104b7c%3a8613aea7%3a3202a5a2%3abe6fb298" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59B53027" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="AYXCs5DMri0BVMi9C90Tq8i2prTMs9MXBwqshQPbIE2aFFfgA7VAsdoEQdgFW10ErL3bFz5R03CA2zF+/3i32dCmlU9A/ZOuAJhdugeoKZXVQYYOCbk2W/nI1EkAwpML4In4fDndNmd/JoqxeqpWrAvCgrydF476SNRyMO8wk0+1rwcDp54grj1QPV+EbGNolS6Hls3pCE8Lb17ytJZh27dokslt8iMN1IMJaTgDnYbQE9xjei8XT/Wu9jdOqaqsBVJkWAVnBTfeqFnS1mfiPFPL7helNofN401QEB2po3dQoE5y" />
+                              
+            <div id="templateCss"></div>
+            
+            <input type="hidden" name="hfGridHtml" id="hfGridHtml" />
+            <div class="container" style='margin-bottom: 50px;'>
+                  <div id="accessories">
+
+                        
+                        <div class="pull-right" style="display: flex">
+                              <div id="voll"></div>
+                              <div id="vollDT"></div>
+                              
+                              
+<div class="print-icons">
+<input type="image" name="Print1$print" id="Print1_print" aria-label="Print" src="images/printer_icon.png" alt="print page button" style="padding: 5px 10px 5px 10px;" />
+</div>
+                        </div>
+                  </div>
+                  <input type="hidden" name="hydpermid" id="hydpermid" value="2039504" />
+                  
+
+
+
+                  <div class="innner-page-main-about-us-content-right-part">
+
+                        <div id="MinistryName" class="MinistryNameSubhead text-center">
+                              Ministry of Road Transport & Highways
+                        </div>
+                        
+                        <div id="lg_g"><div class='log_oo'>  <img src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2026/sep/ph_9768_20260902_10000501.png' alt='azadi ka amrit mahotsav' /> </div></div>
+
+
+
+
+
+                        <div class="text-center event-heading-background">
+                              
+                              <h2 id="Titleh2">
+                                    DELHI-MUMBAI EXPRESSWAY
+                              </h2>
+                              <h3 id="Subtitleh3">
+                                    <span id="ltrSubtitle"></span>
+                              </h3>
+                        </div>
+
+                        <div id="PrDateTime" class="ReleaseDateSubHeaddateTime text-center pt20">
+                              Posted On:
+                31 JUL 2024 1:37PM by PIB Delhi
+                        </div>
+                        
+                        <div class='pt20'>
+                        </div>
+                        <input type="hidden" name="hydphotoUrl" id="hydphotoUrl" />
+                        
+                        <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Ministry has taken up construction of Delhi-Mumbai Expressway including spurs in 53 Nos. of packages having 1386 km length. As of June 2024, total 26 Nos. of packages have been completed. The physical progress of the work is 82% and cumulative length of 1136 km has been constructed.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The revised scheduled completion date is October, 2025.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The corridor provides connectivity to major economic centers within Delhi, Uttar Pradesh, Haryana, Rajasthan, Madhya Pradesh, Gujarat and Maharashtra. As per the DPR, the impact includes reduction in distance from Delhi to JNPT by about 180 km and reduction in travel time of upto 50% to connected destinations.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">This information was given by the Union Minister for Road Transport and Highways, Shri Nitin Gadkari in a written reply in the Rajya Sabha today.</span></span></p>
+
+<p style="text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">*****</span></span></p>
+
+<p style="text-align:justify"><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">MJPS/GS</span></span></strong></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+
+                        
+                        <div id="reel_pic">
+                        </div>
+
+
+
+                        
+                        <br />
+                        <span id="ReleaseId">(Release ID: 2039504)</span>
+                        <span id="lblViews">Visitor Counter : 3466</span>
+                        <div>
+                              
+                        </div>
+                        
+
+                        <span id="lblRefPhoto"></span>
+
+                        <div class="BackgroundRelease">
+                              
+                        </div>
+                        <div>
+                              
+                        </div>
+                        <div class="ReleaseLang">Read this release in: 
+                        
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2039528' target="_blank">
+                                          Urdu </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2039536' target="_blank">
+                                          हिन्दी </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2039737' target="_blank">
+                                          Hindi_MP </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2039628' target="_blank">
+                                          Marathi </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2039520' target="_blank">
+                                          Gujarati </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2039646' target="_blank">
+                                          Tamil </a>
+                              
+                        </div>
+
+                        <div class="RelTag">
+                              <ul>
+                                    
+                              </ul>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div id="RelLink" class="RelLink">
+                              <ul>
+                                    
+                                    
+                              </ul>
+                        </div>
+                        <center>
+                              
+                        </center>
+                  </div>
+
+                  <div id="update12">
+	
+                              
+                              <input type="hidden" name="Hidden" id="Hidden" />
+                              <div id="P_CategoryManagement" class="ModalWindow" style="display: none">
+		
+                                    <div>
+                                          <input type="image" name="btnClose" id="btnClose" src="images/close_flat_icon.png" />
+                                    </div>
+                                    <div id="description">
+                                    </div>
+                                    <div class="text-center">
+                                          <h2>
+                                                
+                                                <br>
+                                                
+                                          </h2>
+                                    </div>
+                                    <br />
+                                    <div class="clear">
+                                    </div>
+                                    
+                              
+	</div>
+                        
+</div>
+            </div>
+            
+            <div id="PdfDiv" style="display: none;">
+                  <table width="100%">
+                        <tr>
+                              <td style="font-weight: 200; text-align: center">
+                                    Ministry of Road Transport & Highways
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          DELHI-MUMBAI EXPRESSWAY
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="text-align: center; font-size: 14px;">
+                                          Posted On:
+                        31 JUL 2024 1:37PM by PIB Delhi
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: left; font-size: 16px;">
+                                          <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Ministry has taken up construction of Delhi-Mumbai Expressway including spurs in 53 Nos. of packages having 1386 km length. As of June 2024, total 26 Nos. of packages have been completed. The physical progress of the work is 82% and cumulative length of 1136 km has been constructed.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The revised scheduled completion date is October, 2025.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The corridor provides connectivity to major economic centers within Delhi, Uttar Pradesh, Haryana, Rajasthan, Madhya Pradesh, Gujarat and Maharashtra. As per the DPR, the impact includes reduction in distance from Delhi to JNPT by about 180 km and reduction in travel time of upto 50% to connected destinations.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">This information was given by the Union Minister for Road Transport and Highways, Shri Nitin Gadkari in a written reply in the Rajya Sabha today.</span></span></p>
+
+<p style="text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">*****</span></span></p>
+
+<p style="text-align:justify"><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">MJPS/GS</span></span></strong></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 100; text-align: left; font-size: 16px;">
+                                          (Release ID: 2039504)
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                              </td>
+                        </tr>
+                        <tr>
+                              <td style="font-weight: 200; text-align: center; font-size: 24px;"></td>
+                        </tr>
+                  </table>
+            </div>
+            <div class="clearfix">
+            </div>
+
+            
+
+            <div class="section1">
+                  <div id="frst_t">
+                        <div id="arr_rm"><div class='sticky-social_mb'><ul class='social_mb'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2039504' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='40' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2039504&text=DELHI-MUMBAI EXPRESSWAY' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='40' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2039504' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='40' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=DELHI-MUMBAI EXPRESSWAY&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2039504&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='40' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2039504&title=DELHI-MUMBAI EXPRESSWAY&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='40' /></li></a></ul></div></div>
+                  </div>
+                  <div id="second_t">
+                        <div id="sndr_rm"><div class='sticky-social'><ul class='social'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2039504' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='35' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2039504&text=DELHI-MUMBAI EXPRESSWAY' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='35' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2039504' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='35' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=DELHI-MUMBAI EXPRESSWAY&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2039504&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='35' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2039504&title=DELHI-MUMBAI EXPRESSWAY&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='35' /></li></a></ul></div></div>
+                  </div>
+            </div>
+            <input type="hidden" name="ltrTitlee" id="ltrTitlee" value="DELHI-MUMBAI EXPRESSWAY" />
+            <input type="hidden" name="ltrSubtitlee" id="ltrSubtitlee" />
+            <input type="hidden" name="ltrDescriptionn" id="ltrDescriptionn" value="&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Ministry has taken up construction of Delhi-Mumbai Expressway including spurs in 53 Nos. of packages having 1386 km length. As of June 2024, total 26 Nos. of packages have been completed. The physical progress of the work is 82% and cumulative length of 1136 km has been constructed.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The revised scheduled completion date is October, 2025.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The corridor provides connectivity to major economic centers within Delhi, Uttar Pradesh, Haryana, Rajasthan, Madhya Pradesh, Gujarat and Maharashtra. As per the DPR, the impact includes reduction in distance from Delhi to JNPT by about 180 km and reduction in travel time of upto 50% to connected destinations.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>This information was given by the Union Minister for Road Transport and Highways, Shri Nitin Gadkari in a written reply in the Rajya Sabha today.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:center&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>*****&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;strong>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>MJPS/GS&lt;/span>&lt;/span>&lt;/strong>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&amp;nbsp;&lt;/p>
+" />
+            <script type="text/javascript">
+                  var mPlayer = document.getElementById("background_music");
+                  var mPlayAction = document.getElementById("playbutton");
+
+                  var isPlaying = false;
+
+                  function playAudio() {
+                        mPlayer.play();
+                        isPlaying = true;
+                        document.getElementById('stopA').style.display = "block";
+                        document.getElementById('playA').style.display = "none";
+                  }
+
+                  function pauseAudio() {
+                        mPlayer.pause();
+                        isPlaying = false;
+                        document.getElementById('playA').style.display = "block";
+                        document.getElementById('stopA').style.display = "none";
+                  }
+                  //function HandleAudio() {
+                  //    if (isPlaying == true) {
+                  //        //Playing already Pause it
+                  //        pauseAudio();
+                  //    } else {
+                  //        //Play the music
+                  //        playAudio();
+                  //    }
+                  //}
+            </script>
+            <script type="text/javascript">
+                  var synth = window.speechSynthesis;
+
+            
+                  function CleanHtml(html) {
+
+                        html = html.replace(/<script[\s\S]*?<\/script>/gi, '');
+
+                        return html;
+                  }
+                  function stripHtml(html) {
+                        let tmp = document.createElement("DIV");
+                        tmp.innerHTML = CleanHtml(html);
+                        return tmp.textContent || tmp.innerText || "";
+                  }
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        //for responsive tables
+                        $("table").each(function () {
+                              if (!$(this).closest(".table-responsive").length) {
+                                    $(this).wrap("<div class='table-responsive'></div>");
+                              }
+                        });
+
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            
+            <style type="text/css">
+                  @media print {
+                        .sticky-social, .sticky-social_mb, .pull-right, #printPDF {
+                              display: none !important;
+                        }
+                  }
+
+                  .f_vl {
+                        padding-right: 30px;
+                        font-size: 17px;
+                        cursor: pointer;
+                  }
+
+                  .log_oo {
+                        // width: 20%;
+                        display: flex;
+                        justify-content: space-between;
+                  }
+
+                        .log_oo img {
+                              width: 150px;
+                              /*width: 100%;
+                    height: auto;*/
+                        }
+
+                  .sticky-social_mb {
+                        position: fixed;
+                        bottom: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                        width: 100%;
+                  }
+
+                  .social_mb {
+                        list-style: none;
+                        display: flex;
+                        width: 100%;
+                        margin-bottom: -8px;
+                  }
+
+                        .social_mb a {
+                              padding: 8px 0px;
+                              font-size: 30px;
+                              transition: all 0.8s ease-in-out;
+                              width: 20% !important;
+                              text-align: center;
+                        }
+            </style>
+            <style type="text/css">
+                  .section1 {
+                        position: relative;
+                        padding: 10px 0px;
+                        width: 100%;
+                  }
+
+
+
+                  .sticky-social {
+                        position: fixed;
+                        top: 20px;
+                        left: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                  }
+
+                  .social {
+                        list-style: none;
+                  }
+
+                        .social a li {
+                              padding: 8px 12px;
+                              font-size: 25px;
+                              transition: all 0.8s ease-in-out;
+                        }
+
+                              .social a li:hover {
+                                    margin-right: -30px;
+                                    box-shadow: 2px 5px 10px grey;
+                              }
+
+                                    .social a li:hover .fa {
+                                          margin-left: 20px;
+                                    }
+
+                  .fb_b {
+                        /* background-color: rgb(59, 89, 152);*/
+                        background-color: rgba(65,103,178,255);
+                  }
+
+                  .twitter_r {
+                        /* background-color: rgb(29, 161, 242);*/
+                        background-color: #000000;
+                  }
+
+                  .whatsapp_r {
+                        /* background-color: rgb(77, 194, 71);*/
+                        background-color: rgba(13,191,67,255);
+                  }
+
+                  .fa-envelope_r {
+                        /* background-color: rgb(219, 68, 55);*/
+                        background-color: #e2123d;
+                  }
+
+                  .fa-linkedin_r {
+                        background-color: rgb(0, 119, 181);
+                  }
+            </style>
+            <style type="text/css">
+                  @media only screen and (max-device-width: 767px) {
+                        p span img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        p img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        h2 {
+                              font-size: 20px !important;
+                              font-weight: 600 !important;
+                        }
+
+                        h3 {
+                              font-size: 18px !important;
+                              font-weight: 600 !important;
+                        }
+                  }
+            </style>
+            <style type="text/css">
+                  /* === Film Roll Badge Styling(IFFI2025 countdown) === */
+                  .film-roll-badge {
+                        position: absolute;
+                        top:82%;
+                        right: 20px;
+                        width: 230px;
+                        height: 70px;
+                        background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 18px, #6e2b8b 18px, #6e2b8b 36px );
+                        border-top: 8px solid #9a2375;
+                        border-bottom: 8px solid #9a2375;
+                        border-radius: 8px;
+                        overflow: hidden;
+                        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+                        animation: moveFilm 8s linear infinite;
+                        z-index: 10;
+                  }
+
+                        /* film sprocket holes */
+                        .film-roll-badge::before,
+                        .film-roll-badge::after {
+                              content: "";
+                              position: absolute;
+                              width: 100%;
+                              height: 10px;
+                              background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 10px, #fff 10px, #fff 20px );
+                              left: 0;
+                              z-index: 2;
+                        }
+
+                        .film-roll-badge::before {
+                              top: -4px;
+                        }
+
+                        .film-roll-badge::after {
+                              bottom: -4px;
+                        }
+
+                  .film-roll-inner {
+                        position: relative;
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        animation: flicker 2s infinite ease-in-out;
+                  }
+
+                  .countdown-text {
+                        font-size: 1.3rem;
+                        font-weight: 700;
+                        color: #fff;
+                        text-shadow: 0 0 6px rgba(255, 255, 255, 0.4), 0 0 10px #000;
+                        white-space: nowrap;
+                  }
+
+                  /* === Animations === */
+                  @keyframes moveFilm {
+                        0% {
+                              background-position: 0 0;
+                        }
+
+                        100% {
+                              background-position: 120px 0;
+                        }
+                  }
+
+                  @keyframes flicker {
+                        0%, 100% {
+                              opacity: 1;
+                        }
+
+                        50% {
+                              opacity: 0.9;
+                        }
+
+                        25% {
+                              opacity: 0.95;
+                        }
+
+                        75% {
+                              opacity: 0.85;
+                        }
+                  }
+
+                  /* === Responsive Adjustments === */
+                  @media (max-width: 1500px) {
+                        .film-roll-badge {
+                              top: 68%;
+                              right: 18px;
+                              /* width: 220px; */
+                              height: 65px;
+                              font-size: 0.85rem;
+                        }
+
+                        .press-section {
+                              margin-top: 35px;
+                        }
+                  }
+
+                  @media (max-width: 992px) {
+                        .film-roll-badge {
+                              top: 52%;
+                              right: 10px;
+                               width: 200px; 
+                              height: 60px;
+                        }
+                  }
+
+                  @media (max-width: 768px) {
+                        .film-roll-badge {
+                              top: 56%;
+                              right: 10px;
+                               width: 124px; 
+                              height: 55px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.9rem;
+                        }
+                  }
+
+                  @media (max-width: 576px) {
+                        .film-roll-badge {
+                              top: 59%;
+                              right: 5px;
+                              /* width: 160px; */
+                              height: 50px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.85rem;
+                        }
+                  }
+            </style>
+          <script type="text/javascript">
+                const festivalStart = new Date("2025-11-20T00:00:00").getTime();
+                const festivalEnd = new Date("2025-11-28T23:59:59").getTime();
+
+                const countdownElement = document.getElementById("countdown");
+
+                const interval = setInterval(() => {
+                      const now = new Date().getTime();
+
+                      // BEFORE FESTIVAL — show days + hours left
+                      if (now < festivalStart) {
+                            const diff = festivalStart - now;
+                            const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                            const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+                            countdownElement.innerHTML = `
+              ${days} Day${days !== 1 ? 's' : ''} 
+              ${hours} Hour${hours !== 1 ? 's' : ''} to go
+          `;
+
+                      }
+
+                      // DURING FESTIVAL — show 56th IFFI - Day X
+                      else if (now >= festivalStart && now <= festivalEnd) {
+                            const dayNumber = Math.floor((now - festivalStart) / (1000 * 60 * 60 * 24)) + 1;
+                            countdownElement.innerHTML = `56th IFFI - Day ${dayNumber}`;
+                      }
+
+                      // AFTER FESTIVAL — new message
+                      else {
+                            countdownElement.innerHTML = `✨ IFFI closes but never ends…`;
+
+                            // Width change logic
+                            const elements = document.querySelectorAll('.film-roll-badge');
+                            elements.forEach(el => el.style.width = "350px");
+
+                            clearInterval(interval);
+                      }
+
+                }, 1000);
+          </script>
+ <script type="text/javascript">
+
+               const miffStart = new Date("2026-06-15T00:00:00").getTime();
+               const miffEnd = new Date("2026-06-15T23:59:59").getTime();
+
+               const miffElement = document.getElementById("miff");
+
+               if (miffElement) {
+
+                   const miffInterval = setInterval(() => {
+
+                       const now = new Date().getTime();
+
+                       // Before MIFF
+                       if (now < miffStart) {
+
+                           const diff = miffStart - now;
+                           const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                           const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+        
+
+                   /*  miffElement.innerHTML = `${days} Day${days !== 1 ? 's' : ''} ${hours} Hour${hours !== 1 ? 's' : ''} to MIFF`;*/
+                           miffElement.innerHTML = `${days} Day${days === 1 ? '' : 's'} to MIFF ...`;
+
+
+                     }
+
+                       // During MIFF
+                       else if (now >= miffStart && now <= miffEnd) {
+
+                           const dayNumber =
+                               Math.floor((now - miffStart) / (1000 * 60 * 60 * 24)) + 1;
+
+                           miffElement.innerHTML = `19th MIFF - Day ${dayNumber}`;
+                       }
+
+                       // After MIFF
+                       else {
+
+                           miffElement.innerHTML = `✨ MIFF concludes, cinema lives on...`;
+
+                           document.querySelectorAll('.film-roll-badge')
+                               .forEach(el => el.style.width = "350px");
+
+                           clearInterval(miffInterval);
+                       }
+
+                   }, 1000);
+               }
+
+</script>
+
+      
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("sc_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"P_CategoryManagement","dynamicServicePath":"/PressReleasePage.aspx","id":"mpe"}, null, null, $get("Hidden"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
+

@@ -1,0 +1,458 @@
+﻿source_id,source_sha256,page,table,row,column,value_original,reference,verification_status
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,1,1,,PDF page 8; detected table 1; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,1,2,Western DFC (1504 KMs),PDF page 8; detected table 1; row 1; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,1,4,,PDF page 8; detected table 1; row 1; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,2,1,Haryana,PDF page 8; detected table 1; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,2,3,191,PDF page 8; detected table 1; row 2; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,3,1,Rajasthan,PDF page 8; detected table 1; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,3,3,561,PDF page 8; detected table 1; row 3; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,4,1,Gujarat,PDF page 8; detected table 1; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,4,3,552,PDF page 8; detected table 1; row 4; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,5,1,Maharashtra,PDF page 8; detected table 1; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,5,3,183,PDF page 8; detected table 1; row 5; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,6,1,Uttar Pradesh,PDF page 8; detected table 1; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,6,3,17,PDF page 8; detected table 1; row 6; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,7,1,Total,PDF page 8; detected table 1; row 7; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,8,1,7,3,1504,PDF page 8; detected table 1; row 7; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,1,1,Parameter Specifications,PDF page 15; detected table 1; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,2,1,,PDF page 15; detected table 1; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,2,2,Axle Load,PDF page 15; detected table 1; row 2; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,2,3,,PDF page 15; detected table 1; row 2; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,2,4,,PDF page 15; detected table 1; row 2; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,2,5,32.5 tonne loading standard for Bridges and Formation. Track,PDF page 15; detected table 1; row 2; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,2,6,,PDF page 15; detected table 1; row 2; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,3,1,,PDF page 15; detected table 1; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,3,5,structure shall be of 25 tonne to start with.,PDF page 15; detected table 1; row 3; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,4,1,"Traction Electric, 2x25 kv, 50 hz single phase AC",PDF page 15; detected table 1; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,5,1,,PDF page 15; detected table 1; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,5,2,Maximum Permissible,PDF page 15; detected table 1; row 5; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,5,3,,PDF page 15; detected table 1; row 5; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,5,4,,PDF page 15; detected table 1; row 5; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,5,5,"100 kmph, Average speed 65-70 Kmph.",PDF page 15; detected table 1; row 5; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,5,6,,PDF page 15; detected table 1; row 5; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,6,2,Speed,PDF page 15; detected table 1; row 6; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,6,4,,PDF page 15; detected table 1; row 6; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,7,1,"Rolling Stock Locomotives: 9000 HP
+Wagons: 25 ton axle load",PDF page 15; detected table 1; row 7; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,8,1,,PDF page 15; detected table 1; row 8; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,8,2,Double stack trains,PDF page 15; detected table 1; row 8; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,8,3,,PDF page 15; detected table 1; row 8; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,8,4,,PDF page 15; detected table 1; row 8; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,8,5,Double-stack container train operation on the Western Corridor,PDF page 15; detected table 1; row 8; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,8,6,,PDF page 15; detected table 1; row 8; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,9,1,"Track 60 kg/m, UIC/90 UTS rails,
+PSC sleepers, 1660 nos./km density.",PDF page 15; detected table 1; row 9; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,10,1,,PDF page 15; detected table 1; row 10; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,10,2,Points and Crossings,PDF page 15; detected table 1; row 10; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,10,3,,PDF page 15; detected table 1; row 10; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,10,4,,PDF page 15; detected table 1; row 10; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,10,5,"60 kg rail, 1 in 12 thick web switches",PDF page 15; detected table 1; row 10; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,10,6,,PDF page 15; detected table 1; row 10; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,11,1,Ballast 300/ 350 mm cushion,PDF page 15; detected table 1; row 11; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,12,1,,PDF page 15; detected table 1; row 12; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,12,2,Ruling Gradient,PDF page 15; detected table 1; row 12; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,12,3,,PDF page 15; detected table 1; row 12; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,12,4,,PDF page 15; detected table 1; row 12; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,12,5,1 in 200 (compensated),PDF page 15; detected table 1; row 12; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,12,6,,PDF page 15; detected table 1; row 12; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,13,1,"Curves Maximum degree of curvature of 2.5 (700m radius) to ensure
+sustained speed potential of 100kmph; curve compensation @
+0.04% per degree of curvature.",PDF page 15; detected table 1; row 13; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,14,1,,PDF page 15; detected table 1; row 14; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,14,2,Formation,PDF page 15; detected table 1; row 14; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,14,3,,PDF page 15; detected table 1; row 14; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,14,4,,PDF page 15; detected table 1; row 14; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,14,5,"Formation width : Double-line – 13.5 m, Single Line – 7.6 m; Side",PDF page 15; detected table 1; row 14; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,14,6,,PDF page 15; detected table 1; row 14; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,15,1,,PDF page 15; detected table 1; row 15; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,15,5,slope of embankment to be maintained at 2:1 ; blanket thickness as,PDF page 15; detected table 1; row 15; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,16,5,per RDSO GE :0014 specification,PDF page 15; detected table 1; row 16; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,17,1,"Moving Dimensions Vertical MMD of 7.1 m on Western Corridor and 5.1 m on Eastern
+Corridor",PDF page 15; detected table 1; row 17; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,18,1,,PDF page 15; detected table 1; row 18; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,18,2,Track Centres,PDF page 15; detected table 1; row 18; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,18,3,,PDF page 15; detected table 1; row 18; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,18,4,,PDF page 15; detected table 1; row 18; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,18,5,"6.0 m on DFC and between existing IR tracks and DFC track,",PDF page 15; detected table 1; row 18; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,18,6,,PDF page 15; detected table 1; row 18; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,19,1,,PDF page 15; detected table 1; row 19; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,15,1,19,5,"min.6.0, Recommended 7.925 m.",PDF page 15; detected table 1; row 19; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,18,1,1,1,DFCCIL will receive from Indian Railways a user charge called Track Access Charge,PDF page 18; detected table 1; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,18,1,2,1,"(TAC) in return for its services. However, since Indian Railways is the single buyer,",PDF page 18; detected table 1; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,18,1,3,1,TAC is sought to be fixed in a manner that all costs of DFCCIL get covered. At the,PDF page 18; detected table 1; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,18,1,4,1,same time the structure of TAC will be such so as to incentivize DFCCIL towards,PDF page 18; detected table 1; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,18,1,5,1,better performance.,PDF page 18; detected table 1; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,1,1,Particulars,PDF page 26; detected table 1; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,1,2,Units,PDF page 26; detected table 1; row 1; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,1,3,,PDF page 26; detected table 1; row 1; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,1,6,,PDF page 26; detected table 1; row 1; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,1,9,,PDF page 26; detected table 1; row 1; column 9,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,2,3,,PDF page 26; detected table 1; row 2; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,2,4,2021,PDF page 26; detected table 1; row 2; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,2,5,,PDF page 26; detected table 1; row 2; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,2,6,,PDF page 26; detected table 1; row 2; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,2,7,2022,PDF page 26; detected table 1; row 2; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,2,8,,PDF page 26; detected table 1; row 2; column 8,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,2,9,,PDF page 26; detected table 1; row 2; column 9,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,2,10,2023,PDF page 26; detected table 1; row 2; column 10,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,2,11,,PDF page 26; detected table 1; row 2; column 11,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,3,3,,PDF page 26; detected table 1; row 3; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,3,6,,PDF page 26; detected table 1; row 3; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,3,9,,PDF page 26; detected table 1; row 3; column 9,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,4,1,Total TAC,PDF page 26; detected table 1; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,4,2,INR,PDF page 26; detected table 1; row 4; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,4,3,"11,897",PDF page 26; detected table 1; row 4; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,4,6,"12,533",PDF page 26; detected table 1; row 4; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,4,9,"13,020",PDF page 26; detected table 1; row 4; column 9,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,5,1,Apportioned revenue due to DFC,PDF page 26; detected table 1; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,5,2,,PDF page 26; detected table 1; row 5; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,5,3,,PDF page 26; detected table 1; row 5; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,5,6,,PDF page 26; detected table 1; row 5; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,5,9,,PDF page 26; detected table 1; row 5; column 9,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,6,1,"Revenues with DFC (Moderate
+Scenario)",PDF page 26; detected table 1; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,6,2,INR,PDF page 26; detected table 1; row 6; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,6,3,"31,224",PDF page 26; detected table 1; row 6; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,6,6,"33,416",PDF page 26; detected table 1; row 6; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,6,9,"35,607",PDF page 26; detected table 1; row 6; column 9,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,26,1,7,1,The figures are based on PWC study (2017),PDF page 26; detected table 1; row 7; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,1,1,1,This policy will be called the DFCCIL Learning & Development Policy. It,PDF page 31; detected table 1; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,1,2,1,will come into force w.e.f 01.10.2018.,PDF page 31; detected table 1; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,2,1,1,The Learning & Development initiatives are planned to be strongly,PDF page 31; detected table 2; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,2,2,1,aligned with the current and future leadership requirements to achieve,PDF page 31; detected table 2; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,2,3,1,"organizational aspirations articulated in terms of vision, mission and",PDF page 31; detected table 2; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,2,4,1,objectives. The initiatives will be designed and administered with the,PDF page 31; detected table 2; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,2,5,1,"intent of unlocking the potential of human capital across the organization,",PDF page 31; detected table 2; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,2,6,1,develop a leadership pipeline at all level and to build critical,PDF page 31; detected table 2; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,2,7,1,organizational capabilities required for achieving corporate plans. The,PDF page 31; detected table 2; row 7; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,2,8,1,employees in the organization will be given wise exposure to varied,PDF page 31; detected table 2; row 8; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,2,9,1,Learning & Development opportunities based on the business,PDF page 31; detected table 2; row 9; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,2,10,1,requirements and their individual potential.,PDF page 31; detected table 2; row 10; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,3,1,1,Scope,PDF page 31; detected table 3; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,3,2,1,This policy applies to all permanent employees and employees on,PDF page 31; detected table 3; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,3,3,1,"deputation. This policy doesn’t cover employees who are on contract,",PDF page 31; detected table 3; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,3,4,1,reemployed or consultants.,PDF page 31; detected table 3; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,31,3,5,1,,PDF page 31; detected table 3; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,1,1,Project Description,PDF page 53; detected table 1; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,1,2,Total Scope,PDF page 53; detected table 1; row 1; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,2,2,Length (Km.),PDF page 53; detected table 1; row 2; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,2,3,Area (Ha.),PDF page 53; detected table 1; row 2; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,3,1,EDFC (without Sonnagar-Dankuni),PDF page 53; detected table 1; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,3,2,1326,PDF page 53; detected table 1; row 3; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,3,3,4567,PDF page 53; detected table 1; row 3; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,4,1,Sonnagar-Dankuni,PDF page 53; detected table 1; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,4,2,535,PDF page 53; detected table 1; row 4; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,4,3,1229,PDF page 53; detected table 1; row 4; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,5,1,WDFC,PDF page 53; detected table 1; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,5,2,1504,PDF page 53; detected table 1; row 5; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,5,3,6000,PDF page 53; detected table 1; row 5; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,6,1,Total of EDFC & WDFC,PDF page 53; detected table 1; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,6,2,3365,PDF page 53; detected table 1; row 6; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,53,1,6,3,11796,PDF page 53; detected table 1; row 6; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,1,2,Project Description,PDF page 55; detected table 1; row 1; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,1,3,"Land to be
+Acquired (Ha.)",PDF page 55; detected table 1; row 1; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,1,4,"20A issued
+(Ha)",PDF page 55; detected table 1; row 1; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,1,5,"20E issued
+(Ha)",PDF page 55; detected table 1; row 1; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,1,6,"20F Award
+declared
+(Ha)",PDF page 55; detected table 1; row 1; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,2,2,"Eastern DFC (without
+Sonnagar-Dankuni)",PDF page 55; detected table 1; row 2; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,2,3,4567,PDF page 55; detected table 1; row 2; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,2,4,4559,PDF page 55; detected table 1; row 2; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,2,5,4459,PDF page 55; detected table 1; row 2; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,2,6,4402,PDF page 55; detected table 1; row 2; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,3,2,Western DFC,PDF page 55; detected table 1; row 3; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,3,3,6000,PDF page 55; detected table 1; row 3; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,3,4,6000,PDF page 55; detected table 1; row 3; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,3,5,5999,PDF page 55; detected table 1; row 3; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,3,6,5976,PDF page 55; detected table 1; row 3; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,4,2,,PDF page 55; detected table 1; row 4; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,4,3,,PDF page 55; detected table 1; row 4; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,4,4,1.2,PDF page 55; detected table 1; row 4; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,4,5,1.3,PDF page 55; detected table 1; row 4; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,4,6,1.4,PDF page 55; detected table 1; row 4; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,5,2,,PDF page 55; detected table 1; row 5; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,5,3,,PDF page 55; detected table 1; row 5; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,5,4,1.5,PDF page 55; detected table 1; row 5; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,5,5,1.6,PDF page 55; detected table 1; row 5; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,5,6,1.7,PDF page 55; detected table 1; row 5; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,6,2,Sonnagar-Dankuni,PDF page 55; detected table 1; row 6; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,6,3,1229,PDF page 55; detected table 1; row 6; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,6,4,1120,PDF page 55; detected table 1; row 6; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,6,5,1016,PDF page 55; detected table 1; row 6; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,6,6,918,PDF page 55; detected table 1; row 6; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,7,2,Total,PDF page 55; detected table 1; row 7; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,7,3,11796,PDF page 55; detected table 1; row 7; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,7,4,11679,PDF page 55; detected table 1; row 7; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,7,5,11474,PDF page 55; detected table 1; row 7; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,7,6,11296,PDF page 55; detected table 1; row 7; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,8,1,,PDF page 55; detected table 1; row 8; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,9,1,,PDF page 55; detected table 1; row 9; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,10,1,Para 5.1.2 Procurement Plan & Progress,PDF page 55; detected table 1; row 10; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,11,1,Para 5.1.2.1 Eastern DFC - The Eastern DFC is being executed in a phased manner. The,PDF page 55; detected table 1; row 11; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,12,1,World Bank funding finalized in three tranches for Ludhiana – Mughalsarai,PDF page 55; detected table 1; row 12; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,13,1,Section. Phase -1 of Loan was sanctioned for Khurja – Kanpur Section for,PDF page 55; detected table 1; row 13; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,14,1,USD 975 Million. During June 2017 USD 175 Million was surrendered,PDF page 55; detected table 1; row 14; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,15,1,during restructuring and Khurja – Dadri Section was also included in EDFC –,PDF page 55; detected table 1; row 15; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,16,1,1 Loan. Another USD 245 Million surrendered during December 2018 and,PDF page 55; detected table 1; row 16; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,1,17,1,EDFC – 1 extended up to May 2019.,PDF page 55; detected table 1; row 17; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,2,1,1,Phase -2 from Kanpur to Mughalsarai was sanctioned for USD 1100 Million.,PDF page 55; detected table 2; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,2,2,1,During restructuring USD 190 Million was surrendered.,PDF page 55; detected table 2; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,1,1,For EDFC – 1 (Khurja – Bhaupur Section (351 km): World Bank Loan,PDF page 55; detected table 3; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,2,1,amount Agreement for USD 975 million was signed in October 2011. Loan,PDF page 55; detected table 3; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,3,1,"No. is 8066 – IN. Lot 101, 102 & 103 involving Civil, Structure and Track",PDF page 55; detected table 3; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,4,1,Works Contract Packages of approx. 115km each were awarded in January,PDF page 55; detected table 3; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,5,1,"2013 to TATA – ALDESA JV. System Work involving Electrification,",PDF page 55; detected table 3; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,6,1,Signalling and Telecommunication Works was awarded to ALSTOM,PDF page 55; detected table 3; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,7,1,Consortium in July 2015. Construction work for Civil and System Works are,PDF page 55; detected table 3; row 7; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,8,1,in progress. Civil Works for Khurja – Dadri Section awarded to GIL- TPL JV,PDF page 55; detected table 3; row 8; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,9,1,during June 2016. System Work for Khurja – Dadri Section Technical,PDF page 55; detected table 3; row 9; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,10,1,Evaluation of bids completed during November 2018 and Contract likely to be,PDF page 55; detected table 3; row 10; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,11,1,awarded by August 2019. Trail run for Khurja – Bhadan Section done with,PDF page 55; detected table 3; row 11; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,12,1,Diesel Loco during November 2018. Khurja - Bhaupur Section is planned for,PDF page 55; detected table 3; row 12; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,3,13,1,Commissioning by November 2019.,PDF page 55; detected table 3; row 13; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,4,1,1,,PDF page 55; detected table 4; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,4,2,1,,PDF page 55; detected table 4; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,55,4,3,1,,PDF page 55; detected table 4; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,1,1,1,For EDFC – 2 (Bhaupur – Mughalsarai section (402km): World Bank Loan,PDF page 56; detected table 1; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,1,2,1,amount for USD1100 million signed in September 2013. Loan No. 8318 IN.,PDF page 56; detected table 1; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,1,3,1,During restructuring USD 190 Million surrendered. Lot 201&,PDF page 56; detected table 1; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,1,4,1,"202 involving Civil, Structure and Track Works Contract awarded in",PDF page 56; detected table 1; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,1,5,1,March 2015 to GIL – SIL JV. S&T and Electrical Works Contract awarded in,PDF page 56; detected table 1; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,1,6,1,June 2016 to Beijing National Railway Research and Design Institute of,PDF page 56; detected table 1; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,1,7,1,"Signal & Communication Group Co. Ltd., China and L&T – INABENSA JV",PDF page 56; detected table 1; row 7; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,1,8,1,respectively. Civil and System Works are in progress. Section is targeted for,PDF page 56; detected table 1; row 8; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,1,9,1,Commissioning by December 2020.,PDF page 56; detected table 1; row 9; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,2,1,1,USD 650 Million Loan was sanctioned by World Bank for Khurja – Sanehwal,PDF page 56; detected table 2; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,2,2,1,"Section. Loan was signed on 21.10.2016. Lot 301 for Civil, Structure and",PDF page 56; detected table 2; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,2,3,1,Track Works Section for Pilkhani – Sanehwal Section was awarded to GIL –,PDF page 56; detected table 2; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,2,4,1,TPL JV in June 2016. Lot 303 for Civil Works Khurja – Pilkhani Section,PDF page 56; detected table 2; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,2,5,1,awarded to Larsen& Toubro Limited during February 2018. System Work for,PDF page 56; detected table 2; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,2,6,1,Khurja – Pilkhani and Pilkhani – Sanehwal Technical Evaluation of bids are in,PDF page 56; detected table 2; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,2,7,1,progress. Tender likely to be awarded during August / September 2019. Civil,PDF page 56; detected table 2; row 7; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,2,8,1,Works in both sections is in progress. Sections are targeted for completion by,PDF page 56; detected table 2; row 8; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,2,9,1,December 2021.,PDF page 56; detected table 2; row 9; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,3,1,1,Para 5.1.2.1.4 Mughalsarai – Sonnagar Section (126 KM) This section is being,PDF page 56; detected table 3; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,3,2,1,constructed through Railway funding. Durgauati – Sasaram Section,PDF page 56; detected table 3; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,3,3,1,completed. Section is targeted for Commissioning by December 2020.,PDF page 56; detected table 3; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,3,4,1,Para 5.1.2.1.5 Sonnagar - Dankuni Section (535 KM) through PPP - It has been,PDF page 56; detected table 3; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,3,5,1,decided to implement Sonnagar - Dankuni Section under PPP mode. As the,PDF page 56; detected table 3; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,3,6,1,"size of the project is substantial, based on investor feedback, it has been",PDF page 56; detected table 3; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,3,7,1,decided to split the project in two phases viz. Sonnagar – Gomoh Section,PDF page 56; detected table 3; row 7; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,3,8,1,(Phase – 1) and Gomoh - Dankuni Phase – 2. The total land acquisition,PDF page 56; detected table 3; row 8; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,3,9,1,involved in this section is approximately 2189 Ha. 85% land (including,PDF page 56; detected table 3; row 9; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,3,10,1,Railway land) is already in possession. Target for this section will be,PDF page 56; detected table 3; row 10; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,56,3,11,1,decided after appointment of concessionaire.,PDF page 56; detected table 3; row 11; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,1,1,1,Para 5.1.3 Timeline for Completion of DFC– DFC would be operationalized in phases,PDF page 57; detected table 1; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,1,2,1,starting from the year 2019-20. For a massive project of this size and,PDF page 57; detected table 1; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,1,3,1,"complexity, it is natural to consider phased implementation and start driving",PDF page 57; detected table 1; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,1,4,1,benefits by early commencement of operation. The project phase of the DFC,PDF page 57; detected table 1; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,1,5,1,plan comprises of construction of Dedicated Freight Corridor (DFC),PDF page 57; detected table 1; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,1,6,1,spanning the Mumbai – Delhi (Western DFC) and Ludhiana - Delhi –,PDF page 57; detected table 1; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,1,7,1,"Kolkata (Eastern DFC) legs of the golden Quadrilateral, covering a total",PDF page 57; detected table 1; row 7; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,1,8,1,"length of 3,365 Route KM. Plan for commissioning of sections is as under.",PDF page 57; detected table 1; row 8; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,1,9,1,Eastern DFC,PDF page 57; detected table 1; row 9; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,1,1,Bhaupur /Kanpur – Khurja,PDF page 57; detected table 2; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,1,2,:,PDF page 57; detected table 2; row 1; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,1,3,351KM,PDF page 57; detected table 2; row 1; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,1,4,"March, 2020",PDF page 57; detected table 2; row 1; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,2,1,Bhaupur /Kanpur – Mughalsarai,PDF page 57; detected table 2; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,2,2,:,PDF page 57; detected table 2; row 2; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,2,3,402 KM,PDF page 57; detected table 2; row 2; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,2,4,December 2020,PDF page 57; detected table 2; row 2; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,3,1,Khurja – Ludhiana,PDF page 57; detected table 2; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,3,2,:,PDF page 57; detected table 2; row 3; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,3,3,401KM,PDF page 57; detected table 2; row 3; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,3,4,December 2021,PDF page 57; detected table 2; row 3; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,4,1,Mughalsarai – Sonnagar,PDF page 57; detected table 2; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,4,2,:,PDF page 57; detected table 2; row 4; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,4,3,126KM,PDF page 57; detected table 2; row 4; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,4,4,December 2020,PDF page 57; detected table 2; row 4; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,5,1,Khurja – Dadri,PDF page 57; detected table 2; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,5,2,:,PDF page 57; detected table 2; row 5; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,5,3,46KM,PDF page 57; detected table 2; row 5; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,5,4,December 2020,PDF page 57; detected table 2; row 5; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,6,1,Sonnagar – Dankuni,PDF page 57; detected table 2; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,6,2,:,PDF page 57; detected table 2; row 6; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,6,3,535KM,PDF page 57; detected table 2; row 6; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,2,6,4,"Based on finalization of
+PPP Contract",PDF page 57; detected table 2; row 6; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,3,1,1,,PDF page 57; detected table 3; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,3,2,1,Western DFC,PDF page 57; detected table 3; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,1,1,Phase-1,PDF page 57; detected table 4; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,1,2,1.,PDF page 57; detected table 4; row 1; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,1,3,7.11. 7.2,PDF page 57; detected table 4; row 1; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,1,4,1.7.3,PDF page 57; detected table 4; row 1; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,2,1,Rewari- Palanpur,PDF page 57; detected table 4; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,2,2,:,PDF page 57; detected table 4; row 2; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,2,3,(641Km.),PDF page 57; detected table 4; row 2; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,2,4,"March,2020",PDF page 57; detected table 4; row 2; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,3,1,Palanpur – Makarpura,PDF page 57; detected table 4; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,3,2,:,PDF page 57; detected table 4; row 3; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,3,3,(308 Km),PDF page 57; detected table 4; row 3; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,3,4,"September,2021",PDF page 57; detected table 4; row 3; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,4,1,Phase-2,PDF page 57; detected table 4; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,4,2,,PDF page 57; detected table 4; row 4; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,4,3,,PDF page 57; detected table 4; row 4; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,4,4,,PDF page 57; detected table 4; row 4; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,5,1,Makarpura - JNPT,PDF page 57; detected table 4; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,5,2,:,PDF page 57; detected table 4; row 5; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,5,3,(428Km.),PDF page 57; detected table 4; row 5; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,5,4,"December,2021",PDF page 57; detected table 4; row 5; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,6,1,Rewari-Dadri,PDF page 57; detected table 4; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,6,2,1.,PDF page 57; detected table 4; row 6; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,6,3,7.(41 27 Km),PDF page 57; detected table 4; row 6; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,57,4,6,4,"March , 2021",PDF page 57; detected table 4; row 6; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,1,1,,PDF page 63; detected table 1; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,1,2,,PDF page 63; detected table 1; row 1; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,1,3,,PDF page 63; detected table 1; row 1; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,1,5,,PDF page 63; detected table 1; row 1; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,1,6,,PDF page 63; detected table 1; row 1; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,2,1,Risk No.,PDF page 63; detected table 1; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,2,2,Risk Definition,PDF page 63; detected table 1; row 2; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,2,3,IRR (I*P),PDF page 63; detected table 1; row 2; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,2,5,,PDF page 63; detected table 1; row 2; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,2,6,"Level of Risk
+(Severity)",PDF page 63; detected table 1; row 2; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,3,1,1,PDF page 63; detected table 1; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,3,2,Delay in design submission,PDF page 63; detected table 1; row 3; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,3,3,625,PDF page 63; detected table 1; row 3; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,3,5,,PDF page 63; detected table 1; row 3; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,3,6,Critical,PDF page 63; detected table 1; row 3; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,4,2,"Inefficient Land Acquisition
+Management System",PDF page 63; detected table 1; row 4; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,4,3,500,PDF page 63; detected table 1; row 4; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,4,5,,PDF page 63; detected table 1; row 4; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,4,6,Critical,PDF page 63; detected table 1; row 4; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,5,2,Inadequate staffing,PDF page 63; detected table 1; row 5; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,5,3,500,PDF page 63; detected table 1; row 5; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,5,5,,PDF page 63; detected table 1; row 5; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,5,6,Critical,PDF page 63; detected table 1; row 5; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,6,2,Design Failure,PDF page 63; detected table 1; row 6; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,6,3,500,PDF page 63; detected table 1; row 6; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,6,5,,PDF page 63; detected table 1; row 6; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,6,6,Critical,PDF page 63; detected table 1; row 6; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,7,2,Fault in ERP-SAP system,PDF page 63; detected table 1; row 7; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,7,3,500,PDF page 63; detected table 1; row 7; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,7,5,,PDF page 63; detected table 1; row 7; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,7,6,Critical,PDF page 63; detected table 1; row 7; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,8,2,"Ineffective handling of ERP-
+SAP system",PDF page 63; detected table 1; row 8; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,8,3,,PDF page 63; detected table 1; row 8; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,8,4,500,PDF page 63; detected table 1; row 8; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,8,5,,PDF page 63; detected table 1; row 8; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,8,6,Critical,PDF page 63; detected table 1; row 8; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,9,2,"Delay in Implementation of
+PMS module of SAP",PDF page 63; detected table 1; row 9; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,9,3,,PDF page 63; detected table 1; row 9; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,9,4,500,PDF page 63; detected table 1; row 9; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,9,5,,PDF page 63; detected table 1; row 9; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,9,6,Critical,PDF page 63; detected table 1; row 9; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,10,2,"Cash constraint with the
+contractors for execution of
+works",PDF page 63; detected table 1; row 10; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,10,3,,PDF page 63; detected table 1; row 10; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,10,4,500,PDF page 63; detected table 1; row 10; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,10,5,,PDF page 63; detected table 1; row 10; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,10,6,Critical,PDF page 63; detected table 1; row 10; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,1,11,4,,PDF page 63; detected table 1; row 11; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,1,1,"TOP 20 RISKS OF DFCCIL FOR 2018-19
+Risk No. Risk Definition IRR (I*P)
+Delay/ difficulty in construction
+of RUBs/ROBs
+9 400
+(Issues pertaining to construction
+of RUBs/ ROBs)
+10 Disaster management 400
+11 Resource planning 400
+12 Arbitration cases/ Award of land 400
+Accidents and
+13 400
+Mishaps at construction sites
+Delay in finalization of PPP
+14 400
+Process
+Inadequate management of
+15 400
+contractor
+16 Problem of Office Management 375",PDF page 63; detected table 2; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,1,2,TOP 20 RISKS OF DFCCIL FOR 2018-19,PDF page 63; detected table 2; row 1; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,1,7,,PDF page 63; detected table 2; row 1; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,2,3,,PDF page 63; detected table 2; row 2; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,2,4,,PDF page 63; detected table 2; row 2; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,2,5,,PDF page 63; detected table 2; row 2; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,2,6,,PDF page 63; detected table 2; row 2; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,2,7,,PDF page 63; detected table 2; row 2; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,3,3,Risk No.,PDF page 63; detected table 2; row 3; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,3,4,Risk Definition,PDF page 63; detected table 2; row 3; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,3,5,IRR (I*P),PDF page 63; detected table 2; row 3; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,3,6,,PDF page 63; detected table 2; row 3; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,3,7,"Level of Risk
+(Severity)",PDF page 63; detected table 2; row 3; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,4,3,9,PDF page 63; detected table 2; row 4; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,4,4,"Delay/ difficulty in construction
+of RUBs/ROBs
+(Issues pertaining to construction
+of RUBs/ ROBs)",PDF page 63; detected table 2; row 4; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,4,5,400,PDF page 63; detected table 2; row 4; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,4,6,,PDF page 63; detected table 2; row 4; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,4,7,Critical,PDF page 63; detected table 2; row 4; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,5,3,10,PDF page 63; detected table 2; row 5; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,5,4,Disaster management,PDF page 63; detected table 2; row 5; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,5,5,400,PDF page 63; detected table 2; row 5; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,5,6,,PDF page 63; detected table 2; row 5; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,5,7,Critical,PDF page 63; detected table 2; row 5; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,6,3,11,PDF page 63; detected table 2; row 6; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,6,4,Resource planning,PDF page 63; detected table 2; row 6; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,6,5,400,PDF page 63; detected table 2; row 6; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,6,6,,PDF page 63; detected table 2; row 6; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,6,7,Critical,PDF page 63; detected table 2; row 6; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,7,3,12,PDF page 63; detected table 2; row 7; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,7,4,Arbitration cases/ Award of land,PDF page 63; detected table 2; row 7; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,7,5,400,PDF page 63; detected table 2; row 7; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,7,6,,PDF page 63; detected table 2; row 7; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,7,7,Critical,PDF page 63; detected table 2; row 7; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,8,3,13,PDF page 63; detected table 2; row 8; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,8,4,"Accidents and
+Mishaps at construction sites",PDF page 63; detected table 2; row 8; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,8,5,400,PDF page 63; detected table 2; row 8; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,8,6,,PDF page 63; detected table 2; row 8; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,8,7,Critical,PDF page 63; detected table 2; row 8; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,9,3,14,PDF page 63; detected table 2; row 9; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,9,4,"Delay in finalization of PPP
+Process",PDF page 63; detected table 2; row 9; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,9,5,400,PDF page 63; detected table 2; row 9; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,9,6,,PDF page 63; detected table 2; row 9; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,9,7,Critical,PDF page 63; detected table 2; row 9; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,10,3,15,PDF page 63; detected table 2; row 10; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,10,4,"Inadequate management of
+contractor",PDF page 63; detected table 2; row 10; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,10,5,400,PDF page 63; detected table 2; row 10; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,10,6,,PDF page 63; detected table 2; row 10; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,10,7,Critical,PDF page 63; detected table 2; row 10; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,11,3,16,PDF page 63; detected table 2; row 11; column 3,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,11,4,Problem of Office Management,PDF page 63; detected table 2; row 11; column 4,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,11,5,375,PDF page 63; detected table 2; row 11; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,11,6,,PDF page 63; detected table 2; row 11; column 6,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,11,7,Critical,PDF page 63; detected table 2; row 11; column 7,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,63,2,12,5,,PDF page 63; detected table 2; row 12; column 5,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,1,1,Key,PDF page 65; detected table 1; row 1; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,1,2,Activities performed/Document prepared by,PDF page 65; detected table 1; row 1; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,2,1,,PDF page 65; detected table 1; row 2; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,2,2,Risk Management Coordinator (RMCO),PDF page 65; detected table 1; row 2; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,3,1,,PDF page 65; detected table 1; row 3; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,3,2,Risk Mitigation Plan owner (RMPO),PDF page 65; detected table 1; row 3; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,4,1,,PDF page 65; detected table 1; row 4; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,4,2,Chief Risk Management Coordinator (CRMCO),PDF page 65; detected table 1; row 4; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,5,1,,PDF page 65; detected table 1; row 5; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,5,2,Risk Management Committee (RMC),PDF page 65; detected table 1; row 5; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,6,1,,PDF page 65; detected table 1; row 6; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,6,2,Functional Directors(FD),PDF page 65; detected table 1; row 6; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,7,1,,PDF page 65; detected table 1; row 7; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,8,1,,PDF page 65; detected table 1; row 8; column 1,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,8,2,Audit Committee of Board(ACB),PDF page 65; detected table 1; row 8; column 2,review_required
+S014,f8db86897dde3ddee3845142cdcbce888b05f32a790413bc6c8eb7f5cbd62cd4,65,1,9,1,,PDF page 65; detected table 1; row 9; column 1,review_required

@@ -1,0 +1,16 @@
+{
+  "project_id": "REAL_003",
+  "project_name": "Char Dham Highway Project",
+  "authority": "MoRTH",
+  "study_district": "Rudraprayag",
+  "study_state": "Uttarakhand",
+  "project_type": "road_programme",
+  "aliases": "Char Dham Mahamarg | Char Dham Highway | Char Dham All Weather Road | Char Dham Road Project | Chardham | Char Dham Pariyojana",
+  "folder": "REAL_003",
+  "registry_basis": "user_supplied_not_source_verified",
+  "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+  "scope_rule": "Project-wide facts must not be represented as study-district or parcel facts.",
+  "downloaded_source_count": 4,
+  "normalized_observation_count": 11,
+  "training_ready": false
+}

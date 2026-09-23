@@ -1,0 +1,930 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Press Release Page | Press Information Bureau
+</title><link href="css/style.css" rel="stylesheet" type="text/css" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="alternate stylesheet" href="css/change.css" media="screen" title="change" /><link rel="alternate stylesheet" href="css/green.css" media="screen" title="green" /><link rel="alternate stylesheet" href="css/yellow.css" media="screen" title="yellow" /><link rel="stylesheet" type="text/css" href="css/prtint.css" media="print" /><link rel="stylesheet" href="css/style3.1.css" type="text/css" /><link id="pibA11yCss" rel="stylesheet" href="/css/accessibility.css?v=3" type="text/css" />
+      <script type="text/javascript">
+        /* Stamps the saved theme on <html> before the page paints. The
+           switcher in js/accessibility.js settles the rest, but on inner
+           pages it does not run until the end of the body and inside the
+           release frame it is a separate download - either way the reader
+           would otherwise watch a light page turn dark in front of them. */
+        (function (d) {
+            var t = "";
+            try {
+                t = window.localStorage.getItem("pibStyle") || "";
+            } catch (e) {
+                t = "";
+            }
+            if (t === "orange") {
+                t = "yellow";
+            }
+            var c = t === "change" ? " pib-hc"
+                : t === "green" ? " pib-theme-green"
+                : t === "yellow" ? " pib-theme-yellow" : "";
+            d.documentElement.className += c + " pib-a11y-content";
+        }(document));
+      </script>
+
+
+      <script src="js/jquery.min.js" type="text/javascript"></script>
+      <script type="text/javascript" src="/js/accessibility.js?v=7"></script>
+      <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true" /><link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet" />
+
+      <script type="text/javascript">
+            $(document).ready(function () {
+                  function getParameterByName(name) {
+                        var url = window.location.href;
+                        name = name.replace(/[\[\]]/g, '\\$&');
+                        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                              results = regex.exec(url);
+                        if (!results) return null;
+                        if (!results[2]) return '';
+                        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+                  }
+                  // Get the IDs from the current page's URL
+                  let prid = parseInt(getParameterByName('PRID'), 10);
+
+                  if (!isNaN(prid) && prid > 0) {
+                        $.ajax({
+                              type: "POST",
+                              url: "AjaxMethod.aspx/UpdatePRHitCount",
+                              async: false,
+                              data: JSON.stringify({ 'PermId': prid }),
+                              contentType: "application/json; charset=utf-8",
+                              dataType: "json",
+                              success: function (response) {
+                                    console.log(response);
+                              },
+                              error: function (error) {
+                                    console.log("Error in AJAX request", error);
+                              }
+                        });
+                  } else {
+                        console.log("Invalid parameters:", prid);
+                  }
+
+            });
+      </script>
+      <style type="text/css">
+            .table-responsive {
+                  width: 100%;
+                  overflow-x: auto;
+            }
+
+            .banner {
+                  display: flex;
+                  justify-content: space-between;
+                  align-items: center;
+                  background-color: #000;
+                  color: #fff;
+                  padding: 20px;
+            }
+
+            full-width {
+                  width: 100%;
+            }
+
+            .logo-left, .logo-center, .countdown {
+                  display: flex;
+                  align-items: center;
+            }
+
+                  .logo-left img, .logo-center img {
+                        height: 70px;
+                  }
+
+            .countdown {
+                  text-align: center;
+                  background-color: #444;
+                  border-radius: 10px;
+                  padding: 10px;
+                  border: 2px solid grey;
+            }
+
+            .firstnumber {
+                  color: #000000;
+                  position: absolute;
+                  top: 50px;
+                  right: 90px;
+                  font-size: 30px;
+            }
+
+            .secondnumber {
+                  position: absolute;
+                  color: #000000;
+                  right: 45px;
+                  top: 50px;
+                  font-size: 30px;
+            }
+
+            .countdown .days {
+                  font-size: 35px;
+                  color: gold;
+            }
+
+            .countdown p {
+                  margin: 0;
+            }
+
+            .countdown .text {
+                  font-size: 16px;
+            }
+
+            a {
+                  word-break: break-all;
+            }
+
+            iframe, img {
+                  max-width: 100%;
+            }
+
+            @media(max-width:1199px) {
+                  .firstnumber {
+                        top: 40px;
+                        right: 72px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 35px;
+                        top: 40px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:990px) {
+                  .firstnumber {
+                        top: 25px;
+                        right: 54px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 25px;
+                        top: 25px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:768px) {
+                  .countdown, .days {
+                        font-size: 12px !important;
+                  }
+
+
+                  .firstnumber {
+                        top: 25%;
+                        right: 8%;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 4.5%;
+                        top: 25%;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:475px) {
+                  .countdown, .days {
+                        font-size: 10px !important;
+                        top: 20%;
+                  }
+
+                  .bannerimgdiv {
+                        padding: 0 !important;
+                  }
+
+                  .bannerimg {
+                        width: 108% !important;
+                  }
+            }
+      </style>
+      <script type="text/javascript">
+            $(function () {
+                  $("[id*=printPDF]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+            $(function () {
+                  $("[id*=printPDFEvent]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+      </script>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112591026-1"></script>
+      <script>
+
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() { dataLayer.push(arguments); }
+
+            gtag('js', new Date());
+
+
+
+            gtag('config', 'UA-112591026-1');
+
+      </script>
+
+<meta property="og:title" content="Char Dham Highway Project " /><meta property="og:url" content="www.pib.gov.in/Pressreleaseshare.aspx?PRID=1481895" /><meta property="og:description" content=" The Government has decided to upgrade highway connectivity to two lane with paved shoulders to Char" /><meta property="og:image" content="https:/pib.gov.in/images/indian-emblem.png" />
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="C4E7H-KSCMC-422L4-W3EM5-U36MF",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"C4E7H-KSCMC-422L4-W3EM5-U36MF";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="onysoraxia5zw2u355nq-f-ecd439a48-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1825201","ak.ai":parseInt("1215205",10),"ak.ol":"0","ak.cr":14,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"13bc654","ak.r":43247,"ak.a2":n,"ak.m":"dscb","ak.n":"ff","ak.cport":55137,"ak.gh":"23.64.59.151","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1788604251","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==oRJcXSn+KXeEMAl0IYyKLLOqikjLiYBqOsMNULTEkWGDnVVq3QpD37tFrtpm3GL6VngBscVYxpc0fYASNKZVFnSweYAUcrYdHPaWAZbe3O+Bb0DuKzEzqlJCBmLwZk0kYWKsqu9/WRXZrCZ8GAn3ajNzvHUNWwdfSW7x4KzZGECZ7GxRNwF7PiVKlx064aXHs43GWQEfA7p6BSZ+MefD1evmmSeCgvey1vi89xjkMi/H6T5UJNzq1PV0Vax9/F2Kb1A8V+8CuuvOdEMYYATQMKtaufiMojhsyE++JoRKDbkXUbDyOC53qYf2WbVQnOTEEV4XChUGJWoFALzBQj8tIdnW422O75Ugshq/nqaE708sF9aTxeelb2ae/Op6ZYbU/rajo2gIjeE9EZFU9t0qwp+liEb9PejgJlWW3usUWXo=","ak.pv":"9","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+      <form method="post" action="./PressReleasePage.aspx?PRID=1481895&amp;lang=2&amp;reg=48" id="form1">
+<input type="hidden" name="sc_HiddenField" id="sc_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="hAbUR7Uo6AghF6V6ofuzviWrir+S6e8CcWgXQuCUlY3vyLjcw0u4hN/T/yatuIpg3iC4YU+lHEE5kMj0FBiGCW+N80AW0mnNhdA9F9i+BCRTs+KULgTj7Zf5enUlxGsX3daoNO9Q549dl/tb1KD13erxBZh9/QFduy3AXLeGPlH4S8DAgrqdPLAnNKXhnNEs+uoMmdKQbTTDAeejNkqohvdoUNocrBhHHPinsZ6fpa6/sGpTqEWfXRAPXqYuVuuV0OiXMOyYfNFK3hWk/RNbm02IaCfTTK1w072od8oJnBJE133CLthzkgFbeKQy1BtIXtordbnhBp03HsMiXjzQA4YMKaAznnA6+jTbh8CiSDKcT+sVPg7fzgYt+sy3+OpC8MKAWZgXj39309ORinlMoVb4hfAl5tN0LqidZpwZnR86+NTd0Q8F2esZb3/pJsBAtuF7eiTjhXDwhkWnORx0Ia0QCIgDaY5jiDvdAvXa0YdHMaoDoyckvWd7KkZ6iBr8zbsbhR0wDjmdSYpNipjWeGw9QYSmKWouN680lt1w3mfviUbZhbBd3rPgNNvwtD995eSRbuZo7di5xVxn7Ol6P3fGaHtnAD0dtuasoA/ehmyc0F6owPm4TgWSLc3aciwkp/b4bryICxnBpgUjaLERZzvrJ4l2glKrkMbVOeBG6OU0PD9I3A36T1+i0UuuO+unWOh0fqAuaPBuXJFOvCPiVdRt96z7RAYdI8EXkWd17XnbH7b+LCw6Du6N+UgSKxJjnRvSPoggZuGSsGW4aqsVmpjKTU676w08e8/PQyX2JP7apf6msrG2Yrvs17EWlyq7J3lJBYReVKUadeTy9sP6P+Flf8zAgdHtSF2ty6kmvCUpbs2pN2dgIllb6O1rQLjeF8qEWYtWkkTusmIhOGvCNOX+NmRKpeEUeVPMFNPGcga9Rc88iuEJSuX8OW5CVK3UkDFm8v9sjwhx/F5v5Ff0O0qXZIofIP9JsVQI2ulotPFW4EWT6yVmFd2w8vk8JicmxYylNI1SdgMnmIsGZBP+0yWmhvmfYfkfmBoWiE7Fwm9UXlX+P6kJf+M7/Pg18dM3RuBSlaA1pvmoYA1dh7wPXsotsCbV3PuN6SFX+p/7+9CSSoDQbi/PgX8vAkyIRvn1QmgNMTjITubDb6TIGsbvlBkCRPnLv57A72fNYTJqgsKKUrEt+L0539qRmwNFp8rpwviupAB5WCxQ5EnJhE/IKJKDXuKq3H2Whv9nHCPL6BS+QGcWzdcxQiy+BlWmpdJrcEf3z7D7S0SNB/np3fa4dnrG8lSBiuERds0zQeGGtCLJgt/nHvd3hZVDsM6Nt7q0DgUdvdCe0F32A1qyKp0rM5t6NVfgVdN4poF4pKR5ovCBwZFXMFamFgyZ1fhUe+N9nfNR+yADI9vHGFL9x3JGFs7LPeebVwQg8pDn+8cWVTYrAkAIxn5PUc9Fwy/PT2UL38Dd8Hk3BD8oTlDNnnEl4QfwszawOmkYyhBrkQ5qkbaXE0teximne7AAahjLGMC3zD/OMR2ySKnwT02kHNleY4/LVtWcVZa1w33Pmv2gZsnHlXijhzhOCa9IeagGcbh4qwsfz1dYQswFzGEyMUuUmKc9qYcs1gMpLz3q9QmYTue1ymJXldUCBb325myUOZa55xMU28Ms0fnQ1/iZKhv80K6TzWqs4TuiQXVHT8swIVVklgu6kN5azz/Pf5LLrYJrSmLGHRrw+b1i7y55L3rzCsTFWnY4h2XmrRL3ezwuyBtUdKU7G2AWBZULzzcIYrGSzP97BnThpkv2sD1AnZiJVYX+Jj9tcocWO5u+sxLZy0P/Xusfip1Gt4/45XHaAnXCl4YVeY/YS7mrCAEQLzQMtEBZS/v07SZiN+rjFy0ngyvQbFHAjqt2gs1zr5XklZXceRQZoTPEXlwZnrESgfbD6Z1ozGhEhQViDjUZOJTnR7Fp/Kw+0u7SsTh86oibx1sr4kCwymjJ3A0jFzawHFDl4q0KrXKu/0CA0dJqONkT2rsnm9gr1HBWXT2tog6msxJwlj5Vnffg+UnrW3ufvwjKAetZ8q7bQzhMwZB3u/ILcglleMfli7bQpKw5/bI+7s4IQttaAKh65bbFOYEzPxAGR5D89QoGEvYsbP2oLBk1jNHlwG69OqC4pFOge879nOy1lrxGIpIeTriayOQu6MOvGHKbDkZ37GtZS8YM6Yw+AO7Ls37SlH1+yBsJpD9nBxevjr3V+fC/ZKDfUy1rH5Ix+1qiqZBJj7n8P0TZn1Bpq0ChuYOc8FKBSKUra+51c5lhLRS3NSvfK2Kh+le0g33aC6leGa1Gq/80TRS/nTDRm37PSFVhMLD+TYFwqOUmjCTcCapP5eKs0ToIukxUrsOGnxYpIb1FtH2XBSgZwdvW5qaq5Ewc+rs+sX1lyqzOeaRVLqahECB1F0rtqfBsce8+Xx7rB8YvyL040Kv46f5lKWqxJ5LARrSLEm2PsraB0GvZZt0NK0ItzGHI/Ge9a3rK5RoOQT2r1MvphNND5cJFTgn7zdbOwZgWIhsK396p2KFIjz8NwcFplzINPhGcjCfi3+uaxn9sjHd+i4jWsHfTP+wzIMsdl5d3Gh0pC94QRDrrw+ljl7QwwMUuRhyzKx3RzyqA4qdzZyG/NbVaKXWoLwJzDYJGZ1fe7weJTyQVtnlbb8PTalQYb3MVhO689oIOaMZDnAZF1AjryWko/Rx1frlvjyv0jBHVDfPNoJXgTA4ZBcm1LJB9oIrA5+IIu4+j9G981ZpAAAxWjWKgdgaaBYNGl2fdHdJ5JW6ifi8OkSCB1BZbYELNewtUbclhqtY5PvDYSshjJ044cfBxSzC2Sj6xAy6lEZoDxfe3dCI1D9ZxGGS99M4Hd+/S5131AabOORhelzXbxvo+I7KaOANF1sSDBSQPu5Nyr5EycBfhKG9yyJjZGhJpRF1XrWpcHuH6HzWuGQi0SCjScCTV675BrpzHb+TzpUiRDoYai1+z9MjlfiGgxdr4j7Ga9qPVrEAZxNCCGA775FnTpxl45xi74alp2mv4/1lb8+MS8fxNzjweMD+BXQYgyauiQTLSPRuYEMMaG2ut8aaBaIDzQ3+ERHswJr3+GgkLcJ2+YmqEkS7mkrDGWl0XNuNZiiJLCjjU9Jxj/j6mU3NKFUVAGAbeWrfy6qhYahzfbOmw4qXJgZTynQpiDIL0JKC5bfPFC7VjdRMndOsC8f3Q6Js/qrgRV1KteBOJz1vFs7LpApt4hie+9cwCntIKDvZAw47s08ml0D9rWwAkks1Pkp3mqbDttjcL3bLbIyeuJrwktRBEblOD3nHTcTQvjSBeFng6XkPYDn9K4Kpajqw7HMHlCKbX4cFVPxrPBjEEs5ZQ+VwvnIkyDnSKa+OsC2VYPu+1pRCQ6UkUapOVRLrFNJ4j3H8UpX+PEJSVOwnpxedUAAzk/iDVvDoOMwnkR6gf47ljnhi8Qc3QFX+3ntarKCdVyyF/cum7NxvzfdCtrGbb+FGevU2GPXJBdAlupPCdn/A2KP4OgeK1A7b7mNxRKrj4cjmtG2j1joNe7ZR9krQ5tuyvNc/yWflU2kk51fc2BP6O+V7RV/hAqVp4j4YUrri4702Q51AI2Te2JV+SLujlshUTBUKayRmiP7o/5JvkbdA3ib8u35YPvQr1ARdb79/oIkUnp+7FW6OyViUTWqrgbXJgrZoevinWkPP3CFGL4V30FpYjDAX/GpEou3DsJdykHvSAwGGZ8/CSBVDaP+0Wf28eUkJ0gm2NhGJ5KqdrJu0o+Se1rrsnjCb0roLJ1k71fDWQpDLGHJXbZT50mvgRprDpCXHMvY2JyVDGZdMXGyQ/QYZt/msS+fQTGl8iMg+KeDc88H0ILX7ytI9vq4j4QuHqXW5i8Up9x/lKV52Uu4i1bkT/Vn0g2tbbk2g/WPRlgo0v/cU+jEw2A7P5KO4S1yu+9YZAUc2hsR+yrhVkZxiYJEOWVxBYl3UUrTaneHS27cT2xTs8UEZ/jxENaK6oE5Q3gfVTFvU8e+Hnbl9dvRZ62zwFLY54rzm2G7ZABAh6g4MxD4RfM8wh+3v7hG+QGsTI+ILU7AaEtUe7Xd8TmMa1NLxhbwsupLSOtwmRZST9c1Jch+ApqgUtX8jbl7/kvhxfvjMdxHLdo6oYLbrNCNDt/7Nv+7VQmSpNx2HDeMpt1WvxdnRwr8g6js0/zFxxZ44J+ioOEZBhXG0Mo9YStl9/hZmy25Qv3Lhl9fqqzCEzYg1vPPr8XE9Fec1T/z2kp2P+ObOek9SuFbpSjT4n6aOx9KKk5LpijS0xLj8DjujwqdBQXZzKdwgjh4j4w/H8DwbuCgoR1y2c/Yr2JAEK7Sh41nyYmUeVmpjinDsy9vZFciZQ0IDjgAnG1aRds0Ob9mbWGU78iVv+rZ5WsqIFt628hAcB2RKdEi7NhpvJLDibo8p4OeQobQxeUYrV5/YyjiHD0uWL+wHPNqDA04blg1K3bRKMw3D7ZaCxuALI76aP5ojqSQxXiM/MiQAxTorMm9r1JJwOtsbTzWaJqzfViMwI7kpgF4rE16V7IcGJyiJkHYeQxdm4B4r2XD3xKU7t5zVnahT6itBAcIzGiQFFJXuMQrV4PpN/WPbyFdAfhVGFB/Omj09dwcEa5XczezrJobr+kQUgjudOMtaRMc749kJ/b5tpiMTQnOoYDsre+HuoE4f77eBq0JCpX5uU/VluyNejgT9mdGHEAcHxBS1V03dbpd7UtXtd7upSVvgj/KdyRI7JjP/GOFdsvkArVuyepZcxXTNrQhC74Y8KE1/cg9UrEHRNDgtlnyfh4RYJWv3mDBs2sirGzdFnPVvP4X/QHRzVzfPGI7tD/WUj18WbKevIhP/On3JNTDkfLzz+GB3xI5+SYXHZCJUvwADRdgsHfLFYU5vETit4gEfUTpWOrp1NcHHW+sniQtofjRSDrvDXhMy1Dv1dUogdHUHcFeOjgDqBLzBDPY4eJ/+MUMGcnU88REKZJla8WApnTUf4mRs/EY7M2WE3OXG+E3raONbA+qqWNy4tg/0wp8npxpoWnfvKpayRecj/fOM3ls4KcQ3gpDeO6Me2DQ1s2vtdaT0o/y7IthfBOut8kJ6EYu7QskrcyyN/RyyCq0MJH+R57Bd03rZH1wzMlVyvi2tlxooTJ4ejmFaf31s1YgSd9o+5M7PmafqyOSWD0loCAwWVKEwsbWb0unQIMlG/GJhwCcY3lIFV657gJ2gSpGfDZRYgFYQNt7XcfsSiB/+jQO8Hh5ciMhosFEdi8po5VCbYa8JxVIGugIGlKIcujd8+3Lkm0zC9KFw5Vag4ZfCJY6gIuG+Pq4+ceLgelNbd3dz8DVwWT03WmakpC6ss5DGU/5apbZ2SZSVjvMmmYHSuC5n0H0cXz8AYLxt5IN3ouGjUEOBqT3isQMhnnwXKo4eOibR6KVndKBmLpiftCZ3sFKIoNx9is76fqdxXyJO/Z+ftYzdbmn6oEYnpqhs4GWgs4o0j3au6hLLMCfTqKS1Oy+5xZjpkYxvTgkcOvKKaN0kzBXbHQRsXp3eL0jesK1upIXfmy6D8qjwkQ8gmeMItco4XFnt1EcRN/IdpUav/ej6U19+3K+ZnXT9MUPmf6jFPE7lYrolSi4hj5Eon1qnUixHewWPuiv/kVMu79EPfmq5kjKedRinMTGOD28/vRG2Vm3bgAvCNBFOIikAL/tx3zu8wsgeRZefPLfhgVDSimElV3OZQ9LN4S0wGjX9L+DJIQFBA/KcBR9biXi3/MdDyA1RlVZFW8Icm9uiVD+Rfvdt6MiYKFLzkMNYv0LT63bdR43Bi9B+QMahSICbsU5iDxWeS/uPadOO1hVhwTy3qig8VSgwGD6heHZxKxW5yflA3jl0DcHOdF1ElOte3pYFWoMLTbOxgEEb1NfAJHXf935MYM8dLXEICz4gS3bAZa/avM9umbEuFkjaFTJGwbOI/7R+6LFP396wwpG7eSt2exPBqCVbQbFPFD4Mh5vELxVRPwIBpW8HIJ3Bb7c361CXmqks5zq/pYkCKaxa81SM1j8B14AXAueFZi2Ev6Rw4Zhw9VY08C7FcK7wiImLN+OpQOHjp7QLSGKc1SjhxqneBj0ot5BoNX6Y6QOY13FlzFGoVf+rRlyLKrJPDb/4uSdMS6Ra6YpT460QrrLw0oyf9Ydf7pmGkd6SXArUJzri8dyf8LwKu2Z4dhNeZpWaG5fqERC15f5a5mGkLJVelHU0xV7YZQdGimu/QGq7esidCfI6fyXwP/07g0TLkItH83pZP0F5Wih6ny+t7fjmq3kkgspf3fkjE/Y6DeUe2H3S7Rtd4+nA+H3RI88kfVqVln8hw6kFCyHXh5OgA3p6jQoRUvBkFHDvFRbyOzZiHhIG5iLHbtQV4ZyGaRtdgMxFfUTutxXYfLNNcWIfCt0Iu0AFy6c8s9mnxdwk2iqA5GOkizHQh1pxfZq3i4ZfPWQ8H9qMd6NTMvx7xsi6nl/mJ+1gq5wa514yctuXz/uxOKW57nPSvHhBevgziXJDthi2R2Setj33G111DAmaYneRSn2rZeEcp+O3NVcOaU+VFcf2UJ5cddnZEMZkuB4pVMaiz6PT4IgMcnaSg4h9rQeyCdHOFG9/40+/PdVd2ArScREfVQzAFDGTAvDtzLJxilI9u+V6pjukn2WqSKY33vYeaGXplLuWrDc8pK7Je/FTTCNSry5IzrxLSOF+QdAHUUSjWUWf6Z1OrCw1n3D3vG89FZ62teqjudlZ0s7MhYQ28+8uCZmXkxzE4RxaubvIwNVuhrPuRPmVTLBQsbRCdRAQhMAa9GBwlUtBw3Q/mx80SmvC491bh5CRfmiOgZbHSDfErLAIsCULi6etjGL5riv9FgffhZYUgJIRBFcHXhtDF/9NiYvOrzMLKGOuOhlc2hZcfT72a67OQPOHcX8w3wSq7NqclesvfnclZs4LrrlnnZtnnogcEBQkkuegB4O8K8yLgro6EQjdB1xwC6dLUsx12yddSHcweK8S3wuBrU6HnbjS51Yea9uM1tMKuDgLYuAx9c/SEPmlc5tIdqJCrqEa5iy56j+kte1T754JkkE+mxV6vh6d7hzkQnWGj1eLTcfn6FOpCD5ujbTeqX7uNHIit7Tqr9njh58DgQOWOutm8RIBO5n208l0sP4NI1vHYPgtsg9HBXskO5XgZFAKcB3nrVdtM4zLon7gHitalExhQUWfHsHvZmVu4upQb/GVqGsMCFEPQDm3vZMJXyP3KuOZQfwCzdUX687zJRAJNkP8Kf1yqRTCa5G/IDKhP+43eTVJG9o//+LqENN5kCAVU7Ydy+nhUv4LlDqZlHjpIUwEbP20+tFJWHzW7qGUrufWz7LEtrBhLKotYsqfukcDg2CsO8kWCqQZ9GlTqL+JWd6eRDsH+u7hJSMJfIGS5QDRInSHkprVXC53Y8pbHpfKIcP1olZwcF5NG26HXvh5C9vIxnCAT5de7vcdKtxD61KhJGyKSQcwXQevvdrQi36YMkAO03A+cdTIJXDXk82bKX94mKNaQIy8HzJ4aX1tbE4kkZw+CbkZFndMHxg2agNA5u6jd8CSqu4fxFyNPLT+F9snmxcPN6pRq/SCw5WQiv8bVg/SLkJ6fQe3tBua74+rlhJjVDKfb2k60Bsq6yNM207BWTLtZupA/kSAjmspe+S47XPmwKPv1xkAsW0HgbsqCTb27Q97I70Gf+G9S3rcTX8JgDJMYX9/j5ea2iZtqNHX+6/osR9ULyGzVCfWncx8vaPrdpgdgopx+N2hAm0RdzAKhvEI9RPCJ9SnCFbGLiFmAwB/PkHRgdSDcu32tMlxnwzK1T0RctPkcCjWnDXgco9Qjb1GUiQIuvLMgnE7omHUgNuBff0JCxtu76YiB8dVwMyOCCef/VQp9Y+UCk/5thSoqauhWBK/zrmvEpczwbNuuxNIMqtW6HREHnWO1wjMzzyCsLD3KZEGm+Bu97IO9/RaArqgKItmtiDWqkyr9aXDlUCARIciTRhLnEfm2l7T1Np2+AsZWbn2Atn5PTSyATX2ehpIleDRRI3l/XtXUABa0PsueXBpi6ddQMREZ8oXamP9l/FpqPowlVTt5zsZK+Wy+/Qc6e5tueCHjE/gMX4DKw2oAHXFu5lFX4hazM8uJVGzA0G/b9D+IH+ggUrKvrl0VEwUHtkzsw/sJ2Nq1YF5TUMjfCXXPw7H9jVKm+vYPu/nBsWLH" />
+
+
+<script src="/ScriptResource.axd?d=YwOa_0w_u3oCLFqmIIOf-XEz4GWZ1DuyQIpxIA4LVkywj39sZSps12NbK5wNl5XN9JF3m7d-ey7BFDgj6i0380qRQ5IMWCL54sYNVU1IjMmiOWpp0&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/PressReleasePage.aspx?_TSM_HiddenField_=sc_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.7.123%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a5a4df314-b4a2-4da2-a207-9284f1b1e96c%3ade1feab2%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3aa67c2700%3aab09e3fe%3a87104b7c%3a8613aea7%3a3202a5a2%3abe6fb298" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59B53027" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="OWjZMmAsi9Gz708KSiqTwUfbPmr3CRb1RY6BmcvkhnwUrnZV/azH4Q+tyxnkvrnm6lGrkpTOCJqw07C1OECXFWPKyREeG1zdFqAXsA8e6+AY7dtZ/CRmg+1qRW+Q2ysiq/Iqun61RynhlD4HxW/oZ74O+rByVPHwSxzB5fhOJGBxR2TqVkgD6PsF9J3nPJiteS+X1jp6NNAvv7gytB/BVnHTIeuTD2+YNTBXOsho2M3B5sIvu8h2irJo/Qu6/j5vYYlXu8lnUGurz7i+IqkSYXIBhIxUv39to7R7hNC5cm5gpHLc" />
+                              
+            <div id="templateCss"></div>
+            
+            <input type="hidden" name="hfGridHtml" id="hfGridHtml" />
+            <div class="container" style='margin-bottom: 50px;'>
+                  <div id="accessories">
+
+                        
+                        <div class="pull-right" style="display: flex">
+                              <div id="voll"></div>
+                              <div id="vollDT"></div>
+                              
+                              
+<div class="print-icons">
+<input type="image" name="Print1$print" id="Print1_print" aria-label="Print" src="images/printer_icon.png" alt="print page button" style="padding: 5px 10px 5px 10px;" />
+</div>
+                        </div>
+                  </div>
+                  <input type="hidden" name="hydpermid" id="hydpermid" value="1481895" />
+                  
+
+
+
+                  <div class="innner-page-main-about-us-content-right-part">
+
+                        <div id="MinistryName" class="MinistryNameSubhead text-center">
+                              Ministry of Road Transport & Highways
+                        </div>
+                        
+                        <div id="lg_g">
+                        </div>
+
+
+
+
+
+                        <div class="text-center event-heading-background">
+                              
+                              <h2 id="Titleh2">
+                                    Char Dham Highway Project 
+                              </h2>
+                              <h3 id="Subtitleh3">
+                                    <span id="ltrSubtitle"></span>
+                              </h3>
+                        </div>
+
+                        <div id="PrDateTime" class="ReleaseDateSubHeaddateTime text-center pt20">
+                              Posted On:
+                06 FEB 2017 7:31PM by PIB Delhi
+                        </div>
+                        
+                        <div class='pt20'>
+                        </div>
+                        <input type="hidden" name="hydphotoUrl" id="hydphotoUrl" />
+                        
+                        <p>&nbsp;The Government has decided to upgrade highway connectivity to two lane with paved shoulders to Chardham through old National Highways no. 58, 94, 108 &amp; 109 from Rishikesh to Kedarnath, Badrinath, Gangotri &amp; Yamunotri and Tanakpur -Pithoragarh section of &nbsp;National Highways no. &nbsp;125 at an estimated cost of about Rs. 11700 Crore including the cost of land acquisition and pre-construction activities targeted for completion by 2020. This also has provision for landslide mitigation at Kaliasaur ,Sonprayag, Maithana, Govindghat, Birahi,etc alongwith paved shoulders and other road safety measures, which will provide all weather road connectivity for pilgrims and for movement of defence forces.</p>
+<div>&nbsp;</div>
+<div>This information was given by the Minister of State for Road Transport and Highways Shri Munsukh L. Mandaviya in written reply to a question in Rajya Sabha today.&nbsp;</div>
+<div>&nbsp;</div>
+<div align="center">&hellip;</div>
+<div align="center">&nbsp;</div>
+<div>UM/NP/MS</div>
+
+                        
+                        <div id="reel_pic">
+                        </div>
+
+
+
+                        
+                        <br />
+                        <span id="ReleaseId">(Release ID: 1481895)</span>
+                        <span id="lblViews">Visitor Counter : 217</span>
+                        <div>
+                              
+                        </div>
+                        
+
+                        <span id="lblRefPhoto"></span>
+
+                        <div class="BackgroundRelease">
+                              
+                        </div>
+                        <div>
+                              
+                        </div>
+                        
+                        
+                        
+
+                        <div class="RelTag">
+                              <ul>
+                                    
+                              </ul>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div id="RelLink" class="RelLink">
+                              <ul>
+                                    
+                                    
+                              </ul>
+                        </div>
+                        <center>
+                              
+                        </center>
+                  </div>
+
+                  <div id="update12">
+	
+                              
+                              <input type="hidden" name="Hidden" id="Hidden" />
+                              <div id="P_CategoryManagement" class="ModalWindow" style="display: none">
+		
+                                    <div>
+                                          <input type="image" name="btnClose" id="btnClose" src="images/close_flat_icon.png" />
+                                    </div>
+                                    <div id="description">
+                                    </div>
+                                    <div class="text-center">
+                                          <h2>
+                                                
+                                                <br>
+                                                
+                                          </h2>
+                                    </div>
+                                    <br />
+                                    <div class="clear">
+                                    </div>
+                                    
+                              
+	</div>
+                        
+</div>
+            </div>
+            
+            <div id="PdfDiv" style="display: none;">
+                  <table width="100%">
+                        <tr>
+                              <td style="font-weight: 200; text-align: center">
+                                    Ministry of Road Transport & Highways
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          Char Dham Highway Project 
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="text-align: center; font-size: 14px;">
+                                          Posted On:
+                        06 FEB 2017 7:31PM by PIB Delhi
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: left; font-size: 16px;">
+                                          <p>&nbsp;The Government has decided to upgrade highway connectivity to two lane with paved shoulders to Chardham through old National Highways no. 58, 94, 108 &amp; 109 from Rishikesh to Kedarnath, Badrinath, Gangotri &amp; Yamunotri and Tanakpur -Pithoragarh section of &nbsp;National Highways no. &nbsp;125 at an estimated cost of about Rs. 11700 Crore including the cost of land acquisition and pre-construction activities targeted for completion by 2020. This also has provision for landslide mitigation at Kaliasaur ,Sonprayag, Maithana, Govindghat, Birahi,etc alongwith paved shoulders and other road safety measures, which will provide all weather road connectivity for pilgrims and for movement of defence forces.</p>
+<div>&nbsp;</div>
+<div>This information was given by the Minister of State for Road Transport and Highways Shri Munsukh L. Mandaviya in written reply to a question in Rajya Sabha today.&nbsp;</div>
+<div>&nbsp;</div>
+<div align="center">&hellip;</div>
+<div align="center">&nbsp;</div>
+<div>UM/NP/MS</div>
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 100; text-align: left; font-size: 16px;">
+                                          (Release ID: 1481895)
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                              </td>
+                        </tr>
+                        <tr>
+                              <td style="font-weight: 200; text-align: center; font-size: 24px;"></td>
+                        </tr>
+                  </table>
+            </div>
+            <div class="clearfix">
+            </div>
+
+            
+
+            <div class="section1">
+                  <div id="frst_t">
+                        <div id="arr_rm"><div class='sticky-social_mb'><ul class='social_mb'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=1481895' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='40' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=1481895&text=Char Dham Highway Project ' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='40' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=1481895' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='40' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Char Dham Highway Project &body=https://pib.gov.in/PressReleasePage.aspx?PRID=1481895&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='40' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=1481895&title=Char Dham Highway Project &summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='40' /></li></a></ul></div></div>
+                  </div>
+                  <div id="second_t">
+                        <div id="sndr_rm"><div class='sticky-social'><ul class='social'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=1481895' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='35' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=1481895&text=Char Dham Highway Project ' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='35' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=1481895' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='35' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Char Dham Highway Project &body=https://pib.gov.in/PressReleasePage.aspx?PRID=1481895&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='35' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=1481895&title=Char Dham Highway Project &summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='35' /></li></a></ul></div></div>
+                  </div>
+            </div>
+            <input type="hidden" name="ltrTitlee" id="ltrTitlee" value="Char Dham Highway Project " />
+            <input type="hidden" name="ltrSubtitlee" id="ltrSubtitlee" />
+            <input type="hidden" name="ltrDescriptionn" id="ltrDescriptionn" value="&lt;p>&amp;nbsp;The Government has decided to upgrade highway connectivity to two lane with paved shoulders to Chardham through old National Highways no. 58, 94, 108 &amp;amp; 109 from Rishikesh to Kedarnath, Badrinath, Gangotri &amp;amp; Yamunotri and Tanakpur -Pithoragarh section of &amp;nbsp;National Highways no. &amp;nbsp;125 at an estimated cost of about Rs. 11700 Crore including the cost of land acquisition and pre-construction activities targeted for completion by 2020. This also has provision for landslide mitigation at Kaliasaur ,Sonprayag, Maithana, Govindghat, Birahi,etc alongwith paved shoulders and other road safety measures, which will provide all weather road connectivity for pilgrims and for movement of defence forces.&lt;/p>
+&lt;div>&amp;nbsp;&lt;/div>
+&lt;div>This information was given by the Minister of State for Road Transport and Highways Shri Munsukh L. Mandaviya in written reply to a question in Rajya Sabha today.&amp;nbsp;&lt;/div>
+&lt;div>&amp;nbsp;&lt;/div>
+&lt;div align=&quot;center&quot;>&amp;hellip;&lt;/div>
+&lt;div align=&quot;center&quot;>&amp;nbsp;&lt;/div>
+&lt;div>UM/NP/MS&lt;/div>" />
+            <script type="text/javascript">
+                  var mPlayer = document.getElementById("background_music");
+                  var mPlayAction = document.getElementById("playbutton");
+
+                  var isPlaying = false;
+
+                  function playAudio() {
+                        mPlayer.play();
+                        isPlaying = true;
+                        document.getElementById('stopA').style.display = "block";
+                        document.getElementById('playA').style.display = "none";
+                  }
+
+                  function pauseAudio() {
+                        mPlayer.pause();
+                        isPlaying = false;
+                        document.getElementById('playA').style.display = "block";
+                        document.getElementById('stopA').style.display = "none";
+                  }
+                  //function HandleAudio() {
+                  //    if (isPlaying == true) {
+                  //        //Playing already Pause it
+                  //        pauseAudio();
+                  //    } else {
+                  //        //Play the music
+                  //        playAudio();
+                  //    }
+                  //}
+            </script>
+            <script type="text/javascript">
+                  var synth = window.speechSynthesis;
+
+            
+                  function CleanHtml(html) {
+
+                        html = html.replace(/<script[\s\S]*?<\/script>/gi, '');
+
+                        return html;
+                  }
+                  function stripHtml(html) {
+                        let tmp = document.createElement("DIV");
+                        tmp.innerHTML = CleanHtml(html);
+                        return tmp.textContent || tmp.innerText || "";
+                  }
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        //for responsive tables
+                        $("table").each(function () {
+                              if (!$(this).closest(".table-responsive").length) {
+                                    $(this).wrap("<div class='table-responsive'></div>");
+                              }
+                        });
+
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            
+            <style type="text/css">
+                  @media print {
+                        .sticky-social, .sticky-social_mb, .pull-right, #printPDF {
+                              display: none !important;
+                        }
+                  }
+
+                  .f_vl {
+                        padding-right: 30px;
+                        font-size: 17px;
+                        cursor: pointer;
+                  }
+
+                  .log_oo {
+                        // width: 20%;
+                        display: flex;
+                        justify-content: space-between;
+                  }
+
+                        .log_oo img {
+                              width: 150px;
+                              /*width: 100%;
+                    height: auto;*/
+                        }
+
+                  .sticky-social_mb {
+                        position: fixed;
+                        bottom: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                        width: 100%;
+                  }
+
+                  .social_mb {
+                        list-style: none;
+                        display: flex;
+                        width: 100%;
+                        margin-bottom: -8px;
+                  }
+
+                        .social_mb a {
+                              padding: 8px 0px;
+                              font-size: 30px;
+                              transition: all 0.8s ease-in-out;
+                              width: 20% !important;
+                              text-align: center;
+                        }
+            </style>
+            <style type="text/css">
+                  .section1 {
+                        position: relative;
+                        padding: 10px 0px;
+                        width: 100%;
+                  }
+
+
+
+                  .sticky-social {
+                        position: fixed;
+                        top: 20px;
+                        left: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                  }
+
+                  .social {
+                        list-style: none;
+                  }
+
+                        .social a li {
+                              padding: 8px 12px;
+                              font-size: 25px;
+                              transition: all 0.8s ease-in-out;
+                        }
+
+                              .social a li:hover {
+                                    margin-right: -30px;
+                                    box-shadow: 2px 5px 10px grey;
+                              }
+
+                                    .social a li:hover .fa {
+                                          margin-left: 20px;
+                                    }
+
+                  .fb_b {
+                        /* background-color: rgb(59, 89, 152);*/
+                        background-color: rgba(65,103,178,255);
+                  }
+
+                  .twitter_r {
+                        /* background-color: rgb(29, 161, 242);*/
+                        background-color: #000000;
+                  }
+
+                  .whatsapp_r {
+                        /* background-color: rgb(77, 194, 71);*/
+                        background-color: rgba(13,191,67,255);
+                  }
+
+                  .fa-envelope_r {
+                        /* background-color: rgb(219, 68, 55);*/
+                        background-color: #e2123d;
+                  }
+
+                  .fa-linkedin_r {
+                        background-color: rgb(0, 119, 181);
+                  }
+            </style>
+            <style type="text/css">
+                  @media only screen and (max-device-width: 767px) {
+                        p span img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        p img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        h2 {
+                              font-size: 20px !important;
+                              font-weight: 600 !important;
+                        }
+
+                        h3 {
+                              font-size: 18px !important;
+                              font-weight: 600 !important;
+                        }
+                  }
+            </style>
+            <style type="text/css">
+                  /* === Film Roll Badge Styling(IFFI2025 countdown) === */
+                  .film-roll-badge {
+                        position: absolute;
+                        top:82%;
+                        right: 20px;
+                        width: 230px;
+                        height: 70px;
+                        background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 18px, #6e2b8b 18px, #6e2b8b 36px );
+                        border-top: 8px solid #9a2375;
+                        border-bottom: 8px solid #9a2375;
+                        border-radius: 8px;
+                        overflow: hidden;
+                        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+                        animation: moveFilm 8s linear infinite;
+                        z-index: 10;
+                  }
+
+                        /* film sprocket holes */
+                        .film-roll-badge::before,
+                        .film-roll-badge::after {
+                              content: "";
+                              position: absolute;
+                              width: 100%;
+                              height: 10px;
+                              background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 10px, #fff 10px, #fff 20px );
+                              left: 0;
+                              z-index: 2;
+                        }
+
+                        .film-roll-badge::before {
+                              top: -4px;
+                        }
+
+                        .film-roll-badge::after {
+                              bottom: -4px;
+                        }
+
+                  .film-roll-inner {
+                        position: relative;
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        animation: flicker 2s infinite ease-in-out;
+                  }
+
+                  .countdown-text {
+                        font-size: 1.3rem;
+                        font-weight: 700;
+                        color: #fff;
+                        text-shadow: 0 0 6px rgba(255, 255, 255, 0.4), 0 0 10px #000;
+                        white-space: nowrap;
+                  }
+
+                  /* === Animations === */
+                  @keyframes moveFilm {
+                        0% {
+                              background-position: 0 0;
+                        }
+
+                        100% {
+                              background-position: 120px 0;
+                        }
+                  }
+
+                  @keyframes flicker {
+                        0%, 100% {
+                              opacity: 1;
+                        }
+
+                        50% {
+                              opacity: 0.9;
+                        }
+
+                        25% {
+                              opacity: 0.95;
+                        }
+
+                        75% {
+                              opacity: 0.85;
+                        }
+                  }
+
+                  /* === Responsive Adjustments === */
+                  @media (max-width: 1500px) {
+                        .film-roll-badge {
+                              top: 68%;
+                              right: 18px;
+                              /* width: 220px; */
+                              height: 65px;
+                              font-size: 0.85rem;
+                        }
+
+                        .press-section {
+                              margin-top: 35px;
+                        }
+                  }
+
+                  @media (max-width: 992px) {
+                        .film-roll-badge {
+                              top: 52%;
+                              right: 10px;
+                               width: 200px; 
+                              height: 60px;
+                        }
+                  }
+
+                  @media (max-width: 768px) {
+                        .film-roll-badge {
+                              top: 56%;
+                              right: 10px;
+                               width: 124px; 
+                              height: 55px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.9rem;
+                        }
+                  }
+
+                  @media (max-width: 576px) {
+                        .film-roll-badge {
+                              top: 59%;
+                              right: 5px;
+                              /* width: 160px; */
+                              height: 50px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.85rem;
+                        }
+                  }
+            </style>
+          <script type="text/javascript">
+                const festivalStart = new Date("2025-11-20T00:00:00").getTime();
+                const festivalEnd = new Date("2025-11-28T23:59:59").getTime();
+
+                const countdownElement = document.getElementById("countdown");
+
+                const interval = setInterval(() => {
+                      const now = new Date().getTime();
+
+                      // BEFORE FESTIVAL — show days + hours left
+                      if (now < festivalStart) {
+                            const diff = festivalStart - now;
+                            const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                            const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+                            countdownElement.innerHTML = `
+              ${days} Day${days !== 1 ? 's' : ''} 
+              ${hours} Hour${hours !== 1 ? 's' : ''} to go
+          `;
+
+                      }
+
+                      // DURING FESTIVAL — show 56th IFFI - Day X
+                      else if (now >= festivalStart && now <= festivalEnd) {
+                            const dayNumber = Math.floor((now - festivalStart) / (1000 * 60 * 60 * 24)) + 1;
+                            countdownElement.innerHTML = `56th IFFI - Day ${dayNumber}`;
+                      }
+
+                      // AFTER FESTIVAL — new message
+                      else {
+                            countdownElement.innerHTML = `✨ IFFI closes but never ends…`;
+
+                            // Width change logic
+                            const elements = document.querySelectorAll('.film-roll-badge');
+                            elements.forEach(el => el.style.width = "350px");
+
+                            clearInterval(interval);
+                      }
+
+                }, 1000);
+          </script>
+ <script type="text/javascript">
+
+               const miffStart = new Date("2026-06-15T00:00:00").getTime();
+               const miffEnd = new Date("2026-06-15T23:59:59").getTime();
+
+               const miffElement = document.getElementById("miff");
+
+               if (miffElement) {
+
+                   const miffInterval = setInterval(() => {
+
+                       const now = new Date().getTime();
+
+                       // Before MIFF
+                       if (now < miffStart) {
+
+                           const diff = miffStart - now;
+                           const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                           const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+        
+
+                   /*  miffElement.innerHTML = `${days} Day${days !== 1 ? 's' : ''} ${hours} Hour${hours !== 1 ? 's' : ''} to MIFF`;*/
+                           miffElement.innerHTML = `${days} Day${days === 1 ? '' : 's'} to MIFF ...`;
+
+
+                     }
+
+                       // During MIFF
+                       else if (now >= miffStart && now <= miffEnd) {
+
+                           const dayNumber =
+                               Math.floor((now - miffStart) / (1000 * 60 * 60 * 24)) + 1;
+
+                           miffElement.innerHTML = `19th MIFF - Day ${dayNumber}`;
+                       }
+
+                       // After MIFF
+                       else {
+
+                           miffElement.innerHTML = `✨ MIFF concludes, cinema lives on...`;
+
+                           document.querySelectorAll('.film-roll-badge')
+                               .forEach(el => el.style.width = "350px");
+
+                           clearInterval(miffInterval);
+                       }
+
+                   }, 1000);
+               }
+
+</script>
+
+      
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("sc_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"P_CategoryManagement","dynamicServicePath":"/PressReleasePage.aspx","id":"mpe"}, null, null, $get("Hidden"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
+

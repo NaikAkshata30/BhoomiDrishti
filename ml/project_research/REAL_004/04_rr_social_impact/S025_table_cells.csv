@@ -1,0 +1,34 @@
+﻿source_id,source_sha256,page,table,row,column,value_original,reference,verification_status
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,1,1,PHASE I,PDF page 15; detected table 1; row 1; column 1,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,1,2,CORRIDOR,PDF page 15; detected table 1; row 1; column 2,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,1,3,LENGTH,PDF page 15; detected table 1; row 1; column 3,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,1,5,"PERIOD FOR
+IMPLEMENTATION",PDF page 15; detected table 1; row 1; column 5,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,2,3,"as per
+Master Plan",PDF page 15; detected table 1; row 2; column 3,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,2,4,"as per
+amendment",PDF page 15; detected table 1; row 2; column 4,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,3,2,Versova-Andheri-Ghatkopar,PDF page 15; detected table 1; row 3; column 2,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,3,3,67.27,PDF page 15; detected table 1; row 3; column 3,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,3,4,79.36 km,PDF page 15; detected table 1; row 3; column 4,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,3,5,2005-2011,PDF page 15; detected table 1; row 3; column 5,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,4,2,Charkop-Bandra-Mankurd,PDF page 15; detected table 1; row 4; column 2,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,5,2,Colaba-Bandra,PDF page 15; detected table 1; row 5; column 2,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,6,1,PHASE II,PDF page 15; detected table 1; row 6; column 1,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,6,2,Charkop-Dahisar (East),PDF page 15; detected table 1; row 6; column 2,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,6,3,19.90,PDF page 15; detected table 1; row 6; column 3,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,6,4,19.90,PDF page 15; detected table 1; row 6; column 4,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,6,5,2011-2016,PDF page 15; detected table 1; row 6; column 5,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,7,2,Ghatkopar-Mulund,PDF page 15; detected table 1; row 7; column 2,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,8,1,PHASE III,PDF page 15; detected table 1; row 8; column 1,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,8,2,BKC-Kanjurmarg,PDF page 15; detected table 1; row 8; column 2,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,8,3,62.8,PDF page 15; detected table 1; row 8; column 3,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,8,4,43.3,PDF page 15; detected table 1; row 8; column 4,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,8,5,2016-2021,PDF page 15; detected table 1; row 8; column 5,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,9,2,Andheri(East)–Dahishar (East),PDF page 15; detected table 1; row 9; column 2,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,10,2,Hutatma Chowk – Ghatkopar,PDF page 15; detected table 1; row 10; column 2,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,11,2,Sewri - Prabhadevi,PDF page 15; detected table 1; row 11; column 2,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,12,1,Total,PDF page 15; detected table 1; row 12; column 1,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,12,3,149.97,PDF page 15; detected table 1; row 12; column 3,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,12,4,142.56,PDF page 15; detected table 1; row 12; column 4,review_required
+S025,2e26119ad4f4a3999f5acdcdf3f23e8a833737202f852029856342c7db6c24ec,15,1,12,5,,PDF page 15; detected table 1; row 12; column 5,review_required

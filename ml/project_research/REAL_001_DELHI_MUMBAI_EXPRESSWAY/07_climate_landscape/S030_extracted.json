@@ -1,0 +1,3249 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "reference": "PDF page 1",
+      "text": "LE E N D LD NR ND TOTAL\n1 ANDAMAN & NICOBAR ISLANDS (UT) 0 1 1 1 0 0 0 3\n2 ANDHRA PRADESH 0 0 0 24 2 0 0 26\n3 ARUNACHAL PRADESH 0 0 4 6 4 0 2 16\n4 ASSAM 0 1 15 16 1 0 2 35\n5 BIHAR 0 0 6 30 2 0 0 38\n6 CHANDIGARH (UT) 0 0 1 0 0 0 0 1\n7 CHHATTISGARH 1 5 21 6 0 0 0 33\n8 DADRA & NAGAR HAVELI AND DAMAN & DIU (UT) 0 2 1 0 0 0 0 3\n9 DELHI (UT) 0 2 7 0 0 0 1 10\n10 GOA 0 0 0 2 0 0 0 2\n11 GUJARAT 0 4 14 11 4 0 0 33\n12 HARYANA 0 1 11 10 0 0 0 22\n13 HIMACHAL PRADESH 0 1 9 1 1 0 0 12\n14 JAMMU & KASHMIR (UT) 1 6 10 3 0 0 0 20\n15 JHARKHAND 0 3 12 9 0 0 0 24\n16 KARNATAKA 0 0 8 21 2 0 0 31\n17 KERALA 0 0 6 8 0 0 0 14\n18 LADAKH (UT) 2 0 0 0 0 0 0 2\n19 LAKSHADWEEP (UT) 0 0 0 1 0 0 0 1\n20 MADHYA PRADESH 2 6 34 13 0 0 0 55\n21 MAHARASHTRA 0 4 13 19 0 0 0 36\n22 MANIPUR 0 0 2 6 1 0 0 9\n23 MEGHALAYA 1 0 0 3 7 0 0 11\n24 MIZORAM 0 0 5 3 0 0 0 8\n25 NAGALAND 1 2 6 0 0 0 2 11\n26 ODISHA 1 16 12 1 0 0 0 30\n27 PUDUCHERRY (UT) 0 0 1 3 0 0 0 4\n28 PUNJAB 0 2 2 13 5 0 0 22\n29 RAJASTHAN 0 2 13 17 1 0 0 33\n30 SIKKIM 0 2 4 0 0 0 0 6\n31 TAMILNADU 1 1 10 22 4 0 0 38\n32 TELANGANA 0 0 14 19 0 0 0 33\n33 TRIPURA 0 0 6 2 0 0 0 8\n34 UTTAR PRADESH 8 10 32 20 5 0 0 75\n35 UTTARAKHAND 2 1 7 3 0 0 0 13\n36 WEST BENGAL 0 4 14 5 0 0 0 23\nTOTAL 20 76 301 298 39 0 7 741\n3% 10% 41% 40% 5%\n734 WHOLE DATA RECEIVED\nCATEGORYWISE DISTRIBUTION\nOF DISTRICTS OUT OF THE 1%\nSTATEWISE DISTRIBUTION OF NO. OF DISTRICTS\nWITH LARGE EXCESS, EXCESS, NORMAL, DEFICIENT, LARGE DEFICIENT, NO RAINFALL AND NO DATA CATEGORY\nS. STATES\nPERIOD :   01-06-2026   TO   05-09-2026"
+    }
+  ],
+  "cells": [
+    {
+      "page": 1,
+      "table": 1,
+      "row": 1,
+      "column": 1,
+      "value_original": "STATEWISE DISTRIBUTION OF NO. OF DISTRICTS",
+      "reference": "PDF page 1; detected table 1; row 1; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 2,
+      "column": 1,
+      "value_original": "WITH LARGE EXCESS, EXCESS, NORMAL, DEFICIENT, LARGE DEFICIENT, NO RAINFALL AND NO DATA CATEGORY",
+      "reference": "PDF page 1; detected table 1; row 2; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 3,
+      "column": 1,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 3; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 3,
+      "column": 2,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 3; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 3,
+      "column": 3,
+      "value_original": "PERIOD : 01-06-2026 TO 05-09-2026",
+      "reference": "PDF page 1; detected table 1; row 3; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 1,
+      "value_original": "S.",
+      "reference": "PDF page 1; detected table 1; row 4; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 2,
+      "value_original": "STATES",
+      "reference": "PDF page 1; detected table 1; row 4; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 3,
+      "value_original": "LE",
+      "reference": "PDF page 1; detected table 1; row 4; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 4,
+      "value_original": "E",
+      "reference": "PDF page 1; detected table 1; row 4; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 5,
+      "value_original": "N",
+      "reference": "PDF page 1; detected table 1; row 4; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 6,
+      "value_original": "D",
+      "reference": "PDF page 1; detected table 1; row 4; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 7,
+      "value_original": "LD",
+      "reference": "PDF page 1; detected table 1; row 4; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 8,
+      "value_original": "NR",
+      "reference": "PDF page 1; detected table 1; row 4; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 9,
+      "value_original": "ND",
+      "reference": "PDF page 1; detected table 1; row 4; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 4,
+      "column": 10,
+      "value_original": "TOTAL",
+      "reference": "PDF page 1; detected table 1; row 4; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 1,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 5; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 2,
+      "value_original": "ANDAMAN & NICOBAR ISLANDS (UT)",
+      "reference": "PDF page 1; detected table 1; row 5; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 5; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 4,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 5; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 5,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 5; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 6,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 5; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 5; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 5; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 5; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 5,
+      "column": 10,
+      "value_original": "3",
+      "reference": "PDF page 1; detected table 1; row 5; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 1,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 6; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 2,
+      "value_original": "ANDHRA PRADESH",
+      "reference": "PDF page 1; detected table 1; row 6; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 6; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 6; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 5,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 6; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 6,
+      "value_original": "24",
+      "reference": "PDF page 1; detected table 1; row 6; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 7,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 6; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 6; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 6; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 6,
+      "column": 10,
+      "value_original": "26",
+      "reference": "PDF page 1; detected table 1; row 6; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 1,
+      "value_original": "3",
+      "reference": "PDF page 1; detected table 1; row 7; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 2,
+      "value_original": "ARUNACHAL PRADESH",
+      "reference": "PDF page 1; detected table 1; row 7; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 7; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 7; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 5,
+      "value_original": "4",
+      "reference": "PDF page 1; detected table 1; row 7; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 6,
+      "value_original": "6",
+      "reference": "PDF page 1; detected table 1; row 7; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 7,
+      "value_original": "4",
+      "reference": "PDF page 1; detected table 1; row 7; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 7; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 9,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 7; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 7,
+      "column": 10,
+      "value_original": "16",
+      "reference": "PDF page 1; detected table 1; row 7; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 1,
+      "value_original": "4",
+      "reference": "PDF page 1; detected table 1; row 8; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 2,
+      "value_original": "ASSAM",
+      "reference": "PDF page 1; detected table 1; row 8; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 8; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 4,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 8; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 5,
+      "value_original": "15",
+      "reference": "PDF page 1; detected table 1; row 8; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 6,
+      "value_original": "16",
+      "reference": "PDF page 1; detected table 1; row 8; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 7,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 8; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 8; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 9,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 8; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 8,
+      "column": 10,
+      "value_original": "35",
+      "reference": "PDF page 1; detected table 1; row 8; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 1,
+      "value_original": "5",
+      "reference": "PDF page 1; detected table 1; row 9; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 2,
+      "value_original": "BIHAR",
+      "reference": "PDF page 1; detected table 1; row 9; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 9; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 9; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 5,
+      "value_original": "6",
+      "reference": "PDF page 1; detected table 1; row 9; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 6,
+      "value_original": "30",
+      "reference": "PDF page 1; detected table 1; row 9; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 7,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 9; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 9; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 9; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 9,
+      "column": 10,
+      "value_original": "38",
+      "reference": "PDF page 1; detected table 1; row 9; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 1,
+      "value_original": "6",
+      "reference": "PDF page 1; detected table 1; row 10; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 2,
+      "value_original": "CHANDIGARH (UT)",
+      "reference": "PDF page 1; detected table 1; row 10; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 10; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 10; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 5,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 10; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 6,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 10; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 10; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 10; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 10; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 10,
+      "column": 10,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 10; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 11,
+      "column": 1,
+      "value_original": "7",
+      "reference": "PDF page 1; detected table 1; row 11; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 11,
+      "column": 2,
+      "value_original": "CHHATTISGARH",
+      "reference": "PDF page 1; detected table 1; row 11; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 11,
+      "column": 3,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 11; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 11,
+      "column": 4,
+      "value_original": "5",
+      "reference": "PDF page 1; detected table 1; row 11; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 11,
+      "column": 5,
+      "value_original": "21",
+      "reference": "PDF page 1; detected table 1; row 11; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 11,
+      "column": 6,
+      "value_original": "6",
+      "reference": "PDF page 1; detected table 1; row 11; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 11,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 11; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 11,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 11; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 11,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 11; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 11,
+      "column": 10,
+      "value_original": "33",
+      "reference": "PDF page 1; detected table 1; row 11; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 12,
+      "column": 1,
+      "value_original": "8",
+      "reference": "PDF page 1; detected table 1; row 12; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 12,
+      "column": 2,
+      "value_original": "DADRA & NAGAR HAVELI AND DAMAN & DIU (UT",
+      "reference": "PDF page 1; detected table 1; row 12; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 12,
+      "column": 3,
+      "value_original": ") 0",
+      "reference": "PDF page 1; detected table 1; row 12; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 12,
+      "column": 4,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 12; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 12,
+      "column": 5,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 12; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 12,
+      "column": 6,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 12; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 12,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 12; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 12,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 12; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 12,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 12; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 12,
+      "column": 10,
+      "value_original": "3",
+      "reference": "PDF page 1; detected table 1; row 12; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 13,
+      "column": 1,
+      "value_original": "9",
+      "reference": "PDF page 1; detected table 1; row 13; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 13,
+      "column": 2,
+      "value_original": "DELHI (UT)",
+      "reference": "PDF page 1; detected table 1; row 13; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 13,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 13; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 13,
+      "column": 4,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 13; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 13,
+      "column": 5,
+      "value_original": "7",
+      "reference": "PDF page 1; detected table 1; row 13; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 13,
+      "column": 6,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 13; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 13,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 13; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 13,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 13; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 13,
+      "column": 9,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 13; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 13,
+      "column": 10,
+      "value_original": "10",
+      "reference": "PDF page 1; detected table 1; row 13; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 14,
+      "column": 1,
+      "value_original": "10",
+      "reference": "PDF page 1; detected table 1; row 14; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 14,
+      "column": 2,
+      "value_original": "GOA",
+      "reference": "PDF page 1; detected table 1; row 14; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 14,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 14; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 14,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 14; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 14,
+      "column": 5,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 14; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 14,
+      "column": 6,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 14; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 14,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 14; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 14,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 14; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 14,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 14; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 14,
+      "column": 10,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 14; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 15,
+      "column": 1,
+      "value_original": "11",
+      "reference": "PDF page 1; detected table 1; row 15; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 15,
+      "column": 2,
+      "value_original": "GUJARAT",
+      "reference": "PDF page 1; detected table 1; row 15; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 15,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 15; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 15,
+      "column": 4,
+      "value_original": "4",
+      "reference": "PDF page 1; detected table 1; row 15; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 15,
+      "column": 5,
+      "value_original": "14",
+      "reference": "PDF page 1; detected table 1; row 15; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 15,
+      "column": 6,
+      "value_original": "11",
+      "reference": "PDF page 1; detected table 1; row 15; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 15,
+      "column": 7,
+      "value_original": "4",
+      "reference": "PDF page 1; detected table 1; row 15; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 15,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 15; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 15,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 15; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 15,
+      "column": 10,
+      "value_original": "33",
+      "reference": "PDF page 1; detected table 1; row 15; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 16,
+      "column": 1,
+      "value_original": "12",
+      "reference": "PDF page 1; detected table 1; row 16; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 16,
+      "column": 2,
+      "value_original": "HARYANA",
+      "reference": "PDF page 1; detected table 1; row 16; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 16,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 16; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 16,
+      "column": 4,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 16; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 16,
+      "column": 5,
+      "value_original": "11",
+      "reference": "PDF page 1; detected table 1; row 16; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 16,
+      "column": 6,
+      "value_original": "10",
+      "reference": "PDF page 1; detected table 1; row 16; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 16,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 16; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 16,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 16; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 16,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 16; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 16,
+      "column": 10,
+      "value_original": "22",
+      "reference": "PDF page 1; detected table 1; row 16; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 17,
+      "column": 1,
+      "value_original": "13",
+      "reference": "PDF page 1; detected table 1; row 17; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 17,
+      "column": 2,
+      "value_original": "HIMACHAL PRADESH",
+      "reference": "PDF page 1; detected table 1; row 17; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 17,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 17; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 17,
+      "column": 4,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 17; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 17,
+      "column": 5,
+      "value_original": "9",
+      "reference": "PDF page 1; detected table 1; row 17; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 17,
+      "column": 6,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 17; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 17,
+      "column": 7,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 17; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 17,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 17; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 17,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 17; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 17,
+      "column": 10,
+      "value_original": "12",
+      "reference": "PDF page 1; detected table 1; row 17; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 18,
+      "column": 1,
+      "value_original": "14",
+      "reference": "PDF page 1; detected table 1; row 18; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 18,
+      "column": 2,
+      "value_original": "JAMMU & KASHMIR (UT)",
+      "reference": "PDF page 1; detected table 1; row 18; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 18,
+      "column": 3,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 18; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 18,
+      "column": 4,
+      "value_original": "6",
+      "reference": "PDF page 1; detected table 1; row 18; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 18,
+      "column": 5,
+      "value_original": "10",
+      "reference": "PDF page 1; detected table 1; row 18; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 18,
+      "column": 6,
+      "value_original": "3",
+      "reference": "PDF page 1; detected table 1; row 18; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 18,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 18; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 18,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 18; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 18,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 18; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 18,
+      "column": 10,
+      "value_original": "20",
+      "reference": "PDF page 1; detected table 1; row 18; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 19,
+      "column": 1,
+      "value_original": "15",
+      "reference": "PDF page 1; detected table 1; row 19; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 19,
+      "column": 2,
+      "value_original": "JHARKHAND",
+      "reference": "PDF page 1; detected table 1; row 19; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 19,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 19; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 19,
+      "column": 4,
+      "value_original": "3",
+      "reference": "PDF page 1; detected table 1; row 19; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 19,
+      "column": 5,
+      "value_original": "12",
+      "reference": "PDF page 1; detected table 1; row 19; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 19,
+      "column": 6,
+      "value_original": "9",
+      "reference": "PDF page 1; detected table 1; row 19; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 19,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 19; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 19,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 19; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 19,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 19; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 19,
+      "column": 10,
+      "value_original": "24",
+      "reference": "PDF page 1; detected table 1; row 19; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 20,
+      "column": 1,
+      "value_original": "16",
+      "reference": "PDF page 1; detected table 1; row 20; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 20,
+      "column": 2,
+      "value_original": "KARNATAKA",
+      "reference": "PDF page 1; detected table 1; row 20; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 20,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 20; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 20,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 20; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 20,
+      "column": 5,
+      "value_original": "8",
+      "reference": "PDF page 1; detected table 1; row 20; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 20,
+      "column": 6,
+      "value_original": "21",
+      "reference": "PDF page 1; detected table 1; row 20; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 20,
+      "column": 7,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 20; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 20,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 20; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 20,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 20; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 20,
+      "column": 10,
+      "value_original": "31",
+      "reference": "PDF page 1; detected table 1; row 20; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 21,
+      "column": 1,
+      "value_original": "17",
+      "reference": "PDF page 1; detected table 1; row 21; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 21,
+      "column": 2,
+      "value_original": "KERALA",
+      "reference": "PDF page 1; detected table 1; row 21; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 21,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 21; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 21,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 21; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 21,
+      "column": 5,
+      "value_original": "6",
+      "reference": "PDF page 1; detected table 1; row 21; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 21,
+      "column": 6,
+      "value_original": "8",
+      "reference": "PDF page 1; detected table 1; row 21; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 21,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 21; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 21,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 21; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 21,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 21; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 21,
+      "column": 10,
+      "value_original": "14",
+      "reference": "PDF page 1; detected table 1; row 21; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 22,
+      "column": 1,
+      "value_original": "18",
+      "reference": "PDF page 1; detected table 1; row 22; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 22,
+      "column": 2,
+      "value_original": "LADAKH (UT)",
+      "reference": "PDF page 1; detected table 1; row 22; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 22,
+      "column": 3,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 22; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 22,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 22; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 22,
+      "column": 5,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 22; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 22,
+      "column": 6,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 22; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 22,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 22; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 22,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 22; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 22,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 22; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 22,
+      "column": 10,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 22; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 23,
+      "column": 1,
+      "value_original": "19",
+      "reference": "PDF page 1; detected table 1; row 23; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 23,
+      "column": 2,
+      "value_original": "LAKSHADWEEP (UT)",
+      "reference": "PDF page 1; detected table 1; row 23; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 23,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 23; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 23,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 23; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 23,
+      "column": 5,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 23; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 23,
+      "column": 6,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 23; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 23,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 23; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 23,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 23; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 23,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 23; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 23,
+      "column": 10,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 23; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 24,
+      "column": 1,
+      "value_original": "20",
+      "reference": "PDF page 1; detected table 1; row 24; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 24,
+      "column": 2,
+      "value_original": "MADHYA PRADESH",
+      "reference": "PDF page 1; detected table 1; row 24; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 24,
+      "column": 3,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 24; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 24,
+      "column": 4,
+      "value_original": "6",
+      "reference": "PDF page 1; detected table 1; row 24; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 24,
+      "column": 5,
+      "value_original": "34",
+      "reference": "PDF page 1; detected table 1; row 24; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 24,
+      "column": 6,
+      "value_original": "13",
+      "reference": "PDF page 1; detected table 1; row 24; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 24,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 24; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 24,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 24; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 24,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 24; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 24,
+      "column": 10,
+      "value_original": "55",
+      "reference": "PDF page 1; detected table 1; row 24; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 25,
+      "column": 1,
+      "value_original": "21",
+      "reference": "PDF page 1; detected table 1; row 25; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 25,
+      "column": 2,
+      "value_original": "MAHARASHTRA",
+      "reference": "PDF page 1; detected table 1; row 25; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 25,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 25; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 25,
+      "column": 4,
+      "value_original": "4",
+      "reference": "PDF page 1; detected table 1; row 25; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 25,
+      "column": 5,
+      "value_original": "13",
+      "reference": "PDF page 1; detected table 1; row 25; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 25,
+      "column": 6,
+      "value_original": "19",
+      "reference": "PDF page 1; detected table 1; row 25; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 25,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 25; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 25,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 25; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 25,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 25; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 25,
+      "column": 10,
+      "value_original": "36",
+      "reference": "PDF page 1; detected table 1; row 25; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 26,
+      "column": 1,
+      "value_original": "22",
+      "reference": "PDF page 1; detected table 1; row 26; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 26,
+      "column": 2,
+      "value_original": "MANIPUR",
+      "reference": "PDF page 1; detected table 1; row 26; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 26,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 26; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 26,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 26; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 26,
+      "column": 5,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 26; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 26,
+      "column": 6,
+      "value_original": "6",
+      "reference": "PDF page 1; detected table 1; row 26; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 26,
+      "column": 7,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 26; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 26,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 26; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 26,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 26; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 26,
+      "column": 10,
+      "value_original": "9",
+      "reference": "PDF page 1; detected table 1; row 26; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 27,
+      "column": 1,
+      "value_original": "23",
+      "reference": "PDF page 1; detected table 1; row 27; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 27,
+      "column": 2,
+      "value_original": "MEGHALAYA",
+      "reference": "PDF page 1; detected table 1; row 27; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 27,
+      "column": 3,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 27; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 27,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 27; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 27,
+      "column": 5,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 27; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 27,
+      "column": 6,
+      "value_original": "3",
+      "reference": "PDF page 1; detected table 1; row 27; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 27,
+      "column": 7,
+      "value_original": "7",
+      "reference": "PDF page 1; detected table 1; row 27; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 27,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 27; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 27,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 27; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 27,
+      "column": 10,
+      "value_original": "11",
+      "reference": "PDF page 1; detected table 1; row 27; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 28,
+      "column": 1,
+      "value_original": "24",
+      "reference": "PDF page 1; detected table 1; row 28; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 28,
+      "column": 2,
+      "value_original": "MIZORAM",
+      "reference": "PDF page 1; detected table 1; row 28; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 28,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 28; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 28,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 28; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 28,
+      "column": 5,
+      "value_original": "5",
+      "reference": "PDF page 1; detected table 1; row 28; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 28,
+      "column": 6,
+      "value_original": "3",
+      "reference": "PDF page 1; detected table 1; row 28; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 28,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 28; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 28,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 28; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 28,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 28; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 28,
+      "column": 10,
+      "value_original": "8",
+      "reference": "PDF page 1; detected table 1; row 28; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 29,
+      "column": 1,
+      "value_original": "25",
+      "reference": "PDF page 1; detected table 1; row 29; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 29,
+      "column": 2,
+      "value_original": "NAGALAND",
+      "reference": "PDF page 1; detected table 1; row 29; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 29,
+      "column": 3,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 29; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 29,
+      "column": 4,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 29; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 29,
+      "column": 5,
+      "value_original": "6",
+      "reference": "PDF page 1; detected table 1; row 29; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 29,
+      "column": 6,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 29; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 29,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 29; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 29,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 29; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 29,
+      "column": 9,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 29; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 29,
+      "column": 10,
+      "value_original": "11",
+      "reference": "PDF page 1; detected table 1; row 29; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 30,
+      "column": 1,
+      "value_original": "26",
+      "reference": "PDF page 1; detected table 1; row 30; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 30,
+      "column": 2,
+      "value_original": "ODISHA",
+      "reference": "PDF page 1; detected table 1; row 30; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 30,
+      "column": 3,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 30; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 30,
+      "column": 4,
+      "value_original": "16",
+      "reference": "PDF page 1; detected table 1; row 30; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 30,
+      "column": 5,
+      "value_original": "12",
+      "reference": "PDF page 1; detected table 1; row 30; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 30,
+      "column": 6,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 30; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 30,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 30; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 30,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 30; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 30,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 30; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 30,
+      "column": 10,
+      "value_original": "30",
+      "reference": "PDF page 1; detected table 1; row 30; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 31,
+      "column": 1,
+      "value_original": "27",
+      "reference": "PDF page 1; detected table 1; row 31; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 31,
+      "column": 2,
+      "value_original": "PUDUCHERRY (UT)",
+      "reference": "PDF page 1; detected table 1; row 31; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 31,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 31; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 31,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 31; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 31,
+      "column": 5,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 31; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 31,
+      "column": 6,
+      "value_original": "3",
+      "reference": "PDF page 1; detected table 1; row 31; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 31,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 31; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 31,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 31; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 31,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 31; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 31,
+      "column": 10,
+      "value_original": "4",
+      "reference": "PDF page 1; detected table 1; row 31; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 32,
+      "column": 1,
+      "value_original": "28",
+      "reference": "PDF page 1; detected table 1; row 32; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 32,
+      "column": 2,
+      "value_original": "PUNJAB",
+      "reference": "PDF page 1; detected table 1; row 32; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 32,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 32; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 32,
+      "column": 4,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 32; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 32,
+      "column": 5,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 32; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 32,
+      "column": 6,
+      "value_original": "13",
+      "reference": "PDF page 1; detected table 1; row 32; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 32,
+      "column": 7,
+      "value_original": "5",
+      "reference": "PDF page 1; detected table 1; row 32; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 32,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 32; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 32,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 32; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 32,
+      "column": 10,
+      "value_original": "22",
+      "reference": "PDF page 1; detected table 1; row 32; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 33,
+      "column": 1,
+      "value_original": "29",
+      "reference": "PDF page 1; detected table 1; row 33; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 33,
+      "column": 2,
+      "value_original": "RAJASTHAN",
+      "reference": "PDF page 1; detected table 1; row 33; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 33,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 33; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 33,
+      "column": 4,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 33; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 33,
+      "column": 5,
+      "value_original": "13",
+      "reference": "PDF page 1; detected table 1; row 33; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 33,
+      "column": 6,
+      "value_original": "17",
+      "reference": "PDF page 1; detected table 1; row 33; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 33,
+      "column": 7,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 33; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 33,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 33; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 33,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 33; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 33,
+      "column": 10,
+      "value_original": "33",
+      "reference": "PDF page 1; detected table 1; row 33; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 34,
+      "column": 1,
+      "value_original": "30",
+      "reference": "PDF page 1; detected table 1; row 34; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 34,
+      "column": 2,
+      "value_original": "SIKKIM",
+      "reference": "PDF page 1; detected table 1; row 34; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 34,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 34; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 34,
+      "column": 4,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 34; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 34,
+      "column": 5,
+      "value_original": "4",
+      "reference": "PDF page 1; detected table 1; row 34; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 34,
+      "column": 6,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 34; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 34,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 34; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 34,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 34; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 34,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 34; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 34,
+      "column": 10,
+      "value_original": "6",
+      "reference": "PDF page 1; detected table 1; row 34; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 35,
+      "column": 1,
+      "value_original": "31",
+      "reference": "PDF page 1; detected table 1; row 35; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 35,
+      "column": 2,
+      "value_original": "TAMILNADU",
+      "reference": "PDF page 1; detected table 1; row 35; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 35,
+      "column": 3,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 35; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 35,
+      "column": 4,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 35; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 35,
+      "column": 5,
+      "value_original": "10",
+      "reference": "PDF page 1; detected table 1; row 35; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 35,
+      "column": 6,
+      "value_original": "22",
+      "reference": "PDF page 1; detected table 1; row 35; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 35,
+      "column": 7,
+      "value_original": "4",
+      "reference": "PDF page 1; detected table 1; row 35; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 35,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 35; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 35,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 35; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 35,
+      "column": 10,
+      "value_original": "38",
+      "reference": "PDF page 1; detected table 1; row 35; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 36,
+      "column": 1,
+      "value_original": "32",
+      "reference": "PDF page 1; detected table 1; row 36; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 36,
+      "column": 2,
+      "value_original": "TELANGANA",
+      "reference": "PDF page 1; detected table 1; row 36; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 36,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 36; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 36,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 36; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 36,
+      "column": 5,
+      "value_original": "14",
+      "reference": "PDF page 1; detected table 1; row 36; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 36,
+      "column": 6,
+      "value_original": "19",
+      "reference": "PDF page 1; detected table 1; row 36; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 36,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 36; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 36,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 36; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 36,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 36; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 36,
+      "column": 10,
+      "value_original": "33",
+      "reference": "PDF page 1; detected table 1; row 36; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 37,
+      "column": 1,
+      "value_original": "33",
+      "reference": "PDF page 1; detected table 1; row 37; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 37,
+      "column": 2,
+      "value_original": "TRIPURA",
+      "reference": "PDF page 1; detected table 1; row 37; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 37,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 37; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 37,
+      "column": 4,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 37; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 37,
+      "column": 5,
+      "value_original": "6",
+      "reference": "PDF page 1; detected table 1; row 37; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 37,
+      "column": 6,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 37; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 37,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 37; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 37,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 37; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 37,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 37; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 37,
+      "column": 10,
+      "value_original": "8",
+      "reference": "PDF page 1; detected table 1; row 37; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 38,
+      "column": 1,
+      "value_original": "34",
+      "reference": "PDF page 1; detected table 1; row 38; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 38,
+      "column": 2,
+      "value_original": "UTTAR PRADESH",
+      "reference": "PDF page 1; detected table 1; row 38; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 38,
+      "column": 3,
+      "value_original": "8",
+      "reference": "PDF page 1; detected table 1; row 38; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 38,
+      "column": 4,
+      "value_original": "10",
+      "reference": "PDF page 1; detected table 1; row 38; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 38,
+      "column": 5,
+      "value_original": "32",
+      "reference": "PDF page 1; detected table 1; row 38; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 38,
+      "column": 6,
+      "value_original": "20",
+      "reference": "PDF page 1; detected table 1; row 38; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 38,
+      "column": 7,
+      "value_original": "5",
+      "reference": "PDF page 1; detected table 1; row 38; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 38,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 38; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 38,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 38; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 38,
+      "column": 10,
+      "value_original": "75",
+      "reference": "PDF page 1; detected table 1; row 38; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 39,
+      "column": 1,
+      "value_original": "35",
+      "reference": "PDF page 1; detected table 1; row 39; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 39,
+      "column": 2,
+      "value_original": "UTTARAKHAND",
+      "reference": "PDF page 1; detected table 1; row 39; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 39,
+      "column": 3,
+      "value_original": "2",
+      "reference": "PDF page 1; detected table 1; row 39; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 39,
+      "column": 4,
+      "value_original": "1",
+      "reference": "PDF page 1; detected table 1; row 39; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 39,
+      "column": 5,
+      "value_original": "7",
+      "reference": "PDF page 1; detected table 1; row 39; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 39,
+      "column": 6,
+      "value_original": "3",
+      "reference": "PDF page 1; detected table 1; row 39; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 39,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 39; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 39,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 39; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 39,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 39; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 39,
+      "column": 10,
+      "value_original": "13",
+      "reference": "PDF page 1; detected table 1; row 39; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 40,
+      "column": 1,
+      "value_original": "36",
+      "reference": "PDF page 1; detected table 1; row 40; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 40,
+      "column": 2,
+      "value_original": "WEST BENGAL",
+      "reference": "PDF page 1; detected table 1; row 40; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 40,
+      "column": 3,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 40; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 40,
+      "column": 4,
+      "value_original": "4",
+      "reference": "PDF page 1; detected table 1; row 40; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 40,
+      "column": 5,
+      "value_original": "14",
+      "reference": "PDF page 1; detected table 1; row 40; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 40,
+      "column": 6,
+      "value_original": "5",
+      "reference": "PDF page 1; detected table 1; row 40; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 40,
+      "column": 7,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 40; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 40,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 40; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 40,
+      "column": 9,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 40; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 40,
+      "column": 10,
+      "value_original": "23",
+      "reference": "PDF page 1; detected table 1; row 40; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 41,
+      "column": 1,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 41; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 41,
+      "column": 2,
+      "value_original": "TOTAL",
+      "reference": "PDF page 1; detected table 1; row 41; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 41,
+      "column": 3,
+      "value_original": "20",
+      "reference": "PDF page 1; detected table 1; row 41; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 41,
+      "column": 4,
+      "value_original": "76",
+      "reference": "PDF page 1; detected table 1; row 41; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 41,
+      "column": 5,
+      "value_original": "301",
+      "reference": "PDF page 1; detected table 1; row 41; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 41,
+      "column": 6,
+      "value_original": "298",
+      "reference": "PDF page 1; detected table 1; row 41; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 41,
+      "column": 7,
+      "value_original": "39",
+      "reference": "PDF page 1; detected table 1; row 41; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 41,
+      "column": 8,
+      "value_original": "0",
+      "reference": "PDF page 1; detected table 1; row 41; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 41,
+      "column": 9,
+      "value_original": "7",
+      "reference": "PDF page 1; detected table 1; row 41; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 41,
+      "column": 10,
+      "value_original": "741",
+      "reference": "PDF page 1; detected table 1; row 41; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 42,
+      "column": 1,
+      "value_original": "CATEGORYWISE DISTRIBUTION",
+      "reference": "PDF page 1; detected table 1; row 42; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 43,
+      "column": 1,
+      "value_original": "OF DISTRICTS OUT OF THE",
+      "reference": "PDF page 1; detected table 1; row 43; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 43,
+      "column": 3,
+      "value_original": "3%",
+      "reference": "PDF page 1; detected table 1; row 43; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 43,
+      "column": 4,
+      "value_original": "10%",
+      "reference": "PDF page 1; detected table 1; row 43; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 43,
+      "column": 5,
+      "value_original": "41%",
+      "reference": "PDF page 1; detected table 1; row 43; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 43,
+      "column": 6,
+      "value_original": "40%",
+      "reference": "PDF page 1; detected table 1; row 43; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 43,
+      "column": 7,
+      "value_original": "5%",
+      "reference": "PDF page 1; detected table 1; row 43; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 43,
+      "column": 8,
+      "value_original": "1%",
+      "reference": "PDF page 1; detected table 1; row 43; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 43,
+      "column": 10,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 43; column 10"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 44,
+      "column": 1,
+      "value_original": "734",
+      "reference": "PDF page 1; detected table 1; row 44; column 1"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 44,
+      "column": 2,
+      "value_original": "WHOLE DATA RECEIVED",
+      "reference": "PDF page 1; detected table 1; row 44; column 2"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 44,
+      "column": 3,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 44; column 3"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 44,
+      "column": 4,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 44; column 4"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 44,
+      "column": 5,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 44; column 5"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 44,
+      "column": 6,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 44; column 6"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 44,
+      "column": 7,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 44; column 7"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 44,
+      "column": 8,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 44; column 8"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 44,
+      "column": 9,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 44; column 9"
+    },
+    {
+      "page": 1,
+      "table": 1,
+      "row": 44,
+      "column": 10,
+      "value_original": "",
+      "reference": "PDF page 1; detected table 1; row 44; column 10"
+    }
+  ],
+  "links": [],
+  "issues": [],
+  "source_id": "S030",
+  "sha256": "bdaf93262b7f247e6eac4fe0daeff997ac30d8b4e2fbb37f67feb2ca8a2b5c0e",
+  "extracted_at": "2026-09-05T10:31:28+00:00",
+  "status": "candidate_evidence_not_ML_features"
+}

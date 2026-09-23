@@ -1,0 +1,21 @@
+﻿project_id,source_id,check,status,detail
+REAL_005,S027,raw_checksum,pass,SHA256 recomputed from file
+REAL_005,S005,raw_checksum,not_available,"RuntimeError: verified_windows_http_error: curl: (60) schannel: SEC_E_UNTRUSTED_ROOT (0x80090325) - The certificate chain was issued by an authority that is not trusted.
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could not
+establish a secure connection to it. To learn more about this situation and
+how to fix it, please visit the webpage mentioned above."
+REAL_005,S006,raw_checksum,not_available,"RuntimeError: verified_windows_http_error: curl: (60) schannel: SEC_E_UNTRUSTED_ROOT (0x80090325) - The certificate chain was issued by an authority that is not trusted.
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could not
+establish a secure connection to it. To learn more about this situation and
+how to fix it, please visit the webpage mentioned above."
+REAL_005,S034,raw_checksum,pass,SHA256 recomputed from file
+REAL_005,S035,raw_checksum,pass,SHA256 recomputed from file
+REAL_005,S026,raw_checksum,pass,SHA256 recomputed from file
+ALL,,target_labels,pass,No target labels fabricated; all observations remain excluded from direct training.
+ALL,,scope_and_provenance,pass,"Each observation has entity, source hash and locator."
+ALL,,ML_readiness,not_ready,"Mixed dates/scopes, incomplete coverage, pending reviews, no independently verified training outcomes."
+ALL,,API_collection,not_collected,This pass collected PDF/HTML documents. No API payloads or geospatial vectors are claimed.

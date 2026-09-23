@@ -1,0 +1,177 @@
+/* Click-through Leaflet popups and civilian public project details */
+.popup-project-link {
+  display: block;
+  width: 100%;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+.popup-project-link:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 5px;
+  border-radius: 5px;
+}
+
+.popup-cta {
+  display: block;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid #e5ecea;
+  color: var(--teal);
+  font-size: 9px;
+  font-weight: 800;
+}
+
+.popup-project-link:hover .popup-cta {
+  text-decoration: underline;
+}
+
+.public-detail-hero {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+  background: linear-gradient(120deg, #e8f5f1, #fbfcfa);
+  border: 1px solid #d5e7e2;
+  border-radius: 14px;
+  padding: 28px 30px;
+  margin-bottom: 14px;
+}
+
+.public-detail-hero h2 {
+  font: 500 34px/1.1 Georgia, serif;
+  margin: 11px 0 9px;
+}
+
+.public-detail-hero p {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #687d85;
+  font-size: 11px;
+  margin: 0;
+}
+
+.public-detail-hero p svg {
+  width: 15px;
+}
+
+.public-stage {
+  flex: none;
+  background: var(--teal);
+  color: #fff;
+  border-radius: 18px;
+  padding: 9px 13px;
+  font-size: 9px;
+  font-weight: 800;
+}
+
+.public-detail-grid {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 14px;
+}
+
+.public-progress-value {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  color: #61767e;
+  font-size: 10px;
+}
+
+.public-progress-value strong {
+  font: 500 28px Georgia, serif;
+  color: var(--teal);
+}
+
+.public-progress-bar {
+  height: 8px;
+  background: #e7efed;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 9px 0 14px;
+}
+
+.public-progress-bar i {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--teal), #63c8b4);
+  border-radius: inherit;
+}
+
+.public-progress-card > p,
+.public-next-card > div p {
+  font-size: 11px;
+  line-height: 1.6;
+  color: #526a73;
+}
+
+.public-next-card > div {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  background: #f0f7f5;
+  border-radius: 9px;
+  padding: 14px;
+}
+
+.public-next-card > div svg {
+  width: 20px;
+  flex: none;
+  color: var(--green);
+}
+
+.public-next-card > div p {
+  margin: 0;
+}
+
+.public-next-card > small {
+  display: block;
+  font-size: 9px;
+  color: #83949a;
+  margin-top: 12px;
+}
+
+.detail-enquiry {
+  margin-top: 14px;
+}
+
+.civilian-project-detail > .back {
+  font-size: 10px;
+  cursor: pointer;
+}
+
+@media (max-width: 760px) {
+  .public-detail-hero {
+    display: block;
+    padding: 22px;
+  }
+
+  .public-detail-hero h2 {
+    font-size: 27px;
+  }
+
+  .public-stage {
+    display: inline-block;
+    margin-top: 18px;
+  }
+
+  .public-detail-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .detail-enquiry {
+    grid-template-columns: 28px 1fr;
+  }
+
+  .detail-enquiry > button {
+    grid-column: 2;
+    justify-self: start;
+  }
+}

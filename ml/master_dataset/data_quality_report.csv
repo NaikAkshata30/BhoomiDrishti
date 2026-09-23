@@ -1,0 +1,96 @@
+﻿project_id,source_id,check,status,detail
+REAL_001,S001,raw_checksum,not_available,RuntimeError: expected_pdf_received_html
+REAL_001,S021,raw_checksum,pass,SHA256 recomputed from file
+REAL_001,S031,raw_checksum,pass,SHA256 recomputed from file
+REAL_001,S033,raw_checksum,pass,SHA256 recomputed from file
+REAL_001,S016,raw_checksum,pass,SHA256 recomputed from file
+REAL_001,S019,raw_checksum,pass,SHA256 recomputed from file
+REAL_001,S030,raw_checksum,pass,SHA256 recomputed from file
+REAL_001,S037,raw_checksum,pass,SHA256 recomputed from file
+REAL_001,S039,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,S002,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G001,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G002,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G003,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G004,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G005,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G006,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G007,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G008,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G009,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G010,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G011,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G012,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G013,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G014,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G015,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G016,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G017,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G018,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G019,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G020,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G021,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G022,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G023,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G024,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G025,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G026,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G027,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G028,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G029,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G030,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G031,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G032,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G033,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G034,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G035,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G036,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G037,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G038,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G039,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G040,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G041,raw_checksum,pass,SHA256 recomputed from file
+REAL_003,S003,raw_checksum,not_available,RuntimeError: expected_pdf_received_html
+REAL_003,S020,raw_checksum,not_available,RuntimeError: expected_pdf_received_html
+REAL_003,S023,raw_checksum,pass,SHA256 recomputed from file
+REAL_003,S032,raw_checksum,pass,SHA256 recomputed from file
+REAL_003,S038,raw_checksum,pass,SHA256 recomputed from file
+REAL_003,S022,raw_checksum,pass,SHA256 recomputed from file
+REAL_004,S004,raw_checksum,not_available,RuntimeError: expected_pdf_received_html
+REAL_004,S024,raw_checksum,pass,SHA256 recomputed from file
+REAL_004,S025,raw_checksum,pass,SHA256 recomputed from file
+REAL_005,S027,raw_checksum,pass,SHA256 recomputed from file
+REAL_005,S005,raw_checksum,not_available,"RuntimeError: verified_windows_http_error: curl: (60) schannel: SEC_E_UNTRUSTED_ROOT (0x80090325) - The certificate chain was issued by an authority that is not trusted.
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could not
+establish a secure connection to it. To learn more about this situation and
+how to fix it, please visit the webpage mentioned above."
+REAL_005,S006,raw_checksum,not_available,"RuntimeError: verified_windows_http_error: curl: (60) schannel: SEC_E_UNTRUSTED_ROOT (0x80090325) - The certificate chain was issued by an authority that is not trusted.
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could not
+establish a secure connection to it. To learn more about this situation and
+how to fix it, please visit the webpage mentioned above."
+REAL_005,S034,raw_checksum,pass,SHA256 recomputed from file
+REAL_005,S035,raw_checksum,pass,SHA256 recomputed from file
+REAL_005,S026,raw_checksum,pass,SHA256 recomputed from file
+REAL_006,S007,raw_checksum,pass,SHA256 recomputed from file
+REAL_006,S008,raw_checksum,pass,SHA256 recomputed from file
+REAL_006,S015,raw_checksum,pass,SHA256 recomputed from file
+REAL_007,S009,raw_checksum,pass,SHA256 recomputed from file
+REAL_007,S018,raw_checksum,pass,SHA256 recomputed from file
+REAL_008,S010,raw_checksum,pass,SHA256 recomputed from file
+REAL_008,S017,raw_checksum,pass,SHA256 recomputed from file
+REAL_008,S036,raw_checksum,pass,SHA256 recomputed from file
+REAL_008,S040,raw_checksum,pass,SHA256 recomputed from file
+REAL_008,S011,raw_checksum,pass,SHA256 recomputed from file
+REAL_009,S012,raw_checksum,pass,SHA256 recomputed from file
+REAL_009,S028,raw_checksum,pass,SHA256 recomputed from file
+REAL_009,S029,raw_checksum,pass,SHA256 recomputed from file
+REAL_010,S014,raw_checksum,pass,SHA256 recomputed from file
+REAL_010,S013,raw_checksum,pass,SHA256 recomputed from file
+ALL,,target_labels,pass,No target labels fabricated; all observations remain excluded from direct training.
+ALL,,scope_and_provenance,pass,"Each observation has entity, source hash and locator."
+ALL,,ML_readiness,not_ready,"Mixed dates/scopes, incomplete coverage, pending reviews, no independently verified training outcomes."
+ALL,,API_collection,not_collected,This pass collected PDF/HTML documents. No API payloads or geospatial vectors are claimed.

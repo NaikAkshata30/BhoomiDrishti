@@ -1,0 +1,47 @@
+﻿entity_id,parent_entity_id,project_id,record_scope,phase,corridor,package_number,state,district
+REAL_001/INCLUDING_SPURS,REAL_001,REAL_001,project,,,,,
+REAL_003,REAL_003,REAL_003,programme,,,,,
+REAL_004,REAL_004,REAL_004,project,,,,,
+REAL_005/PHASE_IV_PRIORITY,REAL_005,REAL_005,phase,IV priority,,,,
+REAL_006/PHASE_II/CORRIDOR_4,REAL_006,REAL_006,corridor,II,4,,,
+REAL_006/PHASE_II/CORRIDOR_5,REAL_006,REAL_006,corridor,II,5,,,
+REAL_007,REAL_007,REAL_007,programme,,,,,
+REAL_008,REAL_008,REAL_008,project,,,,,
+REAL_008/HISTORICAL_DESIGN,REAL_008,REAL_008,project,,,,,
+REAL_009/APPROVAL_PACKAGE_III,REAL_009,REAL_009,package,,,III,Maharashtra,Aurangabad
+REAL_010/EDFC_I_II_III,REAL_010,REAL_010,corridor,,,,,
+REAL_010/DIRECT_PURCHASE_POLICY_SCOPE,REAL_010,REAL_010,corridor,,,,,
+REAL_007/KA/ANNEXURE_ROW_1,REAL_007,REAL_007,package,,,,Karnataka,
+REAL_007/KA/ANNEXURE_ROW_2,REAL_007,REAL_007,package,,,,Karnataka,
+REAL_007/KA/ANNEXURE_ROW_3,REAL_007,REAL_007,package,,,,Karnataka,
+REAL_007/KA/ANNEXURE_ROW_4,REAL_007,REAL_007,package,,,,Karnataka,
+REAL_007/KA/ANNEXURE_ROW_5,REAL_007,REAL_007,package,,,,Karnataka,
+REAL_007/KA/ANNEXURE_ROW_6,REAL_007,REAL_007,package,,,,Karnataka,
+REAL_007/KA/ANNEXURE_ROW_7,REAL_007,REAL_007,package,,,,Karnataka,
+REAL_007/KA/ANNEXURE_ROW_9,REAL_007,REAL_007,package,,,,Karnataka,
+REAL_007/KA/ANNEXURE_ROW_10,REAL_007,REAL_007,package,,,,Karnataka,
+REAL_003/CASE/CA_10930_2018,REAL_003,REAL_003,case,,,,,
+REAL_003/CASE/MA_1925_2020,REAL_003,REAL_003,case,,,,,
+REAL_008/TUNNEL_AND_CONNECTING_ROAD,REAL_008,REAL_008,project,,,,,
+REAL_002/DISTRICT/Meerut,REAL_002,REAL_002,district,,,,Uttar Pradesh,Meerut
+REAL_002/DISTRICT/Hapur,REAL_002,REAL_002,district,,,,Uttar Pradesh,Hapur
+REAL_002/DISTRICT/Bulandshahar,REAL_002,REAL_002,district,,,,Uttar Pradesh,Bulandshahar
+REAL_002/DISTRICT/Amroha,REAL_002,REAL_002,district,,,,Uttar Pradesh,Amroha
+REAL_002/DISTRICT/Sambhal,REAL_002,REAL_002,district,,,,Uttar Pradesh,Sambhal
+REAL_002/DISTRICT/Badaun,REAL_002,REAL_002,district,,,,Uttar Pradesh,Badaun
+REAL_002/DISTRICT/Shahjahanpur,REAL_002,REAL_002,district,,,,Uttar Pradesh,Shahjahanpur
+REAL_002/DISTRICT/Hardoi,REAL_002,REAL_002,district,,,,Uttar Pradesh,Hardoi
+REAL_002/DISTRICT/Unnao,REAL_002,REAL_002,district,,,,Uttar Pradesh,Unnao
+REAL_002/DISTRICT/Rae_Bareli,REAL_002,REAL_002,district,,,,Uttar Pradesh,Rae Bareli
+REAL_002/DISTRICT/Pratapgarh,REAL_002,REAL_002,district,,,,Uttar Pradesh,Pratapgarh
+REAL_002/DISTRICT/Prayagraj,REAL_002,REAL_002,district,,,,Uttar Pradesh,Prayagraj
+REAL_002/CLIMATE/MEERUT,REAL_002,REAL_002,district_climate,,,,Uttar Pradesh,MEERUT
+REAL_010/CLIMATE/PRAYAGRAJ,REAL_010,REAL_010,district_climate,,,,Uttar Pradesh,PRAYAGRAJ
+REAL_003/CLIMATE/RUDRAPRAYAG,REAL_003,REAL_003,district_climate,,,,Uttarakhand,RUDRAPRAYAG
+REAL_005/CLIMATE/NEW_DELHI,REAL_005,REAL_005,district_climate,,,,Delhi,NEW DELHI
+REAL_008/CLIMATE/GANDERBAL,REAL_008,REAL_008,district_climate,,,,Jammu & Kashmir,GANDERBAL
+REAL_001/CLIMATE/DAUSA,REAL_001,REAL_001,district_climate,,,,Rajasthan,DAUSA
+REAL_004/CLIMATE/MUMBAI_CITY,REAL_004,REAL_004,district_climate,,,,Maharashtra,MUMBAI CITY
+REAL_004/CLIMATE/MUMBAI_SUBURBAN,REAL_004,REAL_004,district_climate,,,,Maharashtra,MUMBAI SUBURBAN
+REAL_009/CLIMATE/NAGPUR,REAL_009,REAL_009,district_climate,,,,Maharashtra,NAGPUR
+REAL_006/CLIMATE/CHENNAI,REAL_006,REAL_006,district_climate,,,,Tamil Nadu,CHENNAI

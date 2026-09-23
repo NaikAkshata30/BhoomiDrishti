@@ -1,0 +1,890 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Press Release:Press Information Bureau
+</title><link href="css/style.css" rel="stylesheet" type="text/css" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="alternate stylesheet" href="css/change.css" media="screen" title="change" /><link rel="alternate stylesheet" href="css/green.css" media="screen" title="green" /><link rel="alternate stylesheet" href="css/yellow.css" media="screen" title="yellow" /><link rel="stylesheet" type="text/css" href="css/prtint.css" media="print" /><link rel="stylesheet" href="css/style3.1.css" type="text/css" />
+
+
+      <script src="js/jquery.min.js" type="text/javascript"></script>
+      <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true" /><link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet" />
+
+      <script type="text/javascript">
+            $(document).ready(function () {
+                  function getParameterByName(name) {
+                        var url = window.location.href;
+                        name = name.replace(/[\[\]]/g, '\\$&');
+                        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                              results = regex.exec(url);
+                        if (!results) return null;
+                        if (!results[2]) return '';
+                        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+                  }
+                  // Get the IDs from the current page's URL
+                  let prid = parseInt(getParameterByName('PRID'), 10);
+
+                  if (!isNaN(prid) && prid > 0) {
+                        $.ajax({
+                              type: "POST",
+                              url: "AjaxMethod.aspx/UpdatePRHitCount",
+                              async: false,
+                              data: JSON.stringify({ 'PermId': prid }),
+                              contentType: "application/json; charset=utf-8",
+                              dataType: "json",
+                              success: function (response) {
+                                    console.log(response);
+                              },
+                              error: function (error) {
+                                    console.log("Error in AJAX request", error);
+                              }
+                        });
+                  } else {
+                        console.log("Invalid parameters:", prid);
+                  }
+
+            });
+      </script>
+      <style type="text/css">
+            .table-responsive {
+                  width: 100%;
+                  overflow-x: auto;
+            }
+
+            .banner {
+                  display: flex;
+                  justify-content: space-between;
+                  align-items: center;
+                  background-color: #000;
+                  color: #fff;
+                  padding: 20px;
+            }
+
+            full-width {
+                  width: 100%;
+            }
+
+            .logo-left, .logo-center, .countdown {
+                  display: flex;
+                  align-items: center;
+            }
+
+                  .logo-left img, .logo-center img {
+                        height: 70px;
+                  }
+
+            .countdown {
+                  text-align: center;
+                  background-color: #444;
+                  border-radius: 10px;
+                  padding: 10px;
+                  border: 2px solid grey;
+            }
+
+            .firstnumber {
+                  color: #000000;
+                  position: absolute;
+                  top: 50px;
+                  right: 90px;
+                  font-size: 30px;
+            }
+
+            .secondnumber {
+                  position: absolute;
+                  color: #000000;
+                  right: 45px;
+                  top: 50px;
+                  font-size: 30px;
+            }
+
+            .countdown .days {
+                  font-size: 35px;
+                  color: gold;
+            }
+
+            .countdown p {
+                  margin: 0;
+            }
+
+            .countdown .text {
+                  font-size: 16px;
+            }
+
+            a {
+                  word-break: break-all;
+            }
+
+            iframe, img {
+                  max-width: 100%;
+            }
+
+            @media(max-width:1199px) {
+                  .firstnumber {
+                        top: 40px;
+                        right: 72px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 35px;
+                        top: 40px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:990px) {
+                  .firstnumber {
+                        top: 25px;
+                        right: 54px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 25px;
+                        top: 25px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:768px) {
+                  .countdown, .days {
+                        font-size: 12px !important;
+                  }
+
+
+                  .firstnumber {
+                        top: 25%;
+                        right: 8%;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 4.5%;
+                        top: 25%;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:475px) {
+                  .countdown, .days {
+                        font-size: 10px !important;
+                        top: 20%;
+                  }
+
+                  .bannerimgdiv {
+                        padding: 0 !important;
+                  }
+
+                  .bannerimg {
+                        width: 108% !important;
+                  }
+            }
+      </style>
+      <script type="text/javascript">
+            $(function () {
+                  $("[id*=printPDF]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+            $(function () {
+                  $("[id*=printPDFEvent]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+      </script>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112591026-1"></script>
+      <script>
+
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() { dataLayer.push(arguments); }
+
+            gtag('js', new Date());
+
+
+
+            gtag('config', 'UA-112591026-1');
+
+      </script>
+
+<meta property="og:title" content="STATUS OF CHAR DHAM YATRA ALL WEATHER ROAD &amp; DEHRADUN-DELHI HIGHWAY" /><meta property="og:url" content="www.pib.gov.in/Pressreleaseshare.aspx?PRID=1942883" /><meta property="og:description" content="Improvement of 5 National Highways (NHs) connecting Chardham viz. Yamunotri, Gangotri, Kedarnath and" /><meta property="og:image" content="https:/pib.gov.in/images/indian-emblem.png" />
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="C4E7H-KSCMC-422L4-W3EM5-U36MF",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"C4E7H-KSCMC-422L4-W3EM5-U36MF";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="onysoraxia5zw2u355oa-f-de7f288f1-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1825201","ak.ai":parseInt("1215205",10),"ak.ol":"0","ak.cr":93,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"5d5a42b","ak.r":43247,"ak.a2":n,"ak.m":"dscb","ak.n":"ff","ak.cport":55140,"ak.gh":"23.64.59.109","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1788604252","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Wi9/nUzn5zAXgMoTCApPckXX5JZ/Hmr1z0RsbMmIfPGAiPJl2YVTy15MLuNEUu55NDa4OtVMzozk9+d6vQy+Tqh97dpRkT+QIhaBZorvw2JbWLDLQ8AfnZULo0e8VAHnkD6eC6NNh7NKBrvi36T+Qa1MxnEmdE+KfDqWAU/CRufm8/DQ5qvVTp6mVYVXxlNbGqyfyc0T65MmTwlnEQ0uSR6I461T251mm7yfRQzUK9rAWZEby2FG7xoMKZ6Tc9iZsC9RpXp0mSJbe/spGovGvbqxl7Slvg/H3Q2NpaF1TOuqc+leRRG/yMtADcjA/YFFi4C6sgbl4N9bxpKC/H77C3Nlajxc5u6/4AgD11DhO/jCX8dIXEfUFYUL+1fSDCbCTxBbcnjxyGDjEhj4gQizIo4AEt7dsIFtvT04XndZKTE=","ak.pv":"9","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+      <form method="post" action="./PressReleaseIframePage.aspx?PRID=1942883&amp;lang=2&amp;reg=48" id="form1">
+<input type="hidden" name="sc_HiddenField" id="sc_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="WOWFwmntefc8A0ahucvtrZtWFL/xROE7oTS7FT/TR9NWt7rTmq2EL5TZZa2DOBo3b/VnDGYMVinir/62jBhmauBwmh/n0oaGGeH9aqF8oG3WBLztYIlxkKFubySw1Tw0YcMP7Hq9hNc2Whk9rd97H+jFkY83Ge9ZRN2pakTxFUU9AH0jnKn870GFr6K0gDMdhneUDHVgrgavpkOZDElxJ6txWR9oqC+sC/drGaApC+IJCrr/GfekyyLyH78TQhZu0mP2jrRbINQiB1NKkaLdH5uXMgmvlc6ApumgPqaEaQ57mjHv5oRHlfpuPTWnalB6GzRbr1d+aCIH3fI3xoZZbXXz6drdEMyD/x6M7xndWRGdjPcWOMpVZ300Mc7ZmICuR3LFYrNSAJFqhepmMD0qwxkQIR8eXmsBftv2L4JIQIPOhR+hvQ8BmbkTxBpbZctDwAmUm5z3xczUpGs+5oTRKczmYk4fWzTxmi5rB6QP4tHyBoFBbrMZDZX/CgJpyMo+gqN2sXE7sOcJNthb/jKyETRisTOp/W7iuxS+143DbOjdVRMey318gflLC7vU+Pt8y59k6/1IvnqNZbtyrdodG2dgc8/Jf26A70JlRL4yFrwBxcqyQJn4vWjgcngjzcnxKpGKwJAPCZdQZ9hWeicaVXJ5YfsA8/KkmqNKBwv9tws3PTAmrcghL0WA7fAc18PnA7q8qVqbISrUyTd/p0booe4257F9FXw4QAIL+w3UKGJFoWyS9pKlZvhgXQOIjXxLeuslWaaawDi3UaWAjTfvGAiuczl0fx7wj10/vZYDGajV+wz05i54RXO5ZWPN1k8I8ySy5ldvY+JFNRUcTRF4lJxEMSLLuCGqj8yEnmDEOkY2arvDwFBufh6ILUvgu8AfEKD+y7H/loVa9QqLaiyif/K+c0t7G7VDSPXkYh/87sfP5I9LNqiqKH9yX5RFtdqlY6J2okzke2a96mlGHjlMk64GdShN02XSGTkW/hyzuxfv4LCsBDg2a7YNZ4usGsDhW499ZqiZiXtvd13SxvZMWk1wJ7w5KDzBsHHh4Q7PeDIVsJvIX04yi9khZK/rEtpE5QlbDmSWSOIzUXgY72azuys7XC48IVlX3Tqtlej3q+IVSpInqkWsn8QCizUvdQa+//TCPG4GH6l8SBMLoR82oHDOQ7KAU2VoluhFtIlgZM2KKubz/zDujNfnTYufvhtI7LyHOdcKcJNC0DjIW3N/kXhT3m0jmUgDWcf9VX1LNyX7OxAAAykSttX57qsGV6KqsT6jCuz0HyKZJJh1iiRsne6imejgwbL7XC4THglW4Z2lbW191mtwOxQKRqNuQxd8q4PSsHKLsLHw7tooeGx0nZmmr+d7BhXNzNGeCwHwo263YxbSOxwOBcgkq3ybZ2jLt7NOOAmaVrfmDnBkQupgSiR51LT9PmQoLSA5jGltuiax3KuDrsGZVb/aOcjlLuQHsKhTZiUIZekYe/Rebave21j9rRFLWYfgiGfKqI3MATeivon2BRcqn95roQN0jmb7xfsMWAW9+fLE9UrgSPKa2bjFXMu8v7Lh2Ps/DtaZrSr2S3MXGMIAbuKuI5GY1GNbJVY9Zzpjd+E20W01zdezav60FlkJVgo79AmphkoOmAeerPAdBd8VP872nhTQX6SCCgSmGhohQKclrPPu5jY8zOggPfKdOmcoVQ4K6Rm4Z9c5m8GJNljWZ8pq6tpTuVv942Qo6hzox1tmD99KjLjLG+GB1VvBenr49u5x3eM4tGxMDCpFADplmh5i26E40XbhjYjN+cQU+XIQ29nQBG9+XfbxFeAXEQn+u607DdA4cLvNhsu1bOqPFKyoY11Kxp+LM+xJnLBxqUutF3khtCzqzLUDqaFJRFwOCWbm4lv9zlFLPvyUQM223SyV0aWenlBVpCUhrF/X6Dz5QJqfvDRNreWFcrl1kWeGTaA/NMKHVbOCPSlA/t9uHvpypuDxWg3X5S7OT60qWVUYeW4PJJ4AxMUSQcDTptc1f8sCulCy5oDMmogeGsBiObwF9Vd6gtxB2tGDbYhRKpOhGVp7OB38GvFcmw4cXX9GsifVcElRSp04nMVAFSh1rh6T2JPbV/ZUOkiqtWgHlaDQuw2+2x8Dvxe5KVOPgL06YSR7CU2+fAmLPgoO2AL3C9PtsQxvBJqJGoqHGphWrkOJj0cir0PCaHmndRkQ1ft3YEtCtZjhuIlF30+xV+l3uwCVywWqcvnx+WeZS8Y/JPDdTTHh9e37Yp1syvtTyDieq0qMA2hYfel7VfrsGYg/os58wzCPNJF9j1dsHNEHeOmq4VBkW2RO8CkSsxe4H1MXXPKFjMBQnpzl9fQQBq2RcCpaefVa/LnBFmeHVRjVqATnPMVWgwLc68iCtjDpr/zgqvHAo9IPcBql+X3nMBrZOTJzFI/nJxVHgVxvrQwaIel4RWqvRuAUzZFQ7IAZjOxLmLB5O/ardZDVMBwktJ0bDOZtpFHF8X4+C68e113ZdnoqDDmqJTNCyv3TzokLZvzK9/eWYdehGXJr/Pu497h6fFKRkN+9M20bYHdOmK9HOEE6xvLRzcheBpcLObQ/ayDM9M4BmhnipMCntrABe7Mj1XLiM4+0k5AtStdKlIcx6JDh7XWc0Zon8Mmbk4VWWAuYHoyu3oYfFg6RV7IXmotI93niFmXqAb0yHl5CTFGqFP7Q3F0g0fM3z2XGS5hjwuE9kXZGmOXGDP5q5NdSkwXc4d2tFQ/tX47l4vTQ4Lhe6P+awhbfEsalq9qmgzzEfXZdZaXay3h3iIVtRBfFcWO6s1WT/HAZBu4Ft6SCu49/UCbTyULnUFzWwOrjLPjIa/qpIDhm7kHxHYhb7a+mFhpU+aO+UmhY02V3NWhxNlC5IPB2tvjzcLatlcMSUMH9H1ioeU08fDigU/VeJ26NXWpDYrxsmA4R0SdUt+nkNUl5xaQJspfDUDGCob6gUKIJ2UorznhvL0hQxRed280TVxlIW9ef7dOvGJ+iOas+1FMb6+lNv/rP8Wh40f/kFjivw48N14lWUceUPLpk0wDdMeJ5V5SkvhdUvi53Ocn9iXM3N7COTJTznPtaBaHoPYSAz29yNilT0Um071TadlA9wk9ibHKcCBk7RVm5B0tuh6F/jlj8udbNY517CyXqi61w99WNd7EXncK0eua4tVnijL86LeRGwmdKvGargmpVvLErMlQBso92McqAXZxi5pF2NHNYaVh8iSoNinR5Jb2gNhVCVcBkMz8EDILs3XFBII/k2SewnSmqsLtsuHHDqRwJPsJVUB18IDn+izi5um4uladmdHKP8PX3MGRONdHLvz+Y5UMy5Ba9+3Ziz7X2mQYOpWI0eDPuqxc9rxyq7KC5eB9HyUFRkCHUBjmG3ZF7zBCD/I9o6+zZvpi6Zqoop88Ty7zyUi8aZaQtUZH9U+OvRjH64twoYIrR+CVjJLU1T76+yxnQujXeAqtO6YcwGFFSshs6pi4DQpu/8096dfVQcEs24VS1zjIMn/xrjrkk3yIXLQVtYIuTyaVjIgaI8kN8RivFmQvw5cGd9xiOQyJ22aAROySC5XNuVjXx87WRotAiQu/HzlozAULdYkYsNVAkpjz89V75HdvUEVW1x0HmM5RBS9+sQRkd/Ol1kSbwVfLfOd/JJrNLtxEWw/p7Wa76KXxcWh3VPBJssyAn8srGV7F3mHhz7v1QOAe7kitLuwdKmmLiVhPs6tHAMExKkipoKoJSz/yREKvo7uldgibOL28dNSF6PqE8S67gPVVmM3Tf8enF4ruut2cs8dLF4x7LEojKe5dwBI79immLOId6A3PFwYyLfSMPyXgozskrEydjgAQrmhVKWa3SeMXI3y9l5XRkBBGwLYn7pUoOG0irUnasU4hGe4KlH7rFSACeA6oVVxf4JCIqwKhqGV+vD2Ad6KWSSq+Axy3sTXRElqb8a++itR9uUkEE4sPiqJ/8czqctVxFZGQEx9BJaYGmzJQE+WJI+lYF9YJZZw5N63YvA1QYZeJbnugBr0TsB4FtvH0JRlpYxqD4U0S46j3G+UElj+AC5KD4ohZQnbtCWj1G2Cz3qgsJ6umCRPb4sKPepN9EdlHa/nLXFvBG7rY73Dhe+dcjCPQA+0khKCogiDtVGhNaMgMEiwjWm+Y6Z6ec++W11jBUMbMlFfFD0E6VbLb7hdoTF6KmUXhUJqm/i6K/gtoAwXDVu9yn6nfon/HLsndP8jnOdnfomZFJ/wqlbjAZpI6OxsZdUFnP1TqBIHvPkDTNVAlQTdbn8zeYEbQB49H7xI5BLHWozg6eJZJjRwHEl+QgyVrZ/9NEzEZ1xGB53rJXQ7Q1XKHZ7/v/5WY0NVr4qd3m97Qcro4/lP2o4Cw0iHS1qFCvAI9hwi7uTCE3io2psZHuHLBOvqtV9ELnojTfR5FjvH6ol3rxI74lFr/i+d83oNfsGMc64aaU7wAEe2jhvLxO0s0WsNdTcM4rcyzAoZwe6AHe3LL/Uv0iYaxYT+y9Se21GAC7HFGEYLFitUbTwbXz4t9lt3e0Jvu5ZphbZ5BjWshND7obt69OCJbMQN7HsvoTJi4upC9eS0kkTomBuA4vYZ42qWgRWfND2iSUXqTmrmBxdgJFAGhubRxuiOYzKy3dXi0LAuipCz8CFC2MZi71w4hw+PqBI8CdaTa3xb8+EUlsUlEIWKaBTameiZpI/38bR4YKMb6R9xNir5QTiF57biPkQzaT7NaUcWimZy4ofgwWzOPnBH7YN0TWY0x3/OheMmaS5BIZJtBN0WPMNWucXhcE3rtdUyyETtVIdoP0Sc1NP4skaEFSwxmy/bY3g9C2FnUTXlwXPKPLruqW9NhJ15Cbzadlp60P6TYv96m0eAAwSnUE6u5SJBZBfRLhcVxU1EMaQTbWqJeNOHwiXWJ4YF9CrjIPBxBcUGP9LykHJUGXbUipN723UlsHRBL4KfLD5rcZP9qxL/toFL2VjJP6p51ECSseezNqjotyZddO7PEGdRZcILX4Z1WlPXJ7ZqmgtV7TF+r3HiILRALMiEX5Nk/vyRBpcUukKEOONzPxunZOQDLxNvhtnuixfF7c+UONr6azo/Po6mwIShF4MHHt2WwrPVBKBGmrD9JI32vlOBSUejZ98UJg6X0UGjhHF4VREqx3EZwpCUDcOS59+lIcU3rpCXwZrI9qv3QFSaSZJmcgFHy64QBEfqF6arLqVgvmGBkyVaoCAAHpX4TbDLR5TE7mhXoUbfkmxy9QHT8cdDdvVxZJyLeBl76WfrachU6FihEbVcVjQIMwJlWIf2POG6rFLhieSjcjUBuMvGoD3shcfrNFDYg5hCJUfeejh6feAxQ0uNIMpXgSBM8wT1BAWNWzUPl0FlD7OG4LYRGeYEf3GnflTAYRuq6JyWDU7/DNotJkyXTK7qAiwGXQyKOP5qycjfPhR6vrGSf8iizBaKxzYdSwd8pyRsfEDiGnR0TAb7opyc1M3NwYRSD+dRgATeOxvEGxsJHO09t3I9Nc8KIzQ+/ICge41ZfkM8Yz7mPHlvcbD8D/w5BurAHV2x5p0hr3LO/quq6/QHTQxyGkZrjkMRyVvr0g8TzzJ1D4Tw6S7oC7PiKKxPFfzAuBkQYAQjSdqx56BZumsXZdcYBCTgx1zCrqvj+q7VItzNe2qB1C2lRWWN2rz2tyiMVKnseP7MfLY+Xql1FhOyCBKphc4ndi65AVCb+1pTZ3V5sDOlucDG8QozcZH1EeC/MAI4hIk/B2rLku80QLGlxSIz9GCVtiAdL4vFw3n3YI0+0pXkxV6BhkqzrQOJcFOe8ANca7XoDgZYMX2F8lvLA3JtxQZyUxAc5ObASSv91/3Aitvwok1/KsMVVvjxtRGJMzP8gAIvbyidGH/O8+5s0xIkII+GOhzv7zUIhTfukjNSMPhFKsONPvpDQsobIgB+XgRNgDj72PgNrocGgkroVSdwmxWB2+IOoVDnP589sUnEkHSxyN/YnRRnkWXfcaoohEdWWtrgWMkuCUOJHV+0riJ4ZE86llmVHPfg4rLd1JTQHju8K0WfdDkrH32JdRo6mcCK8KIuW69ADQJK2AcI9ypjCrks7BFQ2bcctcHJSg8OiWYa8vd7hNPy1OQlfksuhfWp/tHAlhLxIHFyuPk+9OGaXRCa1zvaqdX6zH7kk0n1+Lu+20mDqI64ckcv2T1SLPa8+yI8iCEvW+IuuUFeNf+fcWkf3a4ePoGzAUNfDqZ1al5UN27h5+aCQdJN1kuUU0AGMnqeZ7ZCX21zjwUEyg2r4F/KuclFg9PbCgDNnSsT+rTfF30GvreHut2hT+cPFcEFp1OLa/iT3TaYSxdhx526I1pKMRDRVQztrv4lXlJl5j9K6wDM13DINhN3wluF5Ak5/uT+d11GWq3F/znBF+9OQp2yV5pOFnJi+LuVXOWi9KkITqLiMCm60gi8cM4TsEtfOx38y90O1ZdODEbVlaOoLxLyFRS+pvtD9hEjOT7h5J+ohRnBsamdk2GNwYqZt3oT6EMpeJutKGiQ/xWowtfNaOUfLEXJxVsqe+BfIxSc9CwAB+oSHknspeL9siicjSEzWFRQFP79Mnj1U53UQE2KHbyIEwXPz6MokeoQv8NzGJvARZhnZl3+UHOrw8fieGx7P60zLr0QHQTQDY90W8j+kb7vIDgx7jbFNYWsDz1HLwWb9ute5ACn+aDCs1X7P2Kcmbj9mOr2OCqZhL0yuntb5r64HqcaPbJyGTvaZlbFkd8AgjpeGyLvIu6oT+u2baulZiwIRl754BKMDXe31I0LKA+LwpOT/N/EVC1n2+Pj5c5WS0sriXliVoEXaaxj/9Ak6bdIjoZiiZfahULzYfocRCMf/9ZBtAfGwwinaR7W6COQNpPFlLAJ6ybYsSDIAhAL/J8aI3XWXBDwiOcSvX8VNY6C59IlzoSmf8DQ0BstoJ94Xp80p6bGx6agwURjLCm+lYKZbTwxlx1Tmr+H5ASVlIMh3V7UZlcCQ1AR2QN4LEQAWMRvjq3Bqq7RWA4SOtCtLlSelGzv4ICHHEULgebOJhvbqXM+FyMUbiI318zP8Fe51vLStgFgAQI8rDlKJq+x0WI6Nvwed87CbxllQU3sH0uB8QlLS5Rt0BARs3cPVOKXzhub8oCrpDHR8nJurS8XG6BfHYz9hxZuS5pOWTGO+6IqQ78GoT/Ln24ZRp1Lq93IInOyKJzHPQpv43QIc8b0ISfFXr/sUeIjoDr/GC3fPPQ5dAHP+Xrrv/Fr6iwRTr8Sb5gGGJyvH3fRL6YrnxrjWMIGM3WNBVUEq7o7XxBV2NXQZFLw/NhePnbLF20pR4FS0lfel7M9m6TCDC3VKjmV8E7+XKV6dnIo/jZlFdMGX31zQrqM00qnkGEskV7P++HdwM3lYOjPDQ33lYnndo4Qq+h6PHALmk0Sh0Fh8QgpIihobq2OfB4fZCEzPYOT5RpXPMWYKkQBO/US6pGQAgeP7aoeNhzDPK1stI/w+cjBOSrbTXYHl2uvKq1x75AXi33E4S7vYR+Qp8+tySE2N8sDtwUsAuvcprLv+7cE7n5l+bFPbQ9nG+Gv+ONql7zPH71A+FpOtkQ3D+ZpIqfKNJRH2WmOydzyb/M4jswsKfm1LN7hHhM1/AfuVCfySLsjBs3DHsXRoFrqm6od8WYa6qCJXCVshK9OgDCY4XT2RyvGxd4CAgTWJOJIygAJa2HoW6uOvMbP1dQ8GgORLq/uwjp7MuKcwoHnEhgpdSV59M2LqQd4++GmDLD2/SNFG2RWlVrtfzwVugQLkQyST3b9kaiaN3i9IZynBiMMYoo5CjRKQ54I2LOdTVwOAm6tP73mXC7i7iG1wRPq8rB4ye9Wjm7RtoyEB95OtGGF0vmcczoQQcnKEaLDM1bNfTqnKcyqQsxHEYrekabYRFSmplXHlBgOA8l+TZvkk+6JA2ureUBnT9l1umC6Wg8aNkAW4ZWAqQ6EiM9UNjKCuMSaTNHz4iHOdjGHb3xTjIKchekNTg8VzF7PSllwvhFiyGO/s2Dxg5FJmsr4QH+jaLN/GvoCMbq5LqX1xVR3zzpfrFiS9gx8wigK1eZ9T65oaMlo10r1GXEn+sTACrUjPBDViF2fes18cd0aU6VuzfUzHXh2FHXcVo7UYs+uVHJdeRyykU4w4wh4KJYaWuQ9OBd9VlKz+MXYe5WGUMRCqizP+OO9CpYpI5+GZF+NMq0vnLZjgpRlTytCDnIR6FwKzwVnKBrrHHXy4Vz3EmSXzf5bpw1DPbJ0YCTOyJICWq5vVI8q9VRsUjhX5Q6bX8Mhra6ruCSy7MCBv0cPeROgRKhGs+tkRj74OfINohs3p/DUym7UIya40dwdqQtaR9QDQPWZLOrKeoeI+auAsNtg1jc6539vBPYu9DZ/S6zShCMCxSLLoAhA2VV5Ww5xILhL/UmptUfJF2/VQQzl/ETU0lABlYyKBLTqqvUsuSG217wqcD0xWZepXIEkNOzkrayy02WTRSopFUJab6iDWtpdzcGISupbyf67UjVM4N8ICs3PrxBd5APDxYTZ0fOnAYX6pOppyBiJhfwsKc2/geKk2vJm466peWhr/xh5HBhia63nHTubRPqXG/YgvrSjrd6HZqfa47ZBD9pLM/S+Vna0H1cKiEY/VgWIYpIQg1hJCFaO5AywD/MRxv+kk72Y425qRaI632LmBQIPqljr9qMEfDM4+6YQ6t7SZuUW52y5QAHfAK1ZKNhMdLdDuX+3Qrb7qaRovx3Er6jpb/jBcR5vNIlgHtWyIZ2hKjA2b1rtmsYPjuRbsxVF9hXk7uqDdDAOSPjAq0lrin9U+nbv1vDD8iummj0t4j0b7EEamO1DplBCWOTtXXf9HbTUZvd/23+HqiPZwV0oEZoN/IdZ7SOeSCcGUackOp1/n2pXgQTTPcI1pKhdLDGmdXq6ljFlLwhQJPqoQn295+ZpovYQuDEMgteXD3LhOpkLVZdJheJ2I84KnE6XzvOSezswjhSAGRUevRosM/knHZJDeX9Xmc2KWSOsmqGnmjCA3UezAGl6MLLr/sM59N6ZKCdt/ojwfobEsoQ9qV+cR5791cv9FQLlPbtrblEewR7PwZskby0F6W1dBl655uzEM4fHtGlFJCIsH9/sTmWDAGV3FDR19skArL+Y1wxdT+ZNKJ1H8+Foiw1D6A4ripcJGbwpT0UgosGiUw5rQNWdWfcmH5mzar5LyhtVaEpwAmbQp1DuuOrNQuucb0WqK49x9QnlgBXaMb7tbBk9uWVm54XezB9dRW9+yFHD8pIAyAg+OiArLtkS65wmSuWuoq8qQRIBqbZcq55wQd3248LtLksn44Yawzq8cGtCYqicnU9JLrdiDVk3nYuqIW/0/rJNBbclFcs7lK1PlGBw6sy45Kbitpl/hUW54X0Khd84mO5EHITsIFOsS1usgmH69suE4cnfUt+TlTXauA3vMq8AVFJtjDaNX/mp2M/nRUgHm83FpD+QNgRdPY1fnHBDLzzDsFMeVB8G5QHY1pRjqk0z9sfiFTsElylSyyMYOmIJ8r2e3NQrFY3pCPmtkg0nkoi7qJewehQO9sfGy0+ZID3o9tgGpIdCDHFERXYPZASWRXFy0KzXkG6VzWGJPMhdzz0MoE+tPIuQI708BUiF4c51hhzMA3CAwSBXJyHzpauUMJ8EXgD07HoyJQv+3EOFoCgibMrWzscAqWlRj92gK8muZMIfhVOUwq77P2P0iUL89flO1cXCyB8nxA9yxNeibk7tmAPOsX21Q/YXaXk0lH9dhrypXp/TBuZfYKYhOoFmfu+f3O9Fr5TdhO7/Ue75ASWtyra9BV+f60EdLsM2/213ynsO3waJr+i/CBZ1njpqyA1F+3HzbH05Papb27UpHB2pZficBu4OvS5V0h5vysfENpH4lI1kKNhw8b/C2sU0gfGAUG6oRd+AxdoQNjUw2JDgCUzg4fYLkHN1ijvVDZu8EePV4m94In6MZBLCwQBgp4ESdwmQLyf5SEHs+tlIgNnSFSG6attisrqSlGHGn+dLC60gJnQNZin7KrPwfx/9Jc934kewT/QyzflYdS9jY4e9agj5J//6PEMw046Yun/NarbVZPMxu9mua9A7atyrbii2VXSYtjsXaEmvsnGj3GrPGQnrWdwMRij9sgsXgOX6aXAWWWChWxqbUn2+qJJdEZhTKGa+NCsSJEbnR11grPT8r+5YbZPxF94UHT9e1aPhV/rzZhGgX+A1MGVNmri6yOniaO/jnIf+B7jjUPhfEpjH1UHuTY7j3AjHVjbHyEGROAr4th4F6jmWlIX6fqt8wqDDfXY4hXmUNrTaPCJ/n7NvgMbHfRPNKLhit7g67EIxy23k2h+qICMdqu8ybjZ9Qk/DDI0ZZhrvN4wMajwlnH04eiz7s/hjrKDEw3VzqvFC2H8KLyR4Oq9nAP51mw84nWpZyz5ZNIFFPGzcI4ATF9uhmgq/jOlg5holzgI2L4msWloftv6RI3Khzcgoowh7+FFYKppVDbWUH86ApzTQFMibYEbnAictSoPL5bqp0vSXr4cfqyqKyAk1q6HsJPkaLXy6jNYmvRj5q3xQCVFYrh5+9LUcP6J3v3I+dSrnhltGE9S2b82etGousPEXMLGh+qZ7V8f6rzl3yrcNYBzD3k+6u/QS4bNgHG+FJcOnthynMiJHUrKZ6y0BE4QMuJ9l8O+K5uKllrIzn0/tdLLULs5lRV54EWpj9EvfZFvAeb2JVON+m8NFURj+s2eH4F3RRD6wBl6dYnOnLaC6tyOpoGa9vQ5e3KqQKwn98EMeu3XBjiRxow/68CJhwQ6YTVXit3kQJDCBijBsa5BJD8a46K8+Iwd1zjj2yuVCYDBpSzcw0/I453nS4K15fH4JIN4dHHHJag9g8EeRH9fcraQnD07fyRE5A5RZ/yX6j9rjK6aXR4i4Ww70t2v7lBXhkZCECjEjyKSfDW4VfcJqz5AhsMmtJbseIoixElkC7LzmC6qIa/RnseocF2rUDlURrhV3L4BRhGHa47tPMgvtmYLj9uvaQRMHZnk95KT7wezfl2s3JCu5yZGa7t1CJMqsh68BAuOLLgilZ6VALknuUOTv2+mprtXuxSnBjTr+GJR1wTn2CbBX3ykvfC6eRofwtUwjIBQlDlyf33jMSay9MEOPbXqDzhchxV9HeScF3lXW7lSXEgrUwDdN3Wiyg1vURmiZoKXfrDVleTrnCCYf0L3EaD2DIxDj8znWECD8XNenWCqGYA+slKM9jU2M2cwFDAxYNOjtW2zIXFchyJfoR2Y1S5LGsqHJHwnMu60M+qkRetB2FHs8ZdxM0CoUOOy1pt9FVH9AEme+hcLBHDl+vPAorIyG9msDpHnKUrR7Q1EU77dMuj0+CKjaRYmVlH2bwvV8xNGtRpzBu3LUVdxspYN4vHJkn7IacLm83lyz5ypyOAmfnVaKHzrde1IQZuvhcjbeeoPWf5gbBELebW9T7Kt8zFU4hlevgLuzrVTgZSfLOVwq7D/sPVAzAGqoRshFxV5Xrtl8uPn+HLSNyqTVPRPXbZFJsJptHetEiAZiLFOtRBvxvXnHuY7XlBwMVuz688DBFz20y45dXECd/VmCPGrerHwverY7id2R0enmJKiZNZ5D6s3emN14W0Lwgz2syKkx7HvrkKW7GUkfN/uKszPV7l5to/3/fK7ku5mN5Z2mxdn9chXFyV8b29u8F2kUxOwgUFtCpSOdtAnivupX7ilT3TgkvjBztXjQiYVJ0aky1gSCfj0NZEP597I1Ph6LgxJi6Vq+2K8hcruUkCB6rjEcBhJYWce6NbbqqJ2PbT9ZFTxsIodWJWLoNf7T5sGM8jYIrlQxwtMZH/GRuIQNnESjaznnluDUkIKHKAMRTH1wo1PmN1xHiBtW4lrFswcm9vOD+CBk65FWnGZ+ngNaBybDno2z7N0EQjIteBriAnzFZEP6lARAbuG2c18AMigq1h2UmlXic/7QqULlM8b92GshxsEVK4js/2fcN95cG4g/BYfj0Lvti4pJuCx+TtQKeDAwlWfmqiOIb56fOsWqcz8l8UwYld76zje97+J3u0yZ1QZoGTZTLJafBJEUSae/Hzcfn6TAHQFVyJypHeuW5Y9VCdg8lH9/q0ueYtQ2e3RYYgBFYlCafTSoXhC0Qx+lxRvI+sPXwSxS0i1+ebJUEYhBcR1Rra8NMUqcGNy8lUBkBFeIHcgfkPUQyQSKbiMIIUB/hXhHf/p8qaiXEzzc1c6SodS9Xb/NHNIREzG1XLtBJ6c9J1I1ozEgNN78OWcYkqol/XA8/eytR3GzCkC+Zkm7jQbf7zrNtkr7CBHHmjXklOTGBCFyqqM9mQ0IVAVTyavjihib0yUw1BggY2lHaeOJ+43J9oh8Ftjd/FiPW2wyUKu90a4ywpu28Wubg3M865S4k3L5CO16xuEUhuZ7FcnSM9UQx+IdMsviCjpc78K/HqRKbgPNUzCEHX/1uvyuYuzM3OUlNEaGtolyAs8ikdNT5RXlnNtHv5yN0wF1KXSBOm0y+thivtkDUd8bA5SHpzIcqnagpHng4l1eDdr7M7NLt34QWpEWQGtZ8PuaK0hyuz2RBuopPyI7wOXJSvVrsqEHmk2FWj0nXNdmwVwVdu0W1KiQQJf3Q1omqyREFi+FTiLpVS6eNZwUJD5YEC5swLtuShQRnV/P7WZtuLWJOlB1wIoKH/A13eRgHxRQITp8bkU0+o/zpAGQMDMavmGINuDJLEq3fZB9uroGi4sLbw5ejVelNBRXc9c8ewREV6Sc7Q4/mchAC1vAEcz5ky/XJ0mfFfkLPEbQOXKzZ2iV6hST02ErhW7pXR3UzT2gc/eo5zj/WysctXr8xwgfzuAJzQsmVwfJa6xrNxDtDAIU+LgqNWl6VTjJRrHMn9k37GYFumiUzBJneIDxBqqO2Zj+qUZ79XCzNepIPL1l5k9ttTW6RhSzRAxtgMvNBxfEh9MvV/MS0hOHGiVN+0qcINoT1cCSNReDCrM0YKX9nVsvxgGSekppyVWzke72P+NMc0k/03MtpQK6c7ksRjOV2Xz1K4TiJVgK8MS5KlqoXV6KSYoyuJE/fFSStysJP4PHBbcJxwB39hT7RINZvYu4cKKEbz5k8EGDy1zQxtQ5iU6aKwrcalG3MDzdS31AV4WO19JJLd0xZrLQ2JQwfQ9ezl61B0D8RB2VDbLFB+SzSQAiJQfuJnhuG9RS59YXYq8dtJh5spcRPUpArPKDJ4OlsAikvDntUX+m4bSZtPqfe+Dxya4OskqFqrDT5V1YRLxpqNaumXbHAw+BH4AHc4CMO/bkE7Sx6hxz7On4+MPbmZgNEgPtw2ID4WvYBjXBoMADn5zjtMNzJu8ca/VhlM7/MZVzxx42gi1F+vu1VXNVUn9iDmVR89gXOnA9jVqKhytDXlKmtQjqo0DjFyrgWqVwExn6lGCilJaiBL3nxJep48Zstmmgp2b6nujPOQfZuBYjnkywsnQdzVkh6lg46kSOfC/PnBO8nQJxdmuT1R6rnDmYBjaoMPvoyGUaQ8nvpJtD7eXmDz5k9BAlt475AKPUmRBFS4s7N43JjKG1X5J7WQ9GtgwCvoFy+UifXYVHBUlSeX6x/VydicO1Gelu3WJLgbypcnwhLULXIsjHMMSuKfCJ9/Ry1RTy6FwN/sMgO1fI9S9DuJFijKL06XK5TRC/Tx8KYRKDFvyl+RXJJgX1QcrQokRaQVKJeMDv6pWJD7XpaeRU68Hha8erUFFjfSaprstI7Wr34VJX1ZRCtNMFSzOr1EKmNs+WfgrrdC5AvpTsKKzGTWFE2sEvXHCFR66CeW5bJh/2YDxdzzKLrR7lAV7eLr6UEluVEF634Xx9uStXi7SQa1kzuY5QXTKa4bQMkIUFhgTpBgFS4sQAawHWK8e6mYhcD3cxr3ndsCzL7wTGww6I2Y" />
+
+
+<script src="/ScriptResource.axd?d=YwOa_0w_u3oCLFqmIIOf-XEz4GWZ1DuyQIpxIA4LVkywj39sZSps12NbK5wNl5XN9JF3m7d-ey7BFDgj6i0380qRQ5IMWCL54sYNVU1IjMmiOWpp0&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/PressReleaseIframePage.aspx?_TSM_HiddenField_=sc_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.7.123%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a5a4df314-b4a2-4da2-a207-9284f1b1e96c%3ade1feab2%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3aa67c2700%3aab09e3fe%3a87104b7c%3a8613aea7%3a3202a5a2%3abe6fb298" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8166A38A" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="PRxZZSxlyiFRUo6QrKEv4dL0XxzjLToaYuBEutv64CbDe0X8IjVUJWVMQeVCRAF0AGcTCdBchOmfluHQ6dSvmkcj8vHY3gHdaW+GHxVcpCubYqGf4krgfEruzIyTenxjcIYd1YlQ26lkWw5XfHovNIymZvwtou5DabuhaKOM+/jTrPxVBEJlVP5FymksIbtGgFmB6nmXrQ3BM2ucwbN8RdmkJmKTKrN/1dUY10z2H71cuGGPyK16LcDrd+ZCjwkxEOZ1YXvjKX9k8JR+8PwU3hB7PG1eXzr2mKVpFKl33X4M/Qtm" />
+                              
+            <div id="templateCss"></div>
+            
+            <input type="hidden" name="hfGridHtml" id="hfGridHtml" />
+            <div class="container" style='margin-bottom: 50px;'>
+                  <div id="accessories">
+
+                        
+                        <div class="pull-right" style="display: flex">
+                              <div id="voll"></div>
+                              <div id="vollDT"></div>
+                              
+                              
+<div class="print-icons">
+<input type="image" name="Print1$print" id="Print1_print" aria-label="Print" src="images/printer_icon.png" alt="print page button" style="padding: 5px 10px 5px 10px;" />
+</div>
+                        </div>
+                  </div>
+                  <input type="hidden" name="hydpermid" id="hydpermid" value="1942883" />
+                  
+
+
+
+                  <div class="innner-page-main-about-us-content-right-part">
+
+                        <div id="MinistryName" class="MinistryNameSubhead text-center">
+                              Ministry of Road Transport & Highways
+                        </div>
+                        
+                        <div id="lg_g"><div class='log_oo'>  <img src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2021/aug/ph202183101.png' alt='azadi ka amrit mahotsav' /> </div></div>
+
+
+
+
+
+                        <div class="text-center event-heading-background">
+                              
+                              <h2 id="Titleh2">
+                                    STATUS OF CHAR DHAM YATRA ALL WEATHER ROAD & DEHRADUN-DELHI HIGHWAY
+                              </h2>
+                              <h3 id="Subtitleh3">
+                                    <span id="ltrSubtitle"></span>
+                              </h3>
+                        </div>
+
+                        <div id="PrDateTime" class="ReleaseDateSubHeaddateTime text-center pt20">
+                              प्रविष्टि तिथि:
+                26 JUL 2023 5:05PM by PIB Delhi
+                        </div>
+                        
+                        <div class='pt20'>
+                        </div>
+                        <input type="hidden" name="hydphotoUrl" id="hydphotoUrl" />
+                        
+                        <p style="text-align:justify"><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Improvement of 5 National Highways (NHs) connecting Chardham viz. Yamunotri, Gangotri, Kedarnath and Badrinath including Tanakpur to Pithoragarh section of Kailas- Mansarovar yatra covering a total length of 825 km is being undertaken in the State of Uttarakhand. Out of 825 km, about 601 km has been completed. The total length of Delhi-Dehradun Economic Corridor is about 213 km which was awarded at the cost of about Rs. 6,392 crores and has present progress of 30.7 %.</span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Allocation for development of NHs is made State-wise and not NH-wise. Expenditure of about Rs. 3,520 crore was incurred for development of NHs in the State of Uttarakhand in the Financial Year 2022-23.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Development of NHs is a continuous process which is taken up based on traffic demand, safety requirements, availability of funds and inter-se priority. Time period for completion of NH projects is generally two to three years. NH projects including those in the State of Uttarakhand mainly get delayed due to reasons such as delay in land acquisition, forest clearance, tree cutting, utility shifting, contractual issues, litigation and slow progress of contractors.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Ministry keeps on receiving proposals from various State Governments/Union Territories (UTs), etc., including from the State of Uttarakhand, for declaration / upgradation of State roads as new NHs. Ministry considers declaration of some of the State roads as NHs from time to time based on the requirements of connectivity, inter-se priority and availability of funds.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">This information was given by the Union Minister of Road Transport and Highways, Shri Nitin Gadkari in a written reply to the Rajya Sabha.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0.15pt; text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">*****</span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>MJPS/NSK</strong></span></span></p>
+
+
+                        
+                        <div id="reel_pic">
+                        </div>
+
+
+
+                        
+                        <br />
+                        <span id="ReleaseId">(रिलीज़ आईडी: 1942883)</span>
+                        <span id="lblViews">	आगंतुक पटल  : 3333</span>
+                        <div>
+                              
+                        </div>
+                        
+
+                        <span id="lblRefPhoto"></span>
+
+                        <div class="BackgroundRelease">
+                              
+                        </div>
+                        <div>
+                              
+                        </div>
+                        <div class="ReleaseLang">इस विज्ञप्ति को इन भाषाओं में पढ़ें: 
+                        
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=1942991' target="_blank">
+                                          Urdu </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=1943521' target="_blank">
+                                          Punjabi </a>
+                              
+                        </div>
+
+                        <div class="RelTag">
+                              <ul>
+                                    
+                              </ul>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div id="RelLink" class="RelLink">
+                              <ul>
+                                    
+                                    
+                              </ul>
+                        </div>
+                        <center>
+                              
+                        </center>
+                  </div>
+
+                  <div id="update12">
+	
+                              
+                              <input type="hidden" name="Hidden" id="Hidden" />
+                              <div id="P_CategoryManagement" class="ModalWindow" style="display: none">
+		
+                                    <div>
+                                          <input type="image" name="btnClose" id="btnClose" src="images/close_flat_icon.png" />
+                                    </div>
+                                    <div id="description">
+                                    </div>
+                                    <div class="text-center">
+                                          <h2>
+                                                
+                                                <br>
+                                                
+                                          </h2>
+                                    </div>
+                                    <br />
+                                    <div class="clear">
+                                    </div>
+                                    
+                              
+	</div>
+                        
+</div>
+            </div>
+            
+            <div id="PdfDiv" style="display: none;">
+                  <table width="100%">
+                        <tr>
+                              <td style="font-weight: 200; text-align: center">
+                                    Ministry of Road Transport & Highways
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          STATUS OF CHAR DHAM YATRA ALL WEATHER ROAD & DEHRADUN-DELHI HIGHWAY
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="text-align: center; font-size: 14px;">
+                                          प्रविष्टि तिथि:
+                        26 JUL 2023 5:05PM by PIB Delhi
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: left; font-size: 16px;">
+                                          <p style="text-align:justify"><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Improvement of 5 National Highways (NHs) connecting Chardham viz. Yamunotri, Gangotri, Kedarnath and Badrinath including Tanakpur to Pithoragarh section of Kailas- Mansarovar yatra covering a total length of 825 km is being undertaken in the State of Uttarakhand. Out of 825 km, about 601 km has been completed. The total length of Delhi-Dehradun Economic Corridor is about 213 km which was awarded at the cost of about Rs. 6,392 crores and has present progress of 30.7 %.</span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Allocation for development of NHs is made State-wise and not NH-wise. Expenditure of about Rs. 3,520 crore was incurred for development of NHs in the State of Uttarakhand in the Financial Year 2022-23.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Development of NHs is a continuous process which is taken up based on traffic demand, safety requirements, availability of funds and inter-se priority. Time period for completion of NH projects is generally two to three years. NH projects including those in the State of Uttarakhand mainly get delayed due to reasons such as delay in land acquisition, forest clearance, tree cutting, utility shifting, contractual issues, litigation and slow progress of contractors.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Ministry keeps on receiving proposals from various State Governments/Union Territories (UTs), etc., including from the State of Uttarakhand, for declaration / upgradation of State roads as new NHs. Ministry considers declaration of some of the State roads as NHs from time to time based on the requirements of connectivity, inter-se priority and availability of funds.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">This information was given by the Union Minister of Road Transport and Highways, Shri Nitin Gadkari in a written reply to the Rajya Sabha.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0.15pt; text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">*****</span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>MJPS/NSK</strong></span></span></p>
+
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 100; text-align: left; font-size: 16px;">
+                                          (रिलीज़ आईडी: 1942883)
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                              </td>
+                        </tr>
+                        <tr>
+                              <td style="font-weight: 200; text-align: center; font-size: 24px;"></td>
+                        </tr>
+                  </table>
+            </div>
+            <div class="clearfix">
+            </div>
+
+            
+
+            <div class="section1">
+                  <div id="frst_t">
+                        <div id="arr_rm"><div class='sticky-social_mb'><ul class='social_mb'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=1942883' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='40' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=1942883&text=STATUS OF CHAR DHAM YATRA ALL WEATHER ROAD & DEHRADUN-DELHI HIGHWAY' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='40' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=1942883' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='40' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=STATUS OF CHAR DHAM YATRA ALL WEATHER ROAD & DEHRADUN-DELHI HIGHWAY&body=https://pib.gov.in/PressReleasePage.aspx?PRID=1942883&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='40' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=1942883&title=STATUS OF CHAR DHAM YATRA ALL WEATHER ROAD & DEHRADUN-DELHI HIGHWAY&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='40' /></li></a></ul></div></div>
+                  </div>
+                  <div id="second_t">
+                        <div id="sndr_rm"><div class='sticky-social'><ul class='social'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=1942883' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='35' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=1942883&text=STATUS OF CHAR DHAM YATRA ALL WEATHER ROAD & DEHRADUN-DELHI HIGHWAY' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='35' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=1942883' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='35' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=STATUS OF CHAR DHAM YATRA ALL WEATHER ROAD & DEHRADUN-DELHI HIGHWAY&body=https://pib.gov.in/PressReleasePage.aspx?PRID=1942883&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='35' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=1942883&title=STATUS OF CHAR DHAM YATRA ALL WEATHER ROAD & DEHRADUN-DELHI HIGHWAY&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='35' /></li></a></ul></div></div>
+                  </div>
+            </div>
+            <input type="hidden" name="ltrTitlee" id="ltrTitlee" value="STATUS OF CHAR DHAM YATRA ALL WEATHER ROAD &amp; DEHRADUN-DELHI HIGHWAY" />
+            <input type="hidden" name="ltrSubtitlee" id="ltrSubtitlee" />
+            <input type="hidden" name="ltrDescriptionn" id="ltrDescriptionn" value="&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>Improvement of 5 National Highways (NHs) connecting Chardham viz. Yamunotri, Gangotri, Kedarnath and Badrinath including Tanakpur to Pithoragarh section of Kailas- Mansarovar yatra covering a total length of 825 km is being undertaken in the State of Uttarakhand. Out of 825 km, about 601 km has been completed. The total length of Delhi-Dehradun Economic Corridor is about 213 km which was awarded at the cost of about Rs. 6,392 crores and has present progress of 30.7 %.&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Allocation for development of NHs is made State-wise and not NH-wise. Expenditure of about Rs. 3,520 crore was incurred for development of NHs in the State of Uttarakhand in the Financial Year 2022-23.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Development of NHs is a continuous process which is taken up based on traffic demand, safety requirements, availability of funds and inter-se priority. Time period for completion of NH projects is generally two to three years. NH projects including those in the State of Uttarakhand mainly get delayed due to reasons such as delay in land acquisition, forest clearance, tree cutting, utility shifting, contractual issues, litigation and slow progress of contractors.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Ministry keeps on receiving proposals from various State Governments/Union Territories (UTs), etc., including from the State of Uttarakhand, for declaration / upgradation of State roads as new NHs. Ministry considers declaration of some of the State roads as NHs from time to time based on the requirements of connectivity, inter-se priority and availability of funds.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>This information was given by the Union Minister of Road Transport and Highways, Shri Nitin Gadkari in a written reply to the Rajya Sabha.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0.15pt; text-align:center&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>*****&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&amp;nbsp;&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&lt;strong>MJPS/NSK&lt;/strong>&lt;/span>&lt;/span>&lt;/p>
+" />
+            <script type="text/javascript">
+                  var mPlayer = document.getElementById("background_music");
+                  var mPlayAction = document.getElementById("playbutton");
+
+                  var isPlaying = false;
+
+                  function playAudio() {
+                        mPlayer.play();
+                        isPlaying = true;
+                        document.getElementById('stopA').style.display = "block";
+                        document.getElementById('playA').style.display = "none";
+                  }
+
+                  function pauseAudio() {
+                        mPlayer.pause();
+                        isPlaying = false;
+                        document.getElementById('playA').style.display = "block";
+                        document.getElementById('stopA').style.display = "none";
+                  }
+                  //function HandleAudio() {
+                  //    if (isPlaying == true) {
+                  //        //Playing already Pause it
+                  //        pauseAudio();
+                  //    } else {
+                  //        //Play the music
+                  //        playAudio();
+                  //    }
+                  //}
+            </script>
+            <script type="text/javascript">
+                  var synth = window.speechSynthesis;
+
+            
+                  function CleanHtml(html) {
+
+                        html = html.replace(/<script[\s\S]*?<\/script>/gi, '');
+
+                        return html;
+                  }
+                  function stripHtml(html) {
+                        let tmp = document.createElement("DIV");
+                        tmp.innerHTML = CleanHtml(html);
+                        return tmp.textContent || tmp.innerText || "";
+                  }
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        //for responsive tables
+                        $("table").each(function () {
+                              if (!$(this).closest(".table-responsive").length) {
+                                    $(this).wrap("<div class='table-responsive'></div>");
+                              }
+                        });
+
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            
+            <style type="text/css">
+                  @media print {
+                        .sticky-social, .sticky-social_mb, .pull-right, #printPDF {
+                              display: none !important;
+                        }
+                  }
+
+                  .f_vl {
+                        padding-right: 30px;
+                        font-size: 17px;
+                        cursor: pointer;
+                  }
+
+                  .log_oo {
+                        // width: 20%;
+                        display: flex;
+                        justify-content: space-between;
+                  }
+
+                        .log_oo img {
+                              width: 150px;
+                              /*width: 100%;
+                    height: auto;*/
+                        }
+
+                  .sticky-social_mb {
+                        position: fixed;
+                        bottom: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                        width: 100%;
+                  }
+
+                  .social_mb {
+                        list-style: none;
+                        display: flex;
+                        width: 100%;
+                        margin-bottom: -8px;
+                  }
+
+                        .social_mb a {
+                              padding: 8px 0px;
+                              font-size: 30px;
+                              transition: all 0.8s ease-in-out;
+                              width: 20% !important;
+                              text-align: center;
+                        }
+            </style>
+            <style type="text/css">
+                  .section1 {
+                        position: relative;
+                        padding: 10px 0px;
+                        width: 100%;
+                  }
+
+
+
+                  .sticky-social {
+                        position: fixed;
+                        top: 20px;
+                        left: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                  }
+
+                  .social {
+                        list-style: none;
+                  }
+
+                        .social a li {
+                              padding: 8px 12px;
+                              font-size: 25px;
+                              transition: all 0.8s ease-in-out;
+                        }
+
+                              .social a li:hover {
+                                    margin-right: -30px;
+                                    box-shadow: 2px 5px 10px grey;
+                              }
+
+                                    .social a li:hover .fa {
+                                          margin-left: 20px;
+                                    }
+
+                  .fb_b {
+                        /* background-color: rgb(59, 89, 152);*/
+                        background-color: rgba(65,103,178,255);
+                  }
+
+                  .twitter_r {
+                        /* background-color: rgb(29, 161, 242);*/
+                        background-color: #000000;
+                  }
+
+                  .whatsapp_r {
+                        /* background-color: rgb(77, 194, 71);*/
+                        background-color: rgba(13,191,67,255);
+                  }
+
+                  .fa-envelope_r {
+                        /* background-color: rgb(219, 68, 55);*/
+                        background-color: #e2123d;
+                  }
+
+                  .fa-linkedin_r {
+                        background-color: rgb(0, 119, 181);
+                  }
+            </style>
+            <style type="text/css">
+                  @media only screen and (max-device-width: 767px) {
+                        p span img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        p img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        h2 {
+                              font-size: 20px !important;
+                              font-weight: 600 !important;
+                        }
+
+                        h3 {
+                              font-size: 18px !important;
+                              font-weight: 600 !important;
+                        }
+                  }
+            </style>
+            <style type="text/css">
+                  /* === Film Roll Badge Styling(IFFI2025 countdown) === */
+                  .film-roll-badge {
+                        position: absolute;
+                        top:82%;
+                        right: 20px;
+                        width: 230px;
+                        height: 70px;
+                        background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 18px, #6e2b8b 18px, #6e2b8b 36px );
+                        border-top: 8px solid #9a2375;
+                        border-bottom: 8px solid #9a2375;
+                        border-radius: 8px;
+                        overflow: hidden;
+                        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+                        animation: moveFilm 8s linear infinite;
+                        z-index: 10;
+                  }
+
+                        /* film sprocket holes */
+                        .film-roll-badge::before,
+                        .film-roll-badge::after {
+                              content: "";
+                              position: absolute;
+                              width: 100%;
+                              height: 10px;
+                              background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 10px, #fff 10px, #fff 20px );
+                              left: 0;
+                              z-index: 2;
+                        }
+
+                        .film-roll-badge::before {
+                              top: -4px;
+                        }
+
+                        .film-roll-badge::after {
+                              bottom: -4px;
+                        }
+
+                  .film-roll-inner {
+                        position: relative;
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        animation: flicker 2s infinite ease-in-out;
+                  }
+
+                  .countdown-text {
+                        font-size: 1.3rem;
+                        font-weight: 700;
+                        color: #fff;
+                        text-shadow: 0 0 6px rgba(255, 255, 255, 0.4), 0 0 10px #000;
+                        white-space: nowrap;
+                  }
+
+                  /* === Animations === */
+                  @keyframes moveFilm {
+                        0% {
+                              background-position: 0 0;
+                        }
+
+                        100% {
+                              background-position: 120px 0;
+                        }
+                  }
+
+                  @keyframes flicker {
+                        0%, 100% {
+                              opacity: 1;
+                        }
+
+                        50% {
+                              opacity: 0.9;
+                        }
+
+                        25% {
+                              opacity: 0.95;
+                        }
+
+                        75% {
+                              opacity: 0.85;
+                        }
+                  }
+
+                  /* === Responsive Adjustments === */
+                  @media (max-width: 1500px) {
+                        .film-roll-badge {
+                              top: 68%;
+                              right: 18px;
+                              /* width: 220px; */
+                              height: 65px;
+                              font-size: 0.85rem;
+                        }
+
+                        .press-section {
+                              margin-top: 35px;
+                        }
+                  }
+
+                  @media (max-width: 992px) {
+                        .film-roll-badge {
+                              top: 52%;
+                              right: 10px;
+                               width: 200px; 
+                              height: 60px;
+                        }
+                  }
+
+                  @media (max-width: 768px) {
+                        .film-roll-badge {
+                              top: 56%;
+                              right: 10px;
+                               width: 124px; 
+                              height: 55px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.9rem;
+                        }
+                  }
+
+                  @media (max-width: 576px) {
+                        .film-roll-badge {
+                              top: 59%;
+                              right: 5px;
+                              /* width: 160px; */
+                              height: 50px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.85rem;
+                        }
+                  }
+            </style>
+                        <script type="text/javascript">
+                  const festivalStart = new Date("2025-11-20T00:00:00").getTime();
+                  const festivalEnd = new Date("2025-11-28T23:59:59").getTime();
+
+                  const countdownElement = document.getElementById("countdown");
+
+                  const interval = setInterval(() => {
+                        const now = new Date().getTime();
+
+                        // BEFORE FESTIVAL — show days + hours left
+                        if (now < festivalStart) {
+                              const diff = festivalStart - now;
+                              const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                              const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+                              countdownElement.innerHTML = `
+                ${days} Day${days !== 1 ? 's' : ''} 
+                ${hours} Hour${hours !== 1 ? 's' : ''} to go
+            `;
+
+                        }
+
+                        // DURING FESTIVAL — show 56th IFFI - Day X
+                        else if (now >= festivalStart && now <= festivalEnd) {
+                              const dayNumber = Math.floor((now - festivalStart) / (1000 * 60 * 60 * 24)) + 1;
+                              countdownElement.innerHTML = `56th IFFI - Day ${dayNumber}`;
+                        }
+
+                        // AFTER FESTIVAL — new message
+                        else {
+                              countdownElement.innerHTML = `✨ IFFI closes but never ends…`;
+
+                              // Width change logic
+                              const elements = document.querySelectorAll('.film-roll-badge');
+                              elements.forEach(el => el.style.width = "350px");
+
+                              clearInterval(interval);
+                        }
+
+                  }, 1000);
+            </script>
+
+      
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("sc_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"P_CategoryManagement","dynamicServicePath":"/PressReleaseIframePage.aspx","id":"mpe"}, null, null, $get("Hidden"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

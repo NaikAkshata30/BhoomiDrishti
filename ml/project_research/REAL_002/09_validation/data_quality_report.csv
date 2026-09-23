@@ -1,0 +1,47 @@
+﻿project_id,source_id,check,status,detail
+REAL_002,S002,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G001,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G002,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G003,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G004,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G005,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G006,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G007,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G008,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G009,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G010,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G011,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G012,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G013,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G014,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G015,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G016,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G017,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G018,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G019,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G020,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G021,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G022,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G023,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G024,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G025,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G026,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G027,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G028,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G029,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G030,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G031,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G032,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G033,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G034,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G035,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G036,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G037,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G038,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G039,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G040,raw_checksum,pass,SHA256 recomputed from file
+REAL_002,G041,raw_checksum,pass,SHA256 recomputed from file
+ALL,,target_labels,pass,No target labels fabricated; all observations remain excluded from direct training.
+ALL,,scope_and_provenance,pass,"Each observation has entity, source hash and locator."
+ALL,,ML_readiness,not_ready,"Mixed dates/scopes, incomplete coverage, pending reviews, no independently verified training outcomes."
+ALL,,API_collection,not_collected,This pass collected PDF/HTML documents. No API payloads or geospatial vectors are claimed.

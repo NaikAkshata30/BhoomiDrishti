@@ -1,0 +1,16 @@
+{
+  "project_id": "REAL_002",
+  "project_name": "Ganga Expressway",
+  "authority": "UPEIDA",
+  "study_district": "Meerut",
+  "study_state": "Uttar Pradesh",
+  "project_type": "expressway",
+  "aliases": "Ganga Expressway | Ganga Expressway Project | Uttar Pradesh Ganga Expressway",
+  "folder": "REAL_002",
+  "registry_basis": "user_supplied_not_source_verified",
+  "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+  "scope_rule": "Project-wide facts must not be represented as study-district or parcel facts.",
+  "downloaded_source_count": 42,
+  "normalized_observation_count": 4602,
+  "training_ready": false
+}

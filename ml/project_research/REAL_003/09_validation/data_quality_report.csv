@@ -1,0 +1,11 @@
+﻿project_id,source_id,check,status,detail
+REAL_003,S003,raw_checksum,not_available,RuntimeError: expected_pdf_received_html
+REAL_003,S020,raw_checksum,not_available,RuntimeError: expected_pdf_received_html
+REAL_003,S023,raw_checksum,pass,SHA256 recomputed from file
+REAL_003,S032,raw_checksum,pass,SHA256 recomputed from file
+REAL_003,S038,raw_checksum,pass,SHA256 recomputed from file
+REAL_003,S022,raw_checksum,pass,SHA256 recomputed from file
+ALL,,target_labels,pass,No target labels fabricated; all observations remain excluded from direct training.
+ALL,,scope_and_provenance,pass,"Each observation has entity, source hash and locator."
+ALL,,ML_readiness,not_ready,"Mixed dates/scopes, incomplete coverage, pending reviews, no independently verified training outcomes."
+ALL,,API_collection,not_collected,This pass collected PDF/HTML documents. No API payloads or geospatial vectors are claimed.

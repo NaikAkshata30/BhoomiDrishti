@@ -1,0 +1,16 @@
+{
+  "project_id": "REAL_007",
+  "project_name": "Bharatmala Pariyojana",
+  "authority": "NHAI / MoRTH",
+  "study_district": "Multi-district",
+  "study_state": "Multi-state",
+  "project_type": "programme",
+  "aliases": "Bharatmala Pariyojana | Bharatmala",
+  "folder": "REAL_007",
+  "registry_basis": "user_supplied_not_source_verified",
+  "identity_rule": "Alias is discovery only; confirm authority, scope and geographic/package context in source. Never substitute study district for source coverage.",
+  "scope_rule": "Programme totals are context only; packages/corridors need separate entity identifiers.",
+  "downloaded_source_count": 2,
+  "normalized_observation_count": 11,
+  "training_ready": false
+}

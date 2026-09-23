@@ -1,0 +1,448 @@
+[
+  {
+    "source_id": "G004",
+    "row": 8,
+    "district": "Hapur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G004",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G005",
+    "row": 8,
+    "district": "Hapur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G005",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G006",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G007",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G008",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G009",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G010",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G011",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G012",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G013",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G014",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G015",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G016",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G017",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G018",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G019",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G020",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G021",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G022",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G023",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G024",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G025",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G025",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G026",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G026",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G027",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G027",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G028",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G028",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G029",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G029",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G030",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G031",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G031",
+    "row": 18,
+    "district": "Prayagraj",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G032",
+    "row": 7,
+    "district": "Meerut",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G032",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G032",
+    "row": 18,
+    "district": "Prayagraj",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G033",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G033",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G034",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G035",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G035",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G036",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G036",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G037",
+    "row": 7,
+    "district": "Meerut",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G037",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G037",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 7,
+    "district": "Meerut",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 8,
+    "district": "Hapur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 9,
+    "district": "Bulandshahar",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 10,
+    "district": "Amroha",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 11,
+    "district": "Sambhal",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 12,
+    "district": "Badaun",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 14,
+    "district": "Hardoi",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 16,
+    "district": "Rae Bareli",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 17,
+    "district": "Pratapgarh",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G038",
+    "row": 18,
+    "district": "Prayagraj",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 7,
+    "district": "Meerut",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 8,
+    "district": "Hapur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 9,
+    "district": "Bulandshahar",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 10,
+    "district": "Amroha",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 11,
+    "district": "Sambhal",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 12,
+    "district": "Badaun",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 13,
+    "district": "Shahjahanpur",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 14,
+    "district": "Hardoi",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 15,
+    "district": "Unnao",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 16,
+    "district": "Rae Bareli",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 17,
+    "district": "Pratapgarh",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G039",
+    "row": 18,
+    "district": "Prayagraj",
+    "reason": "land_accounting_or_percentage_inconsistency"
+  },
+  {
+    "source_id": "G040",
+    "reason": "no_unambiguous_asof_date_or_adapter_not_applicable"
+  },
+  {
+    "source_id": "G041",
+    "reason": "no_unambiguous_asof_date_or_adapter_not_applicable"
+  }
+]
